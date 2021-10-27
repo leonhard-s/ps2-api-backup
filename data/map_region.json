@@ -13,19 +13,6 @@
         "reward_currency_id": "1000"
     },
     {
-        "map_region_id": "2102",
-        "zone_id": "2",
-        "facility_id": "4401",
-        "facility_name": "Mao",
-        "facility_type_id": "4",
-        "facility_type": "Tech Plant",
-        "location_x": "1810",
-        "location_y": "110",
-        "location_z": "1514",
-        "reward_amount": "1",
-        "reward_currency_id": "1000"
-    },
-    {
         "map_region_id": "2103",
         "zone_id": "2",
         "facility_id": "4001",
