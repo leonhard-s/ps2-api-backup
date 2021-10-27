@@ -1,0 +1,42 @@
+# This workflow will run the "tools/scraper.py" script once a day, while also
+# committing any changes to the repository.
+
+name: Create API Backup
+
+on:
+    schedule:
+      - cron: "0 6 * * *"
+    workflow_dispatch: {}
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.8"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install auraxium
+      - name: Run scraper
+        env:
+          SERVICE_ID: ${{secrets.REPO_SERVICE_ID}}
+        run: |
+          python tools/scraper.py
+      - name: Configure git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git update-index --refresh
+          git add data
+          git stash save --keep-index --include-untracked
+      - name: Commit and push any changes
+        continue-on-error: true
+        run: |
+          git commit -m "Automatic Backup"
+          git push origin main
+
