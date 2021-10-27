@@ -3,6 +3,7 @@
 import argparse
 import asyncio
 import json
+import os
 import pathlib
 from typing import Any, Dict, List, cast
 
@@ -127,9 +128,13 @@ async def main(service_id: str) -> None:
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('service_id', type=str,
-                        help='Service ID to use for scraping')
-    args = parser.parse_args()
+    try:
+        service_id = os.environ['SERVICE_ID']
+    except KeyError:
+        parser = argparse.ArgumentParser()
+        parser.add_argument('service_id', type=str,
+                            help='Service ID to use for scraping')
+        args = parser.parse_args()
+        service_id = args.service_id
     loop = asyncio.new_event_loop()
-    loop.run_until_complete(main(args.service_id))
+    loop.run_until_complete(main(service_id))
