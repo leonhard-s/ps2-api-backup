@@ -1,0 +1,61 @@
+[
+    {
+        "world_id": "13",
+        "state": "online",
+        "name": {
+            "en": "Cobalt"
+        }
+    },
+    {
+        "world_id": "10",
+        "state": "online",
+        "name": {
+            "en": "Miller"
+        }
+    },
+    {
+        "world_id": "1",
+        "state": "online",
+        "name": {
+            "en": "Connery"
+        }
+    },
+    {
+        "world_id": "17",
+        "state": "online",
+        "name": {
+            "en": "Emerald"
+        }
+    },
+    {
+        "world_id": "19",
+        "state": "online",
+        "name": {
+            "en": "Jaeger"
+        }
+    },
+    {
+        "world_id": "40",
+        "state": "online",
+        "name": {
+            "en": "SolTech"
+        }
+    },
+    {
+        "world_id": "24",
+        "state": "locked",
+        "name": {
+            "en": "Apex"
+        }
+    },
+    {
+        "world_id": "25",
+        "state": "locked",
+        "name": {
+            "en": "Briggs"
+        },
+        "description": {
+            "en": "AUS"
+        }
+    }
+]
