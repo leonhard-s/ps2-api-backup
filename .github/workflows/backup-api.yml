@@ -31,7 +31,7 @@ jobs:
           SERVICE_ID: ${{secrets.REPO_SERVICE_ID}}
         run: |
           python tools/scraper.py
-      - name: Fitler changes
+      - name: Filter changes
         run: |
           git add data
           git stash save --keep-index --include-untracked
