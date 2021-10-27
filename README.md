@@ -2,7 +2,7 @@
 
 This repository contains an automated backup of all static collections in the PlanetSide 2 API.
 
-*Last updated: 2021-10-27*
+*This repository is automatically updated once per day at 6 AM UTC.*
 
 ## Format
 
