@@ -2,10 +2,20 @@
     {
         "metagame_event_id": "1",
         "name": {
-            "en": "Feeling the Heat"
+            "de": "Sp\u00fcre die Hitze",
+            "en": "Feeling the Heat",
+            "es": "Siente el calor",
+            "fr": "Sentir la pression",
+            "it": "Sotto pressione",
+            "tr": "S\u0131ca\u011f\u0131 Hissetmek"
         },
         "description": {
-            "en": "Capture Indar within the time limit"
+            "de": "Erobere Indar innerhalb des Zeitlimits.",
+            "en": "Capture Indar within the time limit",
+            "es": "Captura Indar sin pasarte del l\u00edmite de tiempo",
+            "fr": "Capturer Indar dans la limite de temps",
+            "it": "Conquista Indar nei limiti di tempo",
+            "tr": "Zaman s\u0131n\u0131r\u0131 i\u00e7inde Indar'\u0131 Ele Ge\u00e7ir"
         },
         "type": "1",
         "experience_bonus": "30"
@@ -13,10 +23,20 @@
     {
         "metagame_event_id": "2",
         "name": {
-            "en": "Cold War"
+            "de": "Kalter Krieg",
+            "en": "Cold War",
+            "es": "Guerra fr\u00eda",
+            "fr": "Guerre froide",
+            "it": "Guerra fredda",
+            "tr": "So\u011fuk Sava\u015f"
         },
         "description": {
-            "en": "Capture Esamir within the time limit"
+            "de": "Erobere Esamir innerhalb des Zeitlimits.",
+            "en": "Capture Esamir within the time limit",
+            "es": "Captura Esamir sin pasarte del l\u00edmite de tiempo",
+            "fr": "Capturer Esamir dans la limite de temps",
+            "it": "Conquista Esamir nei limiti di tempo",
+            "tr": "Zaman s\u0131n\u0131r\u0131 i\u00e7inde Esamir'i El Ge\u00e7ir"
         },
         "type": "1",
         "experience_bonus": "30"
@@ -24,10 +44,20 @@
     {
         "metagame_event_id": "3",
         "name": {
-            "en": "Seeing Green"
+            "de": "Gr\u00fcn sehen",
+            "en": "Seeing Green",
+            "es": "Ver en verde",
+            "fr": "Voir vert",
+            "it": "Vedo verde",
+            "tr": "Ye\u015fil G\u00f6rme"
         },
         "description": {
-            "en": "Capture Amerish within the time limit"
+            "de": "Erobere Amerish innerhalb des Zeitlimits.",
+            "en": "Capture Amerish within the time limit",
+            "es": "Captura Amerish sin pasarte del l\u00edmite de tiempo",
+            "fr": "Capturer Amerish dans la limite de temps",
+            "it": "Conquista Amerish nei limiti di tempo",
+            "tr": "Zaman s\u0131n\u0131r\u0131 i\u00e7inde Amerish'i Ele Ge\u00e7ir"
         },
         "type": "1",
         "experience_bonus": "30"
@@ -35,10 +65,20 @@
     {
         "metagame_event_id": "4",
         "name": {
-            "en": "Marsh Madness"
+            "de": "Marsh Madness",
+            "en": "Marsh Madness",
+            "es": "Marsh Madness",
+            "fr": "Marsh Madness",
+            "it": "Marsh Madness",
+            "tr": "Marsh Madness"
         },
         "description": {
-            "en": "Capture Hossin within the time limit"
+            "de": "Erobere Hossin innerhalb des Zeitlimits.",
+            "en": "Capture Hossin within the time limit",
+            "es": "Captura Hossin sin pasarte del l\u00edmite de tiempo",
+            "fr": "Capturer Hossin dans la limite de temps",
+            "it": "Conquista Hossin nei limiti di tempo",
+            "tr": "Capture Hossin within the time limit"
         },
         "type": "1",
         "experience_bonus": "30"
@@ -46,130 +86,256 @@
     {
         "metagame_event_id": "7",
         "name": {
-            "en": "Dome Domination"
+            "de": "Dom-Herrschaft",
+            "en": "Dome Domination",
+            "es": "Dominio de c\u00fapula",
+            "fr": "Domination du D\u00f4me",
+            "it": "Dominio della cupola",
+            "tr": "Dome Domination"
         },
         "description": {
-            "en": "Capture and hold all 3 Biolabs on Amerish"
+            "de": "Erobere und halte Stellung bei allen 3 Biolaboren auf Amerish.",
+            "en": "Capture and hold all 3 Biolabs on Amerish",
+            "es": "Conquista 3 Biolabs en Amerish y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Biolabs sur Amerish",
+            "it": "Conquista e difendi tutti e 3 i Biolab di Amerish",
+            "tr": "Capture and hold all 3 Biolabs on Amerish"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "8",
         "name": {
-            "en": "Technological Advancement"
+            "de": "Technologischer Fortschritt",
+            "en": "Technological Advancement",
+            "es": "Avance tecnol\u00f3gico",
+            "fr": "\u00c9volution technologique",
+            "it": "Progresso tecnologico",
+            "tr": "Technological Advancement"
         },
         "description": {
-            "en": "Capture and hold all 3 Tech Plants on Amerish"
+            "de": "Erobere und halte Stellung bei allen 3 Technikanlagen auf Amerish.",
+            "en": "Capture and hold all 3 Tech Plants on Amerish",
+            "es": "Conquista 3 Tech Plants en Amerish y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Tech Plants sur Amerish",
+            "it": "Conquista e difendi tutti e 3 i Tech Plant di Amerish",
+            "tr": "Capture and hold all 3 Tech Plants on Amerish"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "9",
         "name": {
-            "en": "Power Rush"
+            "de": "Machtrausch",
+            "en": "Power Rush",
+            "es": "Avalancha de poder",
+            "fr": "Acc\u00e9leration de pouvoir",
+            "it": "Corsa al potere",
+            "tr": "Power Rush"
         },
         "description": {
-            "en": "Capture and hold all 3 Amp Stations on Amerish"
+            "de": "Erobere und halte Stellung bei allen 3 Verst\u00e4rker-Stationen auf Amerish.",
+            "en": "Capture and hold all 3 Amp Stations on Amerish",
+            "es": "Conquista 3 Amp Stations en Amerish y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Amp Stations sur Amerish",
+            "it": "Conquista e difendi tutte e 3 le Amp Station di Amerish",
+            "tr": "Capture and hold all 3 Amp Stations on Amerish"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "10",
         "name": {
-            "en": "Dome Domination"
+            "de": "Dom-Herrschaft",
+            "en": "Dome Domination",
+            "es": "Dominio de c\u00fapula",
+            "fr": "Domination du D\u00f4me",
+            "it": "Dominio della cupola",
+            "tr": "Dome Domination"
         },
         "description": {
-            "en": "Capture and hold all 3 Biolabs on Indar"
+            "de": "Erobere und halte Stellung bei allen 3 Biolaboren auf Indar.",
+            "en": "Capture and hold all 3 Biolabs on Indar",
+            "es": "Conquista 3 Biolabs en Indar y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Biolabs sur Indar",
+            "it": "Conquista e difendi tutti e 3 i Biolab di Indar",
+            "tr": "Capture and hold all 3 Biolabs on Indar"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "11",
         "name": {
-            "en": "Technological Advancement"
+            "de": "Technologischer Fortschritt",
+            "en": "Technological Advancement",
+            "es": "Avance tecnol\u00f3gico",
+            "fr": "\u00c9volution technologique",
+            "it": "Progresso tecnologico",
+            "tr": "Technological Advancement"
         },
         "description": {
-            "en": "Capture and hold all 3 Tech Plants on Indar"
+            "de": "Erobere und halte Stellung bei allen 3 Technikanlagen auf Indar.",
+            "en": "Capture and hold all 3 Tech Plants on Indar",
+            "es": "Conquista 3 Tech Plants en Indar y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Tech Plants sur Indar",
+            "it": "Conquista e difendi tutti e 3 i Tech Plant di Indar",
+            "tr": "Capture and hold all 3 Tech Plants on Indar"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "12",
         "name": {
-            "en": "Power Rush"
+            "de": "Machtrausch",
+            "en": "Power Rush",
+            "es": "Avalancha de poder",
+            "fr": "Acc\u00e9leration de pouvoir",
+            "it": "Corsa al potere",
+            "tr": "Power Rush"
         },
         "description": {
-            "en": "Capture and hold all 3 Amp Stations on Indar"
+            "de": "Erobere und halte Stellung bei allen 3 Verst\u00e4rker-Stationen auf Indar.",
+            "en": "Capture and hold all 3 Amp Stations on Indar",
+            "es": "Conquista 3 Amp Stations en Indar y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Amp Stations sur Indar",
+            "it": "Conquista e difendi tutte e 3 le Amp Station di Indar",
+            "tr": "Capture and hold all 3 Amp Stations on Indar"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "13",
         "name": {
-            "en": "Dome Domination"
+            "de": "Dom-Herrschaft",
+            "en": "Dome Domination",
+            "es": "Dominio de c\u00fapula",
+            "fr": "Domination du D\u00f4me",
+            "it": "Dominio della cupola",
+            "tr": "Dome Domination"
         },
         "description": {
-            "en": "Capture and hold all 3 Biolabs on Esamir"
+            "de": "Erobere und halte Stellung bei allen 3 Biolaboren auf Esamir.",
+            "en": "Capture and hold all 3 Biolabs on Esamir",
+            "es": "Conquista 3 Biolabs en Esamir y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Biolabs sur Esamir",
+            "it": "Conquista e difendi tutti e 3 i Biolab di Esamir",
+            "tr": "Capture and hold all 3 Biolabs on Esamir"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "14",
         "name": {
-            "en": "Power Rush"
+            "de": "Machtrausch",
+            "en": "Power Rush",
+            "es": "Avalancha de poder",
+            "fr": "Acc\u00e9leration de pouvoir",
+            "it": "Corsa al potere",
+            "tr": "Power Rush"
         },
         "description": {
-            "en": "Capture and hold all 3 Amp Stations on Esamir"
+            "de": "Erobere und halte Stellung bei allen 3 Verst\u00e4rker-Stationen auf Esamir.",
+            "en": "Capture and hold all 3 Amp Stations on Esamir",
+            "es": "Conquista 3 Amp Stations en Esamir y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Amp Stations sur Esamir",
+            "it": "Conquista e difendi tutte e 3 le Amp Station di Esamir",
+            "tr": "Capture and hold all 3 Amp Stations on Esamir"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "16",
         "name": {
-            "en": "Dome Domination"
+            "de": "Dom-Herrschaft",
+            "en": "Dome Domination",
+            "es": "Dominio de c\u00fapula",
+            "fr": "Domination du D\u00f4me",
+            "it": "Dominio della cupola",
+            "tr": "Dome Domination"
         },
         "description": {
-            "en": "Capture and hold all 3 Biolabs on Hossin"
+            "de": "Erobere und halte Stellung bei allen 3 Biolaboren auf Hossin.",
+            "en": "Capture and hold all 3 Biolabs on Hossin",
+            "es": "Conquista 3 Biolabs en Hossin y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Biolabs sur Hossin",
+            "it": "Conquista e difendi tutti e 3 i Biolab di Hossin",
+            "tr": "Capture and hold all 3 Biolabs on Hossin"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "17",
         "name": {
-            "en": "Technological Advancement"
+            "de": "Technologischer Fortschritt",
+            "en": "Technological Advancement",
+            "es": "Avance tecnol\u00f3gico",
+            "fr": "\u00c9volution technologique",
+            "it": "Progresso tecnologico",
+            "tr": "Technological Advancement"
         },
         "description": {
-            "en": "Capture and hold all 3 Tech Plants on Hossin"
+            "de": "Erobere und halte Stellung bei allen 3 Technikanlagen auf Hossin.",
+            "en": "Capture and hold all 3 Tech Plants on Hossin",
+            "es": "Conquista 3 Tech Plants en Hossin y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Tech Plants sur Hossin",
+            "it": "Conquista e difendi tutti e 3 i Tech Plant di Hossin",
+            "tr": "Capture and hold all 3 Tech Plants on Hossin"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "18",
         "name": {
-            "en": "Power Rush"
+            "de": "Machtrausch",
+            "en": "Power Rush",
+            "es": "Avalancha de poder",
+            "fr": "Acc\u00e9leration de pouvoir",
+            "it": "Corsa al potere",
+            "tr": "Power Rush"
         },
         "description": {
-            "en": "Capture and hold all 3 Amp Stations on Hossin"
+            "de": "Erobere und halte Stellung bei allen 3 Verst\u00e4rker-Stationen auf Hossin.",
+            "en": "Capture and hold all 3 Amp Stations on Hossin",
+            "es": "Conquista 3 Amp Stations en Hossin y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Amp Stations sur Hossin",
+            "it": "Conquista e difendi tutte e 3 le Amp Station di Hossin",
+            "tr": "Capture and hold all 3 Amp Stations on Hossin"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "106",
         "name": {
-            "en": "Conquest"
+            "de": "Eroberung",
+            "en": "Conquest",
+            "es": "Conquista",
+            "fr": "Conqu\u00eate",
+            "it": "Conquista"
         },
         "description": {
-            "en": "Capture bases and kill enemies to earn points."
+            "de": "Erobere Basen und t\u00f6te Feinde, um Punkte zu erhalten.",
+            "en": "Capture bases and kill enemies to earn points.",
+            "es": "Captura bases y acaba con los enemigos para conseguir puntos.",
+            "fr": "Capturer des bases et tuer des ennemis afin de remporter des points.",
+            "it": "Conquista le basi e uccidi i nemici per accumulare punti."
         },
         "type": "6"
     },
     {
         "metagame_event_id": "123",
         "name": {
-            "en": "Indar Superiority"
+            "de": "\u00dcberlegenheit von Indar",
+            "en": "Indar Superiority",
+            "es": "Supremac\u00eda en Indar",
+            "fr": "Sup\u00e9riorit\u00e9 d'Indar",
+            "it": "Superiorit\u00e0 di Indar"
         },
         "description": {
-            "en": "Control territory to lock Indar"
+            "de": "Kontrolliere das Gebiet, um Indar zu sperren.",
+            "en": "Control territory to lock Indar",
+            "es": "Control del territorio para bloquear Indar",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Indar",
+            "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -177,10 +343,18 @@
     {
         "metagame_event_id": "124",
         "name": {
-            "en": "Indar Enlightenment"
+            "de": "Erleuchtung von Indar",
+            "en": "Indar Enlightenment",
+            "es": "Iluminaci\u00f3n de Indar",
+            "fr": "Savoir d'Indar",
+            "it": "Risveglio di Indar"
         },
         "description": {
-            "en": "Control territory to lock Indar"
+            "de": "Kontrolliere das Gebiet, um Indar zu sperren.",
+            "en": "Control territory to lock Indar",
+            "es": "Control del territorio para bloquear Indar",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Indar",
+            "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -188,10 +362,18 @@
     {
         "metagame_event_id": "125",
         "name": {
-            "en": "Indar Liberation"
+            "de": "Befreiung von Indar",
+            "en": "Indar Liberation",
+            "es": "Liberaci\u00f3n de Indar",
+            "fr": "Lib\u00e9ration d'Indar",
+            "it": "Liberazione di Indar"
         },
         "description": {
-            "en": "Control territory to lock Indar"
+            "de": "Kontrolliere das Gebiet, um Indar zu sperren.",
+            "en": "Control territory to lock Indar",
+            "es": "Control del territorio para bloquear Indar",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Indar",
+            "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -199,10 +381,18 @@
     {
         "metagame_event_id": "126",
         "name": {
-            "en": "Esamir Superiority"
+            "de": "\u00dcberlegenheit von Esamir",
+            "en": "Esamir Superiority",
+            "es": "Superioridad en Esamir",
+            "fr": "Sup\u00e9riorit\u00e9 d'Esamir",
+            "it": "Superiorit\u00e0 di Esamir"
         },
         "description": {
-            "en": "Control territory to lock Esamir"
+            "de": "Kontrolliere das Territorium, um Esamir zu sperren.",
+            "en": "Control territory to lock Esamir",
+            "es": "Control del territorio para bloquear Esamir",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Esamir",
+            "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -210,10 +400,18 @@
     {
         "metagame_event_id": "127",
         "name": {
-            "en": "Esamir Enlightenment"
+            "de": "Erleuchtung von Esamir",
+            "en": "Esamir Enlightenment",
+            "es": "Iluminaci\u00f3n de Esamir",
+            "fr": "Savoir d'Esamir",
+            "it": "Risveglio di Esamir"
         },
         "description": {
-            "en": "Control territory to lock Esamir"
+            "de": "Kontrolliere das Territorium, um Esamir zu sperren.",
+            "en": "Control territory to lock Esamir",
+            "es": "Control del territorio para bloquear Esamir",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Esamir",
+            "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -221,10 +419,18 @@
     {
         "metagame_event_id": "128",
         "name": {
-            "en": "Esamir Liberation"
+            "de": "Befreiung von Esamir",
+            "en": "Esamir Liberation",
+            "es": "Liberaci\u00f3n de Esamir",
+            "fr": "Lib\u00e9ration d'Esamir",
+            "it": "Liberazione di Esamir"
         },
         "description": {
-            "en": "Control territory to lock Esamir"
+            "de": "Kontrolliere das Territorium, um Esamir zu sperren.",
+            "en": "Control territory to lock Esamir",
+            "es": "Control del territorio para bloquear Esamir",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Esamir",
+            "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -232,10 +438,18 @@
     {
         "metagame_event_id": "129",
         "name": {
-            "en": "Hossin Superiority"
+            "de": "\u00dcberlegenheit von Hossin",
+            "en": "Hossin Superiority",
+            "es": "Superioridad de Hossin",
+            "fr": "Sup\u00e9riorit\u00e9 d'Hossin",
+            "it": "Superiorit\u00e0 di Hossin"
         },
         "description": {
-            "en": "Control territory to lock Hossin"
+            "de": "Kontrolliere das Gebiet, um Hossin zu sperren.",
+            "en": "Control territory to lock Hossin",
+            "es": "Control del territorio para bloquear Hossin",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Hossin",
+            "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -243,10 +457,18 @@
     {
         "metagame_event_id": "130",
         "name": {
-            "en": "Hossin Enlightenment"
+            "de": "Erleuchtung von Hossin",
+            "en": "Hossin Enlightenment",
+            "es": "Iluminaci\u00f3n de Hossin",
+            "fr": "Savoir d'Hossin",
+            "it": "Risveglio di Hossin"
         },
         "description": {
-            "en": "Control territory to lock Hossin"
+            "de": "Kontrolliere das Gebiet, um Hossin zu sperren.",
+            "en": "Control territory to lock Hossin",
+            "es": "Control del territorio para bloquear Hossin",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Hossin",
+            "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -254,10 +476,18 @@
     {
         "metagame_event_id": "131",
         "name": {
-            "en": "Hossin Liberation"
+            "de": "Befreiung von Hossin",
+            "en": "Hossin Liberation",
+            "es": "Liberaci\u00f3n de Hossin",
+            "fr": "Lib\u00e9ration d'Hossin",
+            "it": "Liberazione di Hossin"
         },
         "description": {
-            "en": "Control territory to lock Hossin"
+            "de": "Kontrolliere das Gebiet, um Hossin zu sperren.",
+            "en": "Control territory to lock Hossin",
+            "es": "Control del territorio para bloquear Hossin",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Hossin",
+            "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -265,10 +495,18 @@
     {
         "metagame_event_id": "132",
         "name": {
-            "en": "Amerish Superiority"
+            "de": "\u00dcberlegenheit von Amerish",
+            "en": "Amerish Superiority",
+            "es": "Superioridad de Amerish",
+            "fr": "Sup\u00e9riorit\u00e9 d'Amerish",
+            "it": "Superiorit\u00e0 di Amerish"
         },
         "description": {
-            "en": "Control territory to lock Amerish"
+            "de": "Kontrolliere das Gebiet, um Amerish zu sperren.",
+            "en": "Control territory to lock Amerish",
+            "es": "Control del territorio para bloquear Amerish",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Amerish",
+            "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -276,10 +514,18 @@
     {
         "metagame_event_id": "133",
         "name": {
-            "en": "Amerish Enlightenment"
+            "de": "Erleuchtung von Amerish",
+            "en": "Amerish Enlightenment",
+            "es": "Iluminaci\u00f3n de Amerish",
+            "fr": "Savoir d'Amerish",
+            "it": "Risveglio di Amerish"
         },
         "description": {
-            "en": "Control territory to lock Amerish"
+            "de": "Kontrolliere das Gebiet, um Amerish zu sperren.",
+            "en": "Control territory to lock Amerish",
+            "es": "Control del territorio para bloquear Amerish",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Amerish",
+            "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -287,10 +533,18 @@
     {
         "metagame_event_id": "134",
         "name": {
-            "en": "Amerish Liberation"
+            "de": "Befreiung von Amerish",
+            "en": "Amerish Liberation",
+            "es": "Liberaci\u00f3n de Amerish",
+            "fr": "Lib\u00e9ration d'Amerish",
+            "it": "Liberazione di Amerish"
         },
         "description": {
-            "en": "Control territory to lock Amerish"
+            "de": "Kontrolliere das Gebiet, um Amerish zu sperren.",
+            "en": "Control territory to lock Amerish",
+            "es": "Control del territorio para bloquear Amerish",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Amerish",
+            "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "8",
         "experience_bonus": "30"
@@ -298,10 +552,18 @@
     {
         "metagame_event_id": "147",
         "name": {
-            "en": "Indar Superiority"
+            "de": "\u00dcberlegenheit von Indar",
+            "en": "Indar Superiority",
+            "es": "Supremac\u00eda en Indar",
+            "fr": "Sup\u00e9riorit\u00e9 d'Indar",
+            "it": "Superiorit\u00e0 di Indar"
         },
         "description": {
-            "en": "Control territory to lock Indar"
+            "de": "Kontrolliere das Gebiet, um Indar zu sperren.",
+            "en": "Control territory to lock Indar",
+            "es": "Control del territorio para bloquear Indar",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Indar",
+            "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -309,10 +571,18 @@
     {
         "metagame_event_id": "148",
         "name": {
-            "en": "Indar Enlightenment"
+            "de": "Erleuchtung von Indar",
+            "en": "Indar Enlightenment",
+            "es": "Iluminaci\u00f3n de Indar",
+            "fr": "Savoir d'Indar",
+            "it": "Risveglio di Indar"
         },
         "description": {
-            "en": "Control territory to lock Indar"
+            "de": "Kontrolliere das Gebiet, um Indar zu sperren.",
+            "en": "Control territory to lock Indar",
+            "es": "Control del territorio para bloquear Indar",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Indar",
+            "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -320,10 +590,18 @@
     {
         "metagame_event_id": "149",
         "name": {
-            "en": "Indar Liberation"
+            "de": "Befreiung von Indar",
+            "en": "Indar Liberation",
+            "es": "Liberaci\u00f3n de Indar",
+            "fr": "Lib\u00e9ration d'Indar",
+            "it": "Liberazione di Indar"
         },
         "description": {
-            "en": "Control territory to lock Indar"
+            "de": "Kontrolliere das Gebiet, um Indar zu sperren.",
+            "en": "Control territory to lock Indar",
+            "es": "Control del territorio para bloquear Indar",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Indar",
+            "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -331,10 +609,18 @@
     {
         "metagame_event_id": "150",
         "name": {
-            "en": "Esamir Superiority"
+            "de": "\u00dcberlegenheit von Esamir",
+            "en": "Esamir Superiority",
+            "es": "Superioridad en Esamir",
+            "fr": "Sup\u00e9riorit\u00e9 d'Esamir",
+            "it": "Superiorit\u00e0 di Esamir"
         },
         "description": {
-            "en": "Control territory to lock Esamir"
+            "de": "Kontrolliere das Territorium, um Esamir zu sperren.",
+            "en": "Control territory to lock Esamir",
+            "es": "Control del territorio para bloquear Esamir",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Esamir",
+            "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -342,10 +628,18 @@
     {
         "metagame_event_id": "151",
         "name": {
-            "en": "Esamir Enlightenment"
+            "de": "Erleuchtung von Esamir",
+            "en": "Esamir Enlightenment",
+            "es": "Iluminaci\u00f3n de Esamir",
+            "fr": "Savoir d'Esamir",
+            "it": "Risveglio di Esamir"
         },
         "description": {
-            "en": "Control territory to lock Esamir"
+            "de": "Kontrolliere das Territorium, um Esamir zu sperren.",
+            "en": "Control territory to lock Esamir",
+            "es": "Control del territorio para bloquear Esamir",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Esamir",
+            "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -353,10 +647,18 @@
     {
         "metagame_event_id": "152",
         "name": {
-            "en": "Esamir Liberation"
+            "de": "Befreiung von Esamir",
+            "en": "Esamir Liberation",
+            "es": "Liberaci\u00f3n de Esamir",
+            "fr": "Lib\u00e9ration d'Esamir",
+            "it": "Liberazione di Esamir"
         },
         "description": {
-            "en": "Control territory to lock Esamir"
+            "de": "Kontrolliere das Territorium, um Esamir zu sperren.",
+            "en": "Control territory to lock Esamir",
+            "es": "Control del territorio para bloquear Esamir",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Esamir",
+            "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -364,10 +666,18 @@
     {
         "metagame_event_id": "153",
         "name": {
-            "en": "Hossin Superiority"
+            "de": "\u00dcberlegenheit von Hossin",
+            "en": "Hossin Superiority",
+            "es": "Superioridad de Hossin",
+            "fr": "Sup\u00e9riorit\u00e9 d'Hossin",
+            "it": "Superiorit\u00e0 di Hossin"
         },
         "description": {
-            "en": "Control territory to lock Hossin"
+            "de": "Kontrolliere das Gebiet, um Hossin zu sperren.",
+            "en": "Control territory to lock Hossin",
+            "es": "Control del territorio para bloquear Hossin",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Hossin",
+            "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -375,10 +685,18 @@
     {
         "metagame_event_id": "154",
         "name": {
-            "en": "Hossin Enlightenment"
+            "de": "Erleuchtung von Hossin",
+            "en": "Hossin Enlightenment",
+            "es": "Iluminaci\u00f3n de Hossin",
+            "fr": "Savoir d'Hossin",
+            "it": "Risveglio di Hossin"
         },
         "description": {
-            "en": "Control territory to lock Hossin"
+            "de": "Kontrolliere das Gebiet, um Hossin zu sperren.",
+            "en": "Control territory to lock Hossin",
+            "es": "Control del territorio para bloquear Hossin",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Hossin",
+            "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -386,10 +704,18 @@
     {
         "metagame_event_id": "155",
         "name": {
-            "en": "Hossin Liberation"
+            "de": "Befreiung von Hossin",
+            "en": "Hossin Liberation",
+            "es": "Liberaci\u00f3n de Hossin",
+            "fr": "Lib\u00e9ration d'Hossin",
+            "it": "Liberazione di Hossin"
         },
         "description": {
-            "en": "Control territory to lock Hossin"
+            "de": "Kontrolliere das Gebiet, um Hossin zu sperren.",
+            "en": "Control territory to lock Hossin",
+            "es": "Control del territorio para bloquear Hossin",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Hossin",
+            "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -397,10 +723,18 @@
     {
         "metagame_event_id": "156",
         "name": {
-            "en": "Amerish Superiority"
+            "de": "\u00dcberlegenheit von Amerish",
+            "en": "Amerish Superiority",
+            "es": "Superioridad de Amerish",
+            "fr": "Sup\u00e9riorit\u00e9 d'Amerish",
+            "it": "Superiorit\u00e0 di Amerish"
         },
         "description": {
-            "en": "Control territory to lock Amerish"
+            "de": "Kontrolliere das Gebiet, um Amerish zu sperren.",
+            "en": "Control territory to lock Amerish",
+            "es": "Control del territorio para bloquear Amerish",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Amerish",
+            "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -408,10 +742,18 @@
     {
         "metagame_event_id": "157",
         "name": {
-            "en": "Amerish Enlightenment"
+            "de": "Erleuchtung von Amerish",
+            "en": "Amerish Enlightenment",
+            "es": "Iluminaci\u00f3n de Amerish",
+            "fr": "Savoir d'Amerish",
+            "it": "Risveglio di Amerish"
         },
         "description": {
-            "en": "Control territory to lock Amerish"
+            "de": "Kontrolliere das Gebiet, um Amerish zu sperren.",
+            "en": "Control territory to lock Amerish",
+            "es": "Control del territorio para bloquear Amerish",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Amerish",
+            "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -419,10 +761,18 @@
     {
         "metagame_event_id": "158",
         "name": {
-            "en": "Amerish Liberation"
+            "de": "Befreiung von Amerish",
+            "en": "Amerish Liberation",
+            "es": "Liberaci\u00f3n de Amerish",
+            "fr": "Lib\u00e9ration d'Amerish",
+            "it": "Liberazione di Amerish"
         },
         "description": {
-            "en": "Control territory to lock Amerish"
+            "de": "Kontrolliere das Gebiet, um Amerish zu sperren.",
+            "en": "Control territory to lock Amerish",
+            "es": "Control del territorio para bloquear Amerish",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Amerish",
+            "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -430,130 +780,236 @@
     {
         "metagame_event_id": "159",
         "name": {
-            "en": "Amerish Warpgates Stabilizing"
+            "de": "Warptore in Amerish stabilisieren sich",
+            "en": "Amerish Warpgates Stabilizing",
+            "es": "Warpgates de Amerish estabiliz\u00e1ndose",
+            "fr": "Warpgates d'Amerish en cours de stabilisation",
+            "it": "Stabilizzazione dei Warpgate di Amerish"
         },
         "description": {
-            "en": "Additional territories are coming back online."
+            "de": "Zus\u00e4tzliche Territorien gehen wieder online.",
+            "en": "Additional territories are coming back online.",
+            "es": "M\u00e1s territorios se est\u00e1n reactivando.",
+            "fr": "Des territoires suppl\u00e9mentaires reviennent en ligne.",
+            "it": "Altri territori si stanno riattivando."
         },
         "type": "5"
     },
     {
         "metagame_event_id": "160",
         "name": {
-            "en": "Esamir Warpgates Stabilizing"
+            "de": "Warptore in Esamir stabilisieren sich",
+            "en": "Esamir Warpgates Stabilizing",
+            "es": "Warpgates de Esamir estabiliz\u00e1ndose",
+            "fr": "Warpgates d'Esamir en cours de stabilisation",
+            "it": "Stabilizzazione dei Warpgate di Esamir"
         },
         "description": {
-            "en": "Additional territories are coming back online."
+            "de": "Zus\u00e4tzliche Territorien gehen wieder online.",
+            "en": "Additional territories are coming back online.",
+            "es": "M\u00e1s territorios se est\u00e1n reactivando.",
+            "fr": "Des territoires suppl\u00e9mentaires reviennent en ligne.",
+            "it": "Altri territori si stanno riattivando."
         },
         "type": "5"
     },
     {
         "metagame_event_id": "161",
         "name": {
-            "en": "Indar Warpgates Stabilizing"
+            "de": "Warptore in Indar stabilisieren sich",
+            "en": "Indar Warpgates Stabilizing",
+            "es": "Warpgates de Indar estabiliz\u00e1ndose",
+            "fr": "Warpgates d'Indar en cours de stabilisation",
+            "it": "Stabilizzazione dei Warpgate di Indar"
         },
         "description": {
-            "en": "Additional territories are coming back online."
+            "de": "Zus\u00e4tzliche Territorien gehen wieder online.",
+            "en": "Additional territories are coming back online.",
+            "es": "M\u00e1s territorios se est\u00e1n reactivando.",
+            "fr": "Des territoires suppl\u00e9mentaires reviennent en ligne.",
+            "it": "Altri territori si stanno riattivando."
         },
         "type": "5"
     },
     {
         "metagame_event_id": "162",
         "name": {
-            "en": "Hossin Warpgates Stabilizing"
+            "de": "Warptore in Hossin stabilisieren sich",
+            "en": "Hossin Warpgates Stabilizing",
+            "es": "Warpgates de Hossin estabiliz\u00e1ndose",
+            "fr": "Warpgates de Hossin en cours de stabilisation",
+            "it": "Stabilizzazione dei Warpgate di Hossin"
         },
         "description": {
-            "en": "Additional territories are coming back online."
+            "de": "Zus\u00e4tzliche Territorien gehen wieder online.",
+            "en": "Additional territories are coming back online.",
+            "es": "M\u00e1s territorios se est\u00e1n reactivando.",
+            "fr": "Des territoires suppl\u00e9mentaires reviennent en ligne.",
+            "it": "Altri territori si stanno riattivando."
         },
         "type": "5"
     },
     {
         "metagame_event_id": "164",
         "name": {
-            "en": "Technological Advancement"
+            "de": "Technologischer Fortschritt",
+            "en": "Technological Advancement",
+            "es": "Avance tecnol\u00f3gico",
+            "fr": "\u00c9volution technologique",
+            "it": "Progresso tecnologico",
+            "tr": "Technological Advancement"
         },
         "description": {
-            "en": "Capture and hold all 3 Tech Plants on Esamir"
+            "de": "Erobere und halte Stellung bei allen 3 Technikanlagen auf Esamir.",
+            "en": "Capture and hold all 3 Tech Plants on Esamir",
+            "es": "Conquista 3 Tech Plants en Esamir y mant\u00e9n el control",
+            "fr": "Capturer et garder les 3 Tech Plants sur Esamir",
+            "it": "Conquista e difendi tutti e 3 i Tech Plant di Esamir",
+            "tr": "Capture and hold all 3 Tech Plants on Esamir"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "167",
         "name": {
-            "en": "Aerial Anomalies"
+            "de": "Anomalien im Luftbereich",
+            "en": "Aerial Anomalies",
+            "es": "Anomal\u00edas a\u00e9reas",
+            "fr": "Anomalies A\u00e9riennes",
+            "it": "Anomalie aeree"
         },
         "description": {
-            "en": "Take readings of aerial anomalies"
+            "de": "Mache Aufzeichnungen der Anomalien im Luftbereich.",
+            "en": "Take readings of aerial anomalies",
+            "es": "Obt\u00e9n mediciones de las anomal\u00edas a\u00e9reas.",
+            "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
+            "it": "Effettua i rilevamenti delle anomalie aeree"
         },
         "type": "10"
     },
     {
         "metagame_event_id": "168",
         "name": {
-            "en": "Eye of the Storm"
+            "de": "Auge des Sturms",
+            "en": "Eye of the Storm",
+            "es": "Ojo del hurac\u00e1n",
+            "fr": "L'Oeil de la Temp\u00eate",
+            "it": "Occhio del ciclone"
         },
         "description": {
-            "en": "Gather Tempest from the meteor site and return it to your Warpgate."
+            "de": "Sammle Tempest an der Meteor-Einschlagsstelle und bringe es zu deinem Warptor.",
+            "en": "Gather Tempest from the meteor site and return it to your Warpgate.",
+            "es": "Consigue Tempest del lugar del impacto de meteoro y ll\u00e9valo a tu Warpgate.",
+            "fr": "R\u00e9cup\u00e9rez de la Temp\u00eate au site de la m\u00e9t\u00e9orite et ramenez-la \u00e0 votre Warpgate",
+            "it": "Raccogli la bufera dal sito della meteorite e riportala al tuo warpgate."
         },
         "type": "10"
     },
     {
         "metagame_event_id": "170",
         "name": {
-            "en": "The Bending"
+            "de": "The Bending",
+            "en": "The Bending",
+            "es": "The Bending",
+            "fr": "La Distorsion",
+            "it": "Bending"
         },
         "description": {
-            "en": "A deadly meteor shower is wreaking havoc across the continent."
+            "de": "Ein t\u00f6dlicher Meteor-Schauer verursacht Chaos auf dem Kontinent.",
+            "en": "A deadly meteor shower is wreaking havoc across the continent.",
+            "es": "Una peligrosa lluvia de meteoritos est\u00e1 desatando el caos en el continente.",
+            "fr": "Une pluie de m\u00e9t\u00e9orites d\u00e9vastatrices ravage le continent.",
+            "it": "Una letale pioggia di meteoriti sta portando distruzione sul continente."
         },
         "type": "5"
     },
     {
         "metagame_event_id": "172",
         "name": {
-            "en": "Aerial Anomalies"
+            "de": "Anomalien im Luftbereich",
+            "en": "Aerial Anomalies",
+            "es": "Anomal\u00edas a\u00e9reas",
+            "fr": "Anomalies A\u00e9riennes",
+            "it": "Anomalie aeree"
         },
         "description": {
-            "en": "Take readings of aerial anomalies"
+            "de": "Mache Aufzeichnungen der Anomalien im Luftbereich.",
+            "en": "Take readings of aerial anomalies",
+            "es": "Obt\u00e9n mediciones de las anomal\u00edas a\u00e9reas.",
+            "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
+            "it": "Effettua i rilevamenti delle anomalie aeree"
         },
         "type": "10"
     },
     {
         "metagame_event_id": "173",
         "name": {
-            "en": "Aerial Anomalies"
+            "de": "Anomalien im Luftbereich",
+            "en": "Aerial Anomalies",
+            "es": "Anomal\u00edas a\u00e9reas",
+            "fr": "Anomalies A\u00e9riennes",
+            "it": "Anomalie aeree"
         },
         "description": {
-            "en": "Take readings of aerial anomalies"
+            "de": "Mache Aufzeichnungen der Anomalien im Luftbereich.",
+            "en": "Take readings of aerial anomalies",
+            "es": "Obt\u00e9n mediciones de las anomal\u00edas a\u00e9reas.",
+            "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
+            "it": "Effettua i rilevamenti delle anomalie aeree"
         },
         "type": "10"
     },
     {
         "metagame_event_id": "174",
         "name": {
-            "en": "Aerial Anomalies"
+            "de": "Anomalien im Luftbereich",
+            "en": "Aerial Anomalies",
+            "es": "Anomal\u00edas a\u00e9reas",
+            "fr": "Anomalies A\u00e9riennes",
+            "it": "Anomalie aeree"
         },
         "description": {
-            "en": "Take readings of aerial anomalies"
+            "de": "Mache Aufzeichnungen der Anomalien im Luftbereich.",
+            "en": "Take readings of aerial anomalies",
+            "es": "Obt\u00e9n mediciones de las anomal\u00edas a\u00e9reas.",
+            "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
+            "it": "Effettua i rilevamenti delle anomalie aeree"
         },
         "type": "10"
     },
     {
         "metagame_event_id": "175",
         "name": {
-            "en": "Race for Readings"
+            "de": "Rennen um Messwerte",
+            "en": "Race for Readings",
+            "es": "Carrera de mediciones",
+            "fr": "Course aux relev\u00e9s",
+            "it": "Gara per i rilevamenti"
         },
         "description": {
-            "en": "Take readings of aerial anomalies"
+            "de": "Mache Aufzeichnungen der Anomalien im Luftbereich.",
+            "en": "Take readings of aerial anomalies",
+            "es": "Obt\u00e9n mediciones de las anomal\u00edas a\u00e9reas.",
+            "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
+            "it": "Effettua i rilevamenti delle anomalie aeree"
         },
         "type": "10"
     },
     {
         "metagame_event_id": "176",
         "name": {
-            "en": "Esamir Unstable Meltdown"
+            "de": "Esamir - Instabiler Zusammenbruch",
+            "en": "Esamir Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Esamir",
+            "fr": "Fusion instable d'Esamir",
+            "it": "Fusione instabile di Esamir"
         },
         "description": {
-            "en": "Control territory to lock Esamir"
+            "de": "Kontrolliere das Territorium, um Esamir zu sperren.",
+            "en": "Control territory to lock Esamir",
+            "es": "Control del territorio para bloquear Esamir",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Esamir",
+            "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -561,10 +1017,18 @@
     {
         "metagame_event_id": "177",
         "name": {
-            "en": "Hossin Unstable Meltdown"
+            "de": "Hossin - Instabiler Zusammenbruch",
+            "en": "Hossin Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Hossin",
+            "fr": "Fusion instable de Hossin",
+            "it": "Fusione instabile di Hossin"
         },
         "description": {
-            "en": "Control territory to lock Hossin"
+            "de": "Kontrolliere das Gebiet, um Hossin zu sperren.",
+            "en": "Control territory to lock Hossin",
+            "es": "Control del territorio para bloquear Hossin",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Hossin",
+            "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -572,10 +1036,18 @@
     {
         "metagame_event_id": "178",
         "name": {
-            "en": "Amerish Unstable Meltdown"
+            "de": "Amerish - Instabiler Zusammenbruch",
+            "en": "Amerish Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Amerish",
+            "fr": "Fusion instable d'Amerish",
+            "it": "Fusione instabile di Amerish"
         },
         "description": {
-            "en": "Control territory to lock Amerish"
+            "de": "Kontrolliere das Gebiet, um Amerish zu sperren.",
+            "en": "Control territory to lock Amerish",
+            "es": "Control del territorio para bloquear Amerish",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Amerish",
+            "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -583,10 +1055,18 @@
     {
         "metagame_event_id": "179",
         "name": {
-            "en": "Indar Unstable Meltdown"
+            "de": "Indar - Instabiler Zusammenbruch",
+            "en": "Indar Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Indar",
+            "fr": "Fusion instable d'Indar",
+            "it": "Fusione instabile di Indar"
         },
         "description": {
-            "en": "Control territory to lock Indar"
+            "de": "Kontrolliere das Gebiet, um Indar zu sperren.",
+            "en": "Control territory to lock Indar",
+            "es": "Control del territorio para bloquear Indar",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Indar",
+            "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -594,50 +1074,90 @@
     {
         "metagame_event_id": "180",
         "name": {
-            "en": "Gaining Ground"
+            "de": "Oberhand",
+            "en": "Gaining Ground",
+            "es": "Ganando terreno",
+            "fr": "Expansion de territoire",
+            "it": "Guadagnare terreno"
         },
         "description": {
-            "en": "Capture and hold the most Large Outposts"
+            "de": "Erobere und halte die meisten gro\u00dfen Au\u00dfenposten.",
+            "en": "Capture and hold the most Large Outposts",
+            "es": "Captura y defiende m\u00e1s puestos de avanzada grandes que nadie.",
+            "fr": "Capturez et tenez le plus de grands avant-postes",
+            "it": "Conquista e difendi i pi\u00f9 grand avamposti"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "181",
         "name": {
-            "en": "Gaining Ground"
+            "de": "Oberhand",
+            "en": "Gaining Ground",
+            "es": "Ganando terreno",
+            "fr": "Expansion de territoire",
+            "it": "Guadagnare terreno"
         },
         "description": {
-            "en": "Capture and hold the most Large Outposts"
+            "de": "Erobere und halte die meisten gro\u00dfen Au\u00dfenposten.",
+            "en": "Capture and hold the most Large Outposts",
+            "es": "Captura y defiende m\u00e1s puestos de avanzada grandes que nadie.",
+            "fr": "Capturez et tenez le plus de grands avant-postes",
+            "it": "Conquista e difendi i pi\u00f9 grand avamposti"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "182",
         "name": {
-            "en": "Gaining Ground"
+            "de": "Oberhand",
+            "en": "Gaining Ground",
+            "es": "Ganando terreno",
+            "fr": "Expansion de territoire",
+            "it": "Guadagnare terreno"
         },
         "description": {
-            "en": "Capture and hold the most Large Outposts"
+            "de": "Erobere und halte die meisten gro\u00dfen Au\u00dfenposten.",
+            "en": "Capture and hold the most Large Outposts",
+            "es": "Captura y defiende m\u00e1s puestos de avanzada grandes que nadie.",
+            "fr": "Capturez et tenez le plus de grands avant-postes",
+            "it": "Conquista e difendi i pi\u00f9 grand avamposti"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "183",
         "name": {
-            "en": "Gaining Ground"
+            "de": "Oberhand",
+            "en": "Gaining Ground",
+            "es": "Ganando terreno",
+            "fr": "Expansion de territoire",
+            "it": "Guadagnare terreno"
         },
         "description": {
-            "en": "Capture and hold the most Large Outposts"
+            "de": "Erobere und halte die meisten gro\u00dfen Au\u00dfenposten.",
+            "en": "Capture and hold the most Large Outposts",
+            "es": "Captura y defiende m\u00e1s puestos de avanzada grandes que nadie.",
+            "fr": "Capturez et tenez le plus de grands avant-postes",
+            "it": "Conquista e difendi i pi\u00f9 grand avamposti"
         },
         "type": "2"
     },
     {
         "metagame_event_id": "186",
         "name": {
-            "en": "Esamir Unstable Meltdown"
+            "de": "Esamir - Instabiler Zusammenbruch",
+            "en": "Esamir Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Esamir",
+            "fr": "Fusion instable d'Esamir",
+            "it": "Fusione instabile di Esamir"
         },
         "description": {
-            "en": "Control territory to lock Esamir"
+            "de": "Kontrolliere das Territorium, um Esamir zu sperren.",
+            "en": "Control territory to lock Esamir",
+            "es": "Control del territorio para bloquear Esamir",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Esamir",
+            "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -645,10 +1165,18 @@
     {
         "metagame_event_id": "187",
         "name": {
-            "en": "Hossin Unstable Meltdown"
+            "de": "Hossin - Instabiler Zusammenbruch",
+            "en": "Hossin Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Hossin",
+            "fr": "Fusion instable de Hossin",
+            "it": "Fusione instabile di Hossin"
         },
         "description": {
-            "en": "Control territory to lock Hossin"
+            "de": "Kontrolliere das Gebiet, um Hossin zu sperren.",
+            "en": "Control territory to lock Hossin",
+            "es": "Control del territorio para bloquear Hossin",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Hossin",
+            "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -656,10 +1184,18 @@
     {
         "metagame_event_id": "188",
         "name": {
-            "en": "Amerish Unstable Meltdown"
+            "de": "Amerish - Instabiler Zusammenbruch",
+            "en": "Amerish Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Amerish",
+            "fr": "Fusion instable d'Amerish",
+            "it": "Fusione instabile di Amerish"
         },
         "description": {
-            "en": "Control territory to lock Amerish"
+            "de": "Kontrolliere das Gebiet, um Amerish zu sperren.",
+            "en": "Control territory to lock Amerish",
+            "es": "Control del territorio para bloquear Amerish",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Amerish",
+            "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -667,10 +1203,18 @@
     {
         "metagame_event_id": "189",
         "name": {
-            "en": "Indar Unstable Meltdown"
+            "de": "Indar - Instabiler Zusammenbruch",
+            "en": "Indar Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Indar",
+            "fr": "Fusion instable d'Indar",
+            "it": "Fusione instabile di Indar"
         },
         "description": {
-            "en": "Control territory to lock Indar"
+            "de": "Kontrolliere das Gebiet, um Indar zu sperren.",
+            "en": "Control territory to lock Indar",
+            "es": "Control del territorio para bloquear Indar",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Indar",
+            "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -678,10 +1222,18 @@
     {
         "metagame_event_id": "190",
         "name": {
-            "en": "Esamir Unstable Meltdown"
+            "de": "Esamir - Instabiler Zusammenbruch",
+            "en": "Esamir Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Esamir",
+            "fr": "Fusion instable d'Esamir",
+            "it": "Fusione instabile di Esamir"
         },
         "description": {
-            "en": "Control territory to lock Esamir"
+            "de": "Kontrolliere das Territorium, um Esamir zu sperren.",
+            "en": "Control territory to lock Esamir",
+            "es": "Control del territorio para bloquear Esamir",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Esamir",
+            "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -689,10 +1241,18 @@
     {
         "metagame_event_id": "191",
         "name": {
-            "en": "Hossin Unstable Meltdown"
+            "de": "Hossin - Instabiler Zusammenbruch",
+            "en": "Hossin Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Hossin",
+            "fr": "Fusion instable de Hossin",
+            "it": "Fusione instabile di Hossin"
         },
         "description": {
-            "en": "Control territory to lock Hossin"
+            "de": "Kontrolliere das Gebiet, um Hossin zu sperren.",
+            "en": "Control territory to lock Hossin",
+            "es": "Control del territorio para bloquear Hossin",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Hossin",
+            "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -700,10 +1260,18 @@
     {
         "metagame_event_id": "192",
         "name": {
-            "en": "Amerish Unstable Meltdown"
+            "de": "Amerish - Instabiler Zusammenbruch",
+            "en": "Amerish Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Amerish",
+            "fr": "Fusion instable d'Amerish",
+            "it": "Fusione instabile di Amerish"
         },
         "description": {
-            "en": "Control territory to lock Amerish"
+            "de": "Kontrolliere das Gebiet, um Amerish zu sperren.",
+            "en": "Control territory to lock Amerish",
+            "es": "Control del territorio para bloquear Amerish",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Amerish",
+            "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -711,10 +1279,18 @@
     {
         "metagame_event_id": "193",
         "name": {
-            "en": "Indar Unstable Meltdown"
+            "de": "Indar - Instabiler Zusammenbruch",
+            "en": "Indar Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Indar",
+            "fr": "Fusion instable d'Indar",
+            "it": "Fusione instabile di Indar"
         },
         "description": {
-            "en": "Control territory to lock Indar"
+            "de": "Kontrolliere das Gebiet, um Indar zu sperren.",
+            "en": "Control territory to lock Indar",
+            "es": "Control del territorio para bloquear Indar",
+            "fr": "Contr\u00f4lez du territoire pour verrouiller Indar",
+            "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -722,130 +1298,234 @@
     {
         "metagame_event_id": "194",
         "name": {
-            "en": "Refine and Refuel"
+            "de": "Verfeinern und Tanken",
+            "en": "Refine and Refuel",
+            "es": "Refinar y repostar",
+            "fr": "Raffinage et Avitaillement",
+            "it": "Raffina e rifornisci"
         },
         "description": {
-            "en": "Deposit Cortium into the refinery"
+            "de": "Deponiere Kortium in der Raffinerie.",
+            "en": "Deposit Cortium into the refinery",
+            "es": "Deposita cortium en la refiner\u00eda.",
+            "fr": "D\u00e9posez du Cortium dans la raffinerie",
+            "it": "Deposita il Cortium nella raffineria"
         },
         "type": "10"
     },
     {
         "metagame_event_id": "195",
         "name": {
-            "en": "Refine and Refuel"
+            "de": "Verfeinern und Tanken",
+            "en": "Refine and Refuel",
+            "es": "Refinar y repostar",
+            "fr": "Raffinage et Avitaillement",
+            "it": "Raffina e rifornisci"
         },
         "description": {
-            "en": "Deposit Cortium into the refinery"
+            "de": "Deponiere Kortium in der Raffinerie.",
+            "en": "Deposit Cortium into the refinery",
+            "es": "Deposita cortium en la refiner\u00eda.",
+            "fr": "D\u00e9posez du Cortium dans la raffinerie",
+            "it": "Deposita il Cortium nella raffineria"
         },
         "type": "10"
     },
     {
         "metagame_event_id": "196",
         "name": {
-            "en": "Refine and Refuel"
+            "de": "Verfeinern und Tanken",
+            "en": "Refine and Refuel",
+            "es": "Refinar y repostar",
+            "fr": "Raffinage et Avitaillement",
+            "it": "Raffina e rifornisci"
         },
         "description": {
-            "en": "Deposit Cortium into the refinery"
+            "de": "Deponiere Kortium in der Raffinerie.",
+            "en": "Deposit Cortium into the refinery",
+            "es": "Deposita cortium en la refiner\u00eda.",
+            "fr": "D\u00e9posez du Cortium dans la raffinerie",
+            "it": "Deposita il Cortium nella raffineria"
         },
         "type": "10"
     },
     {
         "metagame_event_id": "197",
         "name": {
-            "en": "Refine and Refuel"
+            "de": "Verfeinern und Tanken",
+            "en": "Refine and Refuel",
+            "es": "Refinar y repostar",
+            "fr": "Raffinage et Avitaillement",
+            "it": "Raffina e rifornisci"
         },
         "description": {
-            "en": "Deposit Cortium into the refinery"
+            "de": "Deponiere Kortium in der Raffinerie.",
+            "en": "Deposit Cortium into the refinery",
+            "es": "Deposita cortium en la refiner\u00eda.",
+            "fr": "D\u00e9posez du Cortium dans la raffinerie",
+            "it": "Deposita il Cortium nella raffineria"
         },
         "type": "10"
     },
     {
         "metagame_event_id": "198",
         "name": {
-            "en": "Maximum Pressure"
+            "de": "Maximaler Druck",
+            "en": "Maximum Pressure",
+            "es": "Presi\u00f3n m\u00e1xima",
+            "fr": "Pression Maximum",
+            "it": "Pressione massima"
         },
         "description": {
-            "en": "Kill as many enemies as possible"
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
         },
         "type": "6"
     },
     {
         "metagame_event_id": "199",
         "name": {
-            "en": "Maximum Pressure"
+            "de": "Maximaler Druck",
+            "en": "Maximum Pressure",
+            "es": "Presi\u00f3n m\u00e1xima",
+            "fr": "Pression Maximum",
+            "it": "Pressione massima"
         },
         "description": {
-            "en": "Kill as many enemies as possible"
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
         },
         "type": "6"
     },
     {
         "metagame_event_id": "200",
         "name": {
-            "en": "Maximum Pressure"
+            "de": "Maximaler Druck",
+            "en": "Maximum Pressure",
+            "es": "Presi\u00f3n m\u00e1xima",
+            "fr": "Pression Maximum",
+            "it": "Pressione massima"
         },
         "description": {
-            "en": "Kill as many enemies as possible"
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
         },
         "type": "6"
     },
     {
         "metagame_event_id": "201",
         "name": {
-            "en": "Maximum Pressure"
+            "de": "Maximaler Druck",
+            "en": "Maximum Pressure",
+            "es": "Presi\u00f3n m\u00e1xima",
+            "fr": "Pression Maximum",
+            "it": "Pressione massima"
         },
         "description": {
-            "en": "Kill as many enemies as possible"
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
         },
         "type": "6"
     },
     {
         "metagame_event_id": "204",
         "name": {
-            "en": "OUTFIT WARS"
+            "de": "TEAM-KRIEG",
+            "en": "OUTFIT WARS",
+            "es": "GUERRA DE BRIGADAS",
+            "fr": "GUERRES D'UNIT\u00c9S",
+            "it": "GUERRA DELLE OUTFIT"
         },
         "description": {
-            "en": "Capture Active Vanu Relics"
+            "de": "Erobere aktive Vanu-Relikte",
+            "en": "Capture Active Vanu Relics",
+            "es": "Captura reliquias de Vanu activas",
+            "fr": "Capturer les reliques Vanu actives",
+            "it": "Cattura le reliquie Vanu attive"
         },
         "type": "10"
     },
     {
         "metagame_event_id": "205",
         "name": {
-            "en": "OUTFIT WARS (pre-match)"
+            "de": "TEAM-KRIEG (pre-match)",
+            "en": "OUTFIT WARS (pre-match)",
+            "es": "GUERRA DE BRIGADAS (precombate)",
+            "fr": "GUERRES D'UNIT\u00c9S (avant-match)",
+            "it": "GUERRA DELLE OUTFIT (pre-partita)"
         },
         "description": {
-            "en": "Prepare for the Outfit War!"
+            "de": "Mach dich bereit f\u00fcr den Team-Krieg!",
+            "en": "Prepare for the Outfit War!",
+            "es": "\u00a1Prep\u00e1rate para la guerra de brigadas!",
+            "fr": "Pr\u00e9parez-vous pour la Guerre d'Unit\u00e9s !",
+            "it": "Preparatevi alla guerra delle outfit!"
         },
         "type": "4"
     },
     {
         "metagame_event_id": "206",
         "name": {
-            "en": "OUTFIT WARS"
+            "de": "TEAM-KRIEG",
+            "en": "OUTFIT WARS",
+            "es": "GUERRA DE BRIGADAS",
+            "fr": "GUERRES D'UNIT\u00c9S",
+            "it": "GUERRA DELLE OUTFIT"
         },
         "description": {
-            "en": "Active Relics Changing"
+            "de": "Aktive Relikte wechseln.",
+            "en": "Active Relics Changing",
+            "es": "Cambio de reliquias activas",
+            "fr": "Changement de reliques actif",
+            "it": "Cambiamento delle reliquie attive"
         },
         "type": "10"
     },
     {
         "metagame_event_id": "207",
         "name": {
-            "en": "OUTFIT WARS"
+            "de": "TEAM-KRIEG",
+            "en": "OUTFIT WARS",
+            "es": "GUERRA DE BRIGADAS",
+            "fr": "GUERRES D'UNIT\u00c9S",
+            "it": "GUERRA DELLE OUTFIT"
         },
         "description": {
-            "en": "Earn 750 points or have the most when time expires."
+            "de": "Erreiche 750 Punkte oder habe die meisten, wenn die Zeit abl\u00e4uft.",
+            "en": "Earn 750 points or have the most when time expires.",
+            "es": "Consigue 750 puntos o ten m\u00e1s que nadie al acabar el tiempo.",
+            "fr": "Obtenez 750 points ou ayez le maximum une fois le temps \u00e9coul\u00e9.",
+            "it": "Ottieni 750 punti o possiedi il massimo dei punti quando scade il timer."
         },
         "type": "10"
     },
     {
         "metagame_event_id": "208",
         "name": {
-            "en": "Koltyr Liberation"
+            "de": "Koltyr-Befreiung",
+            "en": "Koltyr Liberation",
+            "es": "Liberaci\u00f3n de Koltyr",
+            "fr": "Lib\u00e9ration de Koltyr",
+            "it": "Liberazione di Koltyr"
         },
         "description": {
-            "en": "Control territory to lock Koltyr"
+            "de": "Kontrolliere das Gebiet, um Koltyr zu sperren.",
+            "en": "Control territory to lock Koltyr",
+            "es": "Control del territorio para bloquear Koltyr",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Koltyr",
+            "it": "Controlla il territorio per bloccare Koltyr"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -853,10 +1533,18 @@
     {
         "metagame_event_id": "209",
         "name": {
-            "en": "Koltyr Superiority"
+            "de": "Koltyr-\u00dcberlegenheit",
+            "en": "Koltyr Superiority",
+            "es": "Superioridad de Koltyr",
+            "fr": "Sup\u00e9riorit\u00e9 de Koltyr",
+            "it": "Superiorit\u00e0 di Koltyr"
         },
         "description": {
-            "en": "Control territory to lock Koltyr"
+            "de": "Kontrolliere das Gebiet, um Koltyr zu sperren.",
+            "en": "Control territory to lock Koltyr",
+            "es": "Control del territorio para bloquear Koltyr",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Koltyr",
+            "it": "Controlla il territorio per bloccare Koltyr"
         },
         "type": "9",
         "experience_bonus": "25"
@@ -864,10 +1552,18 @@
     {
         "metagame_event_id": "210",
         "name": {
-            "en": "Koltyr Enlightenment"
+            "de": "Koltyr-Erleuchtung",
+            "en": "Koltyr Enlightenment",
+            "es": "Iluminaci\u00f3n de Koltyr",
+            "fr": "Savoir de Koltyr",
+            "it": "Chiarimento di Koltyr"
         },
         "description": {
-            "en": "Control territory to lock Koltyr"
+            "de": "Kontrolliere das Gebiet, um Koltyr zu sperren.",
+            "en": "Control territory to lock Koltyr",
+            "es": "Control del territorio para bloquear Koltyr",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Koltyr",
+            "it": "Controlla il territorio per bloccare Koltyr"
         },
         "type": "9",
         "experience_bonus": "25"

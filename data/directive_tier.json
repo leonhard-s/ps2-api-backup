@@ -5,7 +5,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13730",
         "image_id": "78515",
@@ -17,7 +21,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13950",
         "image_id": "79175",
@@ -30,7 +38,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13840",
         "image_id": "78845",
@@ -43,7 +55,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13620",
         "image_id": "78185",
@@ -55,7 +71,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13796",
         "image_id": "78713",
@@ -67,7 +87,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14016",
         "image_id": "79373",
@@ -80,7 +104,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13906",
         "image_id": "79043",
@@ -93,7 +121,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13686",
         "image_id": "78383",
@@ -105,7 +137,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13766",
         "image_id": "78623",
@@ -117,7 +153,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13986",
         "image_id": "79283",
@@ -130,7 +170,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13876",
         "image_id": "78953",
@@ -143,7 +187,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13656",
         "image_id": "78293",
@@ -155,7 +203,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13726",
         "image_id": "78503",
@@ -167,7 +219,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13946",
         "image_id": "79163",
@@ -180,7 +236,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13836",
         "image_id": "78833",
@@ -193,7 +253,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13616",
         "image_id": "78173",
@@ -205,7 +269,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13807",
         "image_id": "78746",
@@ -217,7 +285,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14027",
         "image_id": "79406",
@@ -230,7 +302,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13917",
         "image_id": "79076",
@@ -243,7 +319,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13697",
         "image_id": "78416",
@@ -255,7 +335,11 @@
         "directive_points": "5",
         "completion_count": "1",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13812",
         "image_id": "78761",
@@ -267,7 +351,11 @@
         "directive_points": "10",
         "completion_count": "2",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14032",
         "image_id": "79421",
@@ -280,7 +368,11 @@
         "directive_points": "25",
         "completion_count": "3",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13922",
         "image_id": "79091",
@@ -293,7 +385,11 @@
         "directive_points": "100",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13702",
         "image_id": "78431",
@@ -305,7 +401,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13809",
         "image_id": "78752",
@@ -317,7 +417,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14029",
         "image_id": "79412",
@@ -330,7 +434,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13919",
         "image_id": "79082",
@@ -343,7 +451,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13699",
         "image_id": "78422",
@@ -355,7 +467,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13739",
         "image_id": "78542",
@@ -367,7 +483,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13959",
         "image_id": "79202",
@@ -379,7 +499,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13849",
         "image_id": "78872",
@@ -392,7 +516,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13629",
         "image_id": "78212",
@@ -404,7 +532,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13756",
         "image_id": "78593",
@@ -416,7 +548,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13976",
         "image_id": "79253",
@@ -428,7 +564,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13866",
         "image_id": "78923",
@@ -441,7 +581,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13646",
         "image_id": "78263",
@@ -454,7 +598,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13760",
         "image_id": "78605",
@@ -466,7 +614,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13980",
         "image_id": "79265",
@@ -478,7 +630,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13870",
         "image_id": "78935",
@@ -491,7 +647,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13650",
         "image_id": "78275",
@@ -504,7 +664,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13752",
         "image_id": "78581",
@@ -516,7 +680,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13972",
         "image_id": "79241",
@@ -528,7 +696,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13862",
         "image_id": "78911",
@@ -541,7 +713,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13642",
         "image_id": "78251",
@@ -554,7 +730,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13735",
         "image_id": "78530",
@@ -566,7 +746,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13955",
         "image_id": "79190",
@@ -578,7 +762,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13845",
         "image_id": "78860",
@@ -591,7 +779,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13625",
         "image_id": "78200",
@@ -604,7 +796,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13747",
         "image_id": "78566",
@@ -616,7 +812,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13967",
         "image_id": "79226",
@@ -628,7 +828,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13857",
         "image_id": "78896",
@@ -641,7 +845,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13637",
         "image_id": "78236",
@@ -654,7 +862,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13732",
         "image_id": "78521",
@@ -666,7 +878,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13952",
         "image_id": "79181",
@@ -678,7 +894,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13842",
         "image_id": "78851",
@@ -691,7 +911,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13622",
         "image_id": "78191",
@@ -703,7 +927,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13772",
         "image_id": "78641",
@@ -715,7 +943,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13992",
         "image_id": "79301",
@@ -727,7 +959,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13882",
         "image_id": "78971",
@@ -740,7 +976,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13662",
         "image_id": "78311",
@@ -752,7 +992,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13753",
         "image_id": "78584",
@@ -764,7 +1008,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13973",
         "image_id": "79244",
@@ -777,7 +1025,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13863",
         "image_id": "78914",
@@ -790,7 +1042,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13643",
         "image_id": "78254",
@@ -802,7 +1058,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "14392",
         "image_id": "79727",
@@ -814,7 +1074,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14394",
         "image_id": "79733",
@@ -826,7 +1090,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "14393",
         "image_id": "79730",
@@ -839,7 +1107,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "14391",
         "image_id": "79724",
@@ -851,7 +1123,11 @@
         "directive_points": "5",
         "completion_count": "1",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13788",
         "image_id": "78689",
@@ -863,7 +1139,11 @@
         "directive_points": "10",
         "completion_count": "2",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14008",
         "image_id": "79349",
@@ -875,7 +1155,11 @@
         "directive_points": "25",
         "completion_count": "3",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13898",
         "image_id": "79019",
@@ -888,7 +1172,11 @@
         "directive_points": "100",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13678",
         "image_id": "78359",
@@ -900,7 +1188,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13744",
         "image_id": "78557",
@@ -912,7 +1204,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13964",
         "image_id": "79217",
@@ -924,7 +1220,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13854",
         "image_id": "78887",
@@ -937,7 +1237,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13634",
         "image_id": "78227",
@@ -949,7 +1253,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13761",
         "image_id": "78608",
@@ -961,7 +1269,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13981",
         "image_id": "79268",
@@ -973,7 +1285,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13871",
         "image_id": "78938",
@@ -986,7 +1302,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13651",
         "image_id": "78278",
@@ -998,7 +1318,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13768",
         "image_id": "78629",
@@ -1010,7 +1334,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13988",
         "image_id": "79289",
@@ -1022,7 +1350,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13878",
         "image_id": "78959",
@@ -1035,7 +1367,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13658",
         "image_id": "78299",
@@ -1047,7 +1383,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13825",
         "image_id": "78800",
@@ -1059,7 +1399,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14045",
         "image_id": "79460",
@@ -1071,7 +1415,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13935",
         "image_id": "79130",
@@ -1084,7 +1432,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13715",
         "image_id": "78470",
@@ -1096,7 +1448,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13784",
         "image_id": "78677",
@@ -1108,7 +1464,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14004",
         "image_id": "79337",
@@ -1120,7 +1480,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13894",
         "image_id": "79007",
@@ -1133,7 +1497,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13674",
         "image_id": "78347",
@@ -1145,7 +1513,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13801",
         "image_id": "78728",
@@ -1157,7 +1529,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14021",
         "image_id": "79388",
@@ -1169,7 +1545,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13911",
         "image_id": "79058",
@@ -1182,7 +1562,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13691",
         "image_id": "78398",
@@ -1194,7 +1578,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13791",
         "image_id": "78698",
@@ -1206,7 +1594,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14011",
         "image_id": "79358",
@@ -1218,7 +1610,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13901",
         "image_id": "79028",
@@ -1231,7 +1627,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13681",
         "image_id": "78368",
@@ -1243,7 +1643,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13776",
         "image_id": "78653",
@@ -1256,7 +1660,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13996",
         "image_id": "79313",
@@ -1268,7 +1676,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13886",
         "image_id": "78983",
@@ -1281,7 +1693,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13666",
         "image_id": "78323",
@@ -1293,7 +1709,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13817",
         "image_id": "78776",
@@ -1306,7 +1726,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14037",
         "image_id": "79436",
@@ -1318,7 +1742,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13927",
         "image_id": "79106",
@@ -1331,7 +1759,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13707",
         "image_id": "78446",
@@ -1343,7 +1775,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13741",
         "image_id": "78548",
@@ -1356,7 +1792,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13961",
         "image_id": "79208",
@@ -1368,7 +1808,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13851",
         "image_id": "78878",
@@ -1381,7 +1825,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13631",
         "image_id": "78218",
@@ -1393,7 +1841,11 @@
         "directive_points": "5",
         "completion_count": "1",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13796",
         "image_id": "78713",
@@ -1405,7 +1857,11 @@
         "directive_points": "10",
         "completion_count": "2",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14016",
         "image_id": "79373",
@@ -1418,7 +1874,11 @@
         "directive_points": "25",
         "completion_count": "3",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13906",
         "image_id": "79043",
@@ -1431,7 +1891,11 @@
         "directive_points": "100",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13686",
         "image_id": "78383",
@@ -1444,7 +1908,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13729",
         "image_id": "78512",
@@ -1456,7 +1924,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13949",
         "image_id": "79172",
@@ -1468,7 +1940,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13839",
         "image_id": "78842",
@@ -1481,7 +1957,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13619",
         "image_id": "78182",
@@ -1493,7 +1973,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13754",
         "image_id": "78587",
@@ -1505,7 +1989,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "13974",
         "image_id": "79247",
@@ -1518,7 +2006,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13864",
         "image_id": "78917",
@@ -1531,7 +2023,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13644",
         "image_id": "78257",
@@ -1543,7 +2039,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "14469",
         "image_id": "80288",
@@ -1556,7 +2056,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14481",
         "image_id": "80324",
@@ -1568,7 +2072,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "14475",
         "image_id": "80306",
@@ -1581,7 +2089,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "14463",
         "image_id": "80270",
@@ -1593,7 +2105,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "14468",
         "image_id": "80285",
@@ -1605,7 +2121,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14480",
         "image_id": "80321",
@@ -1618,7 +2138,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "14474",
         "image_id": "80303",
@@ -1631,7 +2155,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "14462",
         "image_id": "80267",
@@ -1644,7 +2172,11 @@
         "directive_points": "5",
         "completion_count": "3",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "82820",
         "image_id": "80683",
@@ -1657,7 +2189,11 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "82822",
         "image_id": "80688",
@@ -1670,7 +2206,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "82821",
         "image_id": "80685",
@@ -1683,7 +2223,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "82819",
         "image_id": "80680",
@@ -1696,7 +2240,11 @@
         "directive_points": "2",
         "completion_count": "3",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "80233",
         "image_id": "84284",
@@ -1709,7 +2257,11 @@
         "directive_points": "3",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "80235",
         "image_id": "84290",
@@ -1722,7 +2274,11 @@
         "directive_points": "5",
         "completion_count": "3",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "80234",
         "image_id": "84287",
@@ -1735,7 +2291,11 @@
         "directive_points": "10",
         "completion_count": "2",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "80232",
         "image_id": "84283",
@@ -1748,7 +2308,11 @@
         "directive_points": "0",
         "completion_count": "1",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "93048",
         "image_id": "81984",
@@ -1761,7 +2325,11 @@
         "directive_points": "0",
         "completion_count": "2",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "93050",
         "image_id": "81990",
@@ -1774,7 +2342,11 @@
         "directive_points": "0",
         "completion_count": "3",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "93049",
         "image_id": "81987",
@@ -1787,7 +2359,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "93047",
         "image_id": "81981",
@@ -1800,7 +2376,11 @@
         "directive_points": "5",
         "completion_count": "3",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "802634",
         "image_id": "84273",
@@ -1812,7 +2392,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "802808",
         "image_id": "84781",
@@ -1824,7 +2408,12 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "802810",
         "image_id": "84787",
@@ -1836,7 +2425,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "802809",
         "image_id": "84784",
@@ -1849,7 +2442,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "802807",
         "image_id": "84778",
@@ -1861,7 +2458,11 @@
         "directive_points": "5",
         "completion_count": "1",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "803379",
         "image_id": "86283",
@@ -1873,7 +2474,12 @@
         "directive_points": "10",
         "completion_count": "2",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "803381",
         "image_id": "86289",
@@ -1885,7 +2491,11 @@
         "directive_points": "25",
         "completion_count": "3",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "803380",
         "image_id": "86286",
@@ -1898,7 +2508,11 @@
         "directive_points": "100",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "803378",
         "image_id": "86280",
@@ -1910,7 +2524,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "14392",
         "image_id": "79727",
@@ -1922,7 +2540,12 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "14394",
         "image_id": "79733",
@@ -1935,7 +2558,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "14393",
         "image_id": "79730",
@@ -1948,7 +2575,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "14391",
         "image_id": "79724",
@@ -1960,7 +2591,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "14392",
         "image_id": "79727",
@@ -1972,7 +2607,12 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "14394",
         "image_id": "79733",
@@ -1984,7 +2624,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "14393",
         "image_id": "79730",
@@ -1997,7 +2641,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "14391",
         "image_id": "79724",
@@ -2009,7 +2657,11 @@
         "directive_points": "5",
         "completion_count": "3",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "82820",
         "image_id": "80683",
@@ -2022,7 +2674,12 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "82822",
         "image_id": "80688",
@@ -2035,7 +2692,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "82821",
         "image_id": "80685",
@@ -2048,7 +2709,11 @@
         "directive_points": "100",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "82819",
         "image_id": "80680",
@@ -2060,7 +2725,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "14392",
         "image_id": "79727",
@@ -2073,7 +2742,12 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "14394",
         "image_id": "79733",
@@ -2086,7 +2760,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "14393",
         "image_id": "79730",
@@ -2099,7 +2777,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "14391",
         "image_id": "79724",
@@ -2112,7 +2794,11 @@
         "directive_points": "0",
         "completion_count": "1",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "93048",
         "image_id": "81984",
@@ -2125,7 +2811,11 @@
         "directive_points": "0",
         "completion_count": "2",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "93050",
         "image_id": "81990",
@@ -2138,7 +2828,11 @@
         "directive_points": "0",
         "completion_count": "3",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "93049",
         "image_id": "81987",
@@ -2151,7 +2845,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "93047",
         "image_id": "81981",
@@ -2163,7 +2861,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "804477",
         "image_id": "89453",
@@ -2176,7 +2878,12 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "804479",
         "image_id": "89459",
@@ -2189,7 +2896,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "804478",
         "image_id": "89456",
@@ -2202,7 +2913,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "804476",
         "image_id": "89450",
@@ -2214,7 +2929,11 @@
         "directive_points": "0",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "804413",
         "image_id": "89264",
@@ -2227,7 +2946,12 @@
         "directive_points": "0",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "804415",
         "image_id": "89270",
@@ -2240,7 +2964,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "804414",
         "image_id": "89267",
@@ -2253,7 +2981,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "804412",
         "image_id": "89261",
@@ -2265,7 +2997,11 @@
         "reward_set_id": "4839",
         "completion_count": "3",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "82820",
         "image_id": "80683",
@@ -2277,7 +3013,12 @@
         "reward_set_id": "4838",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "82822",
         "image_id": "80688",
@@ -2289,7 +3030,11 @@
         "reward_set_id": "4837",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "82821",
         "image_id": "80685",
@@ -2301,7 +3046,11 @@
         "reward_set_id": "4840",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "82819",
         "image_id": "80680",
@@ -2314,7 +3063,11 @@
         "directive_points": "0",
         "completion_count": "1",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "93048",
         "image_id": "81984",
@@ -2327,7 +3080,11 @@
         "directive_points": "0",
         "completion_count": "2",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "93050",
         "image_id": "81990",
@@ -2340,7 +3097,11 @@
         "directive_points": "0",
         "completion_count": "3",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "93049",
         "image_id": "81987",
@@ -2353,7 +3114,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "93047",
         "image_id": "81981",
@@ -2365,7 +3130,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13807",
         "image_id": "78746",
@@ -2377,7 +3146,12 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "14027",
         "image_id": "79406",
@@ -2389,7 +3163,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13917",
         "image_id": "79076",
@@ -2402,7 +3180,11 @@
         "directive_points": "100",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13697",
         "image_id": "78416",
@@ -2414,7 +3196,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13809",
         "image_id": "78752",
@@ -2426,7 +3212,12 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "14029",
         "image_id": "79412",
@@ -2438,7 +3229,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13919",
         "image_id": "79082",
@@ -2451,7 +3246,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13699",
         "image_id": "78422",
@@ -2463,7 +3262,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13796",
         "image_id": "78713",
@@ -2475,7 +3278,12 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "14016",
         "image_id": "79373",
@@ -2487,7 +3295,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13906",
         "image_id": "79043",
@@ -2500,7 +3312,11 @@
         "directive_points": "100",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13686",
         "image_id": "78383",
@@ -2512,7 +3328,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13726",
         "image_id": "78503",
@@ -2524,7 +3344,12 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "13946",
         "image_id": "79163",
@@ -2536,7 +3361,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13836",
         "image_id": "78833",
@@ -2549,7 +3378,11 @@
         "directive_points": "100",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13616",
         "image_id": "78173",
@@ -2561,7 +3394,11 @@
         "directive_points": "5",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "13754",
         "image_id": "78587",
@@ -2573,7 +3410,12 @@
         "directive_points": "10",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "13974",
         "image_id": "79247",
@@ -2585,7 +3427,11 @@
         "directive_points": "25",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "13864",
         "image_id": "78917",
@@ -2598,7 +3444,11 @@
         "directive_points": "100",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "13644",
         "image_id": "78257",
@@ -2611,7 +3461,11 @@
         "directive_points": "0",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "804872",
         "image_id": "90413",
@@ -2624,7 +3478,11 @@
         "directive_points": "0",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "804874",
         "image_id": "90419",
@@ -2637,7 +3495,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "804873",
         "image_id": "90416",
@@ -2650,7 +3512,11 @@
         "directive_points": "0",
         "completion_count": "6",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "804871",
         "image_id": "90410",
@@ -2663,7 +3529,11 @@
         "directive_points": "0",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "804413",
         "image_id": "89264",
@@ -2676,7 +3546,12 @@
         "directive_points": "0",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "804415",
         "image_id": "89270",
@@ -2689,7 +3564,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "804414",
         "image_id": "89267",
@@ -2702,7 +3581,11 @@
         "directive_points": "0",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "804412",
         "image_id": "89261",
@@ -2714,7 +3597,11 @@
         "reward_set_id": "5317",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "82820",
         "image_id": "80683",
@@ -2726,7 +3613,12 @@
         "reward_set_id": "5321",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "82822",
         "image_id": "80688",
@@ -2738,7 +3630,11 @@
         "reward_set_id": "5322",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "82821",
         "image_id": "80685",
@@ -2750,7 +3646,11 @@
         "reward_set_id": "5323",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "82819",
         "image_id": "80680",
@@ -2762,7 +3662,11 @@
         "reward_set_id": "5317",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "82820",
         "image_id": "80683",
@@ -2774,7 +3678,12 @@
         "reward_set_id": "5321",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "82822",
         "image_id": "80688",
@@ -2786,7 +3695,11 @@
         "reward_set_id": "5322",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "82821",
         "image_id": "80685",
@@ -2798,7 +3711,11 @@
         "reward_set_id": "5323",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "82819",
         "image_id": "80680",
@@ -2810,7 +3727,11 @@
         "directive_points": "5",
         "completion_count": "5",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "14392",
         "image_id": "79727",
@@ -2822,7 +3743,11 @@
         "directive_points": "10",
         "completion_count": "5",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "14394",
         "image_id": "79733",
@@ -2834,7 +3759,11 @@
         "directive_points": "25",
         "completion_count": "6",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "14393",
         "image_id": "79730",
@@ -2847,7 +3776,11 @@
         "directive_points": "100",
         "completion_count": "6",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "14391",
         "image_id": "79724",
@@ -2860,7 +3793,11 @@
         "directive_points": "0",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "93048",
         "image_id": "81984",
@@ -2873,7 +3810,11 @@
         "directive_points": "0",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "93050",
         "image_id": "81990",
@@ -2886,7 +3827,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "93049",
         "image_id": "81987",
@@ -2899,7 +3844,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "93047",
         "image_id": "81981",
@@ -2912,7 +3861,11 @@
         "directive_points": "5",
         "completion_count": "3",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "802634",
         "image_id": "84273",
@@ -2925,7 +3878,11 @@
         "directive_points": "0",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "804413",
         "image_id": "89264",
@@ -2938,7 +3895,12 @@
         "directive_points": "0",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "804415",
         "image_id": "89270",
@@ -2951,7 +3913,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "804414",
         "image_id": "89267",
@@ -2964,7 +3930,11 @@
         "directive_points": "0",
         "completion_count": "5",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "804412",
         "image_id": "89261",
@@ -2976,7 +3946,11 @@
         "directive_points": "5",
         "completion_count": "9",
         "name": {
-            "en": "Codex Collection"
+            "de": "Kodexsammlung",
+            "en": "Codex Collection",
+            "es": "Colecci\u00f3n del C\u00f3dice",
+            "fr": "Collection de codex",
+            "it": "Raccolta Manoscritti"
         },
         "image_set_id": "806449",
         "image_id": "92912",
@@ -2988,7 +3962,11 @@
         "reward_set_id": "5901",
         "completion_count": "4",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "82820",
         "image_id": "80683",
@@ -3000,7 +3978,12 @@
         "reward_set_id": "5902",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "82822",
         "image_id": "80688",
@@ -3012,7 +3995,11 @@
         "reward_set_id": "5903",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "82821",
         "image_id": "80685",
@@ -3024,7 +4011,11 @@
         "reward_set_id": "5904",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "82819",
         "image_id": "80680",
@@ -3036,7 +4027,11 @@
         "directive_points": "5",
         "completion_count": "5",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "14392",
         "image_id": "79727",
@@ -3048,7 +4043,12 @@
         "directive_points": "10",
         "completion_count": "5",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         },
         "image_set_id": "14394",
         "image_id": "79733",
@@ -3060,7 +4060,11 @@
         "directive_points": "25",
         "completion_count": "6",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "14393",
         "image_id": "79730",
@@ -3073,7 +4077,11 @@
         "directive_points": "100",
         "completion_count": "6",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "14391",
         "image_id": "79724",
@@ -3086,7 +4094,11 @@
         "directive_points": "0",
         "completion_count": "3",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "93048",
         "image_id": "81984",
@@ -3099,7 +4111,11 @@
         "directive_points": "0",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "93050",
         "image_id": "81990",
@@ -3112,7 +4128,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "93049",
         "image_id": "81987",
@@ -3125,7 +4145,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "93047",
         "image_id": "81981",
@@ -3138,7 +4162,11 @@
         "directive_points": "0",
         "completion_count": "2",
         "name": {
-            "en": "Novice"
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
         },
         "image_set_id": "80233",
         "image_id": "84284",
@@ -3151,7 +4179,11 @@
         "directive_points": "0",
         "completion_count": "3",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
         },
         "image_set_id": "80235",
         "image_id": "84290",
@@ -3164,7 +4196,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Expert"
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
         },
         "image_set_id": "80234",
         "image_id": "84287",
@@ -3177,7 +4213,11 @@
         "directive_points": "0",
         "completion_count": "4",
         "name": {
-            "en": "Master"
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
         },
         "image_set_id": "80232",
         "image_id": "84283",

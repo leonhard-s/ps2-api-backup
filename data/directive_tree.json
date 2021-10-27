@@ -3,7 +3,11 @@
         "directive_tree_id": "4",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Carbines"
+            "de": "Karabiner",
+            "en": "Carbines",
+            "es": "Carabinas",
+            "fr": "Carabines",
+            "it": "Carabine"
         },
         "image_set_id": "14164",
         "image_id": "79587",
@@ -13,7 +17,11 @@
         "directive_tree_id": "6",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Sniper Rifles"
+            "de": "Scharfsch\u00fctzengewehre",
+            "en": "Sniper Rifles",
+            "es": "Rifles de francotirador",
+            "fr": "Fusils de pr\u00e9cision",
+            "it": "Fucili di precisione"
         },
         "image_set_id": "14222",
         "image_id": "79645",
@@ -23,7 +31,11 @@
         "directive_tree_id": "8",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Light Machine Guns"
+            "de": "Leichte Maschinengewehre",
+            "en": "Light Machine Guns",
+            "es": "Ametralladoras ligeras",
+            "fr": "Mitrailleuses l\u00e9g\u00e8res",
+            "it": "Mitragliatrici leggere"
         },
         "image_set_id": "14193",
         "image_id": "79616",
@@ -33,7 +45,11 @@
         "directive_tree_id": "10",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Assault Rifles"
+            "de": "Angriffsgewehre",
+            "en": "Assault Rifles",
+            "es": "Rifles de asalto",
+            "fr": "Fusils d'assaut",
+            "it": "Fucili d'assalto"
         },
         "image_set_id": "14160",
         "image_id": "79583",
@@ -43,7 +59,11 @@
         "directive_tree_id": "13",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Shotguns"
+            "de": "Schrotflinten",
+            "en": "Shotguns",
+            "es": "Escopetas",
+            "fr": "Fusils",
+            "it": "Fucili"
         },
         "image_set_id": "14233",
         "image_id": "79656",
@@ -53,7 +73,11 @@
         "directive_tree_id": "15",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Submachine Guns"
+            "de": "Maschinenpistolen",
+            "en": "Submachine Guns",
+            "es": "Subfusiles",
+            "fr": "Mitraillettes",
+            "it": "Mitra"
         },
         "image_set_id": "14238",
         "image_id": "79661",
@@ -63,7 +87,11 @@
         "directive_tree_id": "17",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Sidearms"
+            "de": "Seitenwaffen",
+            "en": "Sidearms",
+            "es": "Armas auxiliares",
+            "fr": "Armes de poing",
+            "it": "Armi secondarie"
         },
         "image_set_id": "14235",
         "image_id": "79658",
@@ -73,7 +101,11 @@
         "directive_tree_id": "21",
         "directive_tree_category_id": "3",
         "name": {
-            "en": "Explosives"
+            "de": "Sprengstoff",
+            "en": "Explosives",
+            "es": "Explosivos",
+            "fr": "Explosifs",
+            "it": "Esplosivi"
         },
         "image_set_id": "14170",
         "image_id": "79593",
@@ -83,7 +115,12 @@
         "directive_tree_id": "23",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Liberator"
+            "de": "Liberator",
+            "en": "Liberator",
+            "es": "Liberator",
+            "fr": "Lib\u00e9rateur",
+            "it": "Liberator",
+            "tr": "KURTARICI"
         },
         "image_set_id": "14184",
         "image_id": "79607",
@@ -93,7 +130,12 @@
         "directive_tree_id": "24",
         "directive_tree_category_id": "3",
         "name": {
-            "en": "Light Assault"
+            "de": "Leichte Angriffseinheit",
+            "en": "Light Assault",
+            "es": "Asalto ligero",
+            "fr": "Assaut l\u00e9ger",
+            "it": "Assalto Leggero",
+            "tr": "Hafif Taarruz"
         },
         "image_set_id": "13589",
         "image_id": "77993",
@@ -103,7 +145,12 @@
         "directive_tree_id": "25",
         "directive_tree_category_id": "3",
         "name": {
-            "en": "Infiltrator"
+            "de": "Spion",
+            "en": "Infiltrator",
+            "es": "Infiltrado",
+            "fr": "Infiltr\u00e9",
+            "it": "Infiltrato",
+            "tr": "Casus"
         },
         "image_set_id": "13587",
         "image_id": "77991",
@@ -113,7 +160,12 @@
         "directive_tree_id": "26",
         "directive_tree_category_id": "3",
         "name": {
-            "en": "Engineer"
+            "de": "Ingenieur",
+            "en": "Engineer",
+            "es": "Ingeniero",
+            "fr": "Ing\u00e9nieur",
+            "it": "Geniere",
+            "tr": "M\u00fchendis"
         },
         "image_set_id": "13585",
         "image_id": "77989",
@@ -123,7 +175,12 @@
         "directive_tree_id": "27",
         "directive_tree_category_id": "3",
         "name": {
-            "en": "Heavy Assault"
+            "de": "Schwere Angriffseinheit",
+            "en": "Heavy Assault",
+            "es": "Asalto pesado",
+            "fr": "Assaut lourd",
+            "it": "Assalto Pesante",
+            "tr": "A\u011f\u0131r Taarruz"
         },
         "image_set_id": "13586",
         "image_id": "77990",
@@ -133,7 +190,12 @@
         "directive_tree_id": "28",
         "directive_tree_category_id": "3",
         "name": {
-            "en": "Combat Medic"
+            "de": "Sanit\u00e4ter",
+            "en": "Combat Medic",
+            "es": "M\u00e9dico de combate",
+            "fr": "M\u00e9decin de combat",
+            "it": "Medico da campo",
+            "tr": "S\u0131hh\u0131yeci"
         },
         "image_set_id": "13583",
         "image_id": "77987",
@@ -143,7 +205,12 @@
         "directive_tree_id": "29",
         "directive_tree_category_id": "3",
         "name": {
-            "en": "MAX"
+            "de": "MAX-Einheit",
+            "en": "MAX",
+            "es": "MAX",
+            "fr": "XAM",
+            "it": "MAX",
+            "tr": "MAX"
         },
         "image_set_id": "13590",
         "image_id": "77994",
@@ -153,7 +220,11 @@
         "directive_tree_id": "31",
         "directive_tree_category_id": "3",
         "name": {
-            "en": "Force Recon"
+            "de": "Machtaufkl\u00e4rer",
+            "en": "Force Recon",
+            "es": "Reconocimiento de fuerza",
+            "fr": "Force de Reconnaissance",
+            "it": "Ricognizione della forza"
         },
         "image_set_id": "13588",
         "image_id": "77992",
@@ -163,10 +234,18 @@
         "directive_tree_id": "33",
         "directive_tree_category_id": "11",
         "name": {
-            "en": "Exceptional"
+            "de": "Au\u00dfergew\u00f6hnlich",
+            "en": "Exceptional",
+            "es": "Excepcional",
+            "fr": "Exceptionnel",
+            "it": "Eccezionale"
         },
         "description": {
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
+            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
+            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
+            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
+            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
         },
         "image_set_id": "14396",
         "image_id": "79737",
@@ -176,7 +255,12 @@
         "directive_tree_id": "34",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Flash"
+            "de": "Flash",
+            "en": "Flash",
+            "es": "Flash",
+            "fr": "Flash",
+            "it": "Flash",
+            "tr": "\u015e\u0130M\u015eEK"
         },
         "image_set_id": "14214",
         "image_id": "79637",
@@ -186,7 +270,12 @@
         "directive_tree_id": "35",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Harasser"
+            "de": "Harasser",
+            "en": "Harasser",
+            "es": "Harasser",
+            "fr": "Offenseur",
+            "it": "Harasser",
+            "tr": "Tacizci"
         },
         "image_set_id": "14175",
         "image_id": "79598",
@@ -196,7 +285,12 @@
         "directive_tree_id": "36",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Lightning"
+            "de": "Lightning",
+            "en": "Lightning",
+            "es": "Lightning",
+            "fr": "Foudre",
+            "it": "Lightning",
+            "tr": "YILDIRIM"
         },
         "image_set_id": "14188",
         "image_id": "79611",
@@ -206,7 +300,12 @@
         "directive_tree_id": "37",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Magrider"
+            "de": "Magrider",
+            "en": "Magrider",
+            "es": "Magrider",
+            "fr": "A\u00e9rochar",
+            "it": "Magrider",
+            "tr": "S\u00dcVAR\u0130"
         },
         "image_set_id": "14195",
         "image_id": "79618",
@@ -216,7 +315,12 @@
         "directive_tree_id": "38",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Vanguard"
+            "de": "Vanguard",
+            "en": "Vanguard",
+            "es": "Vanguard",
+            "fr": "\u00c9claireur",
+            "it": "Vanguard",
+            "tr": "\u00d6NC\u00dc"
         },
         "image_set_id": "14250",
         "image_id": "79673",
@@ -226,7 +330,12 @@
         "directive_tree_id": "39",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Prowler"
+            "de": "Prowler",
+            "en": "Prowler",
+            "es": "Prowler",
+            "fr": "Pr\u00e9dateur",
+            "it": "Prowler",
+            "tr": "S\u0130NS\u0130"
         },
         "image_set_id": "14210",
         "image_id": "79633",
@@ -236,7 +345,12 @@
         "directive_tree_id": "40",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Scythe"
+            "de": "Scythe",
+            "en": "Scythe",
+            "es": "Scythe",
+            "fr": "Faucheuse",
+            "it": "Scythe",
+            "tr": "TIRPAN"
         },
         "image_set_id": "14227",
         "image_id": "79650",
@@ -246,7 +360,12 @@
         "directive_tree_id": "41",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Reaver"
+            "de": "Reaver",
+            "en": "Reaver",
+            "es": "Reaver",
+            "fr": "Ravageur",
+            "it": "Reaver",
+            "tr": "YA\u011eMACI"
         },
         "image_set_id": "14217",
         "image_id": "79640",
@@ -256,7 +375,12 @@
         "directive_tree_id": "42",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Mosquito"
+            "de": "Mosquito",
+            "en": "Mosquito",
+            "es": "Mosquito",
+            "fr": "Mosquito",
+            "it": "Mosquito",
+            "tr": "S\u0130VR\u0130S\u0130NEK"
         },
         "image_set_id": "14202",
         "image_id": "79625",
@@ -266,7 +390,12 @@
         "directive_tree_id": "43",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Sunderer"
+            "de": "Sunderer",
+            "en": "Sunderer",
+            "es": "Sunderer",
+            "fr": "Disperseur",
+            "it": "Sunderer",
+            "tr": "YARICI"
         },
         "image_set_id": "14243",
         "image_id": "79666",
@@ -276,7 +405,12 @@
         "directive_tree_id": "44",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Galaxy"
+            "de": "Galaxy",
+            "en": "Galaxy",
+            "es": "Galaxy",
+            "fr": "Galaxie",
+            "it": "Galaxy",
+            "tr": "GALAKS\u0130"
         },
         "image_set_id": "14172",
         "image_id": "79595",
@@ -286,7 +420,11 @@
         "directive_tree_id": "45",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Scout Rifles"
+            "de": "Scout-Gewehre",
+            "en": "Scout Rifles",
+            "es": "Rifles Scout",
+            "fr": "Fusils d'\u00e9claireur",
+            "it": "Fucili di ricognizione"
         },
         "image_set_id": "14222",
         "image_id": "79645",
@@ -296,7 +434,11 @@
         "directive_tree_id": "46",
         "directive_tree_category_id": "5",
         "name": {
-            "en": "Objectives"
+            "de": "Einsatzziele",
+            "en": "Objectives",
+            "es": "Objetivos",
+            "fr": "Objectifs",
+            "it": "Obiettivi"
         },
         "image_set_id": "14163",
         "image_id": "79586",
@@ -306,7 +448,11 @@
         "directive_tree_id": "47",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Launchers"
+            "de": "Werfer",
+            "en": "Launchers",
+            "es": "Lanzadores",
+            "fr": "Lanceurs",
+            "it": "Lanciarazzi"
         },
         "image_set_id": "14182",
         "image_id": "79605",
@@ -316,7 +462,12 @@
         "directive_tree_id": "48",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "Valkyrie"
+            "de": "Valkyrie",
+            "en": "Valkyrie",
+            "es": "Valkyrie",
+            "fr": "Valkyrie",
+            "it": "Valkyrie",
+            "tr": "Valkyrie"
         },
         "image_set_id": "14493",
         "image_id": "80344",
@@ -326,7 +477,11 @@
         "directive_tree_id": "49",
         "directive_tree_category_id": "5",
         "name": {
-            "en": "Leadership"
+            "de": "F\u00fchrung",
+            "en": "Leadership",
+            "es": "Liderazgo",
+            "fr": "Commandement",
+            "it": "Leadership"
         },
         "image_set_id": "14492",
         "image_id": "80343",
@@ -336,7 +491,11 @@
         "directive_tree_id": "50",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Halloween"
+            "de": "Halloween",
+            "en": "Halloween",
+            "es": "Halloween",
+            "fr": "Halloween",
+            "it": "Halloween"
         },
         "image_set_id": "82818",
         "image_id": "80676",
@@ -346,7 +505,12 @@
         "directive_tree_id": "51",
         "directive_tree_category_id": "9",
         "name": {
-            "en": "Basic Training"
+            "de": "Grundausbildung",
+            "en": "Basic Training",
+            "es": "Entrenamiento b\u00e1sico",
+            "fr": "Entra\u00eenement de base",
+            "it": "Addestramento reclute",
+            "tr": "Basic"
         },
         "image_set_id": "802639",
         "image_id": "84293",
@@ -356,17 +520,29 @@
         "directive_tree_id": "53",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Holiday"
+            "de": "Feiertag",
+            "en": "Holiday",
+            "es": "Festividad",
+            "fr": "F\u00eate",
+            "it": "Feste"
         }
     },
     {
         "directive_tree_id": "56",
         "directive_tree_category_id": "9",
         "name": {
-            "en": "Social"
+            "de": "Kontakte",
+            "en": "Social",
+            "es": "Social",
+            "fr": "Social",
+            "it": "Contatti"
         },
         "description": {
-            "en": "Interact with others to earn rewards."
+            "de": "Interagiere mit anderen, um Belohnungen zu erhalten.",
+            "en": "Interact with others to earn rewards.",
+            "es": "Interact\u00faa con otros jugadores para conseguir recompensas.",
+            "fr": "Interagissez avec d'autres pour gagner des r\u00e9compenses.",
+            "it": "Interagisci con altri per guadagnare premi."
         },
         "image_set_id": "802640",
         "image_id": "84294",
@@ -376,7 +552,11 @@
         "directive_tree_id": "57",
         "directive_tree_category_id": "11",
         "name": {
-            "en": "Bounties"
+            "de": "Kopfgelder",
+            "en": "Bounties",
+            "es": "Recompensas",
+            "fr": "Primes",
+            "it": "Taglie"
         },
         "image_set_id": "802811",
         "image_id": "84790",
@@ -386,7 +566,11 @@
         "directive_tree_id": "59",
         "directive_tree_category_id": "4",
         "name": {
-            "en": "ANT"
+            "de": "FNT",
+            "en": "ANT",
+            "es": "ANT",
+            "fr": "TNA",
+            "it": "ANT"
         },
         "image_set_id": "803460",
         "image_id": "86536",
@@ -396,10 +580,18 @@
         "directive_tree_id": "61",
         "directive_tree_category_id": "11",
         "name": {
-            "en": "NS Export Series"
+            "de": "NS Export-Serie",
+            "en": "NS Export Series",
+            "es": "Serie de exportaci\u00f3n NS",
+            "fr": "S\u00e9rie \"Exportation\" de NS",
+            "it": "Serie esportazione NS"
         },
         "description": {
-            "en": "Weapons from the Nanite Systems Export series."
+            "de": "Waffen aus der Export-Serie von Nanite Systems.",
+            "en": "Weapons from the Nanite Systems Export series.",
+            "es": "Armas de la serie de exportaci\u00f3n de Nanite Systems.",
+            "fr": "Armes de la s\u00e9rie \"Exportation\" de Nanite Systems.",
+            "it": "Armi della serie esportazione Nanite Systems."
         },
         "image_set_id": "14396",
         "image_id": "79737",
@@ -409,10 +601,18 @@
         "directive_tree_id": "62",
         "directive_tree_category_id": "11",
         "name": {
-            "en": "Mayhem Series"
+            "de": "Mayhem-Serie",
+            "en": "Mayhem Series",
+            "es": "Serie Caos",
+            "fr": "S\u00e9ries Chaos",
+            "it": "Serie Mayhem"
         },
         "description": {
-            "en": "Weapons from the Mayhem series."
+            "de": "Waffen aus der Mayhem-Serie",
+            "en": "Weapons from the Mayhem series.",
+            "es": "Armas de la serie Caos.",
+            "fr": "Armes de la S\u00e9rie Chaos.",
+            "it": "Armi della serie Mayhem."
         },
         "image_set_id": "14396",
         "image_id": "79737",
@@ -422,7 +622,11 @@
         "directive_tree_id": "64",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Halloween II"
+            "de": "Halloween II",
+            "en": "Halloween II",
+            "es": "Halloween II ",
+            "fr": "Halloween II",
+            "it": "Halloween II"
         },
         "image_set_id": "82818",
         "image_id": "80676",
@@ -432,10 +636,18 @@
         "directive_tree_id": "65",
         "directive_tree_category_id": "11",
         "name": {
-            "en": "Exceptional II"
+            "de": "Au\u00dfergew\u00f6hnlich II",
+            "en": "Exceptional II",
+            "es": "Excepcional II",
+            "fr": "Exceptionnel II",
+            "it": "Eccezionale II"
         },
         "description": {
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
+            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
+            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
+            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
+            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
         },
         "image_set_id": "14396",
         "image_id": "79737",
@@ -445,14 +657,22 @@
         "directive_tree_id": "66",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Holiday II"
+            "de": "Feiertag II",
+            "en": "Holiday II",
+            "es": "Festividades II",
+            "fr": "F\u00eates II",
+            "it": "Feste II"
         }
     },
     {
         "directive_tree_id": "68",
         "directive_tree_category_id": "5",
         "name": {
-            "en": "Construction"
+            "de": "Konstruktion",
+            "en": "Construction",
+            "es": "Construcci\u00f3n",
+            "fr": "Construction",
+            "it": "Costruzione"
         },
         "image_set_id": "804480",
         "image_id": "89462",
@@ -462,14 +682,23 @@
         "directive_tree_id": "69",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Summer Fun"
+            "de": "Sommerspa\u00df",
+            "en": "Summer Fun",
+            "es": "Diversi\u00f3n veraniega",
+            "fr": "Fun estival",
+            "it": "Tempo d'estate",
+            "tr": "Yaz E\u011flencesi"
         }
     },
     {
         "directive_tree_id": "70",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Halloween III"
+            "de": "Halloween III",
+            "en": "Halloween III",
+            "es": "Halloween III",
+            "fr": "Halloween III",
+            "it": "Halloween III"
         },
         "image_set_id": "82818",
         "image_id": "80676",
@@ -479,14 +708,22 @@
         "directive_tree_id": "71",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Auraximas III"
+            "de": "Auraximas III",
+            "en": "Auraximas III",
+            "es": "Auraxidad III",
+            "fr": "Auraximas III",
+            "it": "Auraximas III"
         }
     },
     {
         "directive_tree_id": "72",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "CQC Primary"
+            "de": "Prim\u00e4rwaffe Nahkampf",
+            "en": "CQC Primary",
+            "es": "CQC Principal",
+            "fr": "Armes de combat rapproch\u00e9 principales",
+            "it": "Primaria per combattimento ravvicinato"
         },
         "image_set_id": "14233",
         "image_id": "79656",
@@ -496,7 +733,11 @@
         "directive_tree_id": "73",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Sidearms"
+            "de": "Seitenwaffen",
+            "en": "Sidearms",
+            "es": "Armas auxiliares",
+            "fr": "Armes de poing",
+            "it": "Armi secondarie"
         },
         "image_set_id": "14235",
         "image_id": "79658",
@@ -506,7 +747,11 @@
         "directive_tree_id": "74",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Long Rifles"
+            "de": "Lange Gewehre",
+            "en": "Long Rifles",
+            "es": "Rifles largos",
+            "fr": "Fusils longue port\u00e9e",
+            "it": "Fucili lunghi"
         },
         "image_set_id": "14222",
         "image_id": "79645",
@@ -516,7 +761,11 @@
         "directive_tree_id": "75",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Assault Weapons"
+            "de": "Angriffswaffen",
+            "en": "Assault Weapons",
+            "es": "Armas de asalto",
+            "fr": "Armes d'assaut",
+            "it": "Armi da assalto"
         },
         "image_set_id": "14160",
         "image_id": "79583",
@@ -526,7 +775,11 @@
         "directive_tree_id": "76",
         "directive_tree_category_id": "7",
         "name": {
-            "en": "Launchers"
+            "de": "Werfer",
+            "en": "Launchers",
+            "es": "Lanzadores",
+            "fr": "Lanceurs",
+            "it": "Lanciarazzi"
         },
         "image_set_id": "14182",
         "image_id": "79605",
@@ -536,24 +789,41 @@
         "directive_tree_id": "77",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "EverQuest's 20th Anniversary"
+            "de": "20. Geburtstag von EverQuest",
+            "en": "EverQuest's 20th Anniversary",
+            "es": "Vig\u00e9simo aniversario de EverQuest",
+            "fr": "20e anniversaire d'EverQuest",
+            "it": "20esimo Anniversario di EverQuest"
         }
     },
     {
         "directive_tree_id": "79",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Summer Fun"
+            "de": "Sommerspa\u00df",
+            "en": "Summer Fun",
+            "es": "Diversi\u00f3n veraniega",
+            "fr": "Fun estival",
+            "it": "Tempo d'estate",
+            "tr": "Yaz E\u011flencesi"
         },
         "description": {
-            "en": "Available until September 1st."
+            "de": "Verf\u00fcgbar bis 1. September",
+            "en": "Available until September 1st.",
+            "es": "Disponible hasta el 1 de septiembre.",
+            "fr": "Disponible jusqu'au 1er septembre",
+            "it": "Disponibile fino all'1 settembre"
         }
     },
     {
         "directive_tree_id": "81",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Halloween 2019"
+            "de": "Halloween 2019",
+            "en": "Halloween 2019",
+            "es": "Halloween 2019",
+            "fr": "Halloween 2019",
+            "it": "Halloween 2019"
         },
         "image_set_id": "82818",
         "image_id": "80676",
@@ -563,7 +833,11 @@
         "directive_tree_id": "82",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Halloween 2019"
+            "de": "Halloween 2019",
+            "en": "Halloween 2019",
+            "es": "Halloween 2019",
+            "fr": "Halloween 2019",
+            "it": "Halloween 2019"
         },
         "image_set_id": "82818",
         "image_id": "80676",
@@ -573,10 +847,18 @@
         "directive_tree_id": "83",
         "directive_tree_category_id": "11",
         "name": {
-            "en": "Exceptional III"
+            "de": "Au\u00dfergew\u00f6hnlich III",
+            "en": "Exceptional III",
+            "es": "Excepcional III",
+            "fr": "Exceptionnel III",
+            "it": "Eccezionale III"
         },
         "description": {
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
+            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
+            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
+            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
+            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
         },
         "image_set_id": "14396",
         "image_id": "79737",
@@ -586,17 +868,29 @@
         "directive_tree_id": "84",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Auraximas 2019"
+            "de": "Auraximas 2019",
+            "en": "Auraximas 2019",
+            "es": "Auraxidad 2019",
+            "fr": "Auraximas 2019",
+            "it": "Auraximas 2019"
         },
         "description": {
-            "en": "Dec. 18 - Jan. 5"
+            "de": "18. Dezember - 5. Januar",
+            "en": "Dec. 18 - Jan. 5",
+            "es": "Del 18 de diciembre al 5 de enero",
+            "fr": "18 d\u00e9c. - 5 jan.",
+            "it": "18 dic - 5 gen."
         }
     },
     {
         "directive_tree_id": "85",
         "directive_tree_category_id": "9",
         "name": {
-            "en": "Sanctuary"
+            "de": "Schutzzone",
+            "en": "Sanctuary",
+            "es": "Santuario",
+            "fr": "Sanctuaire",
+            "it": "Santuario"
         },
         "image_set_id": "14201",
         "image_id": "79624",
@@ -606,26 +900,46 @@
         "directive_tree_id": "88",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Summer Fun 2020"
+            "de": "Sommerspa\u00df 2020",
+            "en": "Summer Fun 2020",
+            "es": "Diversi\u00f3n de verano 2020",
+            "fr": "Fun estival 2020",
+            "it": "Divertimento estivo 2020"
         },
         "description": {
-            "en": "Available until August 16."
+            "de": "Verf\u00fcgbar bis 16. August",
+            "en": "Available until August 16.",
+            "es": "Disponible hasta el 16 de agosto",
+            "fr": "Disponible jusqu'au 16 ao\u00fbt.",
+            "it": "Disponibile fino al 16 agosto"
         }
     },
     {
         "directive_tree_id": "89",
         "name": {
-            "en": "Campaign 01"
+            "de": "Kampagne 01",
+            "en": "Campaign 01",
+            "es": "Campa\u00f1a 01",
+            "fr": "Campagne 01",
+            "it": "Campagna 01"
         },
         "description": {
-            "en": "Codex entries related to The Shattered Warpgate campaign."
+            "de": "Kodexeintr\u00e4ge \u00fcber die Kampagne \"Das zertr\u00fcmmerte Warptor\".",
+            "en": "Codex entries related to The Shattered Warpgate campaign.",
+            "es": "Entradas del C\u00f3dice relacionadas con la campa\u00f1a del Warpgate quebrantado.",
+            "fr": "Les entr\u00e9es du codex en lien avec la campagne \"La Warpgate bris\u00e9e\".",
+            "it": "Voci del Manoscritto relativi alla campagna: I warpgate distrutti."
         }
     },
     {
         "directive_tree_id": "90",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Halloween VII"
+            "de": "Halloween VII",
+            "en": "Halloween VII",
+            "es": "Halloween VII",
+            "fr": "Halloween VII",
+            "it": "Halloween VII"
         },
         "image_set_id": "82818",
         "image_id": "80676",
@@ -635,10 +949,18 @@
         "directive_tree_id": "92",
         "directive_tree_category_id": "11",
         "name": {
-            "en": "Exceptional IV"
+            "de": "Au\u00dfergew\u00f6hnlich IV",
+            "en": "Exceptional IV",
+            "es": "Excepcional IV",
+            "fr": "Exceptionnel IV",
+            "it": "Eccezionale IV"
         },
         "description": {
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion."
+            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
+            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
+            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
+            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
+            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
         },
         "image_set_id": "14396",
         "image_id": "79737",
@@ -648,20 +970,36 @@
         "directive_tree_id": "93",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Auraximas 2020"
+            "de": "Auraximas 2020",
+            "en": "Auraximas 2020",
+            "es": "Auraxidad 2020",
+            "fr": "Auraximas 2020",
+            "it": "Auraximas 2020"
         },
         "description": {
-            "en": "Dec. 16 - Jan. 3"
+            "de": "16. Dez. - 3. Jan.",
+            "en": "Dec. 16 - Jan. 3",
+            "es": "Del 16 de diciembre al 3 de enero",
+            "fr": "16 d\u00e9c. - 3 jan.",
+            "it": "16 dicembre - 3 gennaio"
         }
     },
     {
         "directive_tree_id": "94",
         "directive_tree_category_id": "8",
         "name": {
-            "en": "Valentine's Day 2021"
+            "de": "Valentinstag 2021",
+            "en": "Valentine's Day 2021",
+            "es": "San Valent\u00edn 2021",
+            "fr": "Saint-Valentin 2021",
+            "it": "San Valentino 2021"
         },
         "description": {
-            "en": "Feb. 9 - Feb. 14"
+            "de": "9. Feb. - 14. Feb.",
+            "en": "Feb. 9 - Feb. 14",
+            "es": "9 de feb. - 14 de feb.",
+            "fr": "9 f\u00e9v. - 14 f\u00e9v.",
+            "it": "9-14 febbraio"
         }
     }
 ]

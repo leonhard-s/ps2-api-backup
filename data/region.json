@@ -4,7 +4,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Hvar"
+            "de": "Hvar",
+            "en": "Hvar",
+            "es": "Hvar",
+            "fr": "Hvar",
+            "it": "Hvar",
+            "tr": "Hvar"
         }
     },
     {
@@ -12,7 +17,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Mao"
+            "de": "Mao",
+            "en": "Mao",
+            "es": "Mao",
+            "fr": "Mao",
+            "it": "Mao",
+            "tr": "Mao"
         }
     },
     {
@@ -20,7 +30,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Allatum"
+            "de": "Allatum",
+            "en": "Allatum",
+            "es": "Allatum",
+            "fr": "Allatum",
+            "it": "Allatum",
+            "tr": "Allatum"
         }
     },
     {
@@ -28,7 +43,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Saurva"
+            "de": "Saurva",
+            "en": "Saurva",
+            "es": "Saurva",
+            "fr": "Saurva",
+            "it": "Saurva",
+            "tr": "Saurva"
         }
     },
     {
@@ -36,7 +56,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Peris"
+            "de": "Peris",
+            "en": "Peris",
+            "es": "Peris",
+            "fr": "Peris",
+            "it": "Peris",
+            "tr": "Peris"
         }
     },
     {
@@ -44,7 +69,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Rashnu"
+            "de": "Rashnu",
+            "en": "Rashnu",
+            "es": "Rashnu",
+            "fr": "Rashnu",
+            "it": "Rashnu",
+            "tr": "Rashnu"
         }
     },
     {
@@ -52,7 +82,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Dahaka"
+            "de": "Dahaka",
+            "en": "Dahaka",
+            "es": "Dahaka",
+            "fr": "Dahaka",
+            "it": "Dahaka",
+            "tr": "Dahaka"
         }
     },
     {
@@ -60,7 +95,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Tawrich"
+            "de": "Tawrich",
+            "en": "Tawrich",
+            "es": "Tawrich",
+            "fr": "Tawrich",
+            "it": "Tawrich",
+            "tr": "Tawrich"
         }
     },
     {
@@ -68,7 +108,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Zurvan"
+            "de": "Zurvan",
+            "en": "Zurvan",
+            "es": "Zurvan",
+            "fr": "Zurvan",
+            "it": "Zurvan",
+            "tr": "Zurvan"
         }
     },
     {
@@ -76,7 +121,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Indar Northern Warpgate"
+            "de": "N\u00f6rdliches Warptor - Indar",
+            "en": "Indar Northern Warpgate",
+            "es": "Indar Northern Warpgate",
+            "fr": "Indar Northern Warpgate",
+            "it": "Indar Northern Warpgate",
+            "tr": "Indar Northern Warpgate"
         }
     },
     {
@@ -84,7 +134,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Indar Western Warpgate"
+            "de": "Westliches Warptor - Indar",
+            "en": "Indar Western Warpgate",
+            "es": "Indar Western Warpgate",
+            "fr": "Indar Western Warpgate",
+            "it": "Indar Western Warpgate",
+            "tr": "Indar Western Warpgate"
         }
     },
     {
@@ -92,7 +147,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Indar Eastern Warpgate"
+            "de": "\u00d6stliches Warptor - Indar",
+            "en": "Indar Eastern Warpgate",
+            "es": "Indar Eastern Warpgate",
+            "fr": "Indar Eastern Warpgate",
+            "it": "Indar Eastern Warpgate",
+            "tr": "Indar Eastern Warpgate"
         }
     },
     {
@@ -100,7 +160,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Camp Connery"
+            "de": "Camp Connery",
+            "en": "Camp Connery",
+            "es": "Camp Connery",
+            "fr": "Camp Connery",
+            "it": "Camp Connery",
+            "tr": "Camp Connery"
         }
     },
     {
@@ -108,7 +173,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Camp Waterson"
+            "de": "Camp Waterson",
+            "en": "Camp Waterson",
+            "es": "Camp Waterson",
+            "fr": "Camp Waterson",
+            "it": "Camp Waterson",
+            "tr": "Camp Waterson"
         }
     },
     {
@@ -116,7 +186,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Indar Excavation Site"
+            "de": "Indar Excavation Site",
+            "en": "Indar Excavation Site",
+            "es": "Indar Excavation Site",
+            "fr": "Indar Excavation Site",
+            "it": "Indar Excavation Site",
+            "tr": "Indar Excavation Site"
         }
     },
     {
@@ -124,7 +199,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "J908 Impact Site"
+            "de": "J908 Impact Site",
+            "en": "J908 Impact Site",
+            "es": "J908 Impact Site",
+            "fr": "J908 Impact Site",
+            "it": "J908 Impact Site",
+            "tr": "J908 Impact Site"
         }
     },
     {
@@ -132,7 +212,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Crimson Bluff Tower"
+            "de": "Crimson Bluff Tower",
+            "en": "Crimson Bluff Tower",
+            "es": "Crimson Bluff Tower",
+            "fr": "Crimson Bluff Tower",
+            "it": "Crimson Bluff Tower",
+            "tr": "Crimson Bluff Tower"
         }
     },
     {
@@ -140,7 +225,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "The Crown"
+            "de": "The Crown",
+            "en": "The Crown",
+            "es": "The Crown",
+            "fr": "The Crown",
+            "it": "The Crown",
+            "tr": "Crown"
         }
     },
     {
@@ -148,7 +238,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Crossroads Watchtower"
+            "de": "Crossroads Watchtower",
+            "en": "Crossroads Watchtower",
+            "es": "Crossroads Watchtower",
+            "fr": "Crossroads Watchtower",
+            "it": "Crossroads Watchtower",
+            "tr": "Crossroads Watchtower"
         }
     },
     {
@@ -156,7 +251,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Indar Bay Point"
+            "de": "Indar Bay Point",
+            "en": "Indar Bay Point",
+            "es": "Indar Bay Point",
+            "fr": "Indar Bay Point",
+            "it": "Indar Bay Point",
+            "tr": "Indar Bay Point"
         }
     },
     {
@@ -164,7 +264,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Vanu Archives"
+            "de": "Vanu Archives",
+            "en": "Vanu Archives",
+            "es": "Vanu Archives",
+            "fr": "Vanu Archives",
+            "it": "Vanu Archives",
+            "tr": "Vanu Archives"
         }
     },
     {
@@ -172,7 +277,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Regent Rock Garrison"
+            "de": "Regent Rock Garrison",
+            "en": "Regent Rock Garrison",
+            "es": "Regent Rock Garrison",
+            "fr": "Regent Rock Garrison",
+            "it": "Regent Rock Garrison",
+            "tr": "Regent Rock Garrison"
         }
     },
     {
@@ -180,7 +290,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "The Stronghold"
+            "de": "The Stronghold",
+            "en": "The Stronghold",
+            "es": "The Stronghold",
+            "fr": "The Stronghold",
+            "it": "The Stronghold",
+            "tr": "The Stronghold"
         }
     },
     {
@@ -188,7 +303,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Feldspar Canyon Base"
+            "de": "Feldspar Canyon Base",
+            "en": "Feldspar Canyon Base",
+            "es": "Feldspar Canyon Base",
+            "fr": "Feldspar Canyon Base",
+            "it": "Feldspar Canyon Base",
+            "tr": "Feldspar Canyon Base"
         }
     },
     {
@@ -196,7 +316,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Arroyo Torre Station"
+            "de": "Arroyo-Torre-Station",
+            "en": "Arroyo Torre Station",
+            "es": "Arroyo Torre Station",
+            "fr": "Arroyo Torre Station",
+            "it": "Arroyo Torre Station",
+            "tr": "Arroyo Torre Station"
         }
     },
     {
@@ -204,7 +329,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Indar Waste Treatment"
+            "de": "Indar Waste Treatment",
+            "en": "Indar Waste Treatment",
+            "es": "Indar Waste Treatment",
+            "fr": "Indar Waste Treatment",
+            "it": "Indar Waste Treatment",
+            "tr": "Indar Waste Treatment"
         }
     },
     {
@@ -212,7 +342,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Saurva Overflow Depot"
+            "de": "Saurva Overflow Depot",
+            "en": "Saurva Overflow Depot",
+            "es": "Saurva Overflow Depot",
+            "fr": "Saurva Overflow Depot",
+            "it": "Saurva Overflow Depot",
+            "tr": "Saurva Overflow Depot"
         }
     },
     {
@@ -220,7 +355,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Helios Solar, Inc."
+            "de": "Helios Solar, Inc.",
+            "en": "Helios Solar, Inc.",
+            "es": "Helios Solar, Inc.",
+            "fr": "Helios Solar, Inc.",
+            "it": "Helios Solar, Inc.",
+            "tr": "Helios Solar, Inc."
         }
     },
     {
@@ -228,7 +368,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Alkali Shipping"
+            "de": "Alkali Shipping",
+            "en": "Alkali Shipping",
+            "es": "Alkali Shipping",
+            "fr": "Alkali Shipping",
+            "it": "Alkali Shipping",
+            "tr": "Alkali Shipping"
         }
     },
     {
@@ -236,7 +381,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "CoraMed Labs"
+            "de": "CoraMed Labs",
+            "en": "CoraMed Labs",
+            "es": "CoraMed Labs",
+            "fr": "CoraMed Labs",
+            "it": "CoraMed Labs",
+            "tr": "CoraMed Labs"
         }
     },
     {
@@ -244,7 +394,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Benson Construction"
+            "de": "Benson Construction",
+            "en": "Benson Construction",
+            "es": "Benson Construction",
+            "fr": "Benson Construction",
+            "it": "Benson Construction",
+            "tr": "Benson Construction"
         }
     },
     {
@@ -252,7 +407,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Alkali Mining Supply"
+            "de": "Alkali Mining Supply",
+            "en": "Alkali Mining Supply",
+            "es": "Alkali Mining Supply",
+            "fr": "Alkali Mining Supply",
+            "it": "Alkali Mining Supply",
+            "tr": "Alkali Mining Supply"
         }
     },
     {
@@ -260,7 +420,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Crater Firing Range"
+            "de": "Crater Firing Range",
+            "en": "Crater Firing Range",
+            "es": "Crater Firing Range",
+            "fr": "Crater Firing Range",
+            "it": "Crater Firing Range",
+            "tr": "Crater Firing Range"
         }
     },
     {
@@ -268,7 +433,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Alkali Storage"
+            "de": "Alkali Storage",
+            "en": "Alkali Storage",
+            "es": "Alkali Storage",
+            "fr": "Alkali Storage",
+            "it": "Alkali Storage",
+            "tr": "Alkali Storage"
         }
     },
     {
@@ -276,7 +446,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Briggs Laboratories"
+            "de": "Briggs Laboratories",
+            "en": "Briggs Laboratories",
+            "es": "Briggs Laboratories",
+            "fr": "Briggs Laboratories",
+            "it": "Briggs Laboratories",
+            "tr": "Briggs Laboratories"
         }
     },
     {
@@ -284,7 +459,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "NS Refinery"
+            "de": "NS Refinery",
+            "en": "NS Refinery",
+            "es": "NS Refinery",
+            "fr": "NS Refinery",
+            "it": "NS Refinery",
+            "tr": "NS Refinery"
         }
     },
     {
@@ -292,7 +472,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Howling Pass Checkpoint"
+            "de": "Howling Pass Checkpoint",
+            "en": "Howling Pass Checkpoint",
+            "es": "Howling Pass Checkpoint",
+            "fr": "Howling Pass Checkpoint",
+            "it": "Howling Pass Checkpoint",
+            "tr": "Howling Pass Checkpoint"
         }
     },
     {
@@ -300,7 +485,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Indar Comm. Array"
+            "de": "Indar Comm. Array",
+            "en": "Indar Comm. Array",
+            "es": "Indar Comm. Array",
+            "fr": "Indar Comm. Array",
+            "it": "Indar Comm. Array",
+            "tr": "Indar Comm. Array"
         }
     },
     {
@@ -308,7 +498,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Quartz Ridge Camp"
+            "de": "Quartz Ridge Camp",
+            "en": "Quartz Ridge Camp",
+            "es": "Quartz Ridge Camp",
+            "fr": "Quartz Ridge Camp",
+            "it": "Quartz Ridge Camp",
+            "tr": "Quartz Ridge Camp"
         }
     },
     {
@@ -316,7 +511,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Seabed Listening Post"
+            "de": "Seabed Listening Post",
+            "en": "Seabed Listening Post",
+            "es": "Seabed Listening Post",
+            "fr": "Seabed Listening Post",
+            "it": "Seabed Listening Post",
+            "tr": "Seabed Listening Post"
         }
     },
     {
@@ -324,7 +524,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Ti Alloys, Inc."
+            "de": "Ti Alloys, Inc.",
+            "en": "Ti Alloys, Inc.",
+            "es": "Ti Alloys, Inc.",
+            "fr": "Ti Alloys, Inc.",
+            "it": "Ti Alloys, Inc.",
+            "tr": "Ti Alloys, Inc."
         }
     },
     {
@@ -332,7 +537,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Ceres Hydroponics"
+            "de": "Ceres-Hydroponics",
+            "en": "Ceres Hydroponics",
+            "es": "Ceres Hydroponics",
+            "fr": "Ceres Hydroponics",
+            "it": "Ceres Hydroponics",
+            "tr": "Ceres Hydroponics"
         }
     },
     {
@@ -340,7 +550,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Galaxy Solar Plant"
+            "de": "Galaxy Solar Plant",
+            "en": "Galaxy Solar Plant",
+            "es": "Galaxy Solar Plant",
+            "fr": "Galaxy Solar Plant",
+            "it": "Galaxy Solar Plant",
+            "tr": "Galaxy Solar Plant"
         }
     },
     {
@@ -348,7 +563,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "The Palisade"
+            "de": "The Palisade",
+            "en": "The Palisade",
+            "es": "The Palisade",
+            "fr": "The Palisade",
+            "it": "The Palisade",
+            "tr": "The Palisade"
         }
     },
     {
@@ -356,7 +576,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "NS Material Storage"
+            "de": "NS Material Storage",
+            "en": "NS Material Storage",
+            "es": "NS Material Storage",
+            "fr": "NS Material Storage",
+            "it": "NS Material Storage",
+            "tr": "NS Material Storage"
         }
     },
     {
@@ -364,7 +589,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "NS Secure Data Lab"
+            "de": "NS Secure Data Lab",
+            "en": "NS Secure Data Lab",
+            "es": "NS Secure Data Lab",
+            "fr": "NS Secure Data Lab",
+            "it": "NS Secure Data Lab",
+            "tr": "NS Secure Data Lab"
         }
     },
     {
@@ -372,7 +602,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Highlands Solar Station"
+            "de": "Highlands-Solarstation",
+            "en": "Highlands Solar Station",
+            "es": "Highlands Solar Station",
+            "fr": "Highlands Solar Station",
+            "it": "Highlands Solar Station",
+            "tr": "Highlands Solar Station"
         }
     },
     {
@@ -380,7 +615,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Ayani Labs"
+            "de": "Ayani Labs",
+            "en": "Ayani Labs",
+            "es": "Ayani Labs",
+            "fr": "Ayani Labs",
+            "it": "Ayani Labs",
+            "tr": "Ayani Labs"
         }
     },
     {
@@ -388,7 +628,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Snake Ravine Lookout"
+            "de": "Snake Ravine Lookout",
+            "en": "Snake Ravine Lookout",
+            "es": "Snake Ravine Lookout",
+            "fr": "Snake Ravine Lookout",
+            "it": "Snake Ravine Lookout",
+            "tr": "Snake Ravine Lookout"
         }
     },
     {
@@ -396,7 +641,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "XenoTech Labs"
+            "de": "XenoTech Labs",
+            "en": "XenoTech Labs",
+            "es": "XenoTech Labs",
+            "fr": "XenoTech Labs",
+            "it": "XenoTech Labs",
+            "tr": "XenoTech Labs"
         }
     },
     {
@@ -404,7 +654,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Gravel Pass"
+            "de": "Gravel Pass",
+            "en": "Gravel Pass",
+            "es": "Gravel Pass",
+            "fr": "Gravel Pass",
+            "it": "Gravel Pass",
+            "tr": "Gravel Pass"
         }
     },
     {
@@ -412,7 +667,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Rust Mesa Lookout"
+            "de": "Rust Mesa Lookout",
+            "en": "Rust Mesa Lookout",
+            "es": "Rust Mesa Lookout",
+            "fr": "Rust Mesa Lookout",
+            "it": "Rust Mesa Lookout",
+            "tr": "Rust Mesa Lookout"
         }
     },
     {
@@ -420,7 +680,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "The Old Stockpile"
+            "de": "The Old Stockpile",
+            "en": "The Old Stockpile",
+            "es": "The Old Stockpile",
+            "fr": "The Old Stockpile",
+            "it": "The Old Stockpile",
+            "tr": "The Old Stockpile"
         }
     },
     {
@@ -428,7 +693,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Ceres Biotech"
+            "de": "Ceres-Biotechnologie",
+            "en": "Ceres Biotech",
+            "es": "Ceres Biotech",
+            "fr": "Ceres Biotech",
+            "it": "Ceres Biotech",
+            "tr": "Ceres Biotech"
         }
     },
     {
@@ -436,7 +706,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Highlands Substation"
+            "de": "Highlands-Substation",
+            "en": "Highlands Substation",
+            "es": "Highlands Substation",
+            "fr": "Highlands Substation",
+            "it": "Highlands Substation",
+            "tr": "Highlands Substation"
         }
     },
     {
@@ -444,7 +719,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Scarred Mesa Skydock"
+            "de": "Scarred Mesa Skydock",
+            "en": "Scarred Mesa Skydock",
+            "es": "Scarred Mesa Skydock",
+            "fr": "Scarred Mesa Skydock",
+            "it": "Scarred Mesa Skydock",
+            "tr": "Scarred Mesa Skydock"
         }
     },
     {
@@ -452,7 +732,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Copper Ravine Station"
+            "de": "Copper Ravine Station",
+            "en": "Copper Ravine Station",
+            "es": "Copper Ravine Station",
+            "fr": "Copper Ravine Station",
+            "it": "Copper Ravine Station",
+            "tr": "Copper Ravine Station"
         }
     },
     {
@@ -460,7 +745,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Old Auraxium Mines"
+            "de": "Old Auraxium Mines",
+            "en": "Old Auraxium Mines",
+            "es": "Old Auraxium Mines",
+            "fr": "Old Auraxium Mines",
+            "it": "Old Auraxium Mines",
+            "tr": "Old Auraxium Mines"
         }
     },
     {
@@ -468,7 +758,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Valley Storage Yard"
+            "de": "Valley Storage Yard",
+            "en": "Valley Storage Yard",
+            "es": "Valley Storage Yard",
+            "fr": "Valley Storage Yard",
+            "it": "Valley Storage Yard",
+            "tr": "Valley Storage Yard"
         }
     },
     {
@@ -476,7 +771,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Ceres Farms"
+            "de": "Ceres-Farmen",
+            "en": "Ceres Farms",
+            "es": "Ceres Farms",
+            "fr": "Ceres Farms",
+            "it": "Ceres Farms",
+            "tr": "Ceres Farms"
         }
     },
     {
@@ -484,7 +784,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Peris Barracks"
+            "de": "Peris Barracks",
+            "en": "Peris Barracks",
+            "es": "Peris Barracks",
+            "fr": "Peris Barracks",
+            "it": "Peris Barracks",
+            "tr": "Peris Barracks"
         }
     },
     {
@@ -492,7 +797,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Peris Field Tower"
+            "de": "Peris Field Tower",
+            "en": "Peris Field Tower",
+            "es": "Peris Field Tower",
+            "fr": "Peris Field Tower",
+            "it": "Peris Field Tower",
+            "tr": "Peris Field Tower"
         }
     },
     {
@@ -500,7 +810,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Peris Eastern Grove"
+            "de": "Peris Eastern Grove",
+            "en": "Peris Eastern Grove",
+            "es": "Peris Eastern Grove",
+            "fr": "Peris Eastern Grove",
+            "it": "Peris Eastern Grove",
+            "tr": "Peris Eastern Grove"
         }
     },
     {
@@ -508,7 +823,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Allatum Research Lab"
+            "de": "Allatum Research Lab",
+            "en": "Allatum Research Lab",
+            "es": "Allatum Research Lab",
+            "fr": "Allatum Research Lab",
+            "it": "Allatum Research Lab",
+            "tr": "Allatum Research Lab"
         }
     },
     {
@@ -516,7 +836,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Allatum Broadcast Hub"
+            "de": "Allatum Broadcast Hub",
+            "en": "Allatum Broadcast Hub",
+            "es": "Allatum Broadcast Hub",
+            "fr": "Allatum Broadcast Hub",
+            "it": "Allatum Broadcast Hub",
+            "tr": "Allatum Broadcast Hub"
         }
     },
     {
@@ -524,7 +849,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Allatum Botany Wing"
+            "de": "Allatum Botany-Fl\u00fcgel",
+            "en": "Allatum Botany Wing",
+            "es": "Allatum Botany Wing",
+            "fr": "Allatum Botany Wing",
+            "it": "Allatum Botany Wing",
+            "tr": "Allatum Botany Wing"
         }
     },
     {
@@ -532,7 +862,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Mao Southeast Gate"
+            "de": "Mao Southeast Gate",
+            "en": "Mao Southeast Gate",
+            "es": "Mao Southeast Gate",
+            "fr": "Mao Southeast Gate",
+            "it": "Mao Southeast Gate",
+            "tr": "Mao Southeast Gate"
         }
     },
     {
@@ -540,7 +875,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Mao Watchtower"
+            "de": "Mao Watchtower",
+            "en": "Mao Watchtower",
+            "es": "Mao Watchtower",
+            "fr": "Mao Watchtower",
+            "it": "Mao Watchtower",
+            "tr": "Mao Watchtower"
         }
     },
     {
@@ -548,7 +888,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Mao Southwest Gate"
+            "de": "Mao Southwest Gate",
+            "en": "Mao Southwest Gate",
+            "es": "Mao Southwest Gate",
+            "fr": "Mao Southwest Gate",
+            "it": "Mao Southwest Gate",
+            "tr": "Mao Southwest Gate"
         }
     },
     {
@@ -556,7 +901,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Tawrich Tower"
+            "de": "Tawrich Tower",
+            "en": "Tawrich Tower",
+            "es": "Tawrich Tower",
+            "fr": "Tawrich Tower",
+            "it": "Tawrich Tower",
+            "tr": "Tawrich Tower"
         }
     },
     {
@@ -564,7 +914,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Tawrich Recycling"
+            "de": "Tawrich-Recycling",
+            "en": "Tawrich Recycling",
+            "es": "Tawrich Recycling",
+            "fr": "Tawrich Recycling",
+            "it": "Tawrich Recycling",
+            "tr": "Tawrich Recycling"
         }
     },
     {
@@ -572,7 +927,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Tawrich Depot"
+            "de": "Tawrich Depot",
+            "en": "Tawrich Depot",
+            "es": "Tawrich Depot",
+            "fr": "Tawrich Depot",
+            "it": "Tawrich Depot",
+            "tr": "Tawrich Depot"
         }
     },
     {
@@ -580,7 +940,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Rashnu Watchtower"
+            "de": "Rashnu Watchtower",
+            "en": "Rashnu Watchtower",
+            "es": "Rashnu Watchtower",
+            "fr": "Rashnu Watchtower",
+            "it": "Rashnu Watchtower",
+            "tr": "Rashnu Watchtower"
         }
     },
     {
@@ -588,7 +953,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Rashnu Cavern"
+            "de": "Rashnu Cavern",
+            "en": "Rashnu Cavern",
+            "es": "Rashnu Cavern",
+            "fr": "Rashnu Cavern",
+            "it": "Rashnu Cavern",
+            "tr": "Rashnu Cavern"
         }
     },
     {
@@ -596,7 +966,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Rashnu Southern Pass"
+            "de": "Rashnu Southern Pass",
+            "en": "Rashnu Southern Pass",
+            "es": "Rashnu Southern Pass",
+            "fr": "Rashnu Southern Pass",
+            "it": "Rashnu Southern Pass",
+            "tr": "Rashnu Southern Pass"
         }
     },
     {
@@ -604,7 +979,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Zurvan Network Complex"
+            "de": "Zurvan Network Complex",
+            "en": "Zurvan Network Complex",
+            "es": "Zurvan Network Complex",
+            "fr": "Zurvan Network Complex",
+            "it": "Zurvan Network Complex",
+            "tr": "Zurvan Network Complex"
         }
     },
     {
@@ -612,7 +992,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Zurvan Pump Station"
+            "de": "Zurvan Pump Station",
+            "en": "Zurvan Pump Station",
+            "es": "Zurvan Pump Station",
+            "fr": "Zurvan Pump Station",
+            "it": "Zurvan Pump Station",
+            "tr": "Zurvan Pump Station"
         }
     },
     {
@@ -620,7 +1005,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Zurvan Storage Yard"
+            "de": "Zurvan Storage Yard",
+            "en": "Zurvan Storage Yard",
+            "es": "Zurvan Storage Yard",
+            "fr": "Zurvan Storage Yard",
+            "it": "Zurvan Storage Yard",
+            "tr": "Zurvan Storage Yard"
         }
     },
     {
@@ -628,7 +1018,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Saurva Data Storage"
+            "de": "Saurva Data Storage",
+            "en": "Saurva Data Storage",
+            "es": "Saurva Data Storage",
+            "fr": "Saurva Data Storage",
+            "it": "Saurva Data Storage",
+            "tr": "Saurva Data Storage"
         }
     },
     {
@@ -636,7 +1031,12 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Saurva South Fortress"
+            "de": "Saurva South Fortress",
+            "en": "Saurva South Fortress",
+            "es": "Saurva South Fortress",
+            "fr": "Saurva South Fortress",
+            "it": "Saurva South Fortress",
+            "tr": "Saurva South Fortress"
         }
     },
     {
@@ -644,7 +1044,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hvar Databank"
+            "de": "Hvar Databank",
+            "en": "Hvar Databank",
+            "es": "Banco de datos Hvar",
+            "fr": "Hvar Databank",
+            "it": "Hvar Northern Datalab",
+            "tr": "Hvar Northgate Garrison"
         }
     },
     {
@@ -652,7 +1057,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hvar Western Post"
+            "de": "Westlicher Posten Hvar",
+            "en": "Hvar Western Post",
+            "es": "Hvar Western Post",
+            "fr": "Hvar Western Post",
+            "it": "Hvar Western Post",
+            "tr": "Hvar Western Post"
         }
     },
     {
@@ -660,7 +1070,12 @@
         "zone_id": "2",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hvar Physics Lab"
+            "de": "Hvar Physics Lab",
+            "en": "Hvar Physics Lab",
+            "es": "Hvar Physics Lab",
+            "fr": "Hvar Physics Lab",
+            "it": "Hvar Physics Lab",
+            "tr": "Hvar Southgate Garrison"
         }
     },
     {
@@ -668,7 +1083,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Dahaka Uplink Hub"
+            "de": "Uplink-Hub in Dahaka",
+            "en": "Dahaka Uplink Hub",
+            "es": "Dahaka Uplink Hub",
+            "fr": "Dahaka Uplink Hub",
+            "it": "Dahaka Uplink Hub",
+            "tr": "Dahaka Uplink Hub"
         }
     },
     {
@@ -676,7 +1096,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Dahaka Southern Post"
+            "de": "Dahaka Southern Post",
+            "en": "Dahaka Southern Post",
+            "es": "Dahaka Southern Post",
+            "fr": "Dahaka Southern Post",
+            "it": "Dahaka Southern Post",
+            "tr": "Dahaka Southern Post"
         }
     },
     {
@@ -684,7 +1109,12 @@
         "zone_id": "2",
         "initial_faction_id": "2",
         "name": {
-            "en": "Dahaka Pump Station"
+            "de": "Dahaka Pump Station",
+            "en": "Dahaka Pump Station",
+            "es": "Dahaka Pump Station",
+            "fr": "Dahaka Pump Station",
+            "it": "Dahaka Pump Station",
+            "tr": "Dahaka Pump Station"
         }
     },
     {
@@ -692,7 +1122,11 @@
         "zone_id": "2",
         "initial_faction_id": "3",
         "name": {
-            "en": "Berjess Overlook"
+            "de": "Berjess Overlook",
+            "en": "Berjess Overlook",
+            "es": "Berjess Overlook",
+            "fr": "Berjess Overlook",
+            "it": "Berjess Overlook"
         }
     },
     {
@@ -700,7 +1134,11 @@
         "zone_id": "2",
         "initial_faction_id": "0",
         "name": {
-            "en": "Sunken Relay Station"
+            "de": "Sunken Relay Station",
+            "en": "Sunken Relay Station",
+            "es": "Sunken Relay Station",
+            "fr": "Sunken Relay Station",
+            "it": "Stazione di trasmissione sommersa"
         }
     },
     {
@@ -708,7 +1146,11 @@
         "zone_id": "2",
         "initial_faction_id": "0",
         "name": {
-            "en": "Lowland Trading Post"
+            "de": "Lowland Trading Post",
+            "en": "Lowland Trading Post",
+            "es": "Lowland Trading Post",
+            "fr": "Lowland Trading Post",
+            "it": "Lowland Trading Post"
         }
     },
     {
@@ -716,7 +1158,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Sharpe's Run"
+            "de": "Sharpe's Run",
+            "en": "Sharpe's Run",
+            "es": "Sharpe's Run",
+            "fr": "Sharpe's Run",
+            "it": "Sharpe's Run",
+            "tr": "Sharpe's Run"
         }
     },
     {
@@ -724,7 +1171,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Edgewater Overlook"
+            "de": "Edgewater Overlook",
+            "en": "Edgewater Overlook",
+            "es": "Edgewater Overlook",
+            "fr": "Edgewater Overlook",
+            "it": "Edgewater Overlook",
+            "tr": "Edgewater Rickety Overlook"
         }
     },
     {
@@ -732,7 +1184,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Last Hold"
+            "de": "Last Hold",
+            "en": "Last Hold",
+            "es": "Last Hold",
+            "fr": "Last Hold",
+            "it": "Last Hold",
+            "tr": "Ancient Clutter"
         }
     },
     {
@@ -740,7 +1197,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Wainwright Armory"
+            "de": "Wainwright Armory",
+            "en": "Wainwright Armory",
+            "es": "Wainwright Armory",
+            "fr": "Wainwright Armory",
+            "it": "Wainwright Armory",
+            "tr": "Wainwright Armory"
         }
     },
     {
@@ -748,7 +1210,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "The Offal Pit"
+            "de": "The Offal Pit",
+            "en": "The Offal Pit",
+            "es": "The Offal Pit",
+            "fr": "L'Offal Pit",
+            "it": "The Offal Pit",
+            "tr": "Rustwash Offal Pit"
         }
     },
     {
@@ -756,7 +1223,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Kessel's Crossing"
+            "de": "Kessel's Crossing",
+            "en": "Kessel's Crossing",
+            "es": "Kessel's Crossing",
+            "fr": "Kessel's Crossing",
+            "it": "Kessel's Crossing",
+            "tr": "Kessel's Antiquated Crossing"
         }
     },
     {
@@ -764,7 +1236,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hossin BioChem, Inc."
+            "de": "Hossin BioChem, Inc.",
+            "en": "Hossin BioChem, Inc.",
+            "es": "Hossin BioChem, Inc.",
+            "fr": "Hossin BioChem, Inc.",
+            "it": "Hossin BioChem, Inc.",
+            "tr": "Archaic Supply Station"
         }
     },
     {
@@ -772,7 +1249,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "VEX BioLogics"
+            "de": "VEX BioLogics",
+            "en": "VEX BioLogics",
+            "es": "VEX BioLogics",
+            "fr": "VEX BioLogics",
+            "it": "VEX BioLogics",
+            "tr": "VEX BioLogics"
         }
     },
     {
@@ -780,7 +1262,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Bunker J993"
+            "de": "Bunker J993",
+            "en": "Bunker J993",
+            "es": "Bunker J993",
+            "fr": "Bunker J993",
+            "it": "Bunker J993",
+            "tr": "Sekt\u00f6r 16"
         }
     },
     {
@@ -788,7 +1275,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Fallbridge Chemical"
+            "de": "Fallbridge Chemical",
+            "en": "Fallbridge Chemical",
+            "es": "Fallbridge Chemical",
+            "fr": "Fallbridge Chemical",
+            "it": "Fallbridge Chemical",
+            "tr": "Fallbridge Chemical"
         }
     },
     {
@@ -796,7 +1288,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Halcyon Watch"
+            "de": "Halcyon Watch",
+            "en": "Halcyon Watch",
+            "es": "Halcyon Watch",
+            "fr": "Halcyon Watch",
+            "it": "Halcyon Watch",
+            "tr": "Halcyon Watch"
         }
     },
     {
@@ -804,7 +1301,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Bridgewater Shipping Yard"
+            "de": "Bridgewater Shipping Yard",
+            "en": "Bridgewater Shipping Yard",
+            "es": "Bridgewater Shipping Yard",
+            "fr": "Bridgewater Shipping Yard",
+            "it": "Bridgewater Shipping Yard",
+            "tr": "Abomination Point"
         }
     },
     {
@@ -812,7 +1314,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "OMR Terraforming"
+            "de": "ORM Terraformen",
+            "en": "OMR Terraforming",
+            "es": "OMR Terraforming",
+            "fr": "OMR Terraforming",
+            "it": "OMR Terraforming",
+            "tr": "ORM Scrap and Salvage"
         }
     },
     {
@@ -820,7 +1327,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Iron Quay"
+            "de": "Eiserner Quai",
+            "en": "Iron Quay",
+            "es": "Iron Quay",
+            "fr": "Quai de fer",
+            "it": "Iron Quay",
+            "tr": "Demir \u0130skele"
         }
     },
     {
@@ -828,7 +1340,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Broken Vale Garrison"
+            "de": "Broken Vale Garrison",
+            "en": "Broken Vale Garrison",
+            "es": "Broken Vale Garrison",
+            "fr": "Broken Vale Garrison",
+            "it": "Broken Vale Garrison",
+            "tr": "Broken Vale Garrison"
         }
     },
     {
@@ -836,7 +1353,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Woodman ASE Labs"
+            "de": "Woodman ASE Labs",
+            "en": "Woodman ASE Labs",
+            "es": "Woodman ASE Labs",
+            "fr": "Woodman ASE Labs",
+            "it": "Woodman ASE Labs",
+            "tr": "Woodman ASE Labs"
         }
     },
     {
@@ -844,7 +1366,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Johari Cove"
+            "de": "Johari Cove",
+            "en": "Johari Cove",
+            "es": "Johari Cove",
+            "fr": "Johari Cove",
+            "it": "Johari Cove",
+            "tr": "The Rusty Bent Glaive"
         }
     },
     {
@@ -852,7 +1379,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Roothouse Distillery"
+            "de": "Roothouse Distillery",
+            "en": "Roothouse Distillery",
+            "es": "Roothouse Distillery",
+            "fr": "Roothouse Distillery",
+            "it": "Roothouse Distillery",
+            "tr": "Roothouse Distillery"
         }
     },
     {
@@ -860,7 +1392,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hunter's Blind"
+            "de": "Hunter's Blind",
+            "en": "Hunter's Blind",
+            "es": "Hunter's Blind",
+            "fr": "Hunter's Blind",
+            "it": "Hunter's Blind",
+            "tr": "Hunter's Blind"
         }
     },
     {
@@ -868,7 +1405,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Gourney Dam"
+            "de": "Gourney Dam",
+            "en": "Gourney Dam",
+            "es": "Gourney Dam",
+            "fr": "Gourney Dam",
+            "it": "Gourney Dam",
+            "tr": "Gourney Dam"
         }
     },
     {
@@ -876,7 +1418,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "SRP Hydroponics, Inc."
+            "de": "SRP Hydroponics, Inc.",
+            "en": "SRP Hydroponics, Inc.",
+            "es": "SRP Hydroponics, Inc.",
+            "fr": "SRP Hydroponics, Inc",
+            "it": "SRP Hydroponics, Inc.",
+            "tr": "SRP Hydroponics, Inc."
         }
     },
     {
@@ -884,7 +1431,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "The Ziggurat"
+            "de": "Die Zikkurat",
+            "en": "The Ziggurat",
+            "es": "The Ziggurat",
+            "fr": "The Ziggurat",
+            "it": "La Ziggurat",
+            "tr": "The Ziggurat"
         }
     },
     {
@@ -892,7 +1444,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Nettlemire Gardens"
+            "de": "Nettlemire Gardens",
+            "en": "Nettlemire Gardens",
+            "es": "Nettlemire Gardens",
+            "fr": "Nettlemire Gardens",
+            "it": "Nettlemire Gardens",
+            "tr": "Nettlemire Gardens"
         }
     },
     {
@@ -900,7 +1457,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Whispering Pass"
+            "de": "Whispering Pass",
+            "en": "Whispering Pass",
+            "es": "Whispering Pass",
+            "fr": "Whispering Pass",
+            "it": "Whispering Pass",
+            "tr": "Whispering Pass"
         }
     },
     {
@@ -908,7 +1470,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "SRP Nanite Relay Station"
+            "de": "SRP Naniten-Relaisstation",
+            "en": "SRP Nanite Relay Station",
+            "es": "SRP Nanite Relay Station",
+            "fr": "SRP Nanite Relay Station",
+            "it": "SRP Nanite Relay Station",
+            "tr": "ComGlobal Telegraph"
         }
     },
     {
@@ -916,7 +1483,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Four Fingers"
+            "de": "Four Fingers",
+            "en": "Four Fingers",
+            "es": "Four Fingers",
+            "fr": "Four Fingers",
+            "it": "Four Fingers",
+            "tr": "The Finger"
         }
     },
     {
@@ -924,7 +1496,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Kestral Watch"
+            "de": "Kestral Watch",
+            "en": "Kestral Watch",
+            "es": "Kestral Watch",
+            "fr": "Kestral Watch",
+            "it": "Kestral Watch",
+            "tr": "Kestral Scree Spotting"
         }
     },
     {
@@ -932,7 +1509,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Genudine Holographics"
+            "de": "Genudine Holographics",
+            "en": "Genudine Holographics",
+            "es": "Genudine Holographics",
+            "fr": "Genudine Holographics",
+            "it": "Devil's Wreath",
+            "tr": "Genudine Holographics"
         }
     },
     {
@@ -940,7 +1522,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Fort Drexler"
+            "de": "Fort Drexler",
+            "en": "Fort Drexler",
+            "es": "Fort Drexler",
+            "fr": "Fort Drexler",
+            "it": "Fort Drexler",
+            "tr": "Fort Drexler"
         }
     },
     {
@@ -948,7 +1535,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Cairn Station"
+            "de": "Cairn Station",
+            "en": "Cairn Station",
+            "es": "Cairn Station",
+            "fr": "Cairn Station",
+            "it": "Cairn Station",
+            "tr": "Cairn Station"
         }
     },
     {
@@ -956,7 +1548,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Southgate Checkpoint"
+            "de": "Southgate Checkpoint",
+            "en": "Southgate Checkpoint",
+            "es": "Southgate Checkpoint",
+            "fr": "Southgate Checkpoint",
+            "it": "Southgate Checkpoint",
+            "tr": "Southgate Checkpoint"
         }
     },
     {
@@ -964,7 +1561,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Genesis Terraforming Plant"
+            "de": "Genesis Terraforming Plant",
+            "en": "Genesis Terraforming Plant",
+            "es": "Genesis Terraforming Plant",
+            "fr": "Genesis Terraforming Plant",
+            "it": "Genesis Terraforming Plant",
+            "tr": "Genesis Terraform Plant"
         }
     },
     {
@@ -972,7 +1574,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Bravata PMC Compound"
+            "de": "Bravata PMC Compound",
+            "en": "Bravata PMC Compound",
+            "es": "Bravata PMC Compound",
+            "fr": "Bravata PMC Compound",
+            "it": "Bravata PMC Compound",
+            "tr": "Bravata Company PMC"
         }
     },
     {
@@ -980,7 +1587,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Matsuda Genetics"
+            "de": "Matsuda Genetics",
+            "en": "Matsuda Genetics",
+            "es": "Matsuda Genetics",
+            "fr": "Matsuda Genetics",
+            "it": "Matsuda Genetics",
+            "tr": "Matsuda Genetics"
         }
     },
     {
@@ -988,7 +1600,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hayd Skydock"
+            "de": "Hayd Skydock",
+            "en": "Hayd Skydock",
+            "es": "Hayd Skydock",
+            "fr": "Hayd Skydock",
+            "it": "Hayd Skydock",
+            "tr": "Hayd Skydock"
         }
     },
     {
@@ -996,7 +1613,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hatcher Airstation"
+            "de": "Hatcher Airstation",
+            "en": "Hatcher Airstation",
+            "es": "Hatcher Airstation",
+            "fr": "Hatcher Airstation",
+            "it": "Hatcher Airstation",
+            "tr": "Hatcher Airstation"
         }
     },
     {
@@ -1004,7 +1626,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Nason's Defiance"
+            "de": "Nason's Defiance",
+            "en": "Nason's Defiance",
+            "es": "Nason's Defiance",
+            "fr": "Nason's Defiance",
+            "it": "Nason's Defiance",
+            "tr": "Fort Oppurtunity"
         }
     },
     {
@@ -1012,7 +1639,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Naum"
+            "de": "Naum",
+            "en": "Naum",
+            "es": "Naum",
+            "fr": "Naum",
+            "it": "Naum",
+            "tr": "Naum"
         }
     },
     {
@@ -1020,7 +1652,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Naum Ravine Overpass"
+            "de": "Naum Ravine Overpass",
+            "en": "Naum Ravine Overpass",
+            "es": "Naum Ravine Overpass",
+            "fr": "Naum Ravine Overpass",
+            "it": "Naum Ravine Overpass",
+            "tr": "Naum Ravine Overpass"
         }
     },
     {
@@ -1028,7 +1665,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Naum Marsh Compound"
+            "de": "Naum Marsh Compound",
+            "en": "Naum Marsh Compound",
+            "es": "Naum Marsh Compound",
+            "fr": "Naum Marsh Compound",
+            "it": "Naum Marsh Compound",
+            "tr": "Naum Marsh Compound"
         }
     },
     {
@@ -1036,7 +1678,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Naum Forward Barracks"
+            "de": "Naum Forward Barracks",
+            "en": "Naum Forward Barracks",
+            "es": "Naum Forward Barracks",
+            "fr": "Naum Forward Barracks",
+            "it": "Naum Forward Barracks",
+            "tr": "Naum Forward Barracks"
         }
     },
     {
@@ -1044,7 +1691,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hurakan"
+            "de": "Hurakan",
+            "en": "Hurakan",
+            "es": "Hurakan",
+            "fr": "Hurakan",
+            "it": "Hurakan",
+            "tr": "Hurakan"
         }
     },
     {
@@ -1052,7 +1704,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hurakan Secure Storage"
+            "de": "Hurakan Secure Storage",
+            "en": "Hurakan Secure Storage",
+            "es": "Hurakan Secure Storage",
+            "fr": "Hurakan Secure Storage",
+            "it": "Hurakan Secure Storage",
+            "tr": "Hurakan North Sat"
         }
     },
     {
@@ -1060,7 +1717,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hurakan Western Pass"
+            "de": "Hurakan Western Pass",
+            "en": "Hurakan Western Pass",
+            "es": "Hurakan Western Pass",
+            "fr": "Hurakan Western Pass",
+            "it": "Hurakan Western Pass",
+            "tr": "Hurakan West Sat"
         }
     },
     {
@@ -1068,7 +1730,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hurakan Southern Depot"
+            "de": "Hurakan Southern Depot",
+            "en": "Hurakan Southern Depot",
+            "es": "Hurakan Southern Depot",
+            "fr": "Hurakan Southern Depot",
+            "it": "Hurakan Southern Depot",
+            "tr": "Hurakan South Sat"
         }
     },
     {
@@ -1076,7 +1743,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Ixtab"
+            "de": "Ixtab",
+            "en": "Ixtab",
+            "es": "Ixtab",
+            "fr": "Ixtab",
+            "it": "Ixtab",
+            "tr": "Ixtab"
         }
     },
     {
@@ -1084,7 +1756,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Ixtab Power Regulation"
+            "de": "Ixtab Power Regulation",
+            "en": "Ixtab Power Regulation",
+            "es": "Ixtab Power Regulation",
+            "fr": "Ixtab Power Regulation",
+            "it": "Ixtab Power Regulation",
+            "tr": "Ixtab Power Regulation"
         }
     },
     {
@@ -1092,7 +1769,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Ixtab Water Purification"
+            "de": "Ixtab Water Purification",
+            "en": "Ixtab Water Purification",
+            "es": "Ixtab Water Purification",
+            "fr": "Ixtab Water Purification",
+            "it": "Ixtab Water Purification",
+            "tr": "Ixtab Water Purification"
         }
     },
     {
@@ -1100,7 +1782,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Ixtab Southern Pass"
+            "de": "Ixtab Southern Pass",
+            "en": "Ixtab Southern Pass",
+            "es": "Ixtab Southern Pass",
+            "fr": "Ixtab Southern Pass",
+            "it": "Ixtab Southern Pass",
+            "tr": "Ixtab Southern Pass"
         }
     },
     {
@@ -1108,7 +1795,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Acan"
+            "de": "Acan",
+            "en": "Acan",
+            "es": "Acan",
+            "fr": "Acan",
+            "it": "Acan",
+            "tr": "Acan"
         }
     },
     {
@@ -1116,7 +1808,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "East Acan Storage Depot"
+            "de": "East Acan Storage Depot",
+            "en": "East Acan Storage Depot",
+            "es": "East Acan Storage Depot",
+            "fr": "East Acan Storage Depot",
+            "it": "Magazzino di East Acan",
+            "tr": "East Acan Storage Depot"
         }
     },
     {
@@ -1124,7 +1821,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Acan Data Hub"
+            "de": "Acan Data Hub",
+            "en": "Acan Data Hub",
+            "es": "Acan Data Hub",
+            "fr": "Acan Data Hub",
+            "it": "Acan Data Hub",
+            "tr": "Acan Data Hub"
         }
     },
     {
@@ -1132,7 +1834,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Acan Southern Labs"
+            "de": "Acan Southern Labs",
+            "en": "Acan Southern Labs",
+            "es": "Acan Southern Labs",
+            "fr": "Acan Southern Labs",
+            "it": "Acan Southern Labs",
+            "tr": "Acan Southern Labs"
         }
     },
     {
@@ -1140,7 +1847,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Bitol"
+            "de": "Bitol",
+            "en": "Bitol",
+            "es": "Bitol",
+            "fr": "Bitol",
+            "it": "Bitol",
+            "tr": "Bitol Stockpile"
         }
     },
     {
@@ -1148,7 +1860,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Bitol Stockpile"
+            "de": "Bitol-Vorrat",
+            "en": "Bitol Stockpile",
+            "es": "Bitol Stockpile",
+            "fr": "Bitol Stockpile",
+            "it": "Riserva di Bitol",
+            "tr": "Bitol"
         }
     },
     {
@@ -1156,7 +1873,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Bitol Northern Outpost"
+            "de": "N\u00f6rdlicher Au\u00dfenposten - Bitol",
+            "en": "Bitol Northern Outpost",
+            "es": "Bitol Northern Outpost",
+            "fr": "Bitol Northern Outpost",
+            "it": "Bitol Northern Outpost",
+            "tr": "Bitol Northern Outpost"
         }
     },
     {
@@ -1164,7 +1886,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Bitol Eastern Depot"
+            "de": "Bitol \u00d6stliches Depot",
+            "en": "Bitol Eastern Depot",
+            "es": "Bitol Eastern Depot",
+            "fr": "Bitol Eastern Depot",
+            "it": "Bitol Eastern Depot",
+            "tr": "Bitol Eastern Depot"
         }
     },
     {
@@ -1172,7 +1899,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Zotz"
+            "de": "Zotz",
+            "en": "Zotz",
+            "es": "Zotz",
+            "fr": "Zotz",
+            "it": "Zotz",
+            "tr": "Zotz"
         }
     },
     {
@@ -1180,7 +1912,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Zotz North Garden"
+            "de": "Zotz North Garden",
+            "en": "Zotz North Garden",
+            "es": "Zotz North Garden",
+            "fr": "Zotz North Garden",
+            "it": "Zotz North Garden",
+            "tr": "Zotz North Garden"
         }
     },
     {
@@ -1188,7 +1925,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Zotz Arboretum"
+            "de": "Zotz Arboretum",
+            "en": "Zotz Arboretum",
+            "es": "Zotz Arboretum",
+            "fr": "Zotz Arboretum",
+            "it": "Zotz Arboretum",
+            "tr": "Zotz Arboretum"
         }
     },
     {
@@ -1196,7 +1938,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Zotz Agriculture Lab"
+            "de": "Zotz Agriculture Lab",
+            "en": "Zotz Agriculture Lab",
+            "es": "Zotz Agriculture Lab",
+            "fr": "Zotz Agriculture Lab",
+            "it": "Zotz Agriculture Lab",
+            "tr": "Zotz Agriculture Lab"
         }
     },
     {
@@ -1204,7 +1951,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Ghanan"
+            "de": "Ghanan",
+            "en": "Ghanan",
+            "es": "Ghanan",
+            "fr": "Ghanan",
+            "it": "Ghanan",
+            "tr": "Ghanan"
         }
     },
     {
@@ -1212,7 +1964,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Ghanan Southern Crossing"
+            "de": "Ghanan Southern Crossing",
+            "en": "Ghanan Southern Crossing",
+            "es": "Ghanan Southern Crossing",
+            "fr": "Ghanan Southern Crossing",
+            "it": "Ghanan Southern Crossing",
+            "tr": "Ghanan Southern Bridge"
         }
     },
     {
@@ -1220,7 +1977,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Ghanan Research Labs"
+            "de": "Ghanan Research Labs",
+            "en": "Ghanan Research Labs",
+            "es": "Ghanan Research Labs",
+            "fr": "Ghanan Research Labs",
+            "it": "Ghanan Research Labs",
+            "tr": "Ghanan West Gatehouse"
         }
     },
     {
@@ -1228,7 +1990,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Ghanan Eastern Gatehouse"
+            "de": "Ghanan Eastern Gatehouse",
+            "en": "Ghanan Eastern Gatehouse",
+            "es": "Ghanan Eastern Gatehouse",
+            "fr": "Ghanan Eastern Gatehouse",
+            "it": "Ghanan Eastern Gatehouse",
+            "tr": "Ghanan East Gatehouse"
         }
     },
     {
@@ -1236,7 +2003,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Mulac"
+            "de": "Mulac",
+            "en": "Mulac",
+            "es": "Mulac",
+            "fr": "Mulac",
+            "it": "Mulac",
+            "tr": "Mulac"
         }
     },
     {
@@ -1244,7 +2016,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Mulac Pass"
+            "de": "Mulac Pass",
+            "en": "Mulac Pass",
+            "es": "Mulac Pass",
+            "fr": "Mulac Pass",
+            "it": "Mulac Pass",
+            "tr": "Mulac Pass"
         }
     },
     {
@@ -1252,7 +2029,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Mulac Foundry"
+            "de": "Mulac Foundry",
+            "en": "Mulac Foundry",
+            "es": "Mulac Foundry",
+            "fr": "Mulac Foundry",
+            "it": "Mulac Foundry",
+            "tr": "Mulac Foundry"
         }
     },
     {
@@ -1260,7 +2042,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Mulac Purification Site"
+            "de": "Mulac Purification Site",
+            "en": "Mulac Purification Site",
+            "es": "Mulac Purification Site",
+            "fr": "Mulac Purification Site",
+            "it": "Mulac Purification Site",
+            "tr": "Mulac Purification Site"
         }
     },
     {
@@ -1268,7 +2055,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Chac"
+            "de": "Chac",
+            "en": "Chac",
+            "es": "Chac",
+            "fr": "Chac",
+            "it": "Chac",
+            "tr": "Chac"
         }
     },
     {
@@ -1276,7 +2068,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Chac Fusion Lab"
+            "de": "Chac Fusion Lab",
+            "en": "Chac Fusion Lab",
+            "es": "Chac Fusion Lab",
+            "fr": "Chac Fusion Lab",
+            "it": "Chac Fusion Lab",
+            "tr": "Chac Fusion Lab"
         }
     },
     {
@@ -1284,7 +2081,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Chac Water Purification"
+            "de": "Chac Water Purification",
+            "en": "Chac Water Purification",
+            "es": "Chac Water Purification",
+            "fr": "Chac Water Purification",
+            "it": "Chac Water Purification",
+            "tr": "Chac Water Purification"
         }
     },
     {
@@ -1292,7 +2094,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Chac Intel Hub"
+            "de": "Chac Intel Hub",
+            "en": "Chac Intel Hub",
+            "es": "Chac Intel Hub",
+            "fr": "Chac Intel Hub",
+            "it": "Chac Intel Hub",
+            "tr": "Chac Intel Hub"
         }
     },
     {
@@ -1300,7 +2107,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hossin Western Warpgate"
+            "de": "Westliches Warptor - Hossin",
+            "en": "Hossin Western Warpgate",
+            "es": "Hossin Western Warpgate",
+            "fr": "Hossin Western Warpgate",
+            "it": "Warpgate occidentale di Hossin",
+            "tr": "Hossin VS Warpgate"
         }
     },
     {
@@ -1308,7 +2120,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hossin Eastern Warpgate"
+            "de": "\u00d6stliches Warptor - Hossin",
+            "en": "Hossin Eastern Warpgate",
+            "es": "Hossin Eastern Warpgate",
+            "fr": "Hossin Eastern Warpgate",
+            "it": "Warpgate orientale di Hossin",
+            "tr": "Hossin NC Warpgate"
         }
     },
     {
@@ -1316,7 +2133,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Hossin Southern Warpgate"
+            "de": "S\u00fcdliches Warptor - Hossin",
+            "en": "Hossin Southern Warpgate",
+            "es": "Hossin Southern Warpgate",
+            "fr": "Hossin Southern Warpgate",
+            "it": "Warpgate meridionale di Hossin",
+            "tr": "Hossin TR Warpgate"
         }
     },
     {
@@ -1324,7 +2146,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Construction Site Alpha"
+            "de": "Baustelle Alpha",
+            "en": "Construction Site Alpha",
+            "es": "Construction Site Alpha",
+            "fr": "Construction Site Alpha",
+            "it": "Construction Site Alpha",
+            "tr": "Construction Site Alpha"
         }
     },
     {
@@ -1332,7 +2159,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Construction Site Beta"
+            "de": "Baustelle Beta",
+            "en": "Construction Site Beta",
+            "es": "Construction Site Beta",
+            "fr": "Construction Site Beta",
+            "it": "Construction Site Beta",
+            "tr": "Construction Site Beta"
         }
     },
     {
@@ -1340,7 +2172,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Construction Site Gamma"
+            "de": "Baustelle Gamma",
+            "en": "Construction Site Gamma",
+            "es": "Construction Site Gamma",
+            "fr": "Construction Site Gamma",
+            "it": "Construction Site Gamma",
+            "tr": "Construction Site Gamma"
         }
     },
     {
@@ -1348,7 +2185,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Takkon Storage"
+            "de": "Takkon Storage",
+            "en": "Takkon Storage",
+            "es": "Takkon Storage",
+            "fr": "Takkon Storage",
+            "it": "Takkon Storage",
+            "tr": "Takkon Storage"
         }
     },
     {
@@ -1356,7 +2198,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Construction Site Zeta"
+            "de": "Baustelle Zeta",
+            "en": "Construction Site Zeta",
+            "es": "Construction Site Zeta",
+            "fr": "Construction Site Zeta",
+            "it": "Construction Site Zeta",
+            "tr": "Construction Site Zeta"
         }
     },
     {
@@ -1364,7 +2211,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Eastern Substation"
+            "de": "Eastern Substation",
+            "en": "Eastern Substation",
+            "es": "Eastern Substation",
+            "fr": "Eastern Substation",
+            "it": "Eastern Substation",
+            "tr": "Eastern Substation"
         }
     },
     {
@@ -1372,7 +2224,11 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Fort Liberty"
+            "de": "Fort Liberty",
+            "en": "Fort Liberty",
+            "es": "Fort Liberty",
+            "fr": "Fort Liberty",
+            "it": "Fort Liberty"
         }
     },
     {
@@ -1380,7 +2236,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Construction Site Epsilon"
+            "de": "Baustelle Epsilon",
+            "en": "Construction Site Epsilon",
+            "es": "Construction Site Epsilon",
+            "fr": "Construction Site Epsilon",
+            "it": "Construction Site Epsilon",
+            "tr": "Construction Site Epsilon"
         }
     },
     {
@@ -1388,7 +2249,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Mossridge Command Center"
+            "de": "Mossridge Command Center",
+            "en": "Mossridge Command Center",
+            "es": "Mossridge Command Center",
+            "fr": "Mossridge Command Center",
+            "it": "Mossridge Command Center",
+            "tr": "Mossridge Command Center"
         }
     },
     {
@@ -1396,7 +2262,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Construction Site Omega"
+            "de": "Baustelle Omega",
+            "en": "Construction Site Omega",
+            "es": "Construction Site Omega",
+            "fr": "Construction Site Omega",
+            "it": "Construction Site Omega",
+            "tr": "Construction Site Omega"
         }
     },
     {
@@ -1404,7 +2275,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Outpost Lambda"
+            "de": "Au\u00dfenposten Lambda",
+            "en": "Outpost Lambda",
+            "es": "Outpost Lambda",
+            "fr": "Outpost Lambda",
+            "it": "Outpost Lambda",
+            "tr": "Construction Site Lambda"
         }
     },
     {
@@ -1412,7 +2288,12 @@
         "zone_id": "4",
         "initial_faction_id": "1",
         "name": {
-            "en": "Construction Site Sigma"
+            "de": "Baustelle Sigma",
+            "en": "Construction Site Sigma",
+            "es": "Construction Site Sigma",
+            "fr": "Construction Site Sigma",
+            "it": "Construction Site Sigma",
+            "tr": "Construction Site Sigma"
         }
     },
     {
@@ -1420,7 +2301,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Amerish Western Warpgate"
+            "de": "Westliches Warptor - Amerish",
+            "en": "Amerish Western Warpgate",
+            "es": "Amerish Western Warpgate",
+            "fr": "Amerish Western Warpgate",
+            "it": "Amerish Western Warpgate",
+            "tr": "Amerish Western Warpgate"
         }
     },
     {
@@ -1428,7 +2314,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "Amerish Eastern Warpgate"
+            "de": "\u00d6stliches Warptor - Amerish",
+            "en": "Amerish Eastern Warpgate",
+            "es": "Amerish Eastern Warpgate",
+            "fr": "Amerish Eastern Warpgate",
+            "it": "Amerish Eastern Warpgate",
+            "tr": "Amerish Eastern Warpgate"
         }
     },
     {
@@ -1436,7 +2327,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "Amerish Southern Warpgate"
+            "de": "S\u00fcdliches Warptor - Amerish",
+            "en": "Amerish Southern Warpgate",
+            "es": "Amerish Southern Warpgate",
+            "fr": "Amerish Southern Warpgate",
+            "it": "Amerish Southern Warpgate",
+            "tr": "Amerish Southern Warpgate"
         }
     },
     {
@@ -1444,7 +2340,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "Kwahtee"
+            "de": "Kwahtee",
+            "en": "Kwahtee",
+            "es": "Kwahtee",
+            "fr": "Kwahtee",
+            "it": "Kwahtee",
+            "tr": "Kwahtee"
         }
     },
     {
@@ -1452,7 +2353,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "Ikanam"
+            "de": "Ikanam",
+            "en": "Ikanam",
+            "es": "Ikanam",
+            "fr": "Ikanam",
+            "it": "Ikanam",
+            "tr": "Ikanam"
         }
     },
     {
@@ -1460,7 +2366,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "Heyoka"
+            "de": "Heyoka",
+            "en": "Heyoka",
+            "es": "Heyoka",
+            "fr": "Heyoka",
+            "it": "Heyoka",
+            "tr": "Heyoka"
         }
     },
     {
@@ -1468,7 +2379,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Sungrey"
+            "de": "Sungrey",
+            "en": "Sungrey",
+            "es": "Sungrey",
+            "fr": "Sungrey",
+            "it": "Sungrey",
+            "tr": "Sungrey"
         }
     },
     {
@@ -1476,7 +2392,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Mekala"
+            "de": "Mekala",
+            "en": "Mekala",
+            "es": "Mekala",
+            "fr": "Mekala",
+            "it": "Mekala",
+            "tr": "Mekala"
         }
     },
     {
@@ -1484,7 +2405,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Onatha"
+            "de": "Onatha",
+            "en": "Onatha",
+            "es": "Onatha",
+            "fr": "Onatha",
+            "it": "Onatha",
+            "tr": "Onatha"
         }
     },
     {
@@ -1492,7 +2418,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "Wokuk"
+            "de": "Wokuk",
+            "en": "Wokuk",
+            "es": "Wokuk",
+            "fr": "Wokuk",
+            "it": "Wokuk",
+            "tr": "Wokuk"
         }
     },
     {
@@ -1500,7 +2431,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "Tumas"
+            "de": "Tumas",
+            "en": "Tumas",
+            "es": "Tumas",
+            "fr": "Tumas",
+            "it": "Tumas",
+            "tr": "Tumas"
         }
     },
     {
@@ -1508,7 +2444,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "Xelas"
+            "de": "Xelas",
+            "en": "Xelas",
+            "es": "Xelas",
+            "fr": "Xelas",
+            "it": "Xelas",
+            "tr": "Xelas"
         }
     },
     {
@@ -1516,7 +2457,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "LithCorp Secure Mine"
+            "de": "LithCorp Secure Mine",
+            "en": "LithCorp Secure Mine",
+            "es": "LithCorp Secure Mine",
+            "fr": "LithCorp Secure Mine",
+            "it": "LithCorp Secure Mine",
+            "tr": "LithCorp Secure Mine"
         }
     },
     {
@@ -1524,7 +2470,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "The NC Arsenal"
+            "de": "NK-Arsenal",
+            "en": "The NC Arsenal",
+            "es": "The NC Arsenal",
+            "fr": "The NC Arsenal",
+            "it": "NC Arsenal",
+            "tr": "The NC Arsenal"
         }
     },
     {
@@ -1532,7 +2483,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Crux Mining Operation"
+            "de": "Crux Mining Operation",
+            "en": "Crux Mining Operation",
+            "es": "Crux Mining Operation",
+            "fr": "Crux Mining Operation",
+            "it": "Crux Mining Operation",
+            "tr": "Crux Mining Operation"
         }
     },
     {
@@ -1540,7 +2496,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Crux Headquarters"
+            "de": "Crux Headquarters",
+            "en": "Crux Headquarters",
+            "es": "Crux Headquarters",
+            "fr": "Crux Headquarters",
+            "it": "Crux Headquarters",
+            "tr": "Crux Headquarters"
         }
     },
     {
@@ -1548,7 +2509,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "The Bastion"
+            "de": "Die Bastion",
+            "en": "The Bastion",
+            "es": "The Bastion",
+            "fr": "The Bastion",
+            "it": "The Bastion",
+            "tr": "The Bastion"
         }
     },
     {
@@ -1556,7 +2522,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "Auraxis Firearms Corp."
+            "de": "Auraxis Firearms Corp.",
+            "en": "Auraxis Firearms Corp.",
+            "es": "Auraxis Firearms Corp.",
+            "fr": "Auraxis Firearms Corp.",
+            "it": "Auraxis Firearms Corp.",
+            "tr": "Auraxis Firearms Corp."
         }
     },
     {
@@ -1564,7 +2535,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "Splitpeak Pass"
+            "de": "Splitpeak Pass",
+            "en": "Splitpeak Pass",
+            "es": "Splitpeak Pass",
+            "fr": "Splitpeak Pass",
+            "it": "Splitpeak Pass",
+            "tr": "Splitpeak Pass"
         }
     },
     {
@@ -1572,7 +2548,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "West Pass Watchtower"
+            "de": "West Pass Watchtower",
+            "en": "West Pass Watchtower",
+            "es": "West Pass Watchtower",
+            "fr": "West Pass Watchtower",
+            "it": "West Pass Watchtower",
+            "tr": "West Pass Watchtower"
         }
     },
     {
@@ -1580,7 +2561,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "Granite Valley Garrison"
+            "de": "Granite Valley Garrison",
+            "en": "Granite Valley Garrison",
+            "es": "Granite Valley Garrison",
+            "fr": "Granite Valley Garrison",
+            "it": "Granite Valley Garrison",
+            "tr": "Granite Valley Garrison"
         }
     },
     {
@@ -1588,7 +2574,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "Stoneridge Reserve"
+            "de": "Stoneridge Reserve",
+            "en": "Stoneridge Reserve",
+            "es": "Stoneridge Reserve",
+            "fr": "Stoneridge Reserve",
+            "it": "Stoneridge Reserve",
+            "tr": "Stoneridge Reserve"
         }
     },
     {
@@ -1596,7 +2587,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "North Grove Post"
+            "de": "North Grove Post",
+            "en": "North Grove Post",
+            "es": "North Grove Post",
+            "fr": "North Grove Post",
+            "it": "North Grove Post",
+            "tr": "North Grove Post"
         }
     },
     {
@@ -1604,7 +2600,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Jagged Lance Mine"
+            "de": "Jagged Lance Mine",
+            "en": "Jagged Lance Mine",
+            "es": "Jagged Lance Mine",
+            "fr": "Jagged Lance Mine",
+            "it": "Jagged Lance Mine",
+            "tr": "Jagged Lance Mine"
         }
     },
     {
@@ -1612,7 +2613,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Hidden Ridge Mining"
+            "de": "Hidden Ridge Mining",
+            "en": "Hidden Ridge Mining",
+            "es": "Hidden Ridge Mining",
+            "fr": "Hidden Ridge Mining",
+            "it": "Hidden Ridge Mining",
+            "tr": "Hidden Ridge Mining"
         }
     },
     {
@@ -1620,7 +2626,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "SolTech Charging Station"
+            "de": "SolTech Charging Station",
+            "en": "SolTech Charging Station",
+            "es": "SolTech Charging Station",
+            "fr": "SolTech Charging Station",
+            "it": "SolTech Charging Station",
+            "tr": "SolTech Charging Station"
         }
     },
     {
@@ -1628,7 +2639,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "Deserted Mineshaft"
+            "de": "Verlassener Minenschacht",
+            "en": "Deserted Mineshaft",
+            "es": "Deserted Mineshaft",
+            "fr": "Deserted Mineshaft",
+            "it": "Deserted Mineshaft",
+            "tr": "Deserted Mineshaft"
         }
     },
     {
@@ -1636,7 +2652,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "AuraxiCom Network Hub"
+            "de": "AuraxiCom Netzwerk-Hub",
+            "en": "AuraxiCom Network Hub",
+            "es": "AuraxiCom Network Hub",
+            "fr": "AuraxiCom Network Hub",
+            "it": "AuraxiCom Network Hub",
+            "tr": "AuraxiCom Network Hub"
         }
     },
     {
@@ -1644,7 +2665,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Amerish ARX Reserve"
+            "de": "Amerish ARX Reserve",
+            "en": "Amerish ARX Reserve",
+            "es": "Amerish ARX Reserve",
+            "fr": "Amerish ARX Reserve",
+            "it": "Amerish ARX Reserve",
+            "tr": "Amerish ARX Reserve"
         }
     },
     {
@@ -1652,7 +2678,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "Genudine Physics Lab"
+            "de": "Genudine Physics Lab",
+            "en": "Genudine Physics Lab",
+            "es": "Genudine Physics Lab",
+            "fr": "Genudine Physics Lab",
+            "it": "Genudine Physics Lab",
+            "tr": "Genudine Physics Lab"
         }
     },
     {
@@ -1660,7 +2691,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "Cobalt Communications"
+            "de": "Cobalt Communications",
+            "en": "Cobalt Communications",
+            "es": "Cobalt Communications",
+            "fr": "Cobalt Communications",
+            "it": "Cobalt Communications",
+            "tr": "Cobalt Communications"
         }
     },
     {
@@ -1668,7 +2704,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "West Foothills Airdock"
+            "de": "West Foothills Airdock",
+            "en": "West Foothills Airdock",
+            "es": "West Foothills Airdock",
+            "fr": "West Foothills Airdock",
+            "it": "West Foothills Airdock",
+            "tr": "West Foothills Airdock"
         }
     },
     {
@@ -1676,7 +2717,12 @@
         "zone_id": "6",
         "initial_faction_id": "1",
         "name": {
-            "en": "DeepCore Geolab"
+            "de": "DeepCore Geolab",
+            "en": "DeepCore Geolab",
+            "es": "DeepCore Geolab",
+            "fr": "DeepCore Geolab",
+            "it": "DeepCore Geolab",
+            "tr": "DeepCore Geolab"
         }
     },
     {
@@ -1684,7 +2730,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Blackshard Tungsten Mine"
+            "de": "Blackshard Tungsten Mine",
+            "en": "Blackshard Tungsten Mine",
+            "es": "Blackshard Tungsten Mine",
+            "fr": "Blackshard Tungsten Mine",
+            "it": "Blackshard Tungsten Mine",
+            "tr": "Blackshard Tungsten Mine"
         }
     },
     {
@@ -1692,7 +2743,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Shadespire Farms"
+            "de": "Shadespire Farms",
+            "en": "Shadespire Farms",
+            "es": "Shadespire Farms",
+            "fr": "Shadespire Farms",
+            "it": "Shadespire Farms",
+            "tr": "Shadespire Farms"
         }
     },
     {
@@ -1700,7 +2756,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Rockslide Outlook"
+            "de": "Rockslide Outlook",
+            "en": "Rockslide Outlook",
+            "es": "Rockslide Outlook",
+            "fr": "Rockslide Outlook",
+            "it": "Rockslide Outlook",
+            "tr": "Rockslide Outlook"
         }
     },
     {
@@ -1708,7 +2769,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "East Hills Checkpoint"
+            "de": "East Hills Checkpoint",
+            "en": "East Hills Checkpoint",
+            "es": "East Hills Checkpoint",
+            "fr": "East Hills Checkpoint",
+            "it": "East Hills Checkpoint",
+            "tr": "East Hills Checkpoint"
         }
     },
     {
@@ -1716,7 +2782,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Silver Valley Arsenal"
+            "de": "Silver Valley Arsenal",
+            "en": "Silver Valley Arsenal",
+            "es": "Silver Valley Arsenal",
+            "fr": "Silver Valley Arsenal",
+            "it": "Silver Valley Arsenal",
+            "tr": "Silver Valley Arsenal"
         }
     },
     {
@@ -1724,7 +2795,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "Chimney Rock Depot"
+            "de": "Chimney Rock Depot",
+            "en": "Chimney Rock Depot",
+            "es": "Chimney Rock Depot",
+            "fr": "Chimney Rock Depot",
+            "it": "Chimney Rock Depot",
+            "tr": "Chimney Rock Depot"
         }
     },
     {
@@ -1732,7 +2808,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "AuraxiCom Substation"
+            "de": "AuraxiCom Substation",
+            "en": "AuraxiCom Substation",
+            "es": "AuraxiCom Substation",
+            "fr": "AuraxiCom Substation",
+            "it": "AuraxiCom Substation",
+            "tr": "AuraxiCom Substation"
         }
     },
     {
@@ -1740,7 +2821,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "Torremar Storage Yard"
+            "de": "Torremar Storage Yard",
+            "en": "Torremar Storage Yard",
+            "es": "Torremar Storage Yard",
+            "fr": "Torremar Storage Yard",
+            "it": "Torremar Storage Yard",
+            "tr": "Torremar Storage Yard"
         }
     },
     {
@@ -1748,7 +2834,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "Highroads Station"
+            "de": "Highroads Station",
+            "en": "Highroads Station",
+            "es": "Highroads Station",
+            "fr": "Highroads Station",
+            "it": "Highroads Station",
+            "tr": "Highroads Station"
         }
     },
     {
@@ -1756,7 +2847,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "Aramax Chemical Co."
+            "de": "Aramax Chemical Co.",
+            "en": "Aramax Chemical Co.",
+            "es": "Aramax Chemical Co.",
+            "fr": "Aramax Chemical Co.",
+            "it": "Aramax Chemical Co.",
+            "tr": "Aramax Chemical Co."
         }
     },
     {
@@ -1764,7 +2860,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "The Auraxian Cryobank"
+            "de": "The Auraxian Cryobank",
+            "en": "The Auraxian Cryobank",
+            "es": "The Auraxian Cryobank",
+            "fr": "The Auraxian Cryobank",
+            "it": "The Auraxian Cryobank",
+            "tr": "The Auraxian Cryobank"
         }
     },
     {
@@ -1772,7 +2873,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Raven Landing"
+            "de": "Raven Landing",
+            "en": "Raven Landing",
+            "es": "Raven Landing",
+            "fr": "Raven Landing",
+            "it": "Raven Landing",
+            "tr": "Raven Landing"
         }
     },
     {
@@ -1780,7 +2886,12 @@
         "zone_id": "6",
         "initial_faction_id": "3",
         "name": {
-            "en": "The Ascent"
+            "de": "The Ascent",
+            "en": "The Ascent",
+            "es": "The Ascent",
+            "fr": "The Ascent",
+            "it": "The Ascent",
+            "tr": "The Ascent"
         }
     },
     {
@@ -1788,7 +2899,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "LithCorp Fortress"
+            "de": "LithCorp Fortress",
+            "en": "LithCorp Fortress",
+            "es": "LithCorp Fortress",
+            "fr": "LithCorp Fortress",
+            "it": "LithCorp Fortress",
+            "tr": "LithCorp Fortress"
         }
     },
     {
@@ -1796,7 +2912,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Moss Ravine"
+            "de": "Mooskluft",
+            "en": "Moss Ravine",
+            "es": "Moss Ravine",
+            "fr": "Moss Ravine",
+            "it": "Moss Ravine",
+            "tr": "Moss Ravine"
         }
     },
     {
@@ -1804,7 +2925,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "The Auger"
+            "de": "Der Bohrer",
+            "en": "The Auger",
+            "es": "The Auger",
+            "fr": "The Auger",
+            "it": "The Auger",
+            "tr": "The Auger"
         }
     },
     {
@@ -1812,7 +2938,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Shrouded Skyway"
+            "de": "Shrouded Skyway",
+            "en": "Shrouded Skyway",
+            "es": "Shrouded Skyway",
+            "fr": "Shrouded Skyway",
+            "it": "Shrouded Skyway",
+            "tr": "Shrouded Skyway"
         }
     },
     {
@@ -1820,7 +2951,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "The Scarfield Reliquary"
+            "de": "The Scarfield Reliquary",
+            "en": "The Scarfield Reliquary",
+            "es": "The Scarfield Reliquary",
+            "fr": "The Scarfield Reliquary",
+            "it": "The Scarfield Reliquary",
+            "tr": "The Scarfield Reliquary"
         }
     },
     {
@@ -1828,7 +2964,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "LithCorp Central"
+            "de": "LithCorp Central",
+            "en": "LithCorp Central",
+            "es": "LithCorp Central",
+            "fr": "Lithcorp Central",
+            "it": "Lithcorp Central",
+            "tr": "Lithcorp Central"
         }
     },
     {
@@ -1836,7 +2977,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Eastshore Training Camp"
+            "de": "Eastshore Training Camp",
+            "en": "Eastshore Training Camp",
+            "es": "Eastshore Training Camp",
+            "fr": "Eastshore Training Camp",
+            "it": "Eastshore Training Camp",
+            "tr": "Eastshore Training Camp"
         }
     },
     {
@@ -1844,7 +2990,11 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Solus Nature Annex"
+            "de": "Solus Naturanlage",
+            "en": "Solus Nature Annex",
+            "es": "Solus de Naturaleza Anexa",
+            "fr": "Solus Nature Annex",
+            "it": "Solus Nature Annex"
         }
     },
     {
@@ -1852,7 +3002,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Barrik Electrical Station"
+            "de": "Barrik Electrical Station",
+            "en": "Barrik Electrical Station",
+            "es": "Barrik Electrical Station",
+            "fr": "Barrik Electrical Station",
+            "it": "Barrik Electrical Station",
+            "tr": "Barrik Electrical Station"
         }
     },
     {
@@ -1860,7 +3015,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "SolTech Gorge"
+            "de": "SolTech Gorge",
+            "en": "SolTech Gorge",
+            "es": "SolTech Gorge",
+            "fr": "SolTech Gorge",
+            "it": "SolTech Gorge",
+            "tr": "SolTech Gorge"
         }
     },
     {
@@ -1868,7 +3028,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Kwahtee West Pass"
+            "de": "Kwahtee West Pass",
+            "en": "Kwahtee West Pass",
+            "es": "Kwahtee West Pass",
+            "fr": "Kwahtee West Pass",
+            "it": "Kwahtee West Pass",
+            "tr": "Kwahtee West Pass"
         }
     },
     {
@@ -1876,7 +3041,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Kwahtee Fortress"
+            "de": "Kwahtee Fortress",
+            "en": "Kwahtee Fortress",
+            "es": "Kwahtee Fortress",
+            "fr": "Kwahtee Fortress",
+            "it": "Kwahtee Fortress",
+            "tr": "Kwahtee Fortress"
         }
     },
     {
@@ -1884,7 +3054,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Kwahtee Mountain Complex"
+            "de": "Kwahtee Mountain Complex",
+            "en": "Kwahtee Mountain Complex",
+            "es": "Kwahtee Mountain Complex",
+            "fr": "Kwahtee Mountain Complex",
+            "it": "Kwahtee Mountain Complex",
+            "tr": "Kwahtee Mountain Complex"
         }
     },
     {
@@ -1892,7 +3067,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Ikanam Motor Pool"
+            "de": "Ikanam Motor Pool",
+            "en": "Ikanam Motor Pool",
+            "es": "Ikanam Motor Pool",
+            "fr": "Ikanam Motor Pool",
+            "it": "Ikanam Motor Pool",
+            "tr": "Ikanam Motor Pool"
         }
     },
     {
@@ -1900,7 +3080,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Ikanam Garrison"
+            "de": " Ikanam Garrison",
+            "en": "Ikanam Garrison",
+            "es": "Ikanam Garrison",
+            "fr": "Ikanam Garrison",
+            "it": "Ikanam Garrison",
+            "tr": "Ikanam Garrison"
         }
     },
     {
@@ -1908,7 +3093,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Ikanam Triage Station"
+            "de": "Ikanam Triage Station",
+            "en": "Ikanam Triage Station",
+            "es": "Ikanam Triage Station",
+            "fr": "Ikanam Triage Station",
+            "it": "Ikanam Triage Station",
+            "tr": "Ikanam Triage Station"
         }
     },
     {
@@ -1916,7 +3106,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Heyoka Armory"
+            "de": "Heyoka Armory",
+            "en": "Heyoka Armory",
+            "es": "Heyoka Armory",
+            "fr": "Heyoka Armory",
+            "it": "Heyoka Armory",
+            "tr": "Heyoka Armory"
         }
     },
     {
@@ -1924,7 +3119,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Heyoka Chemical Lab"
+            "de": "Heyoka Chemical Lab",
+            "en": "Heyoka Chemical Lab",
+            "es": "Heyoka Chemical Lab",
+            "fr": "Heyoka Chemical Lab",
+            "it": "Heyoka Chemical Lab",
+            "tr": "Heyoka Chemical Lab"
         }
     },
     {
@@ -1932,7 +3132,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Sungrey West Gate"
+            "de": "Sungrey West Gate",
+            "en": "Sungrey West Gate",
+            "es": "Sungrey West Gate",
+            "fr": "Sungrey West Gate",
+            "it": "Sungrey West Gate",
+            "tr": "Sungrey Bat\u0131 Kap\u0131s\u0131"
         }
     },
     {
@@ -1940,7 +3145,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Sungrey Power Hub"
+            "de": "Sungrey Power Hub",
+            "en": "Sungrey Power Hub",
+            "es": "Sungrey Power Hub",
+            "fr": "Sungrey Power Hub",
+            "it": "Sungrey Power Hub",
+            "tr": "Sungrey Power Hub"
         }
     },
     {
@@ -1948,7 +3158,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Sungrey Overwatch"
+            "de": "Sungrey Overwatch",
+            "en": "Sungrey Overwatch",
+            "es": "Sungrey Overwatch",
+            "fr": "Sungrey Overwatch",
+            "it": "Sungrey Overwatch",
+            "tr": "Sungrey Overwatch"
         }
     },
     {
@@ -1956,7 +3171,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Mekala Cart Mining"
+            "de": "Mekala Cart Mining",
+            "en": "Mekala Cart Mining",
+            "es": "Mekala Cart Mining",
+            "fr": "Mekala Cart Mining",
+            "it": "Mekala Cart Mining",
+            "tr": "Mekala Cart Mining"
         }
     },
     {
@@ -1964,7 +3184,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Mekala's Auxiliary Compound"
+            "de": "Mekala's Auxiliary Compound",
+            "en": "Mekala's Auxiliary Compound",
+            "es": "Mekala's Auxiliary Compound",
+            "fr": "Mekala's Auxiliary Compound",
+            "it": "Mekala's Auxiliary Compound",
+            "tr": "Mekala's Auxiliary Compound"
         }
     },
     {
@@ -1972,7 +3197,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Onatha North Gate"
+            "de": "Onatha North Gate",
+            "en": "Onatha North Gate",
+            "es": "Onatha North Gate",
+            "fr": "Onatha North Gate",
+            "it": "Onatha North Gate",
+            "tr": "Onatha Kuzey Kap\u0131s\u0131"
         }
     },
     {
@@ -1980,7 +3210,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "East Onatha Comm. Array"
+            "de": "East Onatha Comm. Array",
+            "en": "East Onatha Comm. Array",
+            "es": "East Onatha Comm. Array",
+            "fr": "East Onatha Comm. Array",
+            "it": "East Onatha Comm. Array",
+            "tr": "East Onatha Comm. Array"
         }
     },
     {
@@ -1988,7 +3223,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Onatha Southwest Gate"
+            "de": "Onatha Southwest Gate",
+            "en": "Onatha Southwest Gate",
+            "es": "Onatha Southwest Gate",
+            "fr": "Onatha Southwest Gate",
+            "it": "Onatha Southwest Gate",
+            "tr": "Onatha G\u00fcneybat\u0131 Kap\u0131s\u0131"
         }
     },
     {
@@ -1996,7 +3236,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Wokuk Ecological Preserve"
+            "de": "Wokuk Ecological Preserve",
+            "en": "Wokuk Ecological Preserve",
+            "es": "Wokuk Ecological Preserve",
+            "fr": "Wokuk Ecological Preserve",
+            "it": "Wokuk Ecological Preserve",
+            "tr": "Wokuk Ecological Preserve"
         }
     },
     {
@@ -2004,7 +3249,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Wokuk Shipping Dock"
+            "de": "Wokuk Shipping Dock",
+            "en": "Wokuk Shipping Dock",
+            "es": "Wokuk Shipping Dock",
+            "fr": "Wokuk Shipping Dock",
+            "it": "Wokuk Shipping Dock",
+            "tr": "Wokuk Shipping Dock"
         }
     },
     {
@@ -2012,7 +3262,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Wokuk Watchtower"
+            "de": "Wokuk Watchtower",
+            "en": "Wokuk Watchtower",
+            "es": "Wokuk Watchtower",
+            "fr": "Wokuk Watchtower",
+            "it": "Wokuk Watchtower",
+            "tr": "Wokuk Watchtower"
         }
     },
     {
@@ -2020,7 +3275,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Tumas Skylance Battery"
+            "de": "Tumas Skylance Battery",
+            "en": "Tumas Skylance Battery",
+            "es": "Tumas Skylance Battery",
+            "fr": "Tumas Skylance Battery",
+            "it": "Tumas Skylance Battery",
+            "tr": "Tumas Skylance Battery"
         }
     },
     {
@@ -2028,7 +3288,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Tumas Cargo Facility"
+            "de": "Tumas Cargo Facility",
+            "en": "Tumas Cargo Facility",
+            "es": "Tumas Cargo Facility",
+            "fr": "Tumas Cargo Facility",
+            "it": "Tumas Cargo Facility",
+            "tr": "Tumas Cargo Facility"
         }
     },
     {
@@ -2036,7 +3301,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Xelas West Air Dock"
+            "de": "Luft-Dock Xelas West",
+            "en": "Xelas West Air Dock",
+            "es": "Xelas West Air Dock",
+            "fr": "Xelas West Air Dock",
+            "it": "Xelas West Air Dock",
+            "tr": "Xelas West Air Dock"
         }
     },
     {
@@ -2044,7 +3314,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Xelas North Gate"
+            "de": "Xelas North Gate",
+            "en": "Xelas North Gate",
+            "es": "Xelas North Gate",
+            "fr": "Xelas North Gate",
+            "it": "Xelas North Gate",
+            "tr": "Xelas North Gate"
         }
     },
     {
@@ -2052,7 +3327,12 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Xelas South Bridge"
+            "de": "Xelas South Bridge",
+            "en": "Xelas South Bridge",
+            "es": "Xelas South Bridge",
+            "fr": "Xelas South Bridge",
+            "it": "Xelas South Bridge",
+            "tr": "Xelas South Bridge"
         }
     },
     {
@@ -2060,7 +3340,11 @@
         "zone_id": "6",
         "initial_faction_id": "2",
         "name": {
-            "en": "Cobalt Geological Outpost"
+            "de": "Au\u00dfenposten - Cobalt Geological",
+            "en": "Cobalt Geological Outpost",
+            "es": "Cobalt Geological Outpost",
+            "fr": "Cobalt Geological Outpost",
+            "it": "Avamposto geologico di cobalto"
         }
     },
     {
@@ -2068,7 +3352,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Palos Solar Array"
+            "de": "Palos Solar Array",
+            "en": "Palos Solar Array",
+            "es": "Palos Solar Array",
+            "fr": "Palos Solar Array",
+            "it": "Palos Solar Array",
+            "tr": "Palos Solar Array"
         }
     },
     {
@@ -2076,7 +3365,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Crystal Ridge Comm Array"
+            "de": "Crystal Ridge Comm Array",
+            "en": "Crystal Ridge Comm Array",
+            "es": "Crystal Ridge Comm Array",
+            "fr": "Crystal Ridge Comm Array",
+            "it": "Crystal Ridge Comm Array",
+            "tr": "Crystal Ridge Comm Array"
         }
     },
     {
@@ -2084,7 +3378,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Haven Outpost"
+            "de": "Au\u00dfenposten Haven",
+            "en": "Haven Outpost",
+            "es": "Haven Outpost",
+            "fr": "Haven Outpost",
+            "it": "Haven Outpost",
+            "tr": "Haven Outpost"
         }
     },
     {
@@ -2092,7 +3391,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Aurora Materials Lab"
+            "de": "Aurora Materials Lab",
+            "en": "Aurora Materials Lab",
+            "es": "Aurora Materials Lab",
+            "fr": "Aurora Materials Lab",
+            "it": "Aurora Materials Lab",
+            "tr": "Aurora Materials Lab"
         }
     },
     {
@@ -2100,7 +3404,11 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Mani Containment Site"
+            "de": "Mani Eind\u00e4mmungsanlage",
+            "en": "Mani Containment Site",
+            "es": "Zona de contenci\u00f3n Mani",
+            "fr": "Site de confinement de Mani",
+            "it": "Sito di contenimento Mani"
         }
     },
     {
@@ -2108,7 +3416,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Stillwater Watch"
+            "de": "Stillwater Watch",
+            "en": "Stillwater Watch",
+            "es": "Stillwater Watch",
+            "fr": "Stillwater Watch",
+            "it": "Stillwater Watch",
+            "tr": "Stillwater Watch"
         }
     },
     {
@@ -2116,7 +3429,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Grey Heron Shipping"
+            "de": "Grey Heron Shipping",
+            "en": "Grey Heron Shipping",
+            "es": "Grey Heron Shipping",
+            "fr": "Grey Heron Shipping",
+            "it": "Grey Heron Shipping",
+            "tr": "Grey Heron Shipping"
         }
     },
     {
@@ -2124,7 +3442,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "The Traverse"
+            "de": "Die Traverse",
+            "en": "The Traverse",
+            "es": "The Traverse",
+            "fr": "The Traverse",
+            "it": "The Traverse",
+            "tr": "The Traverse"
         }
     },
     {
@@ -2132,7 +3455,12 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Pale Canyon Chemical"
+            "de": "Pale Canyon Chemical",
+            "en": "Pale Canyon Chemical",
+            "es": "Pale Canyon Chemical",
+            "fr": "Pale Canyon Chemical",
+            "it": "Pale Canyon Chemical",
+            "tr": "Pale Canyon Chemical"
         }
     },
     {
@@ -2140,7 +3468,12 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Old Shore Checkpoint"
+            "de": "Old Shore Checkpoint",
+            "en": "Old Shore Checkpoint",
+            "es": "Old Shore Checkpoint",
+            "fr": "Old Shore Checkpoint",
+            "it": "Old Shore Checkpoint",
+            "tr": "Old Shore Checkpoint"
         }
     },
     {
@@ -2148,7 +3481,11 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Eastwake Harborage"
+            "de": "Eastwake-Hafen",
+            "en": "Eastwake Harborage",
+            "es": "Puerto de Eastwake",
+            "fr": "Refuge d'Eastwake",
+            "it": "Attracchi al porto Eastwake"
         }
     },
     {
@@ -2156,7 +3493,12 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Elli Forest Pass"
+            "de": "Elli Forest Pass",
+            "en": "Elli Forest Pass",
+            "es": "Elli Forest Pass",
+            "fr": "Elli Forest Pass",
+            "it": "Elli Forest Pass",
+            "tr": "Elli Forest Pass"
         }
     },
     {
@@ -2164,7 +3506,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Frostfall Overlook"
+            "de": "Frostfall Overlook",
+            "en": "Frostfall Overlook",
+            "es": "Frostfall Overlook",
+            "fr": "Frostfall Overlook",
+            "it": "Frostfall Overlook",
+            "tr": "Frostfall Overlook"
         }
     },
     {
@@ -2172,7 +3519,11 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Snowshear Fort"
+            "de": "Snowshear Fort",
+            "en": "Snowshear Fort",
+            "es": "Fuerte Snowshear",
+            "fr": "Fort Snowshear",
+            "it": "Snowshear Fort"
         }
     },
     {
@@ -2180,7 +3531,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Mattherson's Triumph"
+            "de": "Mattherson's Triumph",
+            "en": "Mattherson's Triumph",
+            "es": "Mattherson's Triumph",
+            "fr": "Mattherson's Triumph",
+            "it": "Mattherson's Triumph",
+            "tr": "Mattherson's Triumph"
         }
     },
     {
@@ -2188,7 +3544,11 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Northpoint Ruins"
+            "de": "Northpoint Ruinen",
+            "en": "Northpoint Ruins",
+            "es": "Ruinas de Northpoint",
+            "fr": "Ruines de Northpoint",
+            "it": "Ruderi Northpoint"
         }
     },
     {
@@ -2196,7 +3556,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Saerro Listening Post"
+            "de": "Saerro Listening Post",
+            "en": "Saerro Listening Post",
+            "es": "Saerro Listening Post",
+            "fr": "Saerro Listening Post",
+            "it": "Saerro Listening Post",
+            "tr": "Saerro Listening Post"
         }
     },
     {
@@ -2204,7 +3569,12 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Waterson's Redemption"
+            "de": "Waterson's Erl\u00f6sung",
+            "en": "Waterson's Redemption",
+            "es": "Waterson's Redemption",
+            "fr": "Waterson's Redemption",
+            "it": "Waterson's Redemption",
+            "tr": "Waterson's Redemption"
         }
     },
     {
@@ -2212,7 +3582,11 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Andvari Containment Site"
+            "de": "Andvari Eind\u00e4mmungsanlage",
+            "en": "Andvari Containment Site",
+            "es": "Zona de contenci\u00f3n Andvari",
+            "fr": "Site de confinement d'Andvari",
+            "it": "Sito di contenimento Andvari"
         }
     },
     {
@@ -2220,7 +3594,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Freyr"
+            "de": "Freyr",
+            "en": "Freyr",
+            "es": "Freyr",
+            "fr": "Freyr",
+            "it": "Freyr",
+            "tr": "Freyr"
         }
     },
     {
@@ -2228,7 +3607,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Eisa"
+            "de": "Eisa",
+            "en": "Eisa",
+            "es": "Eisa",
+            "fr": "Eisa",
+            "it": "Eisa",
+            "tr": "Eisa"
         }
     },
     {
@@ -2236,7 +3620,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Nott Communications"
+            "de": "Nott Communications",
+            "en": "Nott Communications",
+            "es": "Nott Communications",
+            "fr": "Nott Communications",
+            "it": "Nott Communications",
+            "tr": "Nott Communications"
         }
     },
     {
@@ -2244,7 +3633,12 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Ymir"
+            "de": "Ymir",
+            "en": "Ymir",
+            "es": "Ymir",
+            "fr": "Ymir",
+            "it": "Ymir",
+            "tr": "Ymir"
         }
     },
     {
@@ -2252,7 +3646,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Esamir Northern Warpgate"
+            "de": "N\u00f6rdliches Warptor - Esamir",
+            "en": "Esamir Northern Warpgate",
+            "es": "Esamir Northern Warpgate",
+            "fr": "Esamir Northern Warpgate",
+            "it": "Warpgate a nord di Esamir",
+            "tr": "Esamir North Western Warpgate"
         }
     },
     {
@@ -2260,7 +3659,12 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Esamir Southern Warpgate"
+            "de": "S\u00fcdliches Warptor - Esamir",
+            "en": "Esamir Southern Warpgate",
+            "es": "Esamir Southern Warpgate",
+            "fr": "Esamir Southern Warpgate",
+            "it": "Esamir Southern Warpgate",
+            "tr": "Esamir Southern Warpgate"
         }
     },
     {
@@ -2268,7 +3672,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Echo Valley Substation"
+            "de": "Echo Valley Substation",
+            "en": "Echo Valley Substation",
+            "es": "Echo Valley Substation",
+            "fr": "Echo Valley Substation",
+            "it": "Echo Valley Substation ",
+            "tr": "Echo Valley Substation"
         }
     },
     {
@@ -2276,7 +3685,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Bridge-ward"
+            "de": "Bridge-ward",
+            "en": "Bridge-ward",
+            "es": "Bridge-ward",
+            "fr": "Bridge-ward",
+            "it": "Bridge-ward",
+            "tr": "Bridge-ward"
         }
     },
     {
@@ -2284,7 +3698,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Frostbite Harbor"
+            "de": "Frostbite Harbor",
+            "en": "Frostbite Harbor",
+            "es": "Frostbite Harbor",
+            "fr": "Frostbite Harbor",
+            "it": "Frostbite Harbor",
+            "tr": "Frostbite Harbor"
         }
     },
     {
@@ -2292,7 +3711,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Jaeger's Fist"
+            "de": "Jaeger's Fist",
+            "en": "Jaeger's Fist",
+            "es": "Jaeger's Fist",
+            "fr": "Jaeger's Fist",
+            "it": "Jaeger's Fist",
+            "tr": "Jaeger's Fist"
         }
     },
     {
@@ -2300,7 +3724,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Two Stone Beach"
+            "de": "Two Stone Beach",
+            "en": "Two Stone Beach",
+            "es": "Two Stone Beach",
+            "fr": "Two Stone Beach",
+            "it": "Two Stone Beach",
+            "tr": "Two Stone Beach"
         }
     },
     {
@@ -2308,7 +3737,12 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Terran BL-4 Crash Site"
+            "de": "Terran BL-4 Crash Site",
+            "en": "Terran BL-4 Crash Site",
+            "es": "Terran BL-4 Crash Site",
+            "fr": "Terran BL-4 Crash Site",
+            "it": "Terran BL-4 Crash Site",
+            "tr": "Terran BL-4 Crash Site"
         }
     },
     {
@@ -2316,7 +3750,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Andvari Barracks"
+            "de": "Andvari Barracks",
+            "en": "Andvari Barracks",
+            "es": "Andvari Barracks",
+            "fr": "Andvari Barracks",
+            "it": "Andvari Barracks",
+            "tr": "Andvari Barracks"
         }
     },
     {
@@ -2324,7 +3763,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Andvari South Bank"
+            "de": "Andvari South Bank",
+            "en": "Andvari South Bank",
+            "es": "Andvari South Bank",
+            "fr": "Andvari South Bank",
+            "it": "Andvari South Bank",
+            "tr": "Andvari South Bank"
         }
     },
     {
@@ -2332,7 +3776,12 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Elli Tower"
+            "de": "Elli Tower",
+            "en": "Elli Tower",
+            "es": "Elli Tower",
+            "fr": "Elli Tower",
+            "it": "Elli Tower",
+            "tr": "Elli Tower"
         }
     },
     {
@@ -2340,7 +3789,11 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Steelshore Processing"
+            "de": "Steelshore Verarbeitungsanlage",
+            "en": "Steelshore Processing",
+            "es": "Procesado Steelshore",
+            "fr": "Steelshore Processing",
+            "it": "Elaborazione Steelshore"
         }
     },
     {
@@ -2348,7 +3801,11 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Steelshore Reconstruction"
+            "de": "Steelshore Wiederaufbau",
+            "en": "Steelshore Reconstruction",
+            "es": "Reconstrucci\u00f3n de Steelshore",
+            "fr": "Steelshore Reconstruction",
+            "it": "Ricostruzione Steelshore"
         }
     },
     {
@@ -2356,7 +3813,11 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Esper Research Station"
+            "de": "Esper Forschungsstation",
+            "en": "Esper Research Station",
+            "es": "Esper Research Station",
+            "fr": "Station de recherche Esper",
+            "it": "Stazione di ricerca Esper"
         }
     },
     {
@@ -2364,7 +3825,12 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Esamir Eastern Warpgate"
+            "de": "\u00d6stliches Warptor - Esamir",
+            "en": "Esamir Eastern Warpgate",
+            "es": "Esamir Eastern Warpgate",
+            "fr": "Esamir Eastern Warpgate",
+            "it": "Esamir Eastern Warpgate",
+            "tr": "Esamir Eastern Warpgate"
         }
     },
     {
@@ -2372,7 +3838,11 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Genudine Gardens"
+            "de": "Genudine Gardens",
+            "en": "Genudine Gardens",
+            "es": "Jardines de Genudine",
+            "fr": "Genudine Gardens",
+            "it": "Giardini Genudine"
         }
     },
     {
@@ -2380,7 +3850,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Rime Analytics"
+            "de": "Rime Analytics",
+            "en": "Rime Analytics",
+            "es": "Rime Analytics",
+            "fr": "Rime Analytics",
+            "it": "Analisi temporale",
+            "tr": "Rime Analytics"
         }
     },
     {
@@ -2388,7 +3863,12 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "The Rink"
+            "de": "The Rink",
+            "en": "The Rink",
+            "es": "The Rink",
+            "fr": "The Rink",
+            "it": "The Rink",
+            "tr": "The Rink"
         }
     },
     {
@@ -2396,7 +3876,11 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "BL-4 Recovery Point"
+            "de": "BL-4 Recovery Point",
+            "en": "BL-4 Recovery Point",
+            "es": "BL-4 Recovery Point",
+            "fr": "BL-4 Recovery Point",
+            "it": "Punto di recupero BL-4"
         }
     },
     {
@@ -2404,7 +3888,11 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Tapp Waystation"
+            "de": "Tapp Waystation",
+            "en": "Tapp Waystation",
+            "es": "Tapp Waystation",
+            "fr": "Tapp Waystation",
+            "it": "Tapp Waystation"
         }
     },
     {
@@ -2412,7 +3900,11 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Untapped Reservoir"
+            "de": "Unerschlossener Stausee",
+            "en": "Untapped Reservoir",
+            "es": "Untapped Reservoir",
+            "fr": "Untapped Reservoir",
+            "it": "Bacino idrico inutilizzato"
         }
     },
     {
@@ -2420,7 +3912,11 @@
         "zone_id": "8",
         "initial_faction_id": "0",
         "name": {
-            "en": "The Wash"
+            "de": "The Wash",
+            "en": "The Wash",
+            "es": "El lavadero",
+            "fr": "La Mar\u00e9e",
+            "it": "The Wash"
         }
     },
     {
@@ -2428,7 +3924,11 @@
         "zone_id": "8",
         "initial_faction_id": "0",
         "name": {
-            "en": "Baldur"
+            "de": "Baldur",
+            "en": "Baldur",
+            "es": "Baldur",
+            "fr": "Baldur",
+            "it": "Baldur"
         }
     },
     {
@@ -2436,7 +3936,11 @@
         "zone_id": "8",
         "initial_faction_id": "1",
         "name": {
-            "en": "Vidar Observation Site"
+            "de": "Vidar Observationsanlage",
+            "en": "Vidar Observation Site",
+            "es": "Lugar de observaci\u00f3n de Vidar",
+            "fr": "Site d'observation Vidar",
+            "it": "Sito di osservazione di Vidar"
         }
     },
     {
@@ -2444,7 +3948,11 @@
         "zone_id": "8",
         "initial_faction_id": "3",
         "name": {
-            "en": "Ymir Containment Site"
+            "de": "Ymir Eind\u00e4mmungsanlage",
+            "en": "Ymir Containment Site",
+            "es": "Zona de contenci\u00f3n Ymir",
+            "fr": "Site de confinement d'Ymir",
+            "it": "Sito di contenimento Ymir"
         }
     },
     {
@@ -2452,7 +3960,11 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Jord"
+            "de": "Jord",
+            "en": "Jord",
+            "es": "Jord",
+            "fr": "Jord",
+            "it": "Jord"
         }
     },
     {
@@ -2460,7 +3972,11 @@
         "zone_id": "8",
         "initial_faction_id": "2",
         "name": {
-            "en": "Spral Oasis"
+            "de": "Spral-Oase",
+            "en": "Spral Oasis",
+            "es": "Oasis Spral",
+            "fr": "Oasis de Spral",
+            "it": "Spral Oasis"
         }
     },
     {
@@ -2468,7 +3984,11 @@
         "zone_id": "8",
         "initial_faction_id": "0",
         "name": {
-            "en": "The Shattered Warpgate"
+            "de": "Das zertr\u00fcmmerte Warptor",
+            "en": "The Shattered Warpgate",
+            "es": "El Warpgate quebrantado",
+            "fr": "La Warpgate bris\u00e9e",
+            "it": "Shattered Warpgate"
         }
     }
 ]

@@ -2,493 +2,885 @@
     {
         "item_category_id": "2",
         "name": {
-            "en": "Knife"
+            "de": "Messer",
+            "en": "Knife",
+            "es": "Cuchillo",
+            "fr": "Couteau",
+            "it": "Coltello",
+            "tr": "B\u0131\u00e7ak"
         }
     },
     {
         "item_category_id": "3",
         "name": {
-            "en": "Pistol"
+            "de": "Pistole",
+            "en": "Pistol",
+            "es": "Pistola",
+            "fr": "Pistolet",
+            "it": "Pistola",
+            "tr": "Tabanca"
         }
     },
     {
         "item_category_id": "4",
         "name": {
-            "en": "Shotgun"
+            "de": "Schrotflinte",
+            "en": "Shotgun",
+            "es": "Escopeta",
+            "fr": "Fusil",
+            "it": "Fucile",
+            "tr": "Pompal\u0131 T\u00fcfek"
         }
     },
     {
         "item_category_id": "5",
         "name": {
-            "en": "SMG"
+            "de": "MP",
+            "en": "SMG",
+            "es": "Subfusil",
+            "fr": "Mitraillette",
+            "it": "Mitra",
+            "tr": "Makineli Tabanca"
         }
     },
     {
         "item_category_id": "6",
         "name": {
-            "en": "LMG"
+            "de": "LMG",
+            "en": "LMG",
+            "es": "Ametralladora ligera",
+            "fr": "Mitrailleuse l\u00e9g\u00e8re",
+            "it": "Mitragliatrice leggera",
+            "tr": "HMT"
         }
     },
     {
         "item_category_id": "7",
         "name": {
-            "en": "Assault Rifle"
+            "de": "Sturmgewehr",
+            "en": "Assault Rifle",
+            "es": "Rifle de asalto",
+            "fr": "Fusil d'assaut",
+            "it": "Fucile d'assalto",
+            "tr": "Taarruz T\u00fcfe\u011fi"
         }
     },
     {
         "item_category_id": "8",
         "name": {
-            "en": "Carbine"
+            "de": "Karabiner",
+            "en": "Carbine",
+            "es": "Carabina",
+            "fr": "Carabine",
+            "it": "Carabina",
+            "tr": "Karabina"
         }
     },
     {
         "item_category_id": "9",
         "name": {
-            "en": "AV MAX (Left)"
+            "de": "PA MAX-Einheit (links)",
+            "en": "AV MAX (Left)",
+            "es": "MAX AV (izda.)",
+            "fr": "XAM AV (Gauche)",
+            "it": "AV MAX (sinistra)",
+            "tr": "AV MAX (Left)"
         }
     },
     {
         "item_category_id": "10",
         "name": {
-            "en": "AI MAX (Left)"
+            "de": "IA MAX-Einheit (links)",
+            "en": "AI MAX (Left)",
+            "es": "MAX antiinfanter\u00eda (izda.)",
+            "fr": "XAM IA (Gauche)",
+            "it": "IA MAX (sinistra)",
+            "tr": "AI MAX (Left)"
         }
     },
     {
         "item_category_id": "11",
         "name": {
-            "en": "Sniper Rifle"
+            "de": "Scharfsch\u00fctzengewehr",
+            "en": "Sniper Rifle",
+            "es": "Rifle de francotirador",
+            "fr": "Fusil de pr\u00e9cision",
+            "it": "Fucile di precisione",
+            "tr": "Keskin Ni\u015fanc\u0131 T\u00fcfe\u011fi"
         }
     },
     {
         "item_category_id": "12",
         "name": {
-            "en": "Scout Rifle"
+            "de": "Scout-Gewehr",
+            "en": "Scout Rifle",
+            "es": "Rifle Scout",
+            "fr": "Fusil d'\u00e9claireur",
+            "it": "Fucile da ricognizione",
+            "tr": "G\u00f6zc\u00fc T\u00fcfe\u011fi"
         }
     },
     {
         "item_category_id": "13",
         "name": {
-            "en": "Rocket Launcher"
+            "de": "Raketenwerfer",
+            "en": "Rocket Launcher",
+            "es": "Lanzacohetes",
+            "fr": "Lance-roquettes",
+            "it": "Lanciarazzi",
+            "tr": "Roketatar"
         }
     },
     {
         "item_category_id": "14",
         "name": {
-            "en": "Heavy Weapon"
+            "de": "Schwere Waffe",
+            "en": "Heavy Weapon",
+            "es": "Arma pesada",
+            "fr": "Arme lourde",
+            "it": "Arma pesante",
+            "tr": "A\u011f\u0131r Silah"
         }
     },
     {
         "item_category_id": "15",
         "name": {
-            "en": "Flamethrower MAX"
+            "de": "MAX-Flammenwerfer",
+            "en": "Flamethrower MAX",
+            "es": "Lanzallamas MAX",
+            "fr": "MAX Lance-flammes",
+            "it": "Lanciafiamme MAX",
+            "tr": "MAX Alev Silah\u0131"
         }
     },
     {
         "item_category_id": "16",
         "name": {
-            "en": "Flak MAX"
+            "de": "Flak MAX-Einheit",
+            "en": "Flak MAX",
+            "es": "Ca\u00f1\u00f3n antia\u00e9reo MAX",
+            "fr": "XAM de DCA",
+            "it": "Flak MAX",
+            "tr": "MAX U\u00e7aksavar"
         }
     },
     {
         "item_category_id": "17",
         "name": {
-            "en": "Grenade"
+            "de": "Granate",
+            "en": "Grenade",
+            "es": "Granada",
+            "fr": "Grenade",
+            "it": "Granata",
+            "tr": "El Bombas\u0131"
         }
     },
     {
         "item_category_id": "18",
         "name": {
-            "en": "Explosive"
+            "de": "Sprengstoff",
+            "en": "Explosive",
+            "es": "Explosivo",
+            "fr": "Explosif",
+            "it": "Esplosivo",
+            "tr": "Patlay\u0131c\u0131"
         }
     },
     {
         "item_category_id": "19",
         "name": {
-            "en": "Battle Rifle"
+            "de": "Kampfgewehr",
+            "en": "Battle Rifle",
+            "es": "Rifle de asalto",
+            "fr": "Fusil de combat",
+            "it": "Fucile da battaglia",
+            "tr": "Sava\u015f T\u00fcfe\u011fi"
         }
     },
     {
         "item_category_id": "20",
         "name": {
-            "en": "AA MAX (Right)"
+            "de": "FA MAX-Einheit (rechts)",
+            "en": "AA MAX (Right)",
+            "es": "AA MAX (dcha.)",
+            "fr": "XAM anti-a\u00e9rien (Droite)",
+            "it": "MAX AA (destra)",
+            "tr": "AA MAX (Right)"
         }
     },
     {
         "item_category_id": "21",
         "name": {
-            "en": "AV MAX (Right)"
+            "de": "PA MAX-Einheit (rechts)",
+            "en": "AV MAX (Right)",
+            "es": "MAX AV (dcha.)",
+            "fr": "XAM AV (Droite)",
+            "it": "AV MAX (destra)",
+            "tr": "AV MAX (Right)"
         }
     },
     {
         "item_category_id": "22",
         "name": {
-            "en": "AI MAX (Right)"
+            "de": "IA MAX-Einheit (rechts)",
+            "en": "AI MAX (Right)",
+            "es": "MAX antiinfanter\u00eda (dcha.)",
+            "fr": "XAM IA (Droite)",
+            "it": "IA MAX (destra)",
+            "tr": "AI MAX (Right)"
         }
     },
     {
         "item_category_id": "23",
         "name": {
-            "en": "AA MAX (Left)"
+            "de": "FA MAX-Einheit (links)",
+            "en": "AA MAX (Left)",
+            "es": "AA MAX (izda.)",
+            "fr": "XAM anti-a\u00e9rien (Gauche)",
+            "it": "MAX AA (sinistra)",
+            "tr": "AA MAX (Left)"
         }
     },
     {
         "item_category_id": "24",
         "name": {
-            "en": "Crossbow"
+            "de": "Armbrust",
+            "en": "Crossbow",
+            "es": "Ballesta",
+            "fr": "Arbal\u00e8te",
+            "it": "Balestra",
+            "tr": "Crossbow"
         }
     },
     {
         "item_category_id": "99",
         "name": {
-            "en": "Camo"
+            "de": "Tarnung",
+            "en": "Camo",
+            "es": "Camuflaje",
+            "fr": "Camouflage",
+            "it": "Mimetica",
+            "tr": "Camo"
         }
     },
     {
         "item_category_id": "100",
         "name": {
-            "en": "Infantry"
+            "de": "Infanterie",
+            "en": "Infantry",
+            "es": "Infanter\u00eda",
+            "fr": "Infanterie",
+            "it": "Fanteria",
+            "tr": "Piyade"
         }
     },
     {
         "item_category_id": "101",
         "name": {
-            "en": "Vehicles"
+            "de": "Fahrzeuge",
+            "en": "Vehicles",
+            "es": "Veh\u00edculos",
+            "fr": "V\u00e9hicules",
+            "it": "Veicoli",
+            "tr": "Ara\u00e7lar"
         }
     },
     {
         "item_category_id": "102",
         "name": {
-            "en": "Infantry Weapons"
+            "de": "Infanteriewaffen",
+            "en": "Infantry Weapons",
+            "es": "Armas de infanter\u00eda",
+            "fr": "Armes d'infanterie",
+            "it": "Armi di fanteria",
+            "tr": "Piyade Silahlar\u0131"
         }
     },
     {
         "item_category_id": "103",
         "name": {
-            "en": "Infantry Gear"
+            "de": "Infanterie-Ausr\u00fcstung",
+            "en": "Infantry Gear",
+            "es": "Equipo para infanter\u00eda",
+            "fr": "Mat\u00e9riel d'infanterie",
+            "it": "Attrezzatura per fanteria",
+            "tr": "Piyade Te\u00e7hizat\u0131"
         }
     },
     {
         "item_category_id": "104",
         "name": {
-            "en": "Vehicle Weapons"
+            "de": "Fahrzeugwaffen",
+            "en": "Vehicle Weapons",
+            "es": "Armas para veh\u00edculos",
+            "fr": "Armement de v\u00e9hicule",
+            "it": "Armi dei veicoli",
+            "tr": "Ara\u00e7 Silahlar\u0131"
         }
     },
     {
         "item_category_id": "105",
         "name": {
-            "en": "Vehicle Gear"
+            "de": "Fahrzeug-Ausr\u00fcstung",
+            "en": "Vehicle Gear",
+            "es": "Equipo para veh\u00edculos",
+            "fr": "\u00c9quipement de v\u00e9hicule",
+            "it": "Attrezzatura per veicoli",
+            "tr": "Ara\u00e7 Te\u00e7hizat\u0131"
         }
     },
     {
         "item_category_id": "106",
         "name": {
-            "en": "Armor Camo"
+            "de": "R\u00fcstungstarnung",
+            "en": "Armor Camo",
+            "es": "Camuflaje de blindaje",
+            "fr": "Camouflage d'armure",
+            "it": "Mimetizzazione da armatura",
+            "tr": "Armor Camo"
         }
     },
     {
         "item_category_id": "107",
         "name": {
-            "en": "Weapon Camo"
+            "de": "Waffentarnung",
+            "en": "Weapon Camo",
+            "es": "Camuflaje de arma",
+            "fr": "Camouflage d'arme",
+            "it": "Mimetizzazione da arma",
+            "tr": "Weapon Camo"
         }
     },
     {
         "item_category_id": "108",
         "name": {
-            "en": "Vehicle Camo"
+            "de": "Fahrzeugtarnung",
+            "en": "Vehicle Camo",
+            "es": "Camuflaje de veh\u00edculo",
+            "fr": "Camouflage V\u00e9hicule",
+            "it": "Mimetizzazione da veicolo",
+            "tr": "Vehicle Camo"
         }
     },
     {
         "item_category_id": "109",
         "name": {
-            "en": "Flash Primary Weapon"
+            "de": "Flash-Prim\u00e4rwaffe",
+            "en": "Flash Primary Weapon",
+            "es": "Arma principal del Flash",
+            "fr": "Arme principale du Flash",
+            "it": "Arma primaria Flash",
+            "tr": "Flash Primary Weapon"
         }
     },
     {
         "item_category_id": "110",
         "name": {
-            "en": "Galaxy Left Weapon"
+            "de": "Linke Galaxy-Waffe",
+            "en": "Galaxy Left Weapon",
+            "es": "Arma izquierda del Galaxy",
+            "fr": "Arme gauche du Galaxie",
+            "it": "Arma sinistra Galaxy",
+            "tr": "Galaxy Left Weapon"
         }
     },
     {
         "item_category_id": "111",
         "name": {
-            "en": "Galaxy Tail Weapon"
+            "de": "Galaxy-Sekund\u00e4rwaffe",
+            "en": "Galaxy Tail Weapon",
+            "es": "Arma de la cola del Galaxy",
+            "fr": "Arme de queue du Galaxie",
+            "it": "Arma di coda Galaxy",
+            "tr": "Galaxy Tail Weapon"
         }
     },
     {
         "item_category_id": "112",
         "name": {
-            "en": "Galaxy Right Weapon"
+            "de": "Rechte Galaxy-Waffe",
+            "en": "Galaxy Right Weapon",
+            "es": "Arma derecha del Galaxy",
+            "fr": "Arme droite du Galaxie",
+            "it": "Arma destra Galaxy",
+            "tr": "Galaxy Right Weapon"
         }
     },
     {
         "item_category_id": "113",
         "name": {
-            "en": "Galaxy Top Weapon"
+            "de": "Obere Galaxy-Waffe",
+            "en": "Galaxy Top Weapon",
+            "es": "Arma superior del Galaxy",
+            "fr": "Armement de toit du Galaxie",
+            "it": "Arma dorsale Galaxy",
+            "tr": "Galaxy Top Weapon"
         }
     },
     {
         "item_category_id": "114",
         "name": {
-            "en": "Harasser Top Gunner"
+            "de": "Oberer Harasser-Sch\u00fctze",
+            "en": "Harasser Top Gunner",
+            "es": "Puesto de artillero superior del Harasser",
+            "fr": "Canonnier du dessus de l'Offenseur",
+            "it": "Artigliere dorsale Harasser",
+            "tr": "Harasser Top Gunner"
         }
     },
     {
         "item_category_id": "115",
         "name": {
-            "en": "Liberator Belly Weapon"
+            "de": "Liberator-Maschinengewehrkuppel",
+            "en": "Liberator Belly Weapon",
+            "es": "Arma de la panza del Liberator",
+            "fr": "Arme de ventre du Lib\u00e9rateur",
+            "it": "Arma ventrale Liberator",
+            "tr": "Liberator Belly Weapon"
         }
     },
     {
         "item_category_id": "116",
         "name": {
-            "en": "Liberator Nose Cannon"
+            "de": "Liberator-Bugkanone",
+            "en": "Liberator Nose Cannon",
+            "es": "Ca\u00f1\u00f3n del morro del Liberator",
+            "fr": "Canon de nez du Lib\u00e9rateur",
+            "it": "Cannone frontale Liberator",
+            "tr": "Liberator Nose Cannon"
         }
     },
     {
         "item_category_id": "117",
         "name": {
-            "en": "Liberator Tail Weapon"
+            "de": "Liberator-Sekund\u00e4rwaffe",
+            "en": "Liberator Tail Weapon",
+            "es": "Arma de la cola del Liberator",
+            "fr": "Arme de queue du Lib\u00e9rateur",
+            "it": "Arma di coda Liberator",
+            "tr": "Liberator Tail Weapon"
         }
     },
     {
         "item_category_id": "118",
         "name": {
-            "en": "Lightning Primary Weapon "
+            "de": "Lightning-Prim\u00e4rwaffe",
+            "en": "Lightning Primary Weapon ",
+            "es": "Arma principal del Lightning ",
+            "fr": "Arme principale du Foudre",
+            "it": "Arma primaria Lightning",
+            "tr": "Lightning Primary Weapon "
         }
     },
     {
         "item_category_id": "119",
         "name": {
-            "en": "Magrider Gunner Weapon"
+            "de": "Magrider-Sch\u00fctzenwaffe",
+            "en": "Magrider Gunner Weapon",
+            "es": "Puesto de artillero del Magrider",
+            "fr": "Arme de canonnier de l'A\u00e9rochar",
+            "it": "Arma di artiglieria Magrider",
+            "tr": "Magrider Gunner Weapon"
         }
     },
     {
         "item_category_id": "120",
         "name": {
-            "en": "Magrider Primary Weapon"
+            "de": "Magrider-Prim\u00e4rwaffe",
+            "en": "Magrider Primary Weapon",
+            "es": "Arma principal del Magrider",
+            "fr": "Arme principale de l'A\u00e9rochar",
+            "it": "Arma primaria Magrider",
+            "tr": "Magrider Primary Weapon"
         }
     },
     {
         "item_category_id": "121",
         "name": {
-            "en": "Mosquito Nose Cannon"
+            "de": "Mosquito-Bugkanone",
+            "en": "Mosquito Nose Cannon",
+            "es": "Ca\u00f1\u00f3n del morro del Mosquito",
+            "fr": "Canon de nez du Mosquito",
+            "it": "Cannone frontale Mosquito",
+            "tr": "Mosquito Nose Cannon"
         }
     },
     {
         "item_category_id": "122",
         "name": {
-            "en": "Mosquito Wing Mount"
+            "de": "Mosquito-Fl\u00fcgelbewaffnung",
+            "en": "Mosquito Wing Mount",
+            "es": "Soporte del ala del Mosquito",
+            "fr": "Monture d'aile de Mosquito",
+            "it": "Sotto le ali Mosquito",
+            "tr": "Mosquito Wing Mount"
         }
     },
     {
         "item_category_id": "123",
         "name": {
-            "en": "Prowler Gunner Weapon"
+            "de": "Prowler-Sch\u00fctzenwaffe",
+            "en": "Prowler Gunner Weapon",
+            "es": "Puesto de artillero del Prowler",
+            "fr": "Arme de canonnier de Pr\u00e9dateur",
+            "it": "Arma di artiglieria Prowler",
+            "tr": "Prowler Gunner Weapon"
         }
     },
     {
         "item_category_id": "124",
         "name": {
-            "en": "Prowler Primary Weapon"
+            "de": "Prowler-Prim\u00e4rwaffe",
+            "en": "Prowler Primary Weapon",
+            "es": "Arma principal del Prowler",
+            "fr": "Arme principale du Pr\u00e9dateur",
+            "it": "Arma primaria Prowler",
+            "tr": "Prowler Primary Weapon"
         }
     },
     {
         "item_category_id": "125",
         "name": {
-            "en": "Reaver Nose Cannon"
+            "de": "Reaver-Bugkanone",
+            "en": "Reaver Nose Cannon",
+            "es": "Ca\u00f1\u00f3n del morro del Reaver",
+            "fr": "Canon de nez du Ravageur",
+            "it": "Cannone frontale Reaver",
+            "tr": "Reaver Nose Cannon"
         }
     },
     {
         "item_category_id": "126",
         "name": {
-            "en": "Reaver Wing Mount"
+            "de": "Reaver-Fl\u00fcgelbewaffnung",
+            "en": "Reaver Wing Mount",
+            "es": "Soporte del ala del Reaver",
+            "fr": "Monture d'aile de Ravageur",
+            "it": "Sotto le ali Reaver",
+            "tr": "Reaver Wing Mount"
         }
     },
     {
         "item_category_id": "127",
         "name": {
-            "en": "Scythe Nose Cannon"
+            "de": "Scythe-Bugkanone",
+            "en": "Scythe Nose Cannon",
+            "es": "Ca\u00f1\u00f3n del morro del Scythe",
+            "fr": "Canon de nez de Faucheuse",
+            "it": "Cannone frontale Scythe",
+            "tr": "Scythe Nose Cannon"
         }
     },
     {
         "item_category_id": "128",
         "name": {
-            "en": "Scythe Wing Mount"
+            "de": "Scythe-Fl\u00fcgelbewaffnung",
+            "en": "Scythe Wing Mount",
+            "es": "Soporte del ala del Scythe",
+            "fr": "Monture d'aile de Faucheuse",
+            "it": "Sotto le ali Scythe",
+            "tr": "Scythe Wing Mount"
         }
     },
     {
         "item_category_id": "129",
         "name": {
-            "en": "Sunderer Front Gunner"
+            "de": "Sunderer-Frontsch\u00fctze",
+            "en": "Sunderer Front Gunner",
+            "es": "Puesto de artillero frontal del Sunderer",
+            "fr": "Canonnier avant du Disperseur",
+            "it": "Artigliere frontale Sunderer",
+            "tr": "Sunderer Front Gunner"
         }
     },
     {
         "item_category_id": "130",
         "name": {
-            "en": "Sunderer Rear Gunner"
+            "de": "Sunderer-Hecksch\u00fctze",
+            "en": "Sunderer Rear Gunner",
+            "es": "Puesto de artillero trasero del Sunderer",
+            "fr": "Canonnier arri\u00e8re du Disperseur",
+            "it": "Artigliere di coda Sunderer",
+            "tr": "Sunderer Rear Gunner"
         }
     },
     {
         "item_category_id": "131",
         "name": {
-            "en": "Vanguard Gunner Weapon"
+            "de": "Vanguard-Sch\u00fctzenwaffe",
+            "en": "Vanguard Gunner Weapon",
+            "es": "Puesto de artillero del Vanguard",
+            "fr": "Arme de canonnier d'\u00c9claireur",
+            "it": "Arma di artiglieria Vanguard",
+            "tr": "Vanguard Gunner Weapon"
         }
     },
     {
         "item_category_id": "132",
         "name": {
-            "en": "Vanguard Primary Weapon"
+            "de": "Vanguard-Prim\u00e4rwaffe",
+            "en": "Vanguard Primary Weapon",
+            "es": "Arma principal del Vanguard",
+            "fr": "Arme principale d'\u00c9claireur",
+            "it": "Arma primaria Vanguard",
+            "tr": "Vanguard Primary Weapon"
         }
     },
     {
         "item_category_id": "133",
         "name": {
-            "en": "Implants"
+            "de": "Implantate",
+            "en": "Implants",
+            "es": "Implantes",
+            "fr": "Implants",
+            "it": "Impianti",
+            "tr": "Implants"
         }
     },
     {
         "item_category_id": "134",
         "name": {
-            "en": "Consolidated Camo"
+            "de": "Konsolidierte Tarnung",
+            "en": "Consolidated Camo",
+            "es": "Camuflaje consolidado",
+            "fr": "Camouflage consolid\u00e9",
+            "it": "Mimetica consolidata",
+            "tr": "Consolidated Camo"
         }
     },
     {
         "item_category_id": "135",
         "name": {
-            "en": "VO Packs"
+            "de": "VO-Packs",
+            "en": "VO Packs",
+            "es": "Packs de voz",
+            "fr": "Packs VO",
+            "it": "Pacchetti Voce",
+            "tr": "VO Packs"
         }
     },
     {
         "item_category_id": "136",
         "name": {
-            "en": "Male VO Pack"
+            "de": "VO-Pack \"M\u00e4nnlich\"",
+            "en": "Male VO Pack",
+            "es": "Pack de voz de hombre",
+            "fr": "Pack VO masculin",
+            "it": "Pacchetto Voce maschile",
+            "tr": "Male VO Pack"
         }
     },
     {
         "item_category_id": "137",
         "name": {
-            "en": "Female VO Pack"
+            "de": "VO-Pack \"Weiblich\"",
+            "en": "Female VO Pack",
+            "es": "Pack de voz de mujer",
+            "fr": "Pack VO f\u00e9minin",
+            "it": "Pacchetto Voce femminile",
+            "tr": "Female VO Pack"
         }
     },
     {
         "item_category_id": "138",
         "name": {
-            "en": "Valkyrie Nose Gunner"
+            "de": "Valkyrie Bugsch\u00fctze",
+            "en": "Valkyrie Nose Gunner",
+            "es": "Artillero de morro de Valkyrie",
+            "fr": "Canonnier de nez",
+            "it": "Artigliere frontale Valkyrie"
         }
     },
     {
         "item_category_id": "139",
         "name": {
-            "en": "Infantry Abilities"
+            "de": "Infanterie-F\u00e4higkeiten",
+            "en": "Infantry Abilities",
+            "es": "Habilidades de infanter\u00eda",
+            "fr": "Capacit\u00e9s de l'infanterie",
+            "it": "Abilit\u00e0 di fanteria"
         }
     },
     {
         "item_category_id": "140",
         "name": {
-            "en": "Vehicle Abilities"
+            "de": "Fahrzeug-F\u00e4higkeiten",
+            "en": "Vehicle Abilities",
+            "es": "Habilidades de veh\u00edculo",
+            "fr": "Capacit\u00e9s du v\u00e9hicule",
+            "it": "Abilit\u00e0 dei veicoli"
         }
     },
     {
         "item_category_id": "141",
         "name": {
-            "en": "Boosts & Utilities"
+            "de": "Booster & Hilfsmittel",
+            "en": "Boosts & Utilities",
+            "es": "Potenciadores y herramientas",
+            "fr": "Boosts et Utilitaires",
+            "it": "Potenziamenti e servizi",
+            "tr": "Boosts"
         }
     },
     {
         "item_category_id": "142",
         "name": {
-            "en": "Consolidated Decal"
+            "de": "Gemeinsames Emblem",
+            "en": "Consolidated Decal",
+            "es": "Emblema consolidado",
+            "fr": "D\u00e9calco Consolid\u00e9",
+            "it": "Adesivo consolidato"
         }
     },
     {
         "item_category_id": "143",
         "name": {
-            "en": "Attachments"
+            "de": "Aufs\u00e4tze",
+            "en": "Attachments",
+            "es": "Accesorios",
+            "fr": "Accessoires",
+            "it": "Accessori"
         }
     },
     {
         "item_category_id": "144",
         "name": {
-            "en": "ANT Top Turret"
+            "de": "FNT-Dachgesch\u00fctz",
+            "en": "ANT Top Turret",
+            "es": "Torreta superior para ANT",
+            "fr": "Tourelle haute pour le TNA",
+            "it": "ANT: Torretta superiore"
         }
     },
     {
         "item_category_id": "145",
         "name": {
-            "en": "ANT Utility"
+            "de": "NFNT-Peripherie",
+            "en": "ANT Utility",
+            "es": "Herramientas ANT",
+            "fr": "Utilitaire pour le TNA",
+            "it": "ANT: Utilit\u00e0"
         }
     },
     {
         "item_category_id": "147",
         "name": {
-            "en": "Aerial Combat Weapon"
+            "de": "Luftkampfwaffe",
+            "en": "Aerial Combat Weapon",
+            "es": "Arma de combate a\u00e9rea",
+            "fr": "Arme de Combat a\u00e9rien",
+            "it": "Arma per combattimento aereo"
         }
     },
     {
         "item_category_id": "148",
         "name": {
-            "en": "ANT Harvesting Tool"
+            "de": "FNT-Erntewerkzeug",
+            "en": "ANT Harvesting Tool",
+            "es": "Herramienta para cosechar ANT",
+            "fr": "Outil de collecte du TNA",
+            "it": "ANT: Strumento raccolta"
         }
     },
     {
         "item_category_id": "157",
         "name": {
-            "en": "Hybrid Rifle"
+            "de": "Hybrid-Gewehr",
+            "en": "Hybrid Rifle",
+            "es": "Rifle h\u00edbrido",
+            "fr": "Fusil hybride",
+            "it": "Fucile ibrido"
         }
     },
     {
         "item_category_id": "207",
         "name": {
-            "en": "Weapon"
+            "de": "Waffe",
+            "en": "Weapon",
+            "es": "Arma",
+            "fr": "Arme",
+            "it": "Arma",
+            "tr": "Silah"
         }
     },
     {
         "item_category_id": "208",
         "name": {
-            "en": "Bastion Point Defense"
+            "de": "Bastion-Verteidigungssystem",
+            "en": "Bastion Point Defense",
+            "es": "Defensa a\u00e9rea de Bastion",
+            "fr": "D\u00e9fense de la zone du Bastion",
+            "it": "Difesa Bastion Point"
         }
     },
     {
         "item_category_id": "209",
         "name": {
-            "en": "Bastion Bombard"
+            "de": "Bastion-Bombardement",
+            "en": "Bastion Bombard",
+            "es": "Bombardeo de Bastion",
+            "fr": "Bombarde du Bastion",
+            "it": "Bombarda Bastion"
         }
     },
     {
         "item_category_id": "210",
         "name": {
-            "en": "Bastion Weapon System"
+            "de": "Bastion-Waffensystem",
+            "en": "Bastion Weapon System",
+            "es": "Sistema de armas de Bastion",
+            "fr": "Syst\u00e8me d'armement du Bastion",
+            "it": "Sistema d'Arma del Bastion"
         }
     },
     {
         "item_category_id": "211",
         "name": {
-            "en": "Colossus Primary Weapon"
+            "de": "Colossus Prim\u00e4rwaffe",
+            "en": "Colossus Primary Weapon",
+            "es": "Arma primaria de Colossus",
+            "fr": "Arme principale du Colossus",
+            "it": "Arma primaria del Colossus"
         }
     },
     {
         "item_category_id": "212",
         "name": {
-            "en": "Colossus Front Right Weapon"
+            "de": "Colossus Waffe vorne rechts",
+            "en": "Colossus Front Right Weapon",
+            "es": "Arma frontal derecha de Colossus",
+            "fr": "Arme avant droite du Colossus",
+            "it": "Arma anteriore destra del Colossus"
         }
     },
     {
         "item_category_id": "213",
         "name": {
-            "en": "Colossus Front Left Weapon"
+            "de": "Colossus Waffe vorne links",
+            "en": "Colossus Front Left Weapon",
+            "es": "Arma frontal izquierda de Colossus",
+            "fr": "Arme avant gauche du Colossus",
+            "it": "Arma anteriore sinistra del Colossus"
         }
     },
     {
         "item_category_id": "214",
         "name": {
-            "en": "Colossus Rear Right Weapon"
+            "de": "Colossus Waffe hinten rechts",
+            "en": "Colossus Rear Right Weapon",
+            "es": "Arma trasera derecha de Colossus",
+            "fr": "Arme arri\u00e8re droite du Colossus",
+            "it": "Arma posteriore destra del Colossus"
         }
     },
     {
         "item_category_id": "215",
         "name": {
-            "en": "Colossus Rear Left Weapon"
+            "de": "Colossus Waffe hinten links",
+            "en": "Colossus Rear Left Weapon",
+            "es": "Arma trasera izquierda de Colossus",
+            "fr": "Arme arri\u00e8re gauche du Colossus",
+            "it": "Arma posteriore sinistra del Colossus"
         }
     }
 ]

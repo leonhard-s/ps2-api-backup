@@ -2,7 +2,12 @@
     {
         "faction_id": "0",
         "name": {
-            "en": "None"
+            "de": "Kein",
+            "en": "None",
+            "es": "Ninguno",
+            "fr": "Aucun",
+            "it": "Nessuno",
+            "tr": "None"
         },
         "code_tag": "None",
         "user_selectable": "0"
@@ -10,7 +15,12 @@
     {
         "faction_id": "1",
         "name": {
-            "en": "Vanu Sovereignty"
+            "de": "Vanu-Souver\u00e4nit\u00e4t",
+            "en": "Vanu Sovereignty",
+            "es": "Soberan\u00eda Vanu",
+            "fr": "Souverainet\u00e9 Vanu",
+            "it": "Sovranit\u00e0 Vanu",
+            "tr": "Vanu H\u00fck\u00fcmdarl\u0131\u011f\u0131"
         },
         "image_set_id": "21",
         "image_id": "94",
@@ -21,7 +31,12 @@
     {
         "faction_id": "2",
         "name": {
-            "en": "New Conglomerate"
+            "de": "Neues Konglomerat",
+            "en": "New Conglomerate",
+            "es": "Nuevo Conglomerado",
+            "fr": "Nouveau Conglom\u00e9rat",
+            "it": "Nuovo Conglomerato",
+            "tr": "Yeni Birle\u015fim"
         },
         "image_set_id": "19",
         "image_id": "12",
@@ -32,7 +47,12 @@
     {
         "faction_id": "3",
         "name": {
-            "en": "Terran Republic"
+            "de": "Terranische Republik",
+            "en": "Terran Republic",
+            "es": "Rep\u00fablica Terran",
+            "fr": "R\u00e9publique Terrane",
+            "it": "Repubblica Terrestre",
+            "tr": "Terran Cumhuriyeti"
         },
         "image_set_id": "20",
         "image_id": "18",
@@ -43,7 +63,11 @@
     {
         "faction_id": "4",
         "name": {
-            "en": "NS Operatives"
+            "de": "NS-Agenten",
+            "en": "NS Operatives",
+            "es": "Operativos NS",
+            "fr": "Agents NS",
+            "it": "Agenti NS"
         },
         "image_set_id": "804586",
         "code_tag": "NSO",

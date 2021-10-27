@@ -2,643 +2,1176 @@
     {
         "title_id": "1",
         "name": {
-            "en": "Private"
+            "de": "Private",
+            "en": "Private",
+            "es": "Soldado raso",
+            "fr": "Soldat",
+            "it": "Soldato",
+            "tr": "Er"
         }
     },
     {
         "title_id": "2",
         "name": {
-            "en": "PFC"
+            "de": "PFC",
+            "en": "PFC",
+            "es": "Soldado de 1.\u00aa clase",
+            "fr": "Sdt 1cl",
+            "it": "PFC",
+            "tr": "Er"
         }
     },
     {
         "title_id": "3",
         "name": {
-            "en": "Specialist"
+            "de": "Spezialist",
+            "en": "Specialist",
+            "es": "Especialista",
+            "fr": "Sp\u00e9cialiste",
+            "it": "Specialista",
+            "tr": "Uzman"
         }
     },
     {
         "title_id": "4",
         "name": {
-            "en": "Lance Cpl."
+            "de": "Lance Cpl.",
+            "en": "Lance Cpl.",
+            "es": "Cabo segundo",
+            "fr": "Soldat 1e classe",
+            "it": "Soldato scelto",
+            "tr": "Erba\u015f"
         }
     },
     {
         "title_id": "5",
         "name": {
-            "en": "Corporal"
+            "de": "Corporal",
+            "en": "Corporal",
+            "es": "Cabo primero",
+            "fr": "Caporal",
+            "it": "Caporale",
+            "tr": "Onba\u015f\u0131"
         }
     },
     {
         "title_id": "6",
         "name": {
-            "en": "Sergeant"
+            "de": "Sergeant",
+            "en": "Sergeant",
+            "es": "Sargento",
+            "fr": "Sergent",
+            "it": "Sergente",
+            "tr": "\u00c7avu\u015f"
         }
     },
     {
         "title_id": "7",
         "name": {
-            "en": "Staff Sgt."
+            "de": "Staff Sgt.",
+            "en": "Staff Sgt.",
+            "es": "Sgto. segundo",
+            "fr": "Sgt-chef",
+            "it": "Serg.Magg.",
+            "tr": "\u00dcst\u00e7avu\u015f"
         }
     },
     {
         "title_id": "8",
         "name": {
-            "en": "Tech Sgt."
+            "de": "Tech Sgt.",
+            "en": "Tech Sgt.",
+            "es": "Sgto. t\u00e9cnico",
+            "fr": "Adjudant",
+            "it": "Serg.Magg.Tec.",
+            "tr": "Astsubay K\u0131demli \u00c7avu\u015f"
         }
     },
     {
         "title_id": "9",
         "name": {
-            "en": "Sgt. 1st Class"
+            "de": "Sgt. 1st Class",
+            "en": "Sgt. 1st Class",
+            "es": "Sgto. de primera clase",
+            "fr": "Sgt 1e classe",
+            "it": "Serg.Magg.Ca.",
+            "tr": "Astsubay K\u0131demli \u00dcst\u00e7avu\u015f"
         }
     },
     {
         "title_id": "10",
         "name": {
-            "en": "Master Sgt."
+            "de": "Master Sgt.",
+            "en": "Master Sgt.",
+            "es": "Sgto. maestre",
+            "fr": "Sgt ma\u00eetre",
+            "it": "Mar.",
+            "tr": "Ba\u015f\u00e7avu\u015f"
         }
     },
     {
         "title_id": "11",
         "name": {
-            "en": "First Sgt."
+            "de": "First Sgt.",
+            "en": "First Sgt.",
+            "es": "Sgto. primero",
+            "fr": "1er Sgt",
+            "it": "Mar.Ord.",
+            "tr": "K\u0131demli Ba\u015f\u00e7avu\u015f"
         }
     },
     {
         "title_id": "12",
         "name": {
-            "en": "Sgt. Major"
+            "de": "Sgt. Major",
+            "en": "Sgt. Major",
+            "es": "Sgto. mayor",
+            "fr": "Sgt-major",
+            "it": "Serg. Magg.",
+            "tr": "Ba\u015f\u00e7avu\u015f"
         }
     },
     {
         "title_id": "13",
         "name": {
-            "en": "Comm. Sgt. Major"
+            "de": "Comm. Sgt. Major",
+            "en": "Comm. Sgt. Major",
+            "es": "Sgto. mayor de comando",
+            "fr": "Commandant sergent-major",
+            "it": "Sergente maggiore capo",
+            "tr": "Astsubay K\u0131demli Ba\u015f\u00e7avu\u015f"
         }
     },
     {
         "title_id": "14",
         "name": {
-            "en": "Warrant Officer"
+            "de": "Warrant Officer",
+            "en": "Warrant Officer",
+            "es": "Oficial t\u00e9cnico",
+            "fr": "Adjudant-chef",
+            "it": "Sottufficiale",
+            "tr": "K\u0131demli Subay"
         }
     },
     {
         "title_id": "15",
         "name": {
-            "en": "Second Lt."
+            "de": "Second Lt.",
+            "en": "Second Lt.",
+            "es": "Tte. segundo",
+            "fr": "Second Ltn",
+            "it": "S.Ten.",
+            "tr": "Te\u011fmen"
         }
     },
     {
         "title_id": "16",
         "name": {
-            "en": "First Lt."
+            "de": "First Lt.",
+            "en": "First Lt.",
+            "es": "Tte. primero",
+            "fr": "1er Ltn",
+            "it": "Tenente",
+            "tr": "\u00dcste\u011fmen"
         }
     },
     {
         "title_id": "17",
         "name": {
-            "en": "Lt. Commander"
+            "de": "Lt. Commander",
+            "en": "Lt. Commander",
+            "es": "Cap. de corbeta",
+            "fr": "Ltn en chef",
+            "it": "Ten.Com.",
+            "tr": "K\u0131demli Y\u00fczba\u015f\u0131"
         }
     },
     {
         "title_id": "18",
         "name": {
-            "en": "Commander"
+            "de": "Commander",
+            "en": "Commander",
+            "es": "Comandante",
+            "fr": "Commandant",
+            "it": "Comandante",
+            "tr": "Kumandan"
         }
     },
     {
         "title_id": "19",
         "name": {
-            "en": "Captain"
+            "de": "Captain",
+            "en": "Captain",
+            "es": "Capit\u00e1n",
+            "fr": "Capitaine",
+            "it": "Capitano",
+            "tr": "Y\u00fczba\u015f\u0131"
         }
     },
     {
         "title_id": "20",
         "name": {
-            "en": "Major"
+            "de": "Major",
+            "en": "Major",
+            "es": "Mayor",
+            "fr": "Commandant",
+            "it": "Maggiore",
+            "tr": "Binba\u015f\u0131"
         }
     },
     {
         "title_id": "21",
         "name": {
-            "en": "Lt. Colonel"
+            "de": "Lt. Colonel",
+            "en": "Lt. Colonel",
+            "es": "Tte. coronel",
+            "fr": "Ltn-col",
+            "it": "Tenente Colonnello",
+            "tr": "Yarbay"
         }
     },
     {
         "title_id": "22",
         "name": {
-            "en": "Colonel"
+            "de": "Colonel",
+            "en": "Colonel",
+            "es": "Coronel",
+            "fr": "Colonel",
+            "it": "Colonnello",
+            "tr": "Albay"
         }
     },
     {
         "title_id": "23",
         "name": {
-            "en": "Commissar"
+            "de": "Commissar",
+            "en": "Commissar",
+            "es": "Comisario",
+            "fr": "Commissaire",
+            "it": "Commissario",
+            "tr": "Komiser"
         }
     },
     {
         "title_id": "24",
         "name": {
-            "en": "Maj. General"
+            "de": "Maj. General",
+            "en": "Maj. General",
+            "es": "Gral. de divisi\u00f3n",
+            "fr": "Gal. de division",
+            "it": "Gen.Div.",
+            "tr": "T\u00fcmgeneral"
         }
     },
     {
         "title_id": "25",
         "name": {
-            "en": "Lt. General"
+            "de": "Lt. General",
+            "en": "Lt. General",
+            "es": "Tte. general",
+            "fr": "Gal. de corps d'arm\u00e9e",
+            "it": "Gen.C.A.",
+            "tr": "Korgeneral"
         }
     },
     {
         "title_id": "26",
         "name": {
-            "en": "General"
+            "de": "General",
+            "en": "General",
+            "es": "General",
+            "fr": "G\u00e9n\u00e9ral",
+            "it": "Generale",
+            "tr": "General"
         }
     },
     {
         "title_id": "27",
         "name": {
-            "en": "Field Marshal"
+            "de": "Feldmarschall",
+            "en": "Field Marshal",
+            "es": "Mariscal de campo",
+            "fr": "Mar\u00e9chal",
+            "it": "Generale dell'Esercito",
+            "tr": "Mare\u015fal"
         }
     },
     {
         "title_id": "28",
         "name": {
-            "en": "Initiate"
+            "de": "Initiate",
+            "en": "Initiate",
+            "es": "Principiante",
+            "fr": "Initi\u00e9",
+            "it": "Iniziato",
+            "tr": "Yeni \u00dcye"
         }
     },
     {
         "title_id": "29",
         "name": {
-            "en": "Novus"
+            "de": "Novus",
+            "en": "Novus",
+            "es": "Novus",
+            "fr": "Novus",
+            "it": "Novus",
+            "tr": "Novus"
         }
     },
     {
         "title_id": "30",
         "name": {
-            "en": "Disciple"
+            "de": "Lehrling",
+            "en": "Disciple",
+            "es": "Disc\u00edpulo",
+            "fr": "Disciple",
+            "it": "Discepolo",
+            "tr": "\u00c7\u00f6mez"
         }
     },
     {
         "title_id": "31",
         "name": {
-            "en": "Aspirant "
+            "de": "Aspirant",
+            "en": "Aspirant ",
+            "es": "Aspirante",
+            "fr": "Aspirant ",
+            "it": "Aspirante",
+            "tr": "Aday"
         }
     },
     {
         "title_id": "32",
         "name": {
-            "en": "Lictor"
+            "de": "Liktor",
+            "en": "Lictor",
+            "es": "Lictor",
+            "fr": "Licteur",
+            "it": "Littore",
+            "tr": "Baltac\u0131"
         }
     },
     {
         "title_id": "33",
         "name": {
-            "en": "Decanus"
+            "de": "Decanus",
+            "en": "Decanus",
+            "es": "Decano",
+            "fr": "Decanus",
+            "it": "Decano",
+            "tr": "Decanus"
         }
     },
     {
         "title_id": "34",
         "name": {
-            "en": "Preceptor"
+            "de": "Pr\u00e4zeptor",
+            "en": "Preceptor",
+            "es": "Preceptor",
+            "fr": "Pr\u00e9cepteur",
+            "it": "Precettore",
+            "tr": "\u00d6\u011fretmen"
         }
     },
     {
         "title_id": "35",
         "name": {
-            "en": "Prefect"
+            "de": "Pr\u00e4fekt",
+            "en": "Prefect",
+            "es": "Prefecto",
+            "fr": "Pr\u00e9fet",
+            "it": "Prefetto",
+            "tr": "Reis"
         }
     },
     {
         "title_id": "36",
         "name": {
-            "en": "Adept"
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
         }
     },
     {
         "title_id": "37",
         "name": {
-            "en": "Legionary"
+            "de": "Legion\u00e4r",
+            "en": "Legionary",
+            "es": "Legionario",
+            "fr": "L\u00e9gionnaire",
+            "it": "Legionario",
+            "tr": "Lejyoner"
         }
     },
     {
         "title_id": "38",
         "name": {
-            "en": "Adherent"
+            "de": "Anh\u00e4nger",
+            "en": "Adherent",
+            "es": "Seguidor",
+            "fr": "Adh\u00e9rent",
+            "it": "Fedele",
+            "tr": "Yanda\u015f"
         }
     },
     {
         "title_id": "39",
         "name": {
-            "en": "Operant"
+            "de": "Operant",
+            "en": "Operant",
+            "es": "Operativo",
+            "fr": "Op\u00e9rant",
+            "it": "Operante",
+            "tr": "Operan"
         }
     },
     {
         "title_id": "40",
         "name": {
-            "en": "Venator"
+            "de": "Venator",
+            "en": "Venator",
+            "es": "Venator",
+            "fr": "Venator",
+            "it": "Venator",
+            "tr": "Venator"
         }
     },
     {
         "title_id": "41",
         "name": {
-            "en": "Arcanus"
+            "de": "Arcanus",
+            "en": "Arcanus",
+            "es": "Arcano",
+            "fr": "Arcanus",
+            "it": "Arcanus",
+            "tr": "Gizemli"
         }
     },
     {
         "title_id": "42",
         "name": {
-            "en": "Justicar"
+            "de": "Justiziar",
+            "en": "Justicar",
+            "es": "Justiciar",
+            "fr": "Justicar",
+            "it": "Giustiziere",
+            "tr": "Adaletkar"
         }
     },
     {
         "title_id": "43",
         "name": {
-            "en": "Ascendant"
+            "de": "Aszendent",
+            "en": "Ascendant",
+            "es": "Ascendente",
+            "fr": "Ascendant",
+            "it": "Ascendente",
+            "tr": "Egemen"
         }
     },
     {
         "title_id": "44",
         "name": {
-            "en": "Primus"
+            "de": "Primus",
+            "en": "Primus",
+            "es": "Primus",
+            "fr": "Primat",
+            "it": "Primate",
+            "tr": "Primus"
         }
     },
     {
         "title_id": "45",
         "name": {
-            "en": "Centurion"
+            "de": "Zenturio",
+            "en": "Centurion",
+            "es": "Centuri\u00f3n",
+            "fr": "Centurion",
+            "it": "Centurione",
+            "tr": "Sent\u00fcryon"
         }
     },
     {
         "title_id": "46",
         "name": {
-            "en": "Signifer"
+            "de": "Signifer",
+            "en": "Signifer",
+            "es": "Signifer",
+            "fr": "Signifer",
+            "it": "Signifer",
+            "tr": "Signifer"
         }
     },
     {
         "title_id": "47",
         "name": {
-            "en": "Castellan"
+            "de": "Kastellan",
+            "en": "Castellan",
+            "es": "Castellano",
+            "fr": "Ch\u00e2telain",
+            "it": "Castellano",
+            "tr": "Kale Kumandan\u0131"
         }
     },
     {
         "title_id": "48",
         "name": {
-            "en": "Immortal"
+            "de": "Unsterblich",
+            "en": "Immortal",
+            "es": "Inmortal",
+            "fr": "Immortel",
+            "it": "Immortale",
+            "tr": "\u00d6l\u00fcms\u00fcz"
         }
     },
     {
         "title_id": "49",
         "name": {
-            "en": "Legate"
+            "de": "Legat",
+            "en": "Legate",
+            "es": "Legado",
+            "fr": "L\u00e9gat",
+            "it": "Legato",
+            "tr": "Sefir"
         }
     },
     {
         "title_id": "50",
         "name": {
-            "en": "Archon"
+            "de": "Archon",
+            "en": "Archon",
+            "es": "Arconte",
+            "fr": "Archonte",
+            "it": "Arconte",
+            "tr": "H\u00fck\u00fcmdar"
         }
     },
     {
         "title_id": "51",
         "name": {
-            "en": "Praetor"
+            "de": "Pr\u00e4tur",
+            "en": "Praetor",
+            "es": "Pretor",
+            "fr": "Pr\u00e9torien",
+            "it": "Pretore",
+            "tr": "Pretor"
         }
     },
     {
         "title_id": "52",
         "name": {
-            "en": "Harbinger"
+            "de": "Vorbote",
+            "en": "Harbinger",
+            "es": "Precursor",
+            "fr": "Annonciateur",
+            "it": "Precursore",
+            "tr": "M\u00fcjdeci"
         }
     },
     {
         "title_id": "53",
         "name": {
-            "en": "Primarch"
+            "de": "Primarch",
+            "en": "Primarch",
+            "es": "Primarca",
+            "fr": "Primarque",
+            "it": "Primarca",
+            "tr": "Primarch"
         }
     },
     {
         "title_id": "54",
         "name": {
-            "en": "Paragon"
+            "de": "Paragon",
+            "en": "Paragon",
+            "es": "Parag\u00f3n",
+            "fr": "Parangon",
+            "it": "Campione",
+            "tr": "Paragon"
         }
     },
     {
         "title_id": "55",
         "name": {
-            "en": "Recruit"
+            "de": "Rekrut",
+            "en": "Recruit",
+            "es": "Recluta",
+            "fr": "Recrue",
+            "it": "Recluta",
+            "tr": "Acemi"
         }
     },
     {
         "title_id": "56",
         "name": {
-            "en": "Cadet"
+            "de": "Kadett",
+            "en": "Cadet",
+            "es": "Cadete",
+            "fr": "Aspirant",
+            "it": "Cadetto",
+            "tr": "Subay Aday\u0131"
         }
     },
     {
         "title_id": "57",
         "name": {
-            "en": "Grunt"
+            "de": "Knecht",
+            "en": "Grunt",
+            "es": "Pe\u00f3n",
+            "fr": "Bidasse",
+            "it": "Coscritto",
+            "tr": "Piyade Er"
         }
     },
     {
         "title_id": "58",
         "name": {
-            "en": "Trooper"
+            "de": "Kavallerist",
+            "en": "Trooper",
+            "es": "Soldado",
+            "fr": "Troupier",
+            "it": "Ussaro",
+            "tr": "S\u00fcvari Eri"
         }
     },
     {
         "title_id": "59",
         "name": {
-            "en": "Gunner"
+            "de": "Sch\u00fctze",
+            "en": "Gunner",
+            "es": "Soldado de artiller\u00eda",
+            "fr": "Canonnier",
+            "it": "Artigliere",
+            "tr": "Ni\u015fanc\u0131"
         }
     },
     {
         "title_id": "60",
         "name": {
-            "en": "Guerilla"
+            "de": "Guerilla",
+            "en": "Guerilla",
+            "es": "Guerrillero",
+            "fr": "Gu\u00e9rilla",
+            "it": "Guerilla",
+            "tr": "Gerilla"
         }
     },
     {
         "title_id": "61",
         "name": {
-            "en": "Scout"
+            "de": "Aufkl\u00e4rer",
+            "en": "Scout",
+            "es": "Soldado explorador",
+            "fr": "\u00c9claireur",
+            "it": "Esploratore",
+            "tr": "G\u00f6zc\u00fc"
         }
     },
     {
         "title_id": "62",
         "name": {
-            "en": "Vigilante"
+            "de": "Vigilante",
+            "en": "Vigilante",
+            "es": "Rebelde",
+            "fr": "Justicier",
+            "it": "Vigilante",
+            "tr": "E\u015fk\u0131ya"
         }
     },
     {
         "title_id": "63",
         "name": {
-            "en": "Maverick"
+            "de": "Maverick",
+            "en": "Maverick",
+            "es": "Disidente",
+            "fr": "Franc-tireur",
+            "it": "Dissidente",
+            "tr": "Maverik"
         }
     },
     {
         "title_id": "64",
         "name": {
-            "en": "Serviceman"
+            "de": "Soldat",
+            "en": "Serviceman",
+            "es": "Militar",
+            "fr": "Militaire",
+            "it": "Militare",
+            "tr": "Asker"
         }
     },
     {
         "title_id": "65",
         "name": {
-            "en": "Guardsman"
+            "de": "Gardist",
+            "en": "Guardsman",
+            "es": "Guardia",
+            "fr": "Ma\u00eetre artilleur",
+            "it": "Guardia",
+            "tr": "Muhaf\u0131z"
         }
     },
     {
         "title_id": "66",
         "name": {
-            "en": "Corporal"
+            "de": "Corporal",
+            "en": "Corporal",
+            "es": "Cabo primero",
+            "fr": "Caporal",
+            "it": "Caporale",
+            "tr": "Onba\u015f\u0131"
         }
     },
     {
         "title_id": "67",
         "name": {
-            "en": "Cavalier"
+            "de": "Kavalier",
+            "en": "Cavalier",
+            "es": "Cavalier",
+            "fr": "Cavalier",
+            "it": "Cavaliere",
+            "tr": "Kavalye"
         }
     },
     {
         "title_id": "68",
         "name": {
-            "en": "Commando"
+            "de": "Kommando",
+            "en": "Commando",
+            "es": "Comando",
+            "fr": "Commando",
+            "it": "Commando",
+            "tr": "Komando"
         }
     },
     {
         "title_id": "69",
         "name": {
-            "en": "Ranger"
+            "de": "Ranger",
+            "en": "Ranger",
+            "es": "Ranger",
+            "fr": "Ranger",
+            "it": "Dirigente Senior",
+            "tr": "Korucu"
         }
     },
     {
         "title_id": "70",
         "name": {
-            "en": "Deputy"
+            "de": "Deputy",
+            "en": "Deputy",
+            "es": "Subjefe",
+            "fr": "Adjoint",
+            "it": "Intendente",
+            "tr": "Yard\u0131mc\u0131"
         }
     },
     {
         "title_id": "71",
         "name": {
-            "en": "Ensign"
+            "de": "F\u00e4hnrich",
+            "en": "Ensign",
+            "es": "Alf\u00e9rez",
+            "fr": "Enseigne",
+            "it": "Alfiere",
+            "tr": "Aste\u011fmen"
         }
     },
     {
         "title_id": "72",
         "name": {
-            "en": "Agent"
+            "de": "Agent",
+            "en": "Agent",
+            "es": "Agente",
+            "fr": "Agent",
+            "it": "Agente",
+            "tr": "Ajan"
         }
     },
     {
         "title_id": "73",
         "name": {
-            "en": "Raider"
+            "de": "Raider",
+            "en": "Raider",
+            "es": "Incursor",
+            "fr": "Raider",
+            "it": "Predatore",
+            "tr": "Ak\u0131nc\u0131"
         }
     },
     {
         "title_id": "74",
         "name": {
-            "en": "Warden"
+            "de": "W\u00e4chter",
+            "en": "Warden",
+            "es": "Guarda",
+            "fr": "Gardien",
+            "it": "Warden",
+            "tr": "Gardiyan"
         }
     },
     {
         "title_id": "75",
         "name": {
-            "en": "Overseer"
+            "de": "Aufseher ",
+            "en": "Overseer",
+            "es": "Supervisor",
+            "fr": "Superviseur",
+            "it": "Sorvegliante",
+            "tr": "G\u00f6zetmen"
         }
     },
     {
         "title_id": "76",
         "name": {
-            "en": "Sentinel"
+            "de": "W\u00e4rter",
+            "en": "Sentinel",
+            "es": "Centinela",
+            "fr": "Sentinelle",
+            "it": "Sentinella",
+            "tr": "N\u00f6bet\u00e7i"
         }
     },
     {
         "title_id": "77",
         "name": {
-            "en": "Brigadier"
+            "de": "Brigadier",
+            "en": "Brigadier",
+            "es": "Brigadier",
+            "fr": "Gal de brigade",
+            "it": "Brigadiere",
+            "tr": "Tu\u011fgeneral"
         }
     },
     {
         "title_id": "78",
         "name": {
-            "en": "Maj. General"
+            "de": "Maj. General",
+            "en": "Maj. General",
+            "es": "Gral. de divisi\u00f3n",
+            "fr": "Gal. de division",
+            "it": "Gen.Div.",
+            "tr": "T\u00fcmgeneral"
         }
     },
     {
         "title_id": "79",
         "name": {
-            "en": "Deputy Director"
+            "de": "Stellvertretender Direktor",
+            "en": "Deputy Director",
+            "es": "Subdirector",
+            "fr": "Sous-directeur",
+            "it": "Vicedirettore",
+            "tr": "Korgeneral"
         }
     },
     {
         "title_id": "80",
         "name": {
-            "en": "Director General"
+            "de": "Generaldirektor",
+            "en": "Director General",
+            "es": "Director General",
+            "fr": "Directeur g\u00e9n\u00e9ral",
+            "it": "Direttore Generale",
+            "tr": "Orgeneral"
         }
     },
     {
         "title_id": "81",
         "name": {
-            "en": "Executor"
+            "de": "Vollstrecker",
+            "en": "Executor",
+            "es": "Ejecutor",
+            "fr": "Ex\u00e9cuteur",
+            "it": "Esecutore",
+            "tr": "Uygulay\u0131c\u0131"
         }
     },
     {
         "title_id": "82",
         "name": {
-            "en": "Enforcer"
+            "de": "Vollstrecker",
+            "en": "Enforcer",
+            "es": "Enforcer",
+            "fr": "Ex\u00e9cuteur",
+            "it": "Enforcer",
+            "tr": "\u0130nfazc\u0131"
         }
     },
     {
         "title_id": "83",
         "name": {
-            "en": "Operative"
+            "de": "Agent",
+            "en": "Operative",
+            "es": "Operativo",
+            "fr": "Agent op\u00e9rationnel",
+            "it": "Agente",
+            "tr": "Operat\u00f6r"
         }
     },
     {
         "title_id": "84",
         "name": {
-            "en": "Lead Enforcer"
+            "de": "Leitender Vollstrecker",
+            "en": "Lead Enforcer",
+            "es": "Enforcer l\u00edder",
+            "fr": "Ex\u00e9cuteur en chef",
+            "it": "Primo Enforcer",
+            "tr": "\u00dcst \u0130nfazc\u0131"
         }
     },
     {
         "title_id": "85",
         "name": {
-            "en": "Head Enforcer"
+            "de": "Haupt-Vollstrecker",
+            "en": "Head Enforcer",
+            "es": "Enforcer jefe",
+            "fr": "Responsable ex\u00e9cuteur",
+            "it": "Capo Enforcer",
+            "tr": "Ba\u015f \u0130nfazc\u0131"
         }
     },
     {
         "title_id": "86",
         "name": {
-            "en": "Lead Operative"
+            "de": "Leitender Agent",
+            "en": "Lead Operative",
+            "es": "Operativo l\u00edder",
+            "fr": "Agent en chef",
+            "it": "Primo Agente",
+            "tr": "\u00dcst Operat\u00f6r"
         }
     },
     {
         "title_id": "87",
         "name": {
-            "en": "Head Operative"
+            "de": "Haupt-Agent",
+            "en": "Head Operative",
+            "es": "Operativo jefe",
+            "fr": "Responsable op\u00e9rationnel",
+            "it": "Capo Agente",
+            "tr": "Ba\u015f Operat\u00f6r"
         }
     },
     {
         "title_id": "88",
         "name": {
-            "en": "Founder"
+            "de": "Gr\u00fcnder",
+            "en": "Founder",
+            "es": "Fundador",
+            "fr": "Fondateur",
+            "it": "Fondatore",
+            "tr": "Kurucu"
         }
     },
     {
         "title_id": "89",
         "name": {
-            "en": "Veteran"
+            "de": "Veteran",
+            "en": "Veteran",
+            "es": "Veterano",
+            "fr": "V\u00e9t\u00e9ran",
+            "it": "Veterano"
         }
     },
     {
         "title_id": "90",
         "name": {
-            "en": "Exterminator"
+            "de": "Exterminator",
+            "en": "Exterminator",
+            "es": "Exterminador",
+            "fr": "Exterminateur",
+            "it": "Sterminatore",
+            "tr": "\u0130mha Edici"
         }
     },
     {
         "title_id": "91",
         "name": {
-            "en": "Loyal Soldier"
+            "de": "Treuer Soldat",
+            "en": "Loyal Soldier",
+            "es": "Soldado leal",
+            "fr": "Soldat loyal",
+            "it": "Soldato leale",
+            "tr": "Sad\u0131k Asker"
         }
     },
     {
         "title_id": "92",
         "name": {
-            "en": "Delegate"
+            "de": "Delegiert",
+            "en": "Delegate",
+            "es": "Delegar",
+            "fr": "D\u00e9l\u00e9guer",
+            "it": "\"Delegate\"",
+            "tr": "Devret"
         }
     },
     {
         "title_id": "93",
         "name": {
-            "en": "Attache"
+            "de": "Attach\u00e9",
+            "en": "Attache",
+            "es": "Agregado",
+            "fr": "Attach\u00e9",
+            "it": "\"Attach\u00e9\"",
+            "tr": "Attache"
         }
     },
     {
         "title_id": "94",
         "name": {
-            "en": "Consul"
+            "de": "Konsul",
+            "en": "Consul",
+            "es": "C\u00f3nsul",
+            "fr": "Consul",
+            "it": "\"Consul\"",
+            "tr": "Konsolos"
         }
     },
     {
         "title_id": "95",
         "name": {
-            "en": "Diplomat"
+            "de": "Diplomat",
+            "en": "Diplomat",
+            "es": "Diplom\u00e1tico",
+            "fr": "Diplomate",
+            "it": "\"Diplomat\"",
+            "tr": "Diplomat"
         }
     },
     {
         "title_id": "96",
         "name": {
-            "en": "Ambassador"
+            "de": "Botschafter",
+            "en": "Ambassador",
+            "es": "Embajador",
+            "fr": "Ambassadeur",
+            "it": "\"Ambassador\"",
+            "tr": "El\u00e7i"
         }
     },
     {
         "title_id": "97",
         "name": {
-            "en": "Grand Ambassador"
+            "de": "Gesandter",
+            "en": "Grand Ambassador",
+            "es": "Gran embajador",
+            "fr": "Grand ambassadeur",
+            "it": "\"Grand Ambassador\"",
+            "tr": "B\u00fcy\u00fckel\u00e7i"
         }
     },
     {
         "title_id": "98",
         "name": {
-            "en": "Pyro"
+            "de": "Pyromane",
+            "en": "Pyro",
+            "es": "Piro",
+            "fr": "Pyro",
+            "it": "Piro",
+            "tr": "Pyro"
         }
     },
     {
         "title_id": "99",
         "name": {
-            "en": "Skirmisher"
+            "de": "Pl\u00e4nkler",
+            "en": "Skirmisher",
+            "es": "Hostigador",
+            "fr": "Voltigeur",
+            "it": "Schermagliatore",
+            "tr": "Skirmisher"
         }
     },
     {
         "title_id": "100",
         "name": {
-            "en": "Snowblower"
+            "de": "Schneefr\u00e4se",
+            "en": "Snowblower",
+            "es": "Barredora de nieve",
+            "fr": "Souffleuse \u00e0 neige",
+            "it": "Spazzaneve",
+            "tr": "Snowblower"
         }
     },
     {
         "title_id": "101",
         "name": {
-            "en": "Snow Balla"
+            "de": "Schneeballmaschine",
+            "en": "Snow Balla",
+            "es": "Lanzabolas de nieve",
+            "fr": "Boules de neige",
+            "it": "Snow Balla",
+            "tr": "Snow Balla"
         }
     },
     {
         "title_id": "102",
         "name": {
-            "en": "Dominator"
+            "de": "Dominator",
+            "en": "Dominator",
+            "es": "Dominator",
+            "fr": "Dominateur",
+            "it": "Dominatore",
+            "tr": "Dominator"
         }
     },
     {
         "title_id": "103",
         "name": {
-            "en": "Hater"
+            "de": "Hasser",
+            "en": "Hater",
+            "es": "Odio",
+            "fr": "D\u00e9tracteur",
+            "it": "Odioso",
+            "tr": "Hater"
         }
     },
     {
         "title_id": "104",
         "name": {
-            "en": "Sweetheart"
+            "de": "Schatz",
+            "en": "Sweetheart",
+            "es": "Amor",
+            "fr": "Ch\u00e9ri",
+            "it": "Innamorato",
+            "tr": "Sweetheart"
         }
     },
     {
         "title_id": "105",
         "name": {
-            "en": "Raid Boss"
+            "de": "Raidgegner",
+            "en": "Raid Boss",
+            "es": "Jefe de asalto",
+            "fr": "Chef de raid",
+            "it": "Boss del raid",
+            "tr": "Raid Boss"
         }
     },
     {
         "title_id": "106",
         "name": {
-            "en": "Bug Hunter"
+            "de": "Bugj\u00e4ger",
+            "en": "Bug Hunter",
+            "es": "Cazaerrores",
+            "fr": "Chasseur de bugs",
+            "it": "Cacciatore di bug",
+            "tr": "Bug Hunter"
         }
     },
     {
         "title_id": "107",
         "name": {
-            "en": "Opportunist"
+            "de": "Opportunist",
+            "en": "Opportunist",
+            "es": "Oportunista",
+            "fr": "Opportuniste",
+            "it": "Opportunist"
         }
     },
     {
@@ -698,73 +1231,121 @@
     {
         "title_id": "117",
         "name": {
-            "en": "Juggernaut"
+            "de": "Juggernaut",
+            "en": "Juggernaut",
+            "es": "Juggernaut",
+            "fr": "Mastodonte",
+            "it": "Juggernaut"
         }
     },
     {
         "title_id": "118",
         "name": {
-            "en": "Fleet Admiral"
+            "de": "Flottenadmiral",
+            "en": "Fleet Admiral",
+            "es": "Almirante de flota",
+            "fr": "Amiral de la flotte",
+            "it": "Ammiraglio della flotta"
         }
     },
     {
         "title_id": "119",
         "name": {
-            "en": "the Smasher"
+            "de": "der Zerschmetterer",
+            "en": "the Smasher",
+            "es": " el Destructor",
+            "fr": "Le Fracasseur",
+            "it": "lo schiantatore"
         }
     },
     {
         "title_id": "120",
         "name": {
-            "en": "the Faceless"
+            "de": "der Gesichtslose",
+            "en": "the Faceless",
+            "es": " el Sin Rostro",
+            "fr": "Le Sans Visage",
+            "it": "il senza volto"
         }
     },
     {
         "title_id": "121",
         "name": {
-            "en": "the Wrecker"
+            "de": "der Demolierer",
+            "en": "the Wrecker",
+            "es": " el Demoledor",
+            "fr": "Le Destructeur",
+            "it": "il distruttore"
         }
     },
     {
         "title_id": "122",
         "name": {
-            "en": "the Butcher"
+            "de": "der Schlachter",
+            "en": "the Butcher",
+            "es": " el Carnicero",
+            "fr": "Le Boucher",
+            "it": "il macellaio"
         }
     },
     {
         "title_id": "123",
         "name": {
-            "en": "the Trickster"
+            "de": "der Schwindler",
+            "en": "the Trickster",
+            "es": " el Embustero",
+            "fr": "Le Farceur",
+            "it": "l'imbroglione"
         }
     },
     {
         "title_id": "124",
         "name": {
-            "en": "the Slayer"
+            "de": "der Killer",
+            "en": "the Slayer",
+            "es": " el Exterminador",
+            "fr": "le Massacreur",
+            "it": "l'uccisore"
         }
     },
     {
         "title_id": "125",
         "name": {
-            "en": "Space"
+            "de": "Weltraum",
+            "en": "Space",
+            "es": "Astro",
+            "fr": "Espace",
+            "it": "Spazio"
         }
     },
     {
         "title_id": "126",
         "name": {
-            "en": "Executive Officer"
+            "de": "F\u00fchrender Offizier",
+            "en": "Executive Officer",
+            "es": "Funcionario ejecutivo",
+            "fr": "Agent ex\u00e9cutif",
+            "it": "Vice comandante"
         }
     },
     {
         "title_id": "127",
         "name": {
-            "en": "Cold Blooded"
+            "de": "Kaltbl\u00fctig",
+            "en": "Cold Blooded",
+            "es": "Despiadado",
+            "fr": "Sang froid",
+            "it": "Sangue freddo"
         }
     },
     {
         "title_id": "128",
         "name": {
-            "en": "Ice Cold"
+            "de": "Eiskalt",
+            "en": "Ice Cold",
+            "es": "Fr\u00edo como el hielo",
+            "fr": "Froid comme la glace",
+            "it": "Freddo ghiacciato"
         }
     },
     {
@@ -1130,175 +1711,291 @@
     {
         "title_id": "190",
         "name": {
-            "en": "PS2 Developer"
+            "de": "PS2-Entwickler",
+            "en": "PS2 Developer",
+            "es": "Desarrollador de PS2",
+            "fr": "D\u00e9veloppeur PS2",
+            "it": "Sviluppatore PS2"
         }
     },
     {
         "title_id": "191",
         "name": {
-            "en": "Based"
+            "de": "Basis",
+            "en": "Based",
+            "es": "Con base",
+            "fr": "Bas\u00e9",
+            "it": "Base"
         }
     },
     {
         "title_id": "192",
         "name": {
-            "en": "Record Smasher"
+            "de": "Rekord-Schmetterer",
+            "en": "Record Smasher",
+            "es": "Machacar\u00e9cords",
+            "fr": "Record Smasher",
+            "it": "Schiantarecord"
         }
     },
     {
         "title_id": "193",
         "name": {
-            "en": "PlanetsideBattles"
+            "de": "PlanetsideBattles",
+            "en": "PlanetsideBattles",
+            "es": "PlanetsideBattles",
+            "fr": "Les Batailles Planetside",
+            "it": "PlanetsideBattles"
         }
     },
     {
         "title_id": "194",
         "name": {
-            "en": "AGD Patriarch"
+            "de": "AGD-Patriarch",
+            "en": "AGD Patriarch",
+            "es": "Patriarca AGD",
+            "fr": "Fauteuil du patriarche d\u00e9veloppeur",
+            "it": "Patriarca degli sviluppatori in poltrona"
         }
     },
     {
         "title_id": "195",
         "name": {
-            "en": "The Survivor"
+            "de": "Der \u00dcberlebende",
+            "en": "The Survivor",
+            "es": "El superviviente",
+            "fr": "Le Survivant",
+            "it": "Il sopravvissuto"
         }
     },
     {
         "title_id": "197",
         "name": {
-            "en": "Bounty Hunter"
+            "de": "Kopfgeldj\u00e4ger",
+            "en": "Bounty Hunter",
+            "es": "Cazarrecompensas",
+            "fr": "Chasseur de primes",
+            "it": "Cacciatore di taglie"
         }
     },
     {
         "title_id": "198",
         "name": {
-            "en": "Destroyer"
+            "de": "Zerst\u00f6rer",
+            "en": "Destroyer",
+            "es": "Destructor",
+            "fr": "Destructeur",
+            "it": "Distruttore"
         }
     },
     {
         "title_id": "199",
         "name": {
-            "en": "Champion"
+            "de": "Champion",
+            "en": "Champion",
+            "es": "Campe\u00f3n",
+            "fr": "Champion",
+            "it": "Campione"
         }
     },
     {
         "title_id": "200",
         "name": {
-            "en": "Conqueror"
+            "de": "Eroberer",
+            "en": "Conqueror",
+            "es": "Conquistador",
+            "fr": "Conqu\u00e9rant",
+            "it": "Conquistatore"
         }
     },
     {
         "title_id": "201",
         "name": {
-            "en": "Predator"
+            "de": "Pr\u00e4dator",
+            "en": "Predator",
+            "es": "Depredador",
+            "fr": "Pr\u00e9dateur",
+            "it": "Predatore"
         }
     },
     {
         "title_id": "202",
         "name": {
-            "en": "Dreadnaught"
+            "de": "Dreadnaught",
+            "en": "Dreadnaught",
+            "es": "Acorazado",
+            "fr": "Dreadnaught",
+            "it": "Dreadnaught"
         }
     },
     {
         "title_id": "203",
         "name": {
-            "en": "Creator"
+            "de": "Hersteller",
+            "en": "Creator",
+            "es": "Creador",
+            "fr": "Cr\u00e9ateur",
+            "it": "Creatore"
         }
     },
     {
         "title_id": "204",
         "name": {
-            "en": "Imperator"
+            "de": "Kaiser",
+            "en": "Imperator",
+            "es": "Imperator",
+            "fr": "Imperator",
+            "it": "Imperatore"
         }
     },
     {
         "title_id": "205",
         "name": {
-            "en": "Detection Master"
+            "de": "Entdeckungsmeister",
+            "en": "Detection Master",
+            "es": "Maestro detector",
+            "fr": "Ma\u00eetre de D\u00e9tection",
+            "it": "Maestro di rilevamento"
         }
     },
     {
         "title_id": "206",
         "name": {
-            "en": "World Champion"
+            "de": "World Champion",
+            "en": "World Champion",
+            "es": "Campe\u00f3n mundial",
+            "fr": "Champion du Monde",
+            "it": "Campione del mondo"
         }
     },
     {
         "title_id": "207",
         "name": {
-            "en": "LaneSmash Champion"
+            "de": "LaneSmash Champion",
+            "en": "LaneSmash Champion",
+            "es": "Campe\u00f3n LaneSmash",
+            "fr": "Champion LaneSmash",
+            "it": "Campione di LaneSmash"
         }
     },
     {
         "title_id": "208",
         "name": {
-            "en": "The Heroic"
+            "de": "Der Heldenhafte",
+            "en": "The Heroic",
+            "es": "El Heroico",
+            "fr": "L'H\u00e9ro\u00efque",
+            "it": "Eroico"
         }
     },
     {
         "title_id": "209",
         "name": {
-            "en": "Madman"
+            "de": "Madman",
+            "en": "Madman",
+            "es": "Demente",
+            "fr": "Madman",
+            "it": "Folle"
         }
     },
     {
         "title_id": "210",
         "name": {
-            "en": "Horseman"
+            "de": "Reiter",
+            "en": "Horseman",
+            "es": "Jinete",
+            "fr": "Cavalier",
+            "it": "Cavaliere"
         }
     },
     {
         "title_id": "211",
         "name": {
-            "en": "Warbringer"
+            "de": "Kriegsbringer",
+            "en": "Warbringer",
+            "es": "Destructor",
+            "fr": "Belliciste",
+            "it": "Macchina da guerra"
         }
     },
     {
         "title_id": "212",
         "name": {
-            "en": "Jolly"
+            "de": "Fr\u00f6hlich",
+            "en": "Jolly",
+            "es": "Alegre",
+            "fr": "Joyeux",
+            "it": "Allegro"
         }
     },
     {
         "title_id": "213",
         "name": {
-            "en": "A.S.P. Operative"
+            "de": "F.S.P. Einsatzkraft",
+            "en": "A.S.P. Operative",
+            "es": "Operativo P.A.E.",
+            "fr": "Agent du P.S.A.",
+            "it": "Agente A.S.P."
         }
     },
     {
         "title_id": "214",
         "name": {
-            "en": "Advisory"
+            "de": "Warnung",
+            "en": "Advisory",
+            "es": "Asesor",
+            "fr": "Conseil",
+            "it": "Consulente"
         }
     },
     {
         "title_id": "215",
         "name": {
-            "en": "Myriad"
+            "de": "Myriade",
+            "en": "Myriad",
+            "es": "Mir\u00edada",
+            "fr": "Myriade",
+            "it": "Miriade"
         }
     },
     {
         "title_id": "216",
         "name": {
-            "en": "Chosen"
+            "de": "Auserw\u00e4hlt",
+            "en": "Chosen",
+            "es": "Elegido",
+            "fr": "Choisi",
+            "it": "Prescelto"
         }
     },
     {
         "title_id": "217",
         "name": {
-            "en": "Builder"
+            "de": "Baumeister",
+            "en": "Builder",
+            "es": "Constructor",
+            "fr": "Constructeur",
+            "it": "Costruttore"
         }
     },
     {
         "title_id": "218",
         "name": {
-            "en": "Scrim Master"
+            "de": "Scrim-Meister",
+            "en": "Scrim Master",
+            "es": "Maestro de desaf\u00edos",
+            "fr": "Ma\u00eetre du Scrim",
+            "it": "Maestro di mischia"
         }
     },
     {
         "title_id": "219",
         "name": {
-            "en": "Grouchy"
+            "de": "Griesgram",
+            "en": "Grouchy",
+            "es": "Cascarrabias",
+            "fr": "Grognon",
+            "it": "Scorbutico"
         }
     },
     {
@@ -2018,145 +2715,241 @@
     {
         "title_id": "347",
         "name": {
-            "en": "Recursive"
+            "de": "Rekursiv",
+            "en": "Recursive",
+            "es": "Recursive",
+            "fr": "Recursive",
+            "it": "Ricorrente"
         }
     },
     {
         "title_id": "390",
         "name": {
-            "en": "Surfer"
+            "de": "Surfer",
+            "en": "Surfer",
+            "es": "Surfista",
+            "fr": "Surfeur",
+            "it": "Surfista"
         }
     },
     {
         "title_id": "391",
         "name": {
-            "en": "Undertaker"
+            "de": "Leichenbestatter",
+            "en": "Undertaker",
+            "es": "Enterrador",
+            "fr": "Croque-mort",
+            "it": "Becchino"
         }
     },
     {
         "title_id": "392",
         "name": {
-            "en": "Abominable"
+            "de": "Abscheulicher",
+            "en": "Abominable",
+            "es": "Abominable",
+            "fr": "Abominable",
+            "it": "Abominevole"
         }
     },
     {
         "title_id": "393",
         "name": {
-            "en": "Outfit Loyalist"
+            "de": "Team-Loyalist",
+            "en": "Outfit Loyalist",
+            "es": "Leal de la brigada",
+            "fr": "Loyal \u00e0 son unit\u00e9",
+            "it": "Lealista dell'outfit"
         }
     },
     {
         "title_id": "394",
         "name": {
-            "en": "Outfit Loyalist"
+            "de": "Team-Loyalist",
+            "en": "Outfit Loyalist",
+            "es": "Leal de la brigada",
+            "fr": "Loyal \u00e0 son unit\u00e9",
+            "it": "Lealista dell'outfit"
         }
     },
     {
         "title_id": "395",
         "name": {
-            "en": "Outfit Loyalist"
+            "de": "Team-Loyalist",
+            "en": "Outfit Loyalist",
+            "es": "Leal de la brigada",
+            "fr": "Loyal \u00e0 son unit\u00e9",
+            "it": "Lealista dell'outfit"
         }
     },
     {
         "title_id": "396",
         "name": {
-            "en": "Outfit Loyalist"
+            "de": "Team-Loyalist",
+            "en": "Outfit Loyalist",
+            "es": "Leal de la brigada",
+            "fr": "Loyal \u00e0 son unit\u00e9",
+            "it": "Lealista dell'outfit"
         }
     },
     {
         "title_id": "397",
         "name": {
-            "en": "Outfit Supporter"
+            "de": "Team-Unterst\u00fctzer",
+            "en": "Outfit Supporter",
+            "es": "Apoyo a la brigada",
+            "fr": "Adepte de l'unit\u00e9",
+            "it": "Sostenitore dell'outfit"
         }
     },
     {
         "title_id": "398",
         "name": {
-            "en": "Outfit Supporter"
+            "de": "Team-Unterst\u00fctzer",
+            "en": "Outfit Supporter",
+            "es": "Apoyo a la brigada",
+            "fr": "Adepte de l'unit\u00e9",
+            "it": "Sostenitore dell'outfit"
         }
     },
     {
         "title_id": "399",
         "name": {
-            "en": "Outfit Supporter"
+            "de": "Team-Unterst\u00fctzer",
+            "en": "Outfit Supporter",
+            "es": "Apoyo a la brigada",
+            "fr": "Adepte de l'unit\u00e9",
+            "it": "Sostenitore dell'outfit"
         }
     },
     {
         "title_id": "400",
         "name": {
-            "en": "Outfit Supporter"
+            "de": "Team-Unterst\u00fctzer",
+            "en": "Outfit Supporter",
+            "es": "Apoyo a la brigada",
+            "fr": "Adepte de l'unit\u00e9",
+            "it": "Sostenitore dell'outfit"
         }
     },
     {
         "title_id": "401",
         "name": {
-            "en": "Warrior"
+            "de": "Krieger",
+            "en": "Warrior",
+            "es": "Guerrero",
+            "fr": "Guerrier",
+            "it": "Guerriero"
         }
     },
     {
         "title_id": "402",
         "name": {
-            "en": "Stormchaser"
+            "de": "Sturmj\u00e4ger",
+            "en": "Stormchaser",
+            "es": "Cazador de tormentas",
+            "fr": "Chasseur de temp\u00eate",
+            "it": "Cercatempeste"
         }
     },
     {
         "title_id": "403",
         "name": {
-            "en": "Creepy"
+            "de": "Gruselig",
+            "en": "Creepy",
+            "es": "Espeluznante",
+            "fr": "Effrayant",
+            "it": "Terrificante"
         }
     },
     {
         "title_id": "404",
         "name": {
-            "en": "Cinematographer"
+            "de": "Entdecker",
+            "en": "Cinematographer",
+            "es": "Cinemat\u00f3grafo",
+            "fr": "Chef op\u00e9rateur",
+            "it": "Cine operatore"
         }
     },
     {
         "title_id": "405",
         "name": {
-            "en": "Rocketman"
+            "de": "Raketenmann",
+            "en": "Rocketman",
+            "es": "Cohetero",
+            "fr": "Rocketman",
+            "it": "Uomo razzo"
         }
     },
     {
         "title_id": "406",
         "name": {
-            "en": "Generous"
+            "de": "Gro\u00dfz\u00fcgig",
+            "en": "Generous",
+            "es": "Generosidad",
+            "fr": "G\u00e9n\u00e9reux",
+            "it": "Generoso"
         }
     },
     {
         "title_id": "407",
         "name": {
-            "en": "Victorious"
+            "de": "Siegreich",
+            "en": "Victorious",
+            "es": "Victoria",
+            "fr": "Victorieux",
+            "it": "Vittorioso"
         }
     },
     {
         "title_id": "408",
         "name": {
-            "en": "Cheerful"
+            "de": "Fr\u00f6hlich",
+            "en": "Cheerful",
+            "es": "Alegre",
+            "fr": "Joyeux",
+            "it": "Allegro"
         }
     },
     {
         "title_id": "409",
         "name": {
-            "en": "Matchmaker"
+            "de": "Matchmaker",
+            "en": "Matchmaker",
+            "es": "Emparejador",
+            "fr": "Entremetteur",
+            "it": "Matchmaker"
         }
     },
     {
         "title_id": "410",
         "name": {
-            "en": "Researcher"
+            "de": "Forscher",
+            "en": "Researcher",
+            "es": "Investigador",
+            "fr": "Chercheur",
+            "it": "Ricercatore"
         }
     },
     {
         "title_id": "411",
         "name": {
-            "en": "Bushwhacker"
+            "de": "Bushwhacker",
+            "en": "Bushwhacker",
+            "es": "Guerrillero",
+            "fr": "Hors-la-loi",
+            "it": "Fuorilegge"
         }
     },
     {
         "title_id": "412",
         "name": {
-            "en": "Scavenger"
+            "de": "Pl\u00fcnderer",
+            "en": "Scavenger",
+            "es": "Carro\u00f1ero",
+            "fr": "Pilleur",
+            "it": "Scavenger"
         }
     }
 ]
