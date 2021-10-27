@@ -13,10 +13,8 @@ If you wish to emulate API responses, you have to manually add the outer payload
 
 ## Limitations
 
-To keep this backup easy to navigate, maintain, and compact, this backup does not contain all API data. Please note the following limitations:
+This backup only contains static API data, i.e. data that is not expected to change within a given build of the game.
 
-- For localised text entries, only the English locale is retained
-- NULL fields are not included
-- Any form of dynamic data (characters, stats, outfits, events, etc.) has been excluded
+As such, any form of character data, statistics, outfits, events, and leaderboards have been manually excluded.
 
 For a full list of excluded collections, please refer to the `_BLACKLIST` constant at the top of the [`tools/scraper.py`](https://github.com/leonhard-s/ps2-api-backup/blob/main/tools/scraper.py) file.

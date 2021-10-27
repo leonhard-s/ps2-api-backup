@@ -38,5 +38,5 @@ jobs:
       - name: Commit and push relevant changes
         continue-on-error: true
         run: |
-          git commit -m "Automatic Backup"
+          git commit -m "Automatic Scraper Update"
           git push origin main

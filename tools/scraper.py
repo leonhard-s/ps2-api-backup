@@ -88,15 +88,13 @@ async def scrape_collection(collection: str, client: auraxium.Client) -> None:
     entries: List[CensusData] = []
     # Scrape data into memory
     query = census.Query(collection, namespace=_NAMESPACE,
-                         service_id=client.service_id)    # Only include english locale names and descriptions
-    query.lang('en')
+                         service_id=client.service_id)
     # The items collection is hard-limited to 5k entries per query, so
     # we'll use that for everything
     query.limit(_PAGE_SIZE)
     index: int = -1
     while True:
         index += 1
-        print(f'  Procesing page {index+1}')
         # Adjust starting size
         query.start(index * _PAGE_SIZE)
         # Fetch data
