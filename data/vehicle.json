@@ -907,14 +907,14 @@
             "en": "Deliverer Prototype",
             "es": "Prototipo de Deliverer",
             "fr": "Prototype de Livreur",
-            "it": "Prototipo di Deliverer"
+            "it": "Prototipo Deliverer"
         },
         "description": {
             "de": "Ein Prototyp FNT-Design, rekonfiguriert, damit es Infanterie und MAX-Einheiten transportiert.",
-            "en": "A prototype ANT design reconfigured for carrying infantry and MAX units.",
+            "en": "A prototype ANT reconfigured to act as an advanced mobile station.",
             "es": "El dise\u00f1o de un prototipo de ANT que puede transportar unidades de infanter\u00eda y unidades MAX.",
-            "fr": "Un prototype de TNA reconfigur\u00e9 pour transporter des unit\u00e9s d'infanterie et XAM.",
-            "it": "Un design di ANT prototipo riconfigurato per poter trasportare la fanteria e le unit\u00e0 MAX."
+            "fr": "Un prototype de TNA reconfigur\u00e9 pour agir comme station mobile avanc\u00e9e.",
+            "it": "Un prototipo ANT riconfigurato per fare da stazione mobile avanzata."
         },
         "type_id": "5",
         "type_name": "Four Wheeled Ground Vehicle",
@@ -935,10 +935,10 @@
         },
         "description": {
             "de": "Dies ist eine Prototypen-Konfiguration des Transportfahrzeugs Valkyrie, das Kortium sammeln und deponieren kann, w\u00e4hrend es gleichzeitig Unterst\u00fctzung bei der Fahrzeugabwehr aus kurzen Distanzen bietet.",
-            "en": "This is a prototype configuration of the Valkyrie transport vehicle that can harvest and deposit Cortium while providing close-range anti-vehicle support.",
+            "en": "This is a prototype Valkyrie configuration can harvest and deposit Cortium.",
             "es": "Este prototipo del veh\u00edculo de transporte Valkyrie puede cosechar y depositar cortium a la vez que proporciona apoyo antiveh\u00edculo a corto alcance.",
-            "fr": "Ceci est une configuration prototype du v\u00e9hicule de transport Valkyrie qui peut r\u00e9colter et d\u00e9poser du Cortium tout en assurant un soutien anti-v\u00e9hicules \u00e0 courte port\u00e9e.",
-            "it": "Questa \u00e8 una configurazione prototipo del veicolo da trasporto Valkyrie e pu\u00f2 raccogliere e depositare Cortium mentre fornisce sostegno anticarro a distanza ravvicinata."
+            "fr": "Ce prototype du v\u00e9hicule de transport Valkyrie est configur\u00e9 pour r\u00e9colter et d\u00e9poser du Cortium.",
+            "it": "Questa \u00e8 una configurazione prototipo del Valkyrie e pu\u00f2 raccogliere e depositare Cortium."
         },
         "type_id": "1",
         "type_name": "Light Aircraft",
