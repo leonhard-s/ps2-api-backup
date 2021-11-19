@@ -1,5 +1,17 @@
 [
     {
+        "world_id": "1",
+        "state": "online",
+        "name": {
+            "en": "Connery",
+            "de": "Connery",
+            "es": "Connery",
+            "fr": "Connery",
+            "it": "Connery",
+            "tr": "Connery"
+        }
+    },
+    {
         "world_id": "13",
         "state": "online",
         "name": {
@@ -24,18 +36,6 @@
         }
     },
     {
-        "world_id": "1",
-        "state": "online",
-        "name": {
-            "en": "Connery",
-            "de": "Connery",
-            "es": "Connery",
-            "fr": "Connery",
-            "it": "Connery",
-            "tr": "Connery"
-        }
-    },
-    {
         "world_id": "17",
         "state": "online",
         "name": {
@@ -48,18 +48,6 @@
         }
     },
     {
-        "world_id": "19",
-        "state": "online",
-        "name": {
-            "en": "Jaeger",
-            "de": "Jaeger",
-            "es": "Jaeger",
-            "fr": "Jaeger",
-            "it": "Jaeger",
-            "tr": "Jaeger"
-        }
-    },
-    {
         "world_id": "40",
         "state": "online",
         "name": {
@@ -69,6 +57,18 @@
             "fr": "SolTech",
             "it": "SolTech",
             "tr": "SolTech"
+        }
+    },
+    {
+        "world_id": "19",
+        "state": "online",
+        "name": {
+            "en": "Jaeger",
+            "de": "Jaeger",
+            "es": "Jaeger",
+            "fr": "Jaeger",
+            "it": "Jaeger",
+            "tr": "Jaeger"
         }
     },
     {
@@ -85,7 +85,7 @@
     },
     {
         "world_id": "25",
-        "state": "online",
+        "state": "locked",
         "name": {
             "en": "Briggs",
             "de": "Briggs",
