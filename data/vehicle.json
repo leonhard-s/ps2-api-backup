@@ -912,7 +912,7 @@
         "description": {
             "de": "Ein rekonfiguriertes FNT-Prototyp-Design, das als verbesserte Mobilstation eingesetzt werden kann.",
             "en": "A prototype ANT reconfigured to act as an advanced mobile station.",
-            "es": "El dise\u00f1o de un prototipo de ANT que puede transportar unidades de infanter\u00eda y unidades MAX.",
+            "es": "Un prototipo de ANT reconfigurado para servir de Estaci\u00f3n M\u00f3vil Avanzada.",
             "fr": "Un prototype de TNA reconfigur\u00e9 pour agir comme station mobile avanc\u00e9e.",
             "it": "Un prototipo ANT riconfigurato per fare da stazione mobile avanzata."
         },
@@ -936,7 +936,7 @@
         "description": {
             "de": "Dies ist eine Valkyrie-Prototypen-Konfiguration, die Kortium sammeln und deponieren kann.",
             "en": "This is a prototype Valkyrie configuration can harvest and deposit Cortium.",
-            "es": "Este prototipo del veh\u00edculo de transporte Valkyrie puede cosechar y depositar cortium a la vez que proporciona apoyo antiveh\u00edculo a corto alcance.",
+            "es": "Este prototipo de configuraci\u00f3n de Valkyrie puede cosechar y depositar cortium.\n",
             "fr": "Ce prototype du v\u00e9hicule de transport Valkyrie est configur\u00e9 pour r\u00e9colter et d\u00e9poser du Cortium.",
             "it": "Questa \u00e8 una configurazione prototipo del Valkyrie e pu\u00f2 raccogliere e depositare Cortium."
         },
