@@ -1,5 +1,29 @@
 [
     {
+        "world_id": "10",
+        "state": "online",
+        "name": {
+            "en": "Miller",
+            "de": "Miller",
+            "es": "Miller",
+            "fr": "Miller",
+            "it": "Miller",
+            "tr": "Miller"
+        }
+    },
+    {
+        "world_id": "13",
+        "state": "online",
+        "name": {
+            "en": "Cobalt",
+            "de": "Cobalt",
+            "es": "Cobalt",
+            "fr": "Cobalt",
+            "it": "Cobalt",
+            "tr": "Cobalt"
+        }
+    },
+    {
         "world_id": "1",
         "state": "online",
         "name": {
@@ -21,30 +45,6 @@
             "fr": "Emerald",
             "it": "Smeraldo",
             "tr": "Emerald"
-        }
-    },
-    {
-        "world_id": "13",
-        "state": "online",
-        "name": {
-            "en": "Cobalt",
-            "de": "Cobalt",
-            "es": "Cobalt",
-            "fr": "Cobalt",
-            "it": "Cobalt",
-            "tr": "Cobalt"
-        }
-    },
-    {
-        "world_id": "10",
-        "state": "online",
-        "name": {
-            "en": "Miller",
-            "de": "Miller",
-            "es": "Miller",
-            "fr": "Miller",
-            "it": "Miller",
-            "tr": "Miller"
         }
     },
     {
@@ -85,7 +85,7 @@
     },
     {
         "world_id": "25",
-        "state": "locked",
+        "state": "online",
         "name": {
             "en": "Briggs",
             "de": "Briggs",
