@@ -12,18 +12,6 @@
         }
     },
     {
-        "world_id": "17",
-        "state": "online",
-        "name": {
-            "en": "Emerald",
-            "de": "Smaragd",
-            "es": "Esmeralda",
-            "fr": "Emerald",
-            "it": "Smeraldo",
-            "tr": "Emerald"
-        }
-    },
-    {
         "world_id": "13",
         "state": "online",
         "name": {
@@ -45,6 +33,18 @@
             "fr": "Miller",
             "it": "Miller",
             "tr": "Miller"
+        }
+    },
+    {
+        "world_id": "17",
+        "state": "online",
+        "name": {
+            "en": "Emerald",
+            "de": "Smaragd",
+            "es": "Esmeralda",
+            "fr": "Emerald",
+            "it": "Smeraldo",
+            "tr": "Emerald"
         }
     },
     {
@@ -85,7 +85,7 @@
     },
     {
         "world_id": "25",
-        "state": "online",
+        "state": "locked",
         "name": {
             "en": "Briggs",
             "de": "Briggs",
