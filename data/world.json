@@ -1,7 +1,7 @@
 [
     {
         "world_id": "1",
-        "state": "online",
+        "state": "locked",
         "name": {
             "en": "Connery",
             "de": "Connery",
@@ -13,7 +13,7 @@
     },
     {
         "world_id": "19",
-        "state": "online",
+        "state": "locked",
         "name": {
             "en": "Jaeger",
             "de": "Jaeger",
@@ -25,7 +25,7 @@
     },
     {
         "world_id": "10",
-        "state": "online",
+        "state": "locked",
         "name": {
             "en": "Miller",
             "de": "Miller",
@@ -37,7 +37,7 @@
     },
     {
         "world_id": "40",
-        "state": "online",
+        "state": "locked",
         "name": {
             "en": "SolTech",
             "de": "SolTech",
@@ -49,7 +49,7 @@
     },
     {
         "world_id": "13",
-        "state": "online",
+        "state": "locked",
         "name": {
             "en": "Cobalt",
             "de": "Cobalt",
@@ -61,7 +61,7 @@
     },
     {
         "world_id": "17",
-        "state": "online",
+        "state": "locked",
         "name": {
             "en": "Emerald",
             "de": "Smaragd",
@@ -85,7 +85,7 @@
     },
     {
         "world_id": "25",
-        "state": "online",
+        "state": "locked",
         "name": {
             "en": "Briggs",
             "de": "Briggs",
