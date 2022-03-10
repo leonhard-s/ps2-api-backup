@@ -5091,7 +5091,7 @@
             "de": "Der C85 feuert eine Kart\u00e4sche mit schweren Schrapnellen ab, die gegen Infanterie und leichter R\u00fcstung effektiv ist. Nur f\u00fcr NK.",
             "en": "The C85 fires a canister of heavy shrapnel that is effective against infantry and light armor. NC use only.",
             "es": "El C85 dispara un bote de metralla pesada que es muy eficaz contra infanter\u00eda y blindaje ligero. Solo para NC.",
-            "fr": "Le C85 tire une charge de shrapnel lourd qui est efficaces contre l'infanterie et les blindages l\u00e9gers. NC uniquement.",
+            "fr": "Le C85 tire une charge de shrapnel lourd qui est efficace contre l'infanterie et les blindages l\u00e9gers. NC uniquement.",
             "it": "Il C85 spara proiettili shrapnel, letali contro la fanteria e le corazzature leggere. Esclusivo NC.",
             "tr": "The C85 fires a canister of heavy shrapnel that is effective against infantry and light armor. NC use only."
         },
@@ -6307,11 +6307,11 @@
             "tr": "\u0130kincil: Tabanca: LA8 Asi"
         },
         "description": {
-            "de": "Im Vergleich zu anderen Seitenwaffen verursacht die LA8 Rebel auf gr\u00f6\u00dfere Distanzen mehr Schaden. Nur f\u00fcr NK.",
-            "en": "The LA8 Rebel's high damage gives it a longer effective range when compared to most side arms. NC use only.",
-            "es": "La gran potencia de la LA8 Rebel proporciona un alcance de eficacia mayor que la mayor\u00eda de las armas laterales. Solo para NC.",
-            "fr": "Les d\u00e9g\u00e2ts cons\u00e9quents du Rebelle LA8 lui donne une plus longue port\u00e9e effective compar\u00e9e \u00e0 la plupart des armes de poing. NC uniquement.",
-            "it": "L'alto potenziale della LA8 Rebel le conferisce una gittata pi\u00f9 lunga rispetto alla maggior parte delle armi secondarie. Esclusivo NC.",
+            "de": "Die Wirkungskraft des LA8 Rebel macht es bei den Spionen des Konglomerats sehr beliebt. Nur f\u00fcr NK.",
+            "en": "The LA8 Rebel's remarkable stopping power makes it a popular choice among Conglomerate infiltrators. NC use only.",
+            "es": "La gran potencia de la LA8 Rebel la hace muy popular entre los infiltrados del Conglomerado. Solo para NC.",
+            "fr": "L'incroyable puissance d'arr\u00eat du Rebelle LA8 en fait un choix populaire chez les Infiltr\u00e9s du Conglom\u00e9rat. NC uniquement.",
+            "it": "L'alto potere d'interdizione della LA8 Rebel la rende un'arma piuttosto popolare tra gli infiltrati della Conglomerate. Esclusivo NC.",
             "tr": "The LA8 Rebel's high damage gives it a longer effective range when compared to most side arms. NC use only."
         },
         "image_set_id": "880",
@@ -13472,19 +13472,19 @@
         "skill_points": "1000",
         "required_item_id": "7213",
         "name": {
-            "de": "Prim\u00e4r: Karabiner: Solstice SF",
-            "en": "Primary: Carbine: Solstice SF",
-            "es": "Primaria. Carabina: Solstice SF",
-            "fr": "Principale: Carabine: Solstice SF",
-            "it": "Primaria, Carabina: Solstice SF",
+            "de": "Prim\u00e4r: Karabiner: Prominence VE4",
+            "en": "Primary: Carbine: Prominence VE4",
+            "es": "Primaria. Carabina: Prominence VE4",
+            "fr": "Principale\u00a0: Carabine\u00a0: VE4 Pro\u00e9minence",
+            "it": "Primaria, Carabina: Prominence VE4",
             "tr": "Birincil: Karabina: G\u00fcnd\u00f6n\u00fcm\u00fc SF"
         },
         "description": {
-            "de": "Dank der integrierten Feuerauswahlmodus sind Nutzer des Solstice SF f\u00fcr fast jedes Szenario ger\u00fcstet. Nur f\u00fcr VS.",
-            "en": "A built-in select fire mode gives users of the Solstice SF the ability to adapt to nearly any scenario. VS use only.",
-            "es": "El selector de modo de disparo incorporado permite al Solstice SF adaptarse a casi cualquier situaci\u00f3n. Solo para SV.",
-            "fr": "Un mode de s\u00e9lection de tir int\u00e9gr\u00e9 permet aux utilisateurs du Solstice SF de pouvoir s'adapter \u00e0 toute \u00e9ventualit\u00e9. SV uniquement.",
-            "it": "Una scelta della modalit\u00e0 di fuoco incorporata dona al Solstice SF la capacit\u00e0 di adattarsi a qualunque scenario. Esclusivo SV.",
+            "de": "Dank der verbesserten Anpassungsm\u00f6glichkeiten des Prominence sind seine Nutzer f\u00fcr fast jedes Szenario ger\u00fcstet. Nur f\u00fcr VS.",
+            "en": "The Prominence's increased customization options allow soldiers to adapt to nearly any scenario. VS use only.",
+            "es": "La mayor personalizaci\u00f3n de la Prominence permite a los soldados adaptarse a casi cualquier situaci\u00f3n. Solo para SV.",
+            "fr": "Les options de personnalisation avanc\u00e9es du Pro\u00e9minence permettent aux soldats d'\u00eatre par\u00e9s \u00e0 toute \u00e9ventualit\u00e9. SV uniquement.",
+            "it": "Le opzioni di personalizzazione aumentate del Prominence consentono ai soldati di adattarsi quasi a qualunque scenario. Esclusivo SV.",
             "tr": "\u0130\u00e7indeki se\u00e7meli at\u0131\u015f modu, G\u00fcnd\u00f6n\u00fcm\u00fc SF'nin kullan\u0131c\u0131lar\u0131na neredeyse her senaryoya uyum sa\u011flama kabiliyeti verir. Yaln\u0131zca Vanu H\u00fck\u00fcmdarl\u0131\u011f\u0131 kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "903",
@@ -16865,11 +16865,11 @@
             "it": "Eclipse VE3A"
         },
         "description": {
-            "de": "Die Eclipse stellt ihren Vorg\u00e4nger, die Solstice mit Leichtigkeit in den Schatten als ein Kampfk\u00f6nig f\u00fcr kurze Distanzen. Sie ist ausger\u00fcstet mit einer Unterlauf-Schrotflinte f\u00fcr Hinterhalte und unerwartete, spontane Situationen.",
-            "en": "The Eclipse easily overshadows its predecessor, the Solstice, as a close-quarters combat king. It comes equipped with an underbarrel plasma shotgun for ambushes and last-ditch scenarios.",
-            "es": "El Eclipse f\u00e1cilmente resta importancia a su antecesor, el Solstice, como el rey del combate cercano. Tiene una escopeta de plasma acoplada bajo su ca\u00f1\u00f3n para escenarios de emboscada y desesperaci\u00f3n.",
-            "fr": "L'\u00c9clipse fait facilement de l'ombre \u00e0 son pr\u00e9decesseur, le Solstice, en tant que leader dans le combat rapproch\u00e9. Il vient \u00e9quip\u00e9 d'un fusil de chasse \u00e0 plasma mont\u00e9 sous le canon pour des embuscades et les sc\u00e9narios de la derni\u00e8re chance.",
-            "it": "L'Eclipse supera di gran lunga il suo predecessore, il Solstice, come fucile di combattimento ravvicinato. \u00c8 equipaggiato con un fucile sottocanna al plasma per le imboscate e gli scenari disperati."
+            "de": "Das Eclipse stellt seinen Vorg\u00e4nger, die Solstice, mit Leichtigkeit in Nahkampfsituationen in den Schatten. Es ist ausger\u00fcstet mit einem Unterlauf-Impulswerfer, der f\u00fcr Bewegungsfreiheit auf dem Schlachtfeld sorgt.",
+            "en": "The Eclipse easily overshadows its predecessor, the Solstice in high-risk close-quarter operations. It comes equipped with an underbarrel impulse launcher for improved maneuverability around the battlefield.",
+            "es": "El Eclipse f\u00e1cilmente resta importancia a su antecesor, el Solstice, como el rey del combate cercano. Tiene un lanzador de impulsos acoplado bajo su ca\u00f1\u00f3n para facilitar la maniobrabilidad en el campo de batalla.",
+            "fr": "L'\u00c9clipse fait facilement de l'ombre \u00e0 son pr\u00e9d\u00e9cesseur, le Solstice, lors d'op\u00e9rations \u00e0 haut risque en combat rapproch\u00e9. Il vient \u00e9quip\u00e9 d'un lanceur \u00e0 impulsion mont\u00e9 sous le canon pour une manoeuvrabilit\u00e9 am\u00e9lior\u00e9e sur le champ de bataille.",
+            "it": "L'Eclipse supera di gran lunga il suo predecessore, il Solstice, nelle operazioni di combattimento ravvicinato ad alto rischio. \u00c8 equipaggiato con un lanciatore d'impulsi sottocanna per una maggiore manovrabilit\u00e0 nel campo di battaglia."
         },
         "image_set_id": "14339",
         "image_id": "79796",
