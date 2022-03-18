@@ -17,4 +17,14 @@ This backup only contains static API data, i.e. data that is not expected to cha
 
 As such, any form of character data, statistics, outfits, events, and leaderboards have been manually excluded.
 
+Additionally, the `state` field of all entries in the `world` collection is always set to `'online'` so as not to clutter the backups.
+
 For a full list of excluded collections, please refer to the `_BLACKLIST` constant at the top of the [`tools/scraper.py`](https://github.com/leonhard-s/ps2-api-backup/blob/main/tools/scraper.py) file.
+
+## File Endpoint Scraper
+
+This project has a sister repository hosting all images available through the API's file endpoint:
+
+[PS2 API Asset Repository](https://github.com/leonhard-s/ps2-api-files)
+
+Note that the above is a quite performance-hungry repository containing upwards of 25'000 files, which is why file backups are not included in this repository.
