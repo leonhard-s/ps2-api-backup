@@ -1,7 +1,7 @@
 [
     {
         "world_id": "19",
-        "state": "locked",
+        "state": "online",
         "name": {
             "en": "Jaeger",
             "de": "Jaeger",
@@ -13,7 +13,7 @@
     },
     {
         "world_id": "17",
-        "state": "locked",
+        "state": "online",
         "name": {
             "en": "Emerald",
             "de": "Smaragd",
@@ -85,7 +85,7 @@
     },
     {
         "world_id": "25",
-        "state": "locked",
+        "state": "online",
         "name": {
             "en": "Briggs",
             "de": "Briggs",
