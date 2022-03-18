@@ -105,6 +105,10 @@ async def scrape_collection(collection: str, client: auraxium.Client) -> None:
         # Quit loop when limit is exhausted
         if len(data) != _PAGE_SIZE:
             break
+    # Always treat world state as "online"
+    if collection == 'world':
+        for entry in entries:
+            entry['state'] = 'online'
     # Flush data to disk
     with open(_OUTPUTDIR / f'{collection}.json', 'w') as file_:
         json.dump(entries, file_, indent=4)
