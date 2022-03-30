@@ -6424,11 +6424,11 @@
             "tr": "Birincil: HMT:  VX29 Polaris"
         },
         "description": {
-            "de": "Die eingebauten R\u00fccksto\u00dfd\u00e4mpfer im Lauf des Polaris erlauben selbst beim Schie\u00dfen aus der H\u00fcfte, die Beibehaltung der Genauigkeit. Nur f\u00fcr VS.",
-            "en": "Embedded recoil dampeners along the barrel of the Polaris allow it to remain accurate when firing from the hip. VS use only.",
-            "es": "Los supresores de retroceso ubicados en el ca\u00f1\u00f3n de la Polaris hacen que mantenga la precisi\u00f3n al disparar desde la cintura. Solo para SV.",
-            "fr": "Les compensateurs de recul int\u00e9gr\u00e9s le long du canon du Polaris lui permettent de garder sa pr\u00e9cision lors des tirs \u00e0 hauteur de hanche. SV uniquement.",
-            "it": "I riduttori di rinculo incorporati lungo la canna della Polaris le consentono di rimanere precisa se si spara dall'anca. Esclusivo SV.",
+            "de": "Die eingebauten R\u00fccksto\u00dfd\u00e4mpfer im Lauf des Polaris erlauben selbst beim gezielten Dauerfeuer die Beibehaltung der Genauigkeit. Auch beim Feuern ist das Polaris pr\u00e4ziser als die meisten LMGs seiner Klasse. Nur f\u00fcr VS.",
+            "en": "Embedded recoil dampeners along the barrel of the Polaris allow it to remain accurate during sustained fire while aiming. The Polaris also boasts better hipfire accuracy than most LMGs in its class. VS use only.",
+            "es": "Los supresores de retroceso ubicados en el ca\u00f1\u00f3n de la Polaris hacen que mantenga la precisi\u00f3n durante r\u00e1fagas prolongadas cuando usas la mira. Tambi\u00e9n tiene mayor precisi\u00f3n desde la cadera que las otras ametralladoras ligeras comparables. Solo para SV.",
+            "fr": "Les compensateurs de recul int\u00e9gr\u00e9s le long du canon du Polaris lui permettent de garder sa pr\u00e9cision lors d'un tir soutenu en vis\u00e9e. Le Polaris offre \u00e9galement une meilleure pr\u00e9cision \u00e0 hauteur de hanche que la plupart des mitrailleuses l\u00e9g\u00e8res de sa cat\u00e9gorie. SV uniquement.",
+            "it": "I riduttori di rinculo incorporati lungo la canna della Polaris le consentono di rimanere precisa durante il fuoco sostenuto mentre si usa il mirino. La Polaris ha anche una migliore precisione sparando dall'anca rispetto alle maggior parte delle mitragliatrici leggere della sua classe. Esclusivo SV.",
             "tr": "Polaris'in namlusu boyunca g\u00f6m\u00fclm\u00fc\u015f olan geri tepme emicileri, kal\u00e7adan ate\u015f ederken isabetlili\u011fini korumas\u0131n\u0131 sa\u011flar. Yaln\u0131zca Vanu H\u00fck\u00fcmdarl\u0131\u011f\u0131 kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "905",
@@ -6495,11 +6495,11 @@
             "tr": "Birincil: HMT:  EM1"
         },
         "description": {
-            "de": "Das EM1 LMG von Esamir Munition Corp. ist eine einzigartige Mischung aus hoher Munitionskapazit\u00e4t und kurzer Nachladezeit, was dem Sch\u00fctzen die Kontrolle des Schie\u00dfkanals mit geringerer Ausfallzeit gibt. Nur f\u00fcr NK.",
-            "en": "Esamir Munition Corporation's EM1 LMG is a unique mix of high ammo count and fast reloading time, allowing the shooter to control firing lanes with little downtime. NC use only.",
-            "es": "El dise\u00f1o de la LMG EM1 de Municiones Esamir Corp. es una mezcla exclusiva de alta capacidad de munici\u00f3n y poco tiempo de recarga, lo que permite al usuario controlar la l\u00ednea de fuego con un per\u00edodo de inactividad m\u00ednimo. Solo para NC.",
-            "fr": "La mitrailleuse l\u00e9g\u00e8re EM1 d'Esamir Munition Corp. est un m\u00e9lange unique de compte \u00e9lev\u00e9 de munitions et de temps de recharge rapide, ce qui permet au tireur de contr\u00f4ler les corridors de tir avec un minimum de temps mort. NC uniquement.",
-            "it": "La mitragliatrice leggera EM1 della Esamir Munition Corporation \u00e8 una miscela unica di alto conteggio di munizioni e veloce tempo di ricarica, permettendo al tiratore di controllare i corridoi di fuoco senza interruzione. Esclusivo NC.",
+            "de": "Das EM1 LMG von Esamir Munition Corp. ist auch bei anhaltendem Feuer sehr pr\u00e4zise. Die einzigartige Kombination aus hoher Munitionskapazit\u00e4t und kurzer Nachladezeit erlauben dem Sch\u00fctzen eine einfache Kontrolle des Schussfelds. Nur f\u00fcr NK.",
+            "en": "Esamir Munition Corporation's first forray into the weapons market yielded an LMG that remains accurate while sustaining fire. The EM1 boasts fast reloads and high ammo capacity, allowing it to control firing lanes with ease. NC use only.",
+            "es": "El primer intento de Esamir Munition Corporation de desarrollar armas produjo una ametralladora ligera cuya precisi\u00f3n no disminuye durante el uso prolongado. La EM1 se recarga con rapidez y con poca frecuencia gracias a su gran cargador, permiti\u00e9ndole controlar el terreno. Solo para NC.",
+            "fr": "La premi\u00e8re tentative d'Esamir Munition Corporation sur le march\u00e9 des armes a donn\u00e9 une mitrailleuse l\u00e9g\u00e8re qui reste pr\u00e9cise tout en maintenant un tir soutenu. L'EM1 dispose de recharges rapides et d'une capacit\u00e9 de munitions \u00e9lev\u00e9e, ce qui lui permet de contr\u00f4ler facilement les couloirs de tir. NC uniquement.",
+            "it": "La prima incursione nel mercato delle armi della Esamir Munition Corporation ha prodotto un mitragliatrice leggera e dotata di buona precisione anche con un fuoco sostenuto. La EM1 vanta un'elevata capacit\u00e0 di munizioni e un veloce tempo di ricarica, permettendo al tiratore di controllare i corridoi di fuoco senza interruzioni. Esclusivo NC.",
             "tr": "Esamir M\u00fchimmat \u015eirketi'nin EM1 HMT'i y\u00fcksek cephane miktar\u0131 ve h\u0131zl\u0131 doldurma h\u0131z\u0131n\u0131n benzersiz bir kar\u0131\u015f\u0131m\u0131d\u0131r, ni\u015fanc\u0131n\u0131n k\u0131sa bir bekleme s\u00fcresiyle ate\u015f alan\u0131n\u0131 kontrol etmesini sa\u011flar. Yaln\u0131zca Yeni Birle\u015fim kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "874",
@@ -6566,11 +6566,11 @@
             "tr": "Birincil: HMT:  T9 CARV-S"
         },
         "description": {
-            "de": "Diese spezielle, vielseitige Version des ACGV kann sich, dank seiner mehrfachen Feuermodi und breiten Auswahl an Aufs\u00e4tzen, beinahe an jede Situation anpassen. Nur f\u00fcr TR.",
-            "en": "This special, versatile variant of the CARV can adapt to nearly any situation thanks to its multiple firing modes and wide range of attachments. Compared to its predecessor, it features a slightly slower rate of fire and more controllable recoil. TR use only.",
-            "es": "Esta variante vers\u00e1til del CARV puede adaptarse a casi cualquier situaci\u00f3n gracias a sus m\u00faltiples modos de disparo y amplia gama de complementos. Si se compara con su antecesor, tiene una cadencia de tiro un poco m\u00e1s lenta y un retroceso m\u00e1s controlable. Solo para RT.",
-            "fr": "Cette variante sp\u00e9ciale et polyvalente du VFAS peut s'adapter facilement \u00e0 n'importe quelle situation gr\u00e2ce \u00e0 ses modes de tir multiples et un grand nombre d'accessoires. Compar\u00e9e \u00e0 son pr\u00e9d\u00e9cesseur, elle a une cadence de tir un peu plus lente et un recul plus facile \u00e0 contr\u00f4ler. RT uniquement.",
-            "it": "Questa speciale e versatile variante della CARV si adatta a quasi tutte le situazioni grazie alle sue multiple modalit\u00e0 di fuoco e alla sua vasta gamma di accessori. Paragonata alle versioni precedenti possiede una frequenza di fuoco pi\u00f9 bassa e un rinculo controllabile. Esclusivo RT.",
+            "de": "Diese vielseitige Version des ACGV kann sich, dank seiner mehrfachen Feuermodi und breiten Auswahl an Aufs\u00e4tzen, beinahe an jede Situation anpassen. Im Vergleich zu seinem Vorg\u00e4nger besitzt es einen besser kontrollierbaren R\u00fccksto\u00df, aber auch eine etwas geringere Feuerrate. Nur f\u00fcr TR.",
+            "en": "This versatile variant of the CARV can adapt to nearly any situation thanks to a wide range of attachments. Compared to its predecessor, it features more controllable recoil in exchange for slightly slower rate of fire. TR use only.",
+            "es": "Esta variante vers\u00e1til del CARV puede adaptarse a casi cualquier situaci\u00f3n gracias a su amplia gama de complementos. Si se compara con su antecesor, tiene una cadencia de tiro un poco m\u00e1s lenta y un retroceso m\u00e1s controlable. Solo para RT.",
+            "fr": "Cette variante polyvalente du VFAS peut s'adapter facilement \u00e0 n'importe quelle situation gr\u00e2ce \u00e0 un grand nombre d'accessoires. Compar\u00e9e \u00e0 son pr\u00e9d\u00e9cesseur, elle a une cadence de tir un peu plus lente et un recul plus facile \u00e0 contr\u00f4ler. RT uniquement.",
+            "it": "Questa versatile variante della CARV si adatta a quasi tutte le situazioni grazie alle sue multiple modalit\u00e0 di fuoco e alla sua vasta gamma di accessori. Paragonata alle versioni precedenti, possiede una cadenza di fuoco pi\u00f9 bassa, ma un rinculo pi\u00f9 controllabile. Esclusivo RT.",
             "tr": "Bu \u00f6zel, i\u015flevsel CARV modeli, neredeyse her duruma kar\u015f\u0131 tam otomatik at\u0131\u015f, seri at\u0131\u015f ve tek at\u0131\u015f modu i\u00e7ermesi sayesinde sava\u015f alan\u0131nda her t\u00fcrl\u00fc duruma uyum sa\u011flar. \u00d6ncekilere g\u00f6re, daha yava\u015f at\u0131\u015f h\u0131z\u0131na ve daha kontroll\u00fc geri tepmeye sahiptir. Yaln\u0131zca Terran Cumhuriyeti kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "886",
@@ -6661,11 +6661,11 @@
             "tr": "Birincil: Karabina: Pulsar K"
         },
         "description": {
-            "de": "Basierend auf seinem Sturmgewehr-Bruder, wurde das Pulsar K mit dem Augenmerk auf Mannstoppwirkung entwickelt. Es ist nicht so einfach zu kontrollieren, aber auf kurzen Distanzen weitaus zerst\u00f6rerischer. Nur f\u00fcr VS.",
-            "en": "Based off of its bigger assault rifle brother, the smaller Pulsar C  was developed with an emphasis on stopping power. While not as easy to control, the heavy-hitting Pulsar C is far more devastating at close range. VS use only.",
-            "es": "El dise\u00f1o del Pulsar C, basado en uno de los rifles de asalto m\u00e1s grandes, se concentra en su potencia de impacto. Aunque no es tan f\u00e1cil de controlar, el potente Pulsar C es mucho m\u00e1s devastador a corto alcance. Solo para SV.",
-            "fr": "Con\u00e7u d'apr\u00e8s un mod\u00e8le plus grand de fusil d'assaut, le Pulsar C a \u00e9t\u00e9 d\u00e9velopp\u00e9 en mettant l'accent sur la puissance d'arr\u00eat. Bien qu'il ne soit pas aussi facile \u00e0 contr\u00f4ler, le puissant Pulsar C est beaucoup plus d\u00e9vastateur \u00e0 courte port\u00e9e. SV uniquement.",
-            "it": "La Pulsar C, basata sul pi\u00f9 grande fucile d'assalto con lo stesso nome, \u00e8 una carabina piccola concepita per mettere in risalto il potere d'interdizione. La Pulsar C non ha la stessa facilit\u00e0 di controllo ma \u00e8 molto pi\u00f9 devastante a distanza ravvicinata. Esclusivo SV.",
+            "de": "Basierend auf der Pulsar-Sturmgewehr-Plattform, wurde das kompakte Pulsar C mit dem Augenmerk auf Mobilit\u00e4t entwickelt. Es ist nicht so einfach zu kontrollieren, aber auf kurzen Distanzen weitaus zerst\u00f6rerischer. Nur f\u00fcr VS.",
+            "en": "Based off of the Pulsar assault rifle platform, the compact Pulsar C was developed to support more mobile operations. While not as easy to control, the heavy-hitting Pulsar C is far more devastating at close range. VS use only.",
+            "es": "El Pulsar C basa su dise\u00f1o en el rifle de asalto Pulsar, pero es m\u00e1s compacto para operaciones que exigen movilidad. No es tan f\u00e1cil controlarlo, pero es potente y muy peligroso en las distancias cortas. Solo para SV.\n",
+            "fr": "Con\u00e7u d'apr\u00e8s le fusil d'assaut Pulsar, le Pulsar C compact a \u00e9t\u00e9 d\u00e9velopp\u00e9 pour soutenir davantage les op\u00e9rations mobiles. Bien qu'il ne soit pas aussi facile \u00e0 contr\u00f4ler, le puissant Pulsar C est beaucoup plus d\u00e9vastateur \u00e0 courte port\u00e9e. SV uniquement.",
+            "it": "Basato sulla piattaforma del fucile d'assalto Pulsar, il compatto Pulsar C \u00e8 stato sviluppato per supportare operazioni di maggiore mobilit\u00e0. Pur non avendo la stessa facilit\u00e0 di controllo \u00e8 molto pi\u00f9 devastante a distanza ravvicinata. Esclusivo SV.",
             "tr": "B\u00fcy\u00fck karde\u015fi olan taarruz t\u00fcfe\u011fini temel alan Pulsar K'nin yap\u0131m\u0131nda durdurma g\u00fcc\u00fcne \u00f6nem verilmi\u015ftir. Kontrol etmesi kolay olmasa da a\u011f\u0131r vuru\u015flu Pulsar K yak\u0131n menzilde tahrip g\u00fcc\u00fc y\u00fcksektir. Yaln\u0131zca Vanu H\u00fck\u00fcmdarl\u0131\u011f\u0131 kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "903",
@@ -7016,11 +7016,11 @@
             "tr": "Birincil: Taarruz T\u00fcfe\u011fi: SABR-13"
         },
         "description": {
-            "de": "Der 2-Schuss Feuersto\u00df-Modus der SABR-13 wurde urspr\u00fcnglich zur Munitionseinsparung entwickelt. Seitdem wurde es aufgrund seiner Treffsicherheit zu einer beliebten Waffe f\u00fcr Meistersch\u00fctzen. Nur f\u00fcr TR.",
-            "en": "The SABR-13's two-round burst fire mode was originally developed with ammunition conservation in mind. It has since become popular with marksmen because of its ability to reliably land those two rounds on target from long range. TR use only.",
-            "es": "La modalidad de disparo en r\u00e1faga de dos proyectiles del SABR-13 fue dise\u00f1ada pensando en la conservaci\u00f3n de munici\u00f3n. Desde entonces, ha sido muy popular entre tiradores por la precisi\u00f3n con la que sus dos proyectiles aciertan en el objetivo a largo alcance. Solo para RT.",
-            "fr": "Le mode de tir par rafales de deux coups du SABR-13 a \u00e9t\u00e9 con\u00e7u \u00e0 l'origine dans le but de conserver les munitions. Il est devenu populaire aupr\u00e8s des tireurs d'\u00e9lite gr\u00e2ce \u00e0 sa capacit\u00e9 \u00e0 atteindre sa cible de fa\u00e7on fiable \u00e0 longue port\u00e9e. RT uniquement.",
-            "it": "La modalit\u00e0 raffica a due colpi del SABR-13 \u00e8 stata inizialmente sviluppata con in mente il risparmio di munizioni. D'allora in poi \u00e8 diventata molto popolare tra i cecchini per la sua capacit\u00e0 di colpire un obiettivo a distanza con due colpi. Esclusivo RT.",
+            "de": "Der 2-Schuss Feuersto\u00df-Modus der SABR-13 lasst die Grenzen zwischen Pr\u00e4zisionsgewehr f\u00fcr gro\u00dfe Entfernungen und Sturmgewehr f\u00fcr mittlere Entfernungen verschwimmen. F\u00fcr weit entfernte Ziele l\u00e4sst es sich in einen halbautomatischen Modus mit gr\u00f6\u00dferer Pr\u00e4zision umschalten. Nur f\u00fcr TR.",
+            "en": "The SABR-13's two-round burst walks the line between a long-range marksman rifle, and a mid-range assault rifle. For especially distant targets, this weapon can toggle a semi-auto firing mode for increased accuracy. TR use only.",
+            "es": "La modalidad de disparo en r\u00e1faga de dos proyectiles del SABR-13 lo sit\u00faa en la l\u00ednea que separa los rifles de tirador y de asalto. Para objetivos especialmente lejanos, dispone de un modo semiautom\u00e1tico que otorga mayor precisi\u00f3n. Solo para RT.",
+            "fr": "Le mode de tir par rafales de deux coups du SABR-13 jongle entre un fusil de tir \u00e0 longue port\u00e9e et un fusil d'assaut \u00e0 moyenne port\u00e9e. Pour les cibles particuli\u00e8rement \u00e9loign\u00e9es, cette arme peut activer un mode de tir semi-automatique pour une pr\u00e9cision accrue. RT uniquement.",
+            "it": "Grazie alla sua modalit\u00e0 raffica a due colpi, il SABR-13 \u00e8 una via di mezzo tra un fucile da tiratore scelto a lungo raggio e un fucile d'assalto a medio raggio. Per bersagli particolarmente distanti, quest'arma pu\u00f2 impostare una modalit\u00e0 di fuoco semi-automatica in grado di garantire una maggiore accuratezza. Esclusivo RT.",
             "tr": "SABR-13'\u00fcn \u00e7ift mermili seri at\u0131\u015f h\u0131z\u0131 modu asl\u0131nda cephane tasarrufu d\u00fc\u015f\u00fcn\u00fclerek geli\u015ftirilmi\u015ftir. O zamandan beri o iki merminin uzun mesafeden hedefi vurmas\u0131ndaki g\u00fcvenilir kabiliyeti sayesinde ni\u015fanc\u0131lar aras\u0131nda pop\u00fcler olmu\u015ftur."
         },
         "image_set_id": "888",
@@ -11199,11 +11199,11 @@
         "skill_set_id": "334",
         "required_item_id": "7154",
         "name": {
-            "de": "Prim\u00e4r: Sturmgewehr: Equinox VE2 Salve",
-            "en": "Primary: Assault Rifle: Equinox VE2 Burst",
-            "es": "Primaria. Rifle de asalto: Equinox VE2 a r\u00e1fagas",
-            "fr": "Principale: Fusil d'assaut: Equinox \"Rafale\" VE2",
-            "it": "Primaria, Fucile d'assalto: Equinox VE2 a raffica",
+            "de": "Prim\u00e4r: Sturmgewehr: Pulsar Burst",
+            "en": "Primary: Assault Rifle: Pulsar Burst",
+            "es": "Primaria. Rifle de asalto: Pulsar a r\u00e1fagas\n",
+            "fr": "Principale\u00a0: Fusil d'assaut\u00a0: Rafale Pulsar",
+            "it": "Primaria, Fucile d'assalto: Pulsar a raffica",
             "tr": "Birincil: Taarruz T\u00fcfe\u011fi: Ekinoks Seri At\u0131\u015f"
         },
         "image_set_id": "902",
@@ -11520,11 +11520,11 @@
             "tr": "Birincil: HMT: \u00c7apa"
         },
         "description": {
-            "de": "Die LA1 Anchor wurde f\u00fcr den Nahkampf entwickelt. Sie bietet eine mittlere Feuerrate, hohen Schadensaussto\u00df, hochentwickelte Laseraufs\u00e4tze und ein 50-Schuss-Trommelmagazin f\u00fcr ein schnelles Nachladen auf. Nur f\u00fcr NK.",
-            "en": "The LA1 Anchor is tuned for close quarters effectiveness. It features high damage, moderate rate of fire, advanced laser attachments, and a 50 round box magazine for quick combat reloads. NC use only.",
-            "es": "El LA1 Anchor ha sido dise\u00f1ado para el combate a cortas distancias. Se caracteriza por una cadencia de tiro media, una alta potencia y un cargador cil\u00edndrico de 50 proyectiles con recarga r\u00e1pida. Solo para NC.",
-            "fr": "L'Ancre LA1 est con\u00e7u \u00eatre efficace \u00e0 courte port\u00e9e. Il offre des d\u00e9g\u00e2ts \u00e9lev\u00e9s, une cadence de tir moyenne, des accessoires laser perfectionn\u00e9s et est \u00e9quip\u00e9 d'un chargeur \u00e0 tambour de 50 projectiles permettant un rechargement rapide. NC uniquement.",
-            "it": "L'LA1 Anchor \u00e8 stata studiata per essere efficace nei combattimenti corpo a corpo. Infligge danni pesanti, ha una frequenza di fuoco media e possiede accessori laser e un caricatore da 50 colpi che si ricarica velocemente. Esclusivo NC.",
+            "de": "Das LA1 Anchor wurde f\u00fcr den Nahkampf entwickelt. Es bietet eine herausragende Feuerrate, hohe Durchschlagskraft und ein 50-Schuss-Magazin f\u00fcr ein schnelles Nachladen im Kampf. Nur f\u00fcr NK.",
+            "en": "The LA1 Anchor is tuned for close quarters effectiveness. It features best-in-class rate of fire for its considerable stopping power, and a 50 round box magazine for quick combat reloads. NC use only.",
+            "es": "El LA1 Anchor ha sido dise\u00f1ado para el combate a cortas distancias. Se caracteriza por la mejor cadencia de tiro de su categor\u00eda, potencia considerable y un cargador de 50 proyectiles con recarga r\u00e1pida. Solo para NC.",
+            "fr": "L'Ancre LA1 est con\u00e7u \u00eatre efficace \u00e0 courte port\u00e9e. Il offre la meilleure cadence de tir de sa cat\u00e9gorie pour sa puissance d'arr\u00eat consid\u00e9rable, et il est \u00e9quip\u00e9 d'un chargeur \u00e0 tambour de 50 projectiles permettant un rechargement rapide. NC uniquement.",
+            "it": "L'LA1 Anchor \u00e8 stata studiata per essere efficace nei combattimenti corpo a corpo. Vanta la migliore cadenza di fuoco della sua classe grazie a un notevole potere d'interdizione e un caricatore da 50 colpi che si ricarica velocemente. Esclusivo NC.",
             "tr": "LA1 \u00c7apa, gezici NC askeri i\u00e7in tasarlanm\u0131\u015ft\u0131. Orta bir at\u0131\u015f h\u0131z\u0131, y\u00fcksek hasar ve h\u0131zl\u0131 yeniden doldurma yapan bir 50 mermilik tambur \u015farj\u00f6re sahiptir. Yaln\u0131zca Yeni Birle\u015fim kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "874",
@@ -13112,19 +13112,19 @@
         "skill_points": "650",
         "required_item_id": "7171",
         "name": {
-            "de": "Prim\u00e4r: Karabiner: Gau\u00df Kompakt Salve",
-            "en": "Primary: Carbine: Gauss Compact Burst",
-            "es": "Primaria. Carabina: Gauss compacto a r\u00e1fagas",
-            "fr": "Principale: Carabine: Gauss Compact \"Rafale\"",
-            "it": "Primaria, Carabina: Gauss Compact a raffica",
+            "de": "Prim\u00e4r: Karabiner: AF-20 Rogue",
+            "en": "Primary: Carbine: AF-20 Rogue",
+            "es": "Primaria. Carabina: AF-20 Rogue",
+            "fr": "Principale : Carabine\u00a0: AF-20 Rogue",
+            "it": "Primaria, Carabina: AF-20 Rogue",
             "tr": "Birincil: Karabina: Gauss Kompakt Seri At\u0131\u015f"
         },
         "description": {
-            "de": "Das NC2B Gau\u00df Kompakt verf\u00fcgt \u00fcber einen Feuersto\u00dfmodus f\u00fcr kontrollierbaren Langstreckenbeschuss. Nur f\u00fcr NK.",
-            "en": "The NC2B Gauss Compact features a burst fire mode for controllable long range fire. NC use only.",
-            "es": "El Gauss NC2B compacto cuenta con un modo de disparo en r\u00e1faga que permite disparar a objetivos alejados sin perder el control. Solo para NC.",
-            "fr": "Le Gauss Compact NC2B int\u00e8gre un mode de tir en rafale qui permet de mieux contr\u00f4ler les tirs \u00e0 longue distance. NC uniquement.",
-            "it": "La Gauss Compact NC2B ha una modalit\u00e0 a raffica per un fuoco controllabile a lunga distanza. Esclusivo NC.",
+            "de": "Das AF-20 Rogue ist eine automatische Version des bew\u00e4hrten AF-19 Mercenary mit kontrollierbarem R\u00fccksto\u00df auf mittlere Entfernungen. Nur f\u00fcr NK.",
+            "en": "The AF-20 Rogue is a burst-fire version of the tried and true AF-19 Mercenary that boasts controllable recoil over moderate distances. NC use only.",
+            "es": "La AF-20 Rogue es una versi\u00f3n de r\u00e1faga de la popular AF-19 Mercenary que permite disparar a objetivos alejados sin perder el control. Solo para NC.",
+            "fr": "L'AF-20 Rogue est une version dot\u00e9e du tir en rafales de l'AF-19 Mercenary, qui a fait ses preuves et qui b\u00e9n\u00e9ficie d'un recul contr\u00f4lable sur des distances mod\u00e9r\u00e9es. NC uniquement.",
+            "it": "La AF-20 Rogue \u00e8 una versione con modalit\u00e0 a raffica della collaudata AF-19 Mercenary con un rinculo controllabile nelle medie distanze. Esclusivo NC.",
             "tr": "NC2B Gauss Kompakt kontrol edilebilir uzun menzil at\u0131\u015f\u0131 i\u00e7in seri at\u0131\u015f modu i\u00e7ermektedir. Yaln\u0131zca Yeni Birle\u015fim kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "877",
@@ -13144,11 +13144,11 @@
             "tr": "Birincil: HMT: Gauss SAW S"
         },
         "description": {
-            "de": "Dank seines Feuerauswahlmodus ist der NC6S Gau\u00df SAW extrem anpassungsf\u00e4hig auf dem Schlachtfeld. Nur f\u00fcr NK.",
-            "en": "The NC6S Gauss SAW's select fire mode gives it incredible adaptability on the field. NC use only.",
-            "es": "El selector de modalidad de disparo del NC6S Gauss SAW le proporciona una gran versatilidad en el campo de batalla. Solo para NC.",
-            "fr": "Le mode de s\u00e9lection de tir du Gauss SAW NC6S lui donne une incroyable flexibilit\u00e9 sur le champ de bataille. NC uniquement.",
-            "it": "Il selettore di fuoco dell'NC6S Gauss SAW le dona un'incredibile adattabilit\u00e0 sul campo. Esclusivo NC.",
+            "de": "Das Gauss SAW S ist eine vielseitigere Alternative zum klassischen Gauss SAW. Es l\u00e4dt schneller nach und ist leichter zu kontrollieren, allerdings sind Feuerrate und Magazingr\u00f6\u00dfe geringer. Nur f\u00fcr NK.",
+            "en": "The Gauss SAW S was designed as a more versatile alternative of the iconic Gauss SAW. It boasts faster reloads and more controllability at cost to rate of fire and magazine size. NC use only.",
+            "es": "El Gauss SAW S fue dise\u00f1ado como alternativa al Gauss SAW original. Se recarga m\u00e1s r\u00e1pido y es m\u00e1s controlable, pero su cadencia de disparo y el tama\u00f1o del cargador son inferiores. Solo para NC.",
+            "fr": "Le Gauss SAW S a \u00e9t\u00e9 con\u00e7u comme une alternative plus polyvalente de l'embl\u00e9matique Gauss SAW. Il b\u00e9n\u00e9ficie de recharges plus rapides, et il gagne en contr\u00f4labilit\u00e9 au d\u00e9triment de la cadence de tir et la taille du chargeur. NC uniquement.",
+            "it": "La Gauss SAW S \u00e8 stata progettata come alternativa pi\u00f9 versatile della celebre Gauss SAW. Ha una ricarica pi\u00f9 veloce e una maggiore controllabilit\u00e0, sacrificando la cadenza di fuoco e la capacit\u00e0 del caricatore. Esclusivo NC.",
             "tr": "NC6S Gauss SAW'\u0131n at\u0131\u015f modu se\u00e7imi, ona sava\u015f alan\u0131nda inan\u0131lmaz uyum sa\u011flama kabiliyeti verir. Yaln\u0131zca Yeni Birle\u015fim kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "874",
@@ -13184,19 +13184,19 @@
         "skill_points": "1000",
         "required_item_id": "7172",
         "name": {
-            "de": "Prim\u00e4r: Karabiner: Gau\u00df Kompakt S",
-            "en": "Primary: Carbine: Gauss Compact S",
-            "es": "Primaria. Carabina: Gauss S compacto",
-            "fr": "Principale: Carabine: Gauss Compact S",
-            "it": "Primaria, Carabina: Gauss Compact S",
+            "de": "Prim\u00e4r: Karabiner: NC2 Gauss Compact",
+            "en": "Primary: Carbine: NC2 Gauss Compact",
+            "es": "Primaria. Carabina: NC2 Gauss compacta",
+            "fr": "Principale\u00a0: Carabine\u00a0: NC2 Gauss Compact",
+            "it": "Primaria, Carabina: NC2 Gauss Compact",
             "tr": "Birincil: Karabina: Gauss Kompakt S"
         },
         "description": {
-            "de": "Das NC2S Gau\u00df Kompakt verf\u00fcgt \u00fcber einen Feuerauswahlmodus, der die Nutzung des ohnehin schon anpassungsf\u00e4higen Karabiners weiter ausbaut. Nur f\u00fcr NK.",
-            "en": "The NC2S Gauss Compact possesses a select-fire mode that further diversifies the usage of the already adaptable carbine. NC use only.",
-            "es": "El Gauss NC25 compacto es un arma altamente adaptable cuyo selector de modo de\u00a0disparo le aporta una versatilidad a\u00fan mayor. Solo para NC.",
-            "fr": "Le Gauss Compact NC2S int\u00e8gre un mode de s\u00e9lection de tir qui diversifie encore davantage l'utilisation de cette carabine d\u00e9j\u00e0 polyvalente. NC uniquement.",
-            "it": "La Gauss Compact NC2S possiede una modalit\u00e0 di fuoco selezionabile che diversifica ulteriormente l'uso della gi\u00e0 adattabile carabina. Esclusivo NC.",
+            "de": "Das NC2S Gau\u00df Kompakt wurde als vielseitige Waffe konzipiert, und ist einer der anpassbarsten Karabiner im Arsenal des Neuen Konglomerats. Nur f\u00fcr NK.",
+            "en": "The NC2 Gauss Compact was designed with adaptability in mind, and is one of the most customizable carbines in the New Conglomerate's arsenal. NC use only.",
+            "es": "La NC2 Gauss Compacta fue dise\u00f1ada para ser adaptable y es una de las armas m\u00e1s personalizables del arsenal del Nuevo Conglomerado. Solo para NC.",
+            "fr": "Le NC2 Gauss Compact a \u00e9t\u00e9 con\u00e7u pour des besoins d'adaptabilit\u00e9. Il s'agit de l'une des carabines les plus personnalisables dans l'arsenal du Nouveau Conglom\u00e9rat. NC uniquement.",
+            "it": "La NC2 Gauss Compact \u00e8 stata progettata pensando all'adattabilit\u00e0 ed \u00e8 una delle carabine pi\u00f9 personalizzabili nell'arsenale del Nuovo Conglomerato. Esclusivo NC.",
             "tr": "NC2S Gauss Kompakt zaten \u00e7e\u015fitli \u015fartlara uyum sa\u011flayabilen piyade t\u00fcfe\u011fin kullan\u0131m alanlar\u0131n\u0131 daha da artt\u0131ran bir se\u00e7meli at\u0131\u015f modu i\u00e7ermektedir. Yaln\u0131zca Yeni Birle\u015fim kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "877",
@@ -13216,11 +13216,11 @@
             "tr": "Birincil: Taarruz T\u00fcfe\u011fi: Gauss T\u00fcfe\u011fi S"
         },
         "description": {
-            "de": "Dank seiner Feuerauswahloption ist das Gau\u00dfgewehr S auf dem Schlachtfeld extrem anpassungsf\u00e4hig. Nur f\u00fcr NK.",
-            "en": "The Gauss Rifle S possesses a select fire option that allows for further adaptability on the battlefield. NC use only.",
-            "es": "El rifle Gauss S dispone de un selector de modalidad de disparo que le proporciona una gran versatilidad en el campo de batalla. Solo para NC.",
-            "fr": "Le Gauss S int\u00e8gre un mode de s\u00e9lection de tir qui permet de s'adapter plus facilement sur le champ de bataille. NC uniquement.",
-            "it": "Il fucile Gauss S possiede un'opzione di fuoco selezionabile che consente una grande adattabilit\u00e0 sul campo. Esclusivo NC.",
+            "de": "Das leicht handhabbare Gauss-Gewehr S wurde als vielseitige Waffenplattform entwickelt, bei dem Ingenieure die Aufsatzoptionen den Kampfbedingungen anpassen k\u00f6nnen. Nur f\u00fcr NK.",
+            "en": "The controllable Gauss Rifle S was developed as a highly adaptable combat platform, allowing engineers to tinker with their attachment options based on battlefield conditions. NC use only.",
+            "es": "El rifle Gauss S fue dise\u00f1ado como plataforma de combate vers\u00e1til, permitiendo que los ingenieros lo ajusten en funci\u00f3n de la situaci\u00f3n en el campo de batalla. Solo para NC.",
+            "fr": "Le fusil Gauss S contr\u00f4lable a \u00e9t\u00e9 d\u00e9velopp\u00e9 comme une plateforme de combat hautement flexible, permettant aux ing\u00e9nieurs d'adapter leurs accessoires en fonction des conditions du champ de bataille. NC uniquement.",
+            "it": "Il fucile Gauss S controllabile \u00e8 stato sviluppato come piattaforma di combattimento adattabile per consentire ai genieri di sfruttare le proprie opzioni di attacco in base alle condizioni del campo di battaglia. Esclusivo NC.",
             "tr": "Gauss T\u00fcfe\u011fi S'nin sava\u015f alan\u0131na daha iyi uyum sa\u011flamaya olanak veren bir se\u00e7meli at\u0131\u015f se\u00e7ene\u011fi vard\u0131r. Yaln\u0131zca Yeni Birle\u015fim kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "876",
@@ -13336,11 +13336,11 @@
             "tr": "Birincil: Karabina: TRAC-5 S"
         },
         "description": {
-            "de": "Um die Einsatzm\u00f6glichkeiten des Karabiners weiter auszubauen, stehen beim TRAK-5 S mehrere Schussmethoden f\u00fcr entfernte Ziele zur Auswahl. Nur f\u00fcr TR.",
-            "en": "Created to further enhance the carbine's versatility, the TRAC-5 S can choose between multiple fire modes for firing at distant targets. TR use only.",
-            "es": "La TRAC-5 S es una carabina dise\u00f1ada para conseguir una mayor versatilidad. Su capacidad para emplear distintos modos de disparo le permite alcanzar objetivos lejanos. Solo para RT.",
-            "fr": "Cr\u00e9\u00e9 pour am\u00e9liorer la polyvalence de la carabine, la CART-5 S peut choisir entre plusieurs modes de tir pour toucher les cibles \u00e9loign\u00e9es. RT uniquement.",
-            "it": "La TRAC-5 S, creata per espandere ulteriormente la versatilit\u00e0 della carabina, permette di scegliere tra diverse modalit\u00e0 di fuoco per i bersagli distanti. Esclusivo RT.",
+            "de": "Um die Einsatzm\u00f6glichkeiten des Karabiners weiter auszubauen, stehen beim TRAC-5 S eine Vielzahl von Aufs\u00e4tzen zur Auswahl. Nur f\u00fcr TR.",
+            "en": "Created to further enhance the carbine's versatility, the TRAC-5 S can choose from an extended array of attachment options. TR use only.",
+            "es": "La TRAC-5 S fue dise\u00f1ada para aumentar la versatilidad de las ya vers\u00e1tiles carabinas mediante numerosos accesorios. Solo para RT.",
+            "fr": "Cr\u00e9\u00e9e pour am\u00e9liorer la polyvalence de la carabine, la CART-5 S permet de choisir parmi une vaste gamme d'accessoires. RT uniquement.",
+            "it": "Creata per espandere ulteriormente la versatilit\u00e0 della carabina, la TRAC-5 S permette di scegliere tra una vasta gamma di accessori opzionali. Esclusivo RT.",
             "tr": "T\u00fcfe\u011fin kullan\u0131m alan\u0131n\u0131 daha da geni\u015fleten TRAC-5 S uzaktaki hedeflere ate\u015f edebilmek i\u00e7in bir\u00e7ok at\u0131\u015f modu aras\u0131nda ge\u00e7i\u015f yapabilir. Yaln\u0131zca Terran Cumhuriyeti kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "889",
@@ -13360,11 +13360,11 @@
             "tr": "Birincil: Taarruz T\u00fcfe\u011fi: T1S Cycler"
         },
         "description": {
-            "de": "Das T1S Cycler ist dank seiner zahlreichen Schussmethoden auf viele verschiedene Reichweiten wirkungsvoll. Nur f\u00fcr TR.",
-            "en": "The T1S Cycler performs well at many ranges, attributing its adaptability due to its multiple fire modes. TR use only.",
-            "es": "Gracias a la versatilidad que le proporcionan sus distintos modos de disparo, el T1S Cycler tiene un buen rendimiento en distintas situaciones. Solo para RT.",
-            "fr": "Le S\u00e9cateur T1S est efficace \u00e0 diff\u00e9rentes distances et s'adapte facilement gr\u00e2ce \u00e0 plusieurs modes de tir. RT uniquement.",
-            "it": "Il T1S Cycler si comporta bene a diverse distanze, grazie alle modalit\u00e0 di fuoco multiple. Esclusivo RT.",
+            "de": "Das T1S Cycler ist dank seiner zahlreichen Anpassungsoptionen auf viele verschiedene Reichweiten wirkungsvoll. Nur f\u00fcr TR.",
+            "en": "The T1S Cycler performs well at many ranges, attributing its versatility to the wide range of customization options available to it. TR use only.",
+            "es": "Gracias a la versatilidad que le proporcionan sus opciones de personalizaci\u00f3n, el T1S Cycler tiene un buen rendimiento a cualquier distancia. Solo para RT.",
+            "fr": "Le S\u00e9cateur T1S est efficace \u00e0 diff\u00e9rentes distances, devant sa polyvalence au large \u00e9ventail d'options de personnalisation \u00e0 sa disposition. RT uniquement.",
+            "it": "Il T1S Cycler si comporta bene a diverse distanze, grazie alla sua versatilit\u00e0 dovuta alla vasta gamma di opzioni di personalizzazione a disposizione. Esclusivo RT.",
             "tr": "T1S D\u00f6ng\u00fcl\u00fc \u00e7oklu at\u0131\u015f modlar\u0131 sayesinde bir\u00e7ok menzilde iyi performans g\u00f6sterir. Yaln\u0131zca Terran Cumhuriyeti kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "888",
@@ -13424,19 +13424,19 @@
         "skill_points": "650",
         "required_item_id": "7150",
         "name": {
-            "de": "Prim\u00e4r: Sturmgewehr: Equinox VE2 Salve",
-            "en": "Primary: Assault Rifle: Equinox VE2 Burst",
-            "es": "Primaria. Rifle de asalto: Equinox VE2 a r\u00e1fagas",
-            "fr": "Principale: Fusil d'assaut: Equinox \"Rafale\" VE2",
-            "it": "Primaria, Fucile d'assalto: Equinox VE2 a raffica",
+            "de": "Prim\u00e4r: Sturmgewehr: Pulsar Burst",
+            "en": "Primary: Assault Rifle: Pulsar Burst",
+            "es": "Primaria. Rifle de asalto: Pulsar a r\u00e1fagas\n",
+            "fr": "Principale\u00a0: Fusil d'assaut\u00a0: Rafale Pulsar",
+            "it": "Primaria, Fucile d'assalto: Pulsar a raffica",
             "tr": "Birincil: Taarruz T\u00fcfe\u011fi: Ekinoks Seri At\u0131\u015f"
         },
         "description": {
-            "de": "Die von den Vanu-Laboren auf Esamir entwickelte Equinox VE2 Salve erm\u00f6glicht kontrollierte Feuerst\u00f6\u00dfe auf entfernte Ziele. Nur f\u00fcr VS.",
-            "en": "Vanu Esamir Labs created the Equinox VE2 Burst to provide easily controllable burst fire for distant targets. VS use only.",
-            "es": "Los laboratorios de Vanu en Esamir crearon el Equinox a r\u00e1fagas para conseguir un disparo a r\u00e1fagas m\u00e1s controlable para los objetivos lejanos. Solo para SV.",
-            "fr": "Les laboratoires Vanu d'Esamir ont cr\u00e9\u00e9 l'Equinox VE2 Rafale pour fournir des tirs en rafales faciles \u00e0 contr\u00f4ler pour les cibles \u00e0 distance. SV uniquement.",
-            "it": "I laboratori Vanu di Esamir hanno creato l'Equinox a raffica per fornire una modalit\u00e0 di fuoco a raffica facilmente controllabile per gli obiettivi distanti. Esclusivo SV.",
+            "de": "Die erste von vielen Varianten des Pulsar VS1 erm\u00f6glicht kontrollierte Feuerst\u00f6\u00dfe auf entfernte Ziele ohne Kompromisse bei der Durchschlagskraft. Nur f\u00fcr VS.",
+            "en": "The first of many adaptations to the Pulsar VS1, this burst-fire variant provides enhanced control at long range without compromising on stopping power. VS use only.",
+            "es": "La primera de muchas adaptaciones del Pulsar VS1. Esta variante de r\u00e1fagas proporciona un mayor control a larga distancia sin afectar a la potencia. Solo para SV.",
+            "fr": "Premi\u00e8re des nombreuses adaptations du Pulsar VS1, cette variante de tir par rafales offre un contr\u00f4le am\u00e9lior\u00e9 \u00e0 longue port\u00e9e sans compromettre la puissance d'arr\u00eat. SV uniquement.",
+            "it": "Come primo di molti adattamenti al Pulsar VS1, questa variante con fuoco a raffica fornisce un controllo migliorato a lungo raggio senza compromettere il potere di interdizione. Esclusivo SV.",
             "tr": "Vanu Esamir Laboratuvarlar\u0131, uzak hedefler i\u00e7in kontroll\u00fc seri at\u0131\u015flar yap\u0131labilmesi i\u00e7in Ekinoks Seri At\u0131\u015f'\u0131 tasarlad\u0131. Yaln\u0131zca Vanu H\u00fck\u00fcmdarl\u0131\u011f\u0131 kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "902",
@@ -13504,11 +13504,11 @@
             "tr": "Birincil: Taarruz T\u00fcfe\u011fi: Ekinoks"
         },
         "description": {
-            "de": "Das vielseitige Sturmgewehr Equinox VE2 wurde als Allround-Waffe f\u00fcr verschiedene Kampfsituationen entwickelt. Nur f\u00fcr VS.",
-            "en": "The versatile Equinox VE2 assault rifle was designed to perform well in many situations. VS use only.",
-            "es": "El rifle de asalto Equinox VE2 es un arma vers\u00e1til dise\u00f1ada para adaptarse a todo tipo de situaciones. Solo para SV.",
-            "fr": "Le fusil d'assaut polyvalent Equinox VE2 a \u00e9t\u00e9 con\u00e7u pour fonctionner dans plusieurs situations. SV uniquement.",
-            "it": "Il versatile fucile d'assalto Equinox VE2 \u00e8 stato progettato per offrire buone prestazioni in varie situazioni di combattimento. Esclusivo SV.",
+            "de": "Das vielseitige Sturmgewehr Equinox VE2 wurde von den Vanu-Laboren auf Esamir als Allround-Waffe mit zahlreichen Aufsatzoptionen f\u00fcr verschiedene Kampfsituationen entwickelt. Das Design mit geringem Gewicht erlaubt schnellere Bewegungen beim Zielen und gr\u00f6\u00dfere Genauigkeit bei Feuern aus der H\u00fcfte. Nur f\u00fcr VS.",
+            "en": "Vanu Esamir labs developed the Equinox VE2 assault rifle as a versatile combat platform with a wide array of attachment options. Its lightweight design also allows for quicker movement while aiming, and better accuracy from the hip. VS use only.",
+            "es": "Los laboratorios de Vanu en Esamir desarrollaron el rifle de asalto Equinox VE2 para crear un arma vers\u00e1til con diversos a\u00f1adidos. Su dise\u00f1o ligero facilita el movimiento al apuntar y la precisi\u00f3n al disparar desde la cadera. Solo para SV.",
+            "fr": "Les laboratoires vanus d'Esamir ont d\u00e9velopp\u00e9 le fusil d'assaut Equinox VE2 comme plateforme de combat polyvalente, dot\u00e9 d'un large \u00e9ventail d'accessoires. Sa conception l\u00e9g\u00e8re permet \u00e9galement un mouvement plus rapide tout en visant, et une meilleure pr\u00e9cision \u00e0 hauteur de hanche. SV uniquement.",
+            "it": "I laboratori Vanu di Esamir hanno sviluppato il fucile d'assalto Equinox VE2 come una versatile piattaforma di combattimento con una vasta gamma di accessori opzionali. Inoltre, il suo design leggero consente movimenti rapidi mentre si prende la mira e una migliore accuratezza quando si spara dall'anca. Esclusivo SV.",
             "tr": "\u00c7ok y\u00f6nl\u00fc Ekinoks VE2 taarruz t\u00fcfe\u011fi, bir\u00e7ok muharebe ko\u015fullar\u0131nda iyi \u00e7al\u0131\u015fmas\u0131 i\u00e7in tasarlanm\u0131\u015ft\u0131. Yaln\u0131zca Vanu H\u00fck\u00fcmdarl\u0131\u011f\u0131 kullan\u0131m\u0131 i\u00e7in."
         },
         "image_set_id": "902",
@@ -13573,11 +13573,11 @@
             "tr": "Secondary: Pistol: LA3 Desperado"
         },
         "description": {
-            "de": "Die Zwei-Schuss-LA3 Desperado kann Ziele auf kurzen Distanzen schnell ausschalten. Nur f\u00fcr NK.",
-            "en": "The 2-round burst LA3 Desperado can quickly eliminate targets at close range. NC use only.",
-            "es": "La LA3 Desperado de 2 proyectiles puede eliminar r\u00e1pidamente a los objetivos a corto alcance. Solo para NC.",
-            "fr": "Le tir en rafale de 2 projectiles du Desperado LA3 peut rapidement \u00e9liminer des cibles \u00e0 courte port\u00e9e. NC uniquement.",
-            "it": "L'LA3 Desperado a due colpi \u00e8 capace di eliminare rapidamente obiettivi a distanze ravvicinate. Esclusivo NC.",
+            "de": "Die Zwei-Schuss-LA3 Desperado kann Ziele auf kurzen Distanzen schnell ausschalten und besitzt einen halbautomatischen Modus zur besseren Kontrolle. Nur f\u00fcr NK.",
+            "en": "The 2-round burst LA3 Desperado can quickly eliminate targets at close range, and has access to semi-auto firing mode for increased control. NC use only.",
+            "es": "La LA3 Desperado de 2 proyectiles puede eliminar r\u00e1pidamente a los objetivos a corto alcance y dispone de modo semiautom\u00e1tico para un mayor control. Solo para NC.",
+            "fr": "Le tir en rafale de 2 projectiles du Desperado LA3 peut rapidement \u00e9liminer des cibles \u00e0 courte port\u00e9e, et il a acc\u00e8s \u00e0 un mode semi-automatique pour un meilleur contr\u00f4le. NC uniquement.",
+            "it": "L'LA3 Desperado a due colpi \u00e8 capace di eliminare rapidamente obiettivi a distanze ravvicinate e ha la possibilit\u00e0 di usare una modalit\u00e0 semi-automatica per un maggiore controllo. Esclusivo NC.",
             "tr": "The 2-round burst LA3 Desperado can quickly eliminate targets at close range. NC use only."
         },
         "image_set_id": "8685",
@@ -13786,11 +13786,11 @@
             "tr": "\u0130kincil: Tabanca: TS2 Inquisitor"
         },
         "description": {
-            "de": "Das TS2 Inquisitor zeichnet sich durch ein erweitertes Magazin aus, das den Feind \u00fcberdauert - selbst in den langwierigsten Feuergefechten. Nur f\u00fcr TR.",
-            "en": "The TS2 Inquisitor features an extended magazine capable of outlasting the enemy even in the most drawn out firefights. TR use only.",
-            "es": "La TS2 Inquisitor cuenta con un cargador ampliado capaz de aguantar hasta los tiroteos m\u00e1s prolongados. Solo para RT.",
-            "fr": "L'Inquisiteur TS2 dispose d'un chargeur agrandi capable de survivre \u00e0 un ennemi m\u00eame dans le plus interminable \u00e9change de coups de feu. RT uniquement.",
-            "it": "Il TS2 Inquisitor \u00e8 caratterizzato da un caricatore esteso ed \u00e8 capace di avere la meglio sul nemico persino nei combattimenti pi\u00f9 lunghi. Esclusivo RT.",
+            "de": "Das TS2 Inquisitor kann halbautomatisch und in 2-Schuss-Salven feuern und zeichnet sich durch ein erweitertes Magazin aus, das den Feind \u00fcberdauert - selbst in den langwierigsten Feuergefechten. Nur f\u00fcr TR.",
+            "en": "The TS2 Inquisitor features two-round burst or semi-auto firemodes, with an extended magazine capable of outlasting the enemy even in the most drawn out firefights. TR use only.",
+            "es": "La TS2 Inquisitor puede disparar r\u00e1fagas de dos proyectiles o en modo semiautom\u00e1tico. Adem\u00e1s, cuenta con un cargador ampliado capaz de aguantar hasta los tiroteos m\u00e1s prolongados. Solo para RT.",
+            "fr": "L'Inquisiteur TS2 dispose d'un mode de tir semi-automatique ou en rafale de 2 projectiles, avec un chargeur agrandi capable de survivre \u00e0 un ennemi m\u00eame dans le plus interminable \u00e9change de coups de feu. RT uniquement.",
+            "it": "Il TS2 Inquisitor pu\u00f2 sparare in modalit\u00e0 semi-automatica o raffica a due colpi, e grazie a un caricatore esteso pu\u00f2 avere la meglio sul nemico persino nei combattimenti pi\u00f9 lunghi. Esclusivo RT.",
             "tr": "The TS2 Inquisitor features an extended magazine capable of outlasting the enemy even in the most drawn out firefights. TR use only."
         },
         "image_set_id": "8686",
