@@ -1,17 +1,5 @@
 [
     {
-        "world_id": "17",
-        "state": "online",
-        "name": {
-            "en": "Emerald",
-            "de": "Smaragd",
-            "es": "Esmeralda",
-            "fr": "Emerald",
-            "it": "Smeraldo",
-            "tr": "Emerald"
-        }
-    },
-    {
         "world_id": "19",
         "state": "online",
         "name": {
@@ -21,6 +9,18 @@
             "fr": "Jaeger",
             "it": "Jaeger",
             "tr": "Jaeger"
+        }
+    },
+    {
+        "world_id": "17",
+        "state": "online",
+        "name": {
+            "en": "Emerald",
+            "de": "Smaragd",
+            "es": "Esmeralda",
+            "fr": "Emerald",
+            "it": "Smeraldo",
+            "tr": "Emerald"
         }
     },
     {
