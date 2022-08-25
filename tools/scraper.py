@@ -139,4 +139,7 @@ if __name__ == '__main__':
         args = parser.parse_args()
         service_id = args.service_id
     loop = asyncio.new_event_loop()
-    loop.run_until_complete(main(service_id))
+    try:
+        loop.run_until_complete(main(service_id))
+    except auraxium.errors.MaintenanceError:
+        print(f'API maintenance in progress, cancelling scrape')
