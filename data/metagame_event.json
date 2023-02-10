@@ -1567,5 +1567,662 @@
         },
         "type": "9",
         "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "211",
+        "name": {
+            "de": "Amerish-Eroberung",
+            "en": "Amerish Conquest",
+            "es": "Conquista de Amerish\n",
+            "fr": "Conqu\u00eate d'Amerish",
+            "it": "Conquista di Amerish"
+        },
+        "description": {
+            "de": "Kontrolliere das Gebiet, um Amerish zu sperren.",
+            "en": "Control territory to lock Amerish",
+            "es": "Control del territorio para bloquear Amerish",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Amerish",
+            "it": "Controlla il territorio per bloccare Amerish"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "212",
+        "name": {
+            "de": "Esamir-Eroberung",
+            "en": "Esamir Conquest",
+            "es": "Conquista de Esamir\n",
+            "fr": "Conqu\u00eate d'Esamir",
+            "it": "Conquista di Esamir"
+        },
+        "description": {
+            "de": "Kontrolliere das Territorium, um Esamir zu sperren.",
+            "en": "Control territory to lock Esamir",
+            "es": "Control del territorio para bloquear Esamir",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Esamir",
+            "it": "Controlla il territorio per bloccare Esamir"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "213",
+        "name": {
+            "de": "Hossin-Eroberung",
+            "en": "Hossin Conquest",
+            "es": "Conquista de Hossin\n",
+            "fr": "Conqu\u00eate d'Hossin",
+            "it": "Conquista di Hossin"
+        },
+        "description": {
+            "de": "Kontrolliere das Gebiet, um Hossin zu sperren.",
+            "en": "Control territory to lock Hossin",
+            "es": "Control del territorio para bloquear Hossin",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Hossin",
+            "it": "Controlla il territorio per bloccare Hossin"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "214",
+        "name": {
+            "de": "Indar-Eroberung",
+            "en": "Indar Conquest",
+            "es": "Conquista de Indar\n",
+            "fr": "Conqu\u00eate d'Indar",
+            "it": "Conquista di Indar"
+        },
+        "description": {
+            "de": "Kontrolliere das Gebiet, um Indar zu sperren.",
+            "en": "Control territory to lock Indar",
+            "es": "Control del territorio para bloquear Indar",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Indar",
+            "it": "Controlla il territorio per bloccare Indar"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "215",
+        "name": {
+            "de": "Koltyr-Eroberung",
+            "en": "Koltyr Conquest",
+            "es": "Conquista de Koltyr",
+            "fr": "Conqu\u00eate de Koltyr",
+            "it": "Conquista di Koltyr"
+        },
+        "description": {
+            "de": "Kontrolliere das Gebiet, um Koltyr zu sperren.",
+            "en": "Control territory to lock Koltyr",
+            "es": "Control del territorio para bloquear Koltyr",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Koltyr",
+            "it": "Controlla il territorio per bloccare Koltyr"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "216",
+        "name": {
+            "de": "LADUNG",
+            "en": "PAYLOAD",
+            "es": "CARGA",
+            "fr": "CHARGE UTILE",
+            "it": "CARICO UTILE"
+        },
+        "description": {
+            "de": "Eskortiere deine Ladungsdrohne zu ihrem Ziel, bevor Feinde dasselbe machen.",
+            "en": "Escort your Payload Drone to its destination before enemies do the same.",
+            "es": "Escolta el VANT de carga a su destino antes de que el enemigo haga lo propio.",
+            "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
+            "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "217",
+        "name": {
+            "de": "LADUNG",
+            "en": "PAYLOAD",
+            "es": "CARGA",
+            "fr": "CHARGE UTILE",
+            "it": "CARICO UTILE"
+        },
+        "description": {
+            "de": "Eskortiere deine Ladungsdrohne zu ihrem Ziel, bevor Feinde dasselbe machen.",
+            "en": "Escort your Payload Drone to its destination before enemies do the same.",
+            "es": "Escolta el VANT de carga a su destino antes de que el enemigo haga lo propio.",
+            "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
+            "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "218",
+        "name": {
+            "de": "LADUNG",
+            "en": "PAYLOAD",
+            "es": "CARGA",
+            "fr": "CHARGE UTILE",
+            "it": "CARICO UTILE"
+        },
+        "description": {
+            "de": "Eskortiere deine Ladungsdrohne zu ihrem Ziel, bevor Feinde dasselbe machen.",
+            "en": "Escort your Payload Drone to its destination before enemies do the same.",
+            "es": "Escolta el VANT de carga a su destino antes de que el enemigo haga lo propio.",
+            "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
+            "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "219",
+        "name": {
+            "de": "LADUNG",
+            "en": "PAYLOAD",
+            "es": "CARGA",
+            "fr": "CHARGE UTILE",
+            "it": "CARICO UTILE"
+        },
+        "description": {
+            "de": "Eskortiere deine Ladungsdrohne zu ihrem Ziel, bevor Feinde dasselbe machen.",
+            "en": "Escort your Payload Drone to its destination before enemies do the same.",
+            "es": "Escolta el VANT de carga a su destino antes de que el enemigo haga lo propio.",
+            "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
+            "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "220",
+        "name": {
+            "de": "LADUNG",
+            "en": "PAYLOAD",
+            "es": "CARGA",
+            "fr": "CHARGE UTILE",
+            "it": "CARICO UTILE"
+        },
+        "description": {
+            "de": "Eskortiere deine Ladungsdrohne zu ihrem Ziel, bevor Feinde dasselbe machen.",
+            "en": "Escort your Payload Drone to its destination before enemies do the same.",
+            "es": "Escolta el VANT de carga a su destino antes de que el enemigo haga lo propio.",
+            "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
+            "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "221",
+        "name": {
+            "de": "LADUNG",
+            "en": "PAYLOAD",
+            "es": "CARGA",
+            "fr": "CHARGE UTILE",
+            "it": "CARICO UTILE"
+        },
+        "description": {
+            "de": "Eskortiere deine Ladungsdrohne zu ihrem Ziel, bevor Feinde dasselbe machen.",
+            "en": "Escort your Payload Drone to its destination before enemies do the same.",
+            "es": "Escolta el VANT de carga a su destino antes de que el enemigo haga lo propio.",
+            "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
+            "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "222",
+        "name": {
+            "de": "Befreiung von Oshur",
+            "en": "Oshur Liberation",
+            "es": "Liberaci\u00f3n de Oshur",
+            "fr": "Lib\u00e9ration d'Oshur",
+            "it": "Liberazione di Oshur"
+        },
+        "description": {
+            "de": "Kontrolliere das Gebiet, um Oshur zu sperren.",
+            "en": "Control territory to lock Oshur",
+            "es": "Controla territorio para bloquear Oshur",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Oshur",
+            "it": "Controlla il territorio per bloccare Oshur"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "223",
+        "name": {
+            "de": "Oshur-\u00dcberlegenheit",
+            "en": "Oshur Superiority",
+            "es": "Superioridad en Oshur",
+            "fr": "Sup\u00e9riorit\u00e9 d'Oshur",
+            "it": "Superiorit\u00e0 di Oshur"
+        },
+        "description": {
+            "de": "Kontrolliere das Gebiet, um Oshur zu sperren.",
+            "en": "Control territory to lock Oshur",
+            "es": "Controla territorio para bloquear Oshur",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Oshur",
+            "it": "Controlla il territorio per bloccare Oshur"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "224",
+        "name": {
+            "de": "Oshur-Erleuchtung",
+            "en": "Oshur Enlightenment",
+            "es": "Iluminaci\u00f3n en Oshur",
+            "fr": "\u00c9veil spirituel d'Oshur",
+            "it": "Risveglio di Oshur"
+        },
+        "description": {
+            "de": "Kontrolliere das Gebiet, um Oshur zu sperren.",
+            "en": "Control territory to lock Oshur",
+            "es": "Controla territorio para bloquear Oshur",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Oshur",
+            "it": "Controlla il territorio per bloccare Oshur"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "225",
+        "name": {
+            "de": "Anomalien im Luftbereich",
+            "en": "Aerial Anomalies",
+            "es": "Anomal\u00edas a\u00e9reas",
+            "fr": "Anomalies A\u00e9riennes",
+            "it": "Anomalie aeree"
+        },
+        "description": {
+            "de": "Mache Aufzeichnungen der Anomalien im Luftbereich.",
+            "en": "Take readings of aerial anomalies",
+            "es": "Obt\u00e9n mediciones de las anomal\u00edas a\u00e9reas.",
+            "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
+            "it": "Effettua i rilevamenti delle anomalie aeree"
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "226",
+        "name": {
+            "de": "Oshur-Eroberung",
+            "en": "Oshur Conquest",
+            "es": "Conquista de Oshur",
+            "fr": "Conqu\u00eate d'Oshur",
+            "it": "Conquista di Oshur"
+        },
+        "description": {
+            "de": "Kontrolliere das Gebiet, um Oshur zu sperren.",
+            "en": "Control territory to lock Oshur",
+            "es": "Controla territorio para bloquear Oshur",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Oshur",
+            "it": "Controlla il territorio per bloccare Oshur"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "227",
+        "name": {
+            "de": "TEAM-KRIEG",
+            "en": "OUTFIT WARS",
+            "es": "GUERRA DE BRIGADAS",
+            "fr": "GUERRES D'UNIT\u00c9S",
+            "it": "GUERRA DELLE OUTFIT"
+        },
+        "description": {
+            "de": "Kontrolliere die meisten Territorien, um den Kontinent zu erobern.",
+            "en": "Control the most territory to conquer the continent",
+            "es": "Controla m\u00e1s territorio que nadie para conquistar el continente.",
+            "fr": "Contr\u00f4lez le plus de territoire pour conqu\u00e9rir le continent",
+            "it": "Controlla la maggior parte del territorio per conquistare il continente"
+        },
+        "type": "9"
+    },
+    {
+        "metagame_event_id": "228",
+        "name": {
+            "de": "Anomalien im Luftbereich",
+            "en": "Aerial Anomalies",
+            "es": "Anomal\u00edas a\u00e9reas",
+            "fr": "Anomalies A\u00e9riennes",
+            "it": "Anomalie aeree"
+        },
+        "description": {
+            "de": "Mache Aufzeichnungen der Anomalien im Luftbereich.",
+            "en": "Take readings of aerial anomalies",
+            "es": "Obt\u00e9n mediciones de las anomal\u00edas a\u00e9reas.",
+            "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
+            "it": "Effettua i rilevamenti delle anomalie aeree"
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "229",
+        "name": {
+            "de": "Anomalien im Luftbereich",
+            "en": "Aerial Anomalies",
+            "es": "Anomal\u00edas a\u00e9reas",
+            "fr": "Anomalies A\u00e9riennes",
+            "it": "Anomalie aeree"
+        },
+        "description": {
+            "de": "Mache Aufzeichnungen der Anomalien im Luftbereich.",
+            "en": "Take readings of aerial anomalies",
+            "es": "Obt\u00e9n mediciones de las anomal\u00edas a\u00e9reas.",
+            "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
+            "it": "Effettua i rilevamenti delle anomalie aeree"
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "230",
+        "name": {
+            "de": "Anomalien im Luftbereich",
+            "en": "Aerial Anomalies",
+            "es": "Anomal\u00edas a\u00e9reas",
+            "fr": "Anomalies A\u00e9riennes",
+            "it": "Anomalie aeree"
+        },
+        "description": {
+            "de": "Mache Aufzeichnungen der Anomalien im Luftbereich.",
+            "en": "Take readings of aerial anomalies",
+            "es": "Obt\u00e9n mediciones de las anomal\u00edas a\u00e9reas.",
+            "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
+            "it": "Effettua i rilevamenti delle anomalie aeree"
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "231",
+        "name": {
+            "de": "Anomalien im Luftbereich",
+            "en": "Aerial Anomalies",
+            "es": "Anomal\u00edas a\u00e9reas",
+            "fr": "Anomalies A\u00e9riennes",
+            "it": "Anomalie aeree"
+        },
+        "description": {
+            "de": "Mache Aufzeichnungen der Anomalien im Luftbereich.",
+            "en": "Take readings of aerial anomalies",
+            "es": "Obt\u00e9n mediciones de las anomal\u00edas a\u00e9reas.",
+            "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
+            "it": "Effettua i rilevamenti delle anomalie aeree"
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "232",
+        "name": {
+            "de": "Anomalien im Luftbereich",
+            "en": "Aerial Anomalies",
+            "es": "Anomal\u00edas a\u00e9reas",
+            "fr": "Anomalies A\u00e9riennes",
+            "it": "Anomalie aeree"
+        },
+        "description": {
+            "de": "Mache Aufzeichnungen der Anomalien im Luftbereich.",
+            "en": "Take readings of aerial anomalies",
+            "es": "Obt\u00e9n mediciones de las anomal\u00edas a\u00e9reas.",
+            "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
+            "it": "Effettua i rilevamenti delle anomalie aeree"
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "233",
+        "name": {
+            "de": "Maximaler Druck",
+            "en": "Maximum Pressure",
+            "es": "Presi\u00f3n m\u00e1xima",
+            "fr": "Pression Maximum",
+            "it": "Pressione massima"
+        },
+        "description": {
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
+        },
+        "type": "6"
+    },
+    {
+        "metagame_event_id": "234",
+        "name": {
+            "de": "TEAM-KRIEG (pre-match)",
+            "en": "OUTFIT WARS (pre-match)",
+            "es": "GUERRA DE BRIGADAS (precombate)",
+            "fr": "GUERRES D'UNIT\u00c9S (avant-match)",
+            "it": "GUERRA DELLE OUTFIT (pre-partita)"
+        },
+        "description": {
+            "de": "Mach dich bereit f\u00fcr den Team-Krieg!",
+            "en": "Prepare for the Outfit War!",
+            "es": "\u00a1Prep\u00e1rate para la guerra de brigadas!",
+            "fr": "Pr\u00e9parez-vous pour la Guerre d'Unit\u00e9s !",
+            "it": "Preparatevi alla guerra delle outfit!"
+        },
+        "type": "4"
+    },
+    {
+        "metagame_event_id": "235",
+        "name": {
+            "de": "TEAM-KRIEG",
+            "en": "OUTFIT WARS",
+            "es": "GUERRA DE BRIGADAS",
+            "fr": "GUERRES D'UNIT\u00c9S",
+            "it": "GUERRA DELLE OUTFIT"
+        },
+        "description": {
+            "de": "Aktive Relikte wechseln.",
+            "en": "Active Relics Changing",
+            "es": "Cambio de reliquias activas",
+            "fr": "Changement de reliques actif",
+            "it": "Cambiamento delle reliquie attive"
+        },
+        "type": "10"
+    },
+    {
+        "metagame_event_id": "236",
+        "name": {
+            "de": "Sudden Death",
+            "en": "Sudden Death",
+            "es": "Muerte s\u00fabita\n",
+            "fr": "Mort subite",
+            "it": "Morte improvvisa"
+        },
+        "description": {
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
+        },
+        "type": "6"
+    },
+    {
+        "metagame_event_id": "237",
+        "name": {
+            "de": "Sudden Death",
+            "en": "Sudden Death",
+            "es": "Muerte s\u00fabita\n",
+            "fr": "Mort subite",
+            "it": "Morte improvvisa"
+        },
+        "description": {
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
+        },
+        "type": "6"
+    },
+    {
+        "metagame_event_id": "238",
+        "name": {
+            "de": "Sudden Death",
+            "en": "Sudden Death",
+            "es": "Muerte s\u00fabita\n",
+            "fr": "Mort subite",
+            "it": "Morte improvvisa"
+        },
+        "description": {
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
+        },
+        "type": "6"
+    },
+    {
+        "metagame_event_id": "239",
+        "name": {
+            "de": "Sudden Death",
+            "en": "Sudden Death",
+            "es": "Muerte s\u00fabita\n",
+            "fr": "Mort subite",
+            "it": "Morte improvvisa"
+        },
+        "description": {
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
+        },
+        "type": "6"
+    },
+    {
+        "metagame_event_id": "240",
+        "name": {
+            "de": "Sudden Death",
+            "en": "Sudden Death",
+            "es": "Muerte s\u00fabita\n",
+            "fr": "Mort subite",
+            "it": "Morte improvvisa"
+        },
+        "description": {
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
+        },
+        "type": "6"
+    },
+    {
+        "metagame_event_id": "241",
+        "name": {
+            "de": "Sudden Death",
+            "en": "Sudden Death",
+            "es": "Muerte s\u00fabita\n",
+            "fr": "Mort subite",
+            "it": "Morte improvvisa"
+        },
+        "description": {
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
+        },
+        "type": "6"
+    },
+    {
+        "metagame_event_id": "242",
+        "name": {
+            "de": "Vergessener Flottentr\u00e4ger",
+            "en": "Forgotten Fleet Carrier",
+            "es": "Transporte de flota olvidado",
+            "fr": "Porte-vaisseaux oubli\u00e9",
+            "it": "Portaerei dimenticato"
+        },
+        "description": {
+            "de": "Flugzeuge sind w\u00e4hrend dieses Events kostenlos.",
+            "en": "Aircraft are free during this event.",
+            "es": "Las aeronaves son gratis durante este evento.",
+            "fr": "Les a\u00e9ronefs sont gratuits pendant cet \u00e9v\u00e9nement.",
+            "it": "I velivoli sono gratuiti durante quest'evento."
+        },
+        "type": "4"
+    },
+    {
+        "metagame_event_id": "243",
+        "name": {
+            "de": "Vergessener Flottentr\u00e4ger",
+            "en": "Forgotten Fleet Carrier",
+            "es": "Transporte de flota olvidado",
+            "fr": "Porte-vaisseaux oubli\u00e9",
+            "it": "Portaerei dimenticato"
+        },
+        "description": {
+            "de": "Flugzeuge sind w\u00e4hrend dieses Events kostenlos.",
+            "en": "Aircraft are free during this event.",
+            "es": "Las aeronaves son gratis durante este evento.",
+            "fr": "Les a\u00e9ronefs sont gratuits pendant cet \u00e9v\u00e9nement.",
+            "it": "I velivoli sono gratuiti durante quest'evento."
+        },
+        "type": "4"
+    },
+    {
+        "metagame_event_id": "244",
+        "name": {
+            "de": "Vergessener Flottentr\u00e4ger",
+            "en": "Forgotten Fleet Carrier",
+            "es": "Transporte de flota olvidado",
+            "fr": "Porte-vaisseaux oubli\u00e9",
+            "it": "Portaerei dimenticato"
+        },
+        "description": {
+            "de": "Flugzeuge sind w\u00e4hrend dieses Events kostenlos.",
+            "en": "Aircraft are free during this event.",
+            "es": "Las aeronaves son gratis durante este evento.",
+            "fr": "Les a\u00e9ronefs sont gratuits pendant cet \u00e9v\u00e9nement.",
+            "it": "I velivoli sono gratuiti durante quest'evento."
+        },
+        "type": "4"
+    },
+    {
+        "metagame_event_id": "245",
+        "name": {
+            "de": "Vergessener Flottentr\u00e4ger",
+            "en": "Forgotten Fleet Carrier",
+            "es": "Transporte de flota olvidado",
+            "fr": "Porte-vaisseaux oubli\u00e9",
+            "it": "Portaerei dimenticato"
+        },
+        "description": {
+            "de": "Flugzeuge sind w\u00e4hrend dieses Events kostenlos.",
+            "en": "Aircraft are free during this event.",
+            "es": "Las aeronaves son gratis durante este evento.",
+            "fr": "Les a\u00e9ronefs sont gratuits pendant cet \u00e9v\u00e9nement.",
+            "it": "I velivoli sono gratuiti durante quest'evento."
+        },
+        "type": "4"
+    },
+    {
+        "metagame_event_id": "246",
+        "name": {
+            "de": "Vergessener Flottentr\u00e4ger",
+            "en": "Forgotten Fleet Carrier",
+            "es": "Transporte de flota olvidado",
+            "fr": "Porte-vaisseaux oubli\u00e9",
+            "it": "Portaerei dimenticato"
+        },
+        "description": {
+            "de": "Flugzeuge sind w\u00e4hrend dieses Events kostenlos.",
+            "en": "Aircraft are free during this event.",
+            "es": "Las aeronaves son gratis durante este evento.",
+            "fr": "Les a\u00e9ronefs sont gratuits pendant cet \u00e9v\u00e9nement.",
+            "it": "I velivoli sono gratuiti durante quest'evento."
+        },
+        "type": "4"
     }
 ]

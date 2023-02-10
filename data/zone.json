@@ -145,5 +145,24 @@
             "it": "Sperimenta con tutte le armi, veicoli e accessori usando il simulatore nell'addestramento virtuale del tuo impero.",
             "tr": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator."
         }
+    },
+    {
+        "zone_id": "344",
+        "code": "Oshur",
+        "hex_size": "100",
+        "name": {
+            "de": "Oshur",
+            "en": "Oshur",
+            "es": "Oshur",
+            "fr": "Oshur",
+            "it": "Oshur"
+        },
+        "description": {
+            "de": "Oshurs Strand-Archipel und das glitzernde blaue Wasser bieten die M\u00f6glichkeit f\u00fcr Eins\u00e4tze zu Land, Luft und Wasser.",
+            "en": "Oshur's sandy archipelago and sparkling blue waters provide opportunities for engagement by land, sea, and air.",
+            "es": "El arenoso archipi\u00e9lago de Oshur y sus resplandecientes aguas azules son el entorno ideal para luchar por tierra, mar y aire.",
+            "fr": "L'archipel sablonneux d'Oshur et ses eaux bleues cristallines offrent des possibilit\u00e9s de combats terrestres, maritimes et a\u00e9riens.",
+            "it": "L'arcipelago sabbioso e le vivaci acque blu di Oshur forniscono ottime opportunit\u00e0 d'ingaggio via mare, terra e aria."
+        }
     }
 ]

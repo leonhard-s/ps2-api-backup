@@ -882,5 +882,95 @@
             "fr": "Arme arri\u00e8re gauche du Colossus",
             "it": "Arma posteriore sinistra del Colossus"
         }
+    },
+    {
+        "item_category_id": "216",
+        "name": {
+            "de": "Javelin-Prim\u00e4rwaffe",
+            "en": "Javelin Primary Weapon",
+            "es": "Arma primaria de Javelin",
+            "fr": "Arme principale de Javelot",
+            "it": "Arma primaria Javelin"
+        }
+    },
+    {
+        "item_category_id": "217",
+        "name": {
+            "de": "Chimera Prim\u00e4rwaffen",
+            "en": "Chimera Primary Weapons",
+            "es": "Armas primarias de Chimera",
+            "fr": "Armes primaires de Chim\u00e8re",
+            "it": "Armi primarie Chimera"
+        }
+    },
+    {
+        "item_category_id": "218",
+        "name": {
+            "de": "Chimera Sekund\u00e4rwaffen",
+            "en": "Chimera Secondary Weapons",
+            "es": "Armas secundarias de Chimera",
+            "fr": "Armes secondaires de Chim\u00e8re",
+            "it": "Armi secondarie Chimera"
+        }
+    },
+    {
+        "item_category_id": "219",
+        "name": {
+            "de": "Schwere Armbrust",
+            "en": "Heavy Crossbow",
+            "es": "Ballesta pesada\n",
+            "fr": "Arbal\u00e8te lourde",
+            "it": "Balestra pesante"
+        }
+    },
+    {
+        "item_category_id": "220",
+        "name": {
+            "de": "Amphibien-Gewehr",
+            "en": "Amphibious Rifle",
+            "es": "Rifle anfibio",
+            "fr": "Fusil amphibie",
+            "it": "Fucile anfibio"
+        }
+    },
+    {
+        "item_category_id": "221",
+        "name": {
+            "de": "Corsair-Bugturm",
+            "en": "Corsair Front Turret",
+            "es": "Torreta frontal de Corsair",
+            "fr": "Tourelle avant du Corsaire",
+            "it": "Torretta anteriore Corsair"
+        }
+    },
+    {
+        "item_category_id": "222",
+        "name": {
+            "de": "Corsair-Heckturm",
+            "en": "Corsair Rear Turret",
+            "es": "Torreta trasera de Corsair",
+            "fr": "Tourelle arri\u00e8re du Corsaire",
+            "it": "Torretta posteriore Corsair"
+        }
+    },
+    {
+        "item_category_id": "223",
+        "name": {
+            "de": "Amphibien-Seitenwaffe",
+            "en": "Amphibious Sidearm",
+            "es": "Arma de mano anfibia",
+            "fr": "Arme de poing amphibie",
+            "it": "Arma secondaria anfibia"
+        }
+    },
+    {
+        "item_category_id": "224",
+        "name": {
+            "de": "Anti-Wehrmaterial-Gewehr",
+            "en": "Anti-Materiel Rifle",
+            "es": "Rifle antimaterial\n",
+            "fr": "Fusil antimat\u00e9riel",
+            "it": "Fucile anti-materiale"
+        }
     }
 ]

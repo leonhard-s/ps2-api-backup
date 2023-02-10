@@ -400,6 +400,22 @@
         "faction_id": "3"
     },
     {
+        "vehicle_id": "2010",
+        "faction_id": "1"
+    },
+    {
+        "vehicle_id": "2010",
+        "faction_id": "2"
+    },
+    {
+        "vehicle_id": "2010",
+        "faction_id": "3"
+    },
+    {
+        "vehicle_id": "2010",
+        "faction_id": "4"
+    },
+    {
         "vehicle_id": "2019",
         "faction_id": "1"
     },
@@ -433,18 +449,6 @@
     },
     {
         "vehicle_id": "2033",
-        "faction_id": "1"
-    },
-    {
-        "vehicle_id": "2033",
-        "faction_id": "2"
-    },
-    {
-        "vehicle_id": "2033",
-        "faction_id": "3"
-    },
-    {
-        "vehicle_id": "2033",
         "faction_id": "4"
     },
     {
@@ -458,6 +462,10 @@
     {
         "vehicle_id": "2039",
         "faction_id": "3"
+    },
+    {
+        "vehicle_id": "2039",
+        "faction_id": "4"
     },
     {
         "vehicle_id": "2040",
@@ -500,6 +508,22 @@
         "faction_id": "4"
     },
     {
+        "vehicle_id": "2125",
+        "faction_id": "1"
+    },
+    {
+        "vehicle_id": "2125",
+        "faction_id": "2"
+    },
+    {
+        "vehicle_id": "2125",
+        "faction_id": "3"
+    },
+    {
+        "vehicle_id": "2125",
+        "faction_id": "4"
+    },
+    {
         "vehicle_id": "2128",
         "faction_id": "1"
     },
@@ -564,22 +588,6 @@
         "faction_id": "4"
     },
     {
-        "vehicle_id": "2133",
-        "faction_id": "1"
-    },
-    {
-        "vehicle_id": "2133",
-        "faction_id": "2"
-    },
-    {
-        "vehicle_id": "2133",
-        "faction_id": "3"
-    },
-    {
-        "vehicle_id": "2133",
-        "faction_id": "4"
-    },
-    {
         "vehicle_id": "2134",
         "faction_id": "1"
     },
@@ -609,6 +617,78 @@
     },
     {
         "vehicle_id": "2135",
+        "faction_id": "4"
+    },
+    {
+        "vehicle_id": "2136",
+        "faction_id": "4"
+    },
+    {
+        "vehicle_id": "2137",
+        "faction_id": "4"
+    },
+    {
+        "vehicle_id": "2139",
+        "faction_id": "1"
+    },
+    {
+        "vehicle_id": "2139",
+        "faction_id": "2"
+    },
+    {
+        "vehicle_id": "2139",
+        "faction_id": "3"
+    },
+    {
+        "vehicle_id": "2139",
+        "faction_id": "4"
+    },
+    {
+        "vehicle_id": "2140",
+        "faction_id": "1"
+    },
+    {
+        "vehicle_id": "2140",
+        "faction_id": "2"
+    },
+    {
+        "vehicle_id": "2140",
+        "faction_id": "3"
+    },
+    {
+        "vehicle_id": "2140",
+        "faction_id": "4"
+    },
+    {
+        "vehicle_id": "2141",
+        "faction_id": "1"
+    },
+    {
+        "vehicle_id": "2141",
+        "faction_id": "2"
+    },
+    {
+        "vehicle_id": "2141",
+        "faction_id": "3"
+    },
+    {
+        "vehicle_id": "2141",
+        "faction_id": "4"
+    },
+    {
+        "vehicle_id": "2142",
+        "faction_id": "1"
+    },
+    {
+        "vehicle_id": "2142",
+        "faction_id": "2"
+    },
+    {
+        "vehicle_id": "2142",
+        "faction_id": "3"
+    },
+    {
+        "vehicle_id": "2142",
         "faction_id": "4"
     }
 ]

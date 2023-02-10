@@ -995,11 +995,375 @@
             "it": "San Valentino 2021"
         },
         "description": {
-            "de": "9. Feb. - 14. Feb.",
-            "en": "Feb. 9 - Feb. 14",
-            "es": "9 de feb. - 14 de feb.",
-            "fr": "9 f\u00e9v. - 14 f\u00e9v.",
-            "it": "9-14 febbraio"
+            "de": "8. Feb. - 14. Feb.",
+            "en": "Feb. 8 - Feb. 14",
+            "es": "8 de feb. - 14 de feb.",
+            "fr": "8 f\u00e9v. - 14 f\u00e9v.",
+            "it": "8-14 febbraio"
+        }
+    },
+    {
+        "directive_tree_id": "95",
+        "directive_tree_category_id": "4",
+        "name": {
+            "de": "Javelin",
+            "en": "Javelin",
+            "es": "Javelin",
+            "fr": "Javelot",
+            "it": "Javelin"
+        },
+        "image_set_id": "806819",
+        "image_id": "93911",
+        "image_path": "/files/ps2/images/static/93911.png"
+    },
+    {
+        "directive_tree_id": "96",
+        "directive_tree_category_id": "4",
+        "name": {
+            "de": "Dervish",
+            "en": "Dervish",
+            "es": "Dervish",
+            "fr": "Derviche",
+            "it": "Derviscio"
+        },
+        "image_set_id": "806714",
+        "image_id": "93608",
+        "image_path": "/files/ps2/images/static/93608.png"
+    },
+    {
+        "directive_tree_id": "97",
+        "directive_tree_category_id": "4",
+        "name": {
+            "de": "Chimera",
+            "en": "Chimera",
+            "es": "Chimera",
+            "fr": "Chim\u00e8re",
+            "it": "Chimera"
+        },
+        "image_set_id": "806713",
+        "image_id": "93609",
+        "image_path": "/files/ps2/images/static/93609.png"
+    },
+    {
+        "directive_tree_id": "98",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Sommerspa\u00df 2021",
+            "en": "Summer Fun 2021",
+            "es": "Diversi\u00f3n veraniega 2021",
+            "fr": "Fun estival 2021",
+            "it": "Summer Fun 2021"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 25. August",
+            "en": "Available through August 25",
+            "es": "Disponible hasta el 25 de agosto",
+            "fr": "Disponible jusqu'au 25 ao\u00fbt",
+            "it": "Disponibile fino al 25 agosto"
+        }
+    },
+    {
+        "directive_tree_id": "100",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Halloween VIII",
+            "en": "Halloween VIII",
+            "es": "Halloween VIII",
+            "fr": "Halloween VIII",
+            "it": "Halloween VIII"
+        },
+        "image_set_id": "82818",
+        "image_id": "80676",
+        "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+        "directive_tree_id": "101",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Auraximas 2021",
+            "en": "Auraximas 2021",
+            "es": "Auraxidad 2021",
+            "fr": "Auraximas 2021",
+            "it": "Auraximas 2021"
+        },
+        "description": {
+            "de": "1. Dez. - 9. Jan.",
+            "en": "Dec. 1 - Jan. 9",
+            "es": "1/12 - 9/1",
+            "fr": "1er d\u00e9c. - 9 jan.",
+            "it": "1 dic - 9 gen."
+        }
+    },
+    {
+        "directive_tree_id": "102",
+        "directive_tree_category_id": "11",
+        "name": {
+            "de": "Au\u00dfergew\u00f6hnlich V",
+            "en": "Exceptional V",
+            "es": "V excepcional",
+            "fr": "Exceptionnel V",
+            "it": "Eccezionale V"
+        },
+        "description": {
+            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
+            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
+            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
+            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
+            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
+        },
+        "image_set_id": "14396",
+        "image_id": "79737",
+        "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+        "directive_tree_id": "103",
+        "directive_tree_category_id": "17",
+        "name": {
+            "de": "Oshur-Hundemarken",
+            "en": "Oshur Dog Tags",
+            "es": "Placas identificativas de Oshur",
+            "fr": "Plaques d'identit\u00e9 d'Oshur",
+            "it": "Piastrine militari di Oshur"
+        },
+        "image_set_id": "14448",
+        "image_id": "78104",
+        "image_path": "/files/ps2/images/static/78104.png"
+    },
+    {
+        "directive_tree_id": "104",
+        "directive_tree_category_id": "5",
+        "name": {
+            "de": "Eroberung - Oshur",
+            "en": "Conquest - Oshur",
+            "es": "Conquista: Oshur",
+            "fr": "Conqu\u00eate - Oshur",
+            "it": "Conquista - Oshur"
+        },
+        "image_set_id": "14163",
+        "image_id": "79586",
+        "image_path": "/files/ps2/images/static/79586.png"
+    },
+    {
+        "directive_tree_id": "105",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Valentinstag 2022",
+            "en": "Valentine's Day 2022",
+            "es": "San Valent\u00edn 2022",
+            "fr": "Saint-Valentin 2022",
+            "it": "San Valentino 2022"
+        },
+        "description": {
+            "de": "8. Feb. - 14. Feb.",
+            "en": "Feb. 8 - Feb. 14",
+            "es": "8 de feb. - 14 de feb.",
+            "fr": "8 f\u00e9v. - 14 f\u00e9v.",
+            "it": "8-14 febbraio"
+        }
+    },
+    {
+        "directive_tree_id": "106",
+        "directive_tree_category_id": "11",
+        "name": {
+            "de": "Schwarzmarkt",
+            "en": "Black Market",
+            "es": "Mercado negro",
+            "fr": "March\u00e9 noir",
+            "it": "Mercato nero"
+        },
+        "image_set_id": "802639",
+        "image_id": "84293",
+        "image_path": "/files/ps2/images/static/84293.png"
+    },
+    {
+        "directive_tree_id": "107",
+        "directive_tree_category_id": "17",
+        "name": {
+            "en": "Gone Fishing"
+        },
+        "description": {
+            "en": "Reel in some big fish from the waters of Auraxis."
+        },
+        "image_set_id": "802639",
+        "image_id": "84293",
+        "image_path": "/files/ps2/images/static/84293.png"
+    },
+    {
+        "directive_tree_id": "109",
+        "directive_tree_category_id": "11",
+        "name": {
+            "de": "Au\u00dfergew\u00f6hnlich VI",
+            "en": "Exceptional VI",
+            "es": "VI excepcional",
+            "fr": "Exceptionnel VI",
+            "it": "Eccezionale VI"
+        },
+        "description": {
+            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
+            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
+            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
+            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
+            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
+        },
+        "image_set_id": "14396",
+        "image_id": "79737",
+        "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+        "directive_tree_id": "110",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Sommerspa\u00df 2022 - Br\u00fcckenkopf",
+            "en": "Summer Fun 2022 - Beach Head",
+            "es": "Diversi\u00f3n de verano 2022: Conquista playera",
+            "fr": "Fun estival 2022 - T\u00eate de pont",
+            "it": "Tempo d'estate 2022 - Beach Head"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 29. Juni",
+            "en": "Available through June 29",
+            "es": "Disponible hasta el 29 de junio",
+            "fr": "Disponible jusqu'au 29 juin",
+            "it": "Disponibile fino al 29 giugno"
+        }
+    },
+    {
+        "directive_tree_id": "111",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Sommerspa\u00df 2022 - Wellenbrecher",
+            "en": "Summer Fun 2022 - Wave Breaker",
+            "es": "Diversi\u00f3n de verano 2022: Rompeolas",
+            "fr": "Fun estival 2022 - Brise-lames",
+            "it": "Tempo d'estate 2022 - Spartiacque"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 27. Juli",
+            "en": "Available through July 27",
+            "es": "Disponible hasta el 27 de julio.",
+            "fr": "Disponible jusqu'au 27 juillet",
+            "it": "Disponibile fino al 27 luglio"
+        }
+    },
+    {
+        "directive_tree_id": "112",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Sommerspa\u00df 2022 - Trotzige D\u00fcnung",
+            "en": "Summer Fun 2022 - Sullen Swells",
+            "es": "Diversi\u00f3n de verano 2022: Inundaci\u00f3n impresionante",
+            "fr": "Fun estival 2022 - Houle sinistre",
+            "it": "Tempo d'estate 2022 - Sullen Swells"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 17. August",
+            "en": "Available through August 17",
+            "es": "Disponible hasta el 17 de agosto",
+            "fr": "Disponible jusqu'au 17 ao\u00fbt",
+            "it": "Disponibile fino al 17 agosto"
+        }
+    },
+    {
+        "directive_tree_id": "113",
+        "directive_tree_category_id": "4",
+        "name": {
+            "de": "Corsair",
+            "en": "Corsair",
+            "es": "Corsair",
+            "fr": "Corsaire",
+            "it": "Corsair"
+        },
+        "image_set_id": "807221",
+        "image_id": "95008",
+        "image_path": "/files/ps2/images/static/95008.png"
+    },
+    {
+        "directive_tree_id": "114",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "T\u00e4uschung",
+            "en": "Subterfuge",
+            "es": "Subterfugio",
+            "fr": "Subterfuge",
+            "it": "Sotterfugio"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 4. Dezember",
+            "en": "Available through December 4",
+            "es": "Disponible hasta el 4 de diciembre",
+            "fr": "Disponible jusqu'au 4 d\u00e9cembre",
+            "it": "Disponibile fino al 4 dicembre"
+        }
+    },
+    {
+        "directive_tree_id": "115",
+        "directive_tree_category_id": "11",
+        "name": {
+            "de": "Au\u00dfergew\u00f6hnlich VII",
+            "en": "Exceptional VII",
+            "es": "Excepcional VII",
+            "fr": "Exceptionnel VII",
+            "it": "Eccezionale VII"
+        },
+        "description": {
+            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
+            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
+            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
+            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
+            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
+        },
+        "image_set_id": "14396",
+        "image_id": "79737",
+        "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+        "directive_tree_id": "116",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Halloween 2022",
+            "en": "Halloween 2022",
+            "es": "Halloween 2022",
+            "fr": "Halloween 2022",
+            "it": "Halloween 2022"
+        },
+        "image_set_id": "82818",
+        "image_id": "80676",
+        "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+        "directive_tree_id": "117",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Auraximas 2022",
+            "en": "Auraximas 2022",
+            "es": "Auraxidad 2022",
+            "fr": "Auraximas 2022",
+            "it": "Auraximas 2022"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 1. Januar",
+            "en": "Available through January 1",
+            "es": "Disponible hasta el 1 de enero",
+            "fr": "Disponible jusqu'au 1 janvier",
+            "it": "Disponibile fino al 1\u00b0 gennaio"
+        }
+    },
+    {
+        "directive_tree_id": "118",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Valentinstag 2023",
+            "en": "Valentine's Day 2023",
+            "es": "San Valent\u00edn 2023",
+            "fr": "Saint-Valentin 2023",
+            "it": "San Valentino 2023"
+        },
+        "description": {
+            "de": "8. Feb. - 14. Feb.",
+            "en": "Feb. 8 - Feb. 14",
+            "es": "8 de feb. - 14 de feb.",
+            "fr": "8 f\u00e9v. - 14 f\u00e9v.",
+            "it": "8-14 febbraio"
         }
     }
 ]

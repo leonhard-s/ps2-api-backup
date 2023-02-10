@@ -372,15 +372,19 @@
             "it": "ANT"
         },
         "description": {
-            "en": "ANT Prototype Description"
+            "de": "Der FNT ist ein Baufahrzeug, das Kortium aus Knoten an der Planetenoberfl\u00e4che aufnehmen und die gespeicherte Energie in Feldausr\u00fcstung umwandeln kann.",
+            "en": "The ANT is a construction vehicle capable of siphoning Cortium from nodes found on the planet's surface, and can convert the stored energy into field equipment.",
+            "es": "El ANT es un veh\u00edculo de construcci\u00f3n capaz de extraer cortium de los nodos de la superficie del planeta y convertir la energ\u00eda almacenada en equipo de campo.",
+            "fr": "Le TNA est un v\u00e9hicule de construction capable de siphonner le Cortium depuis les noeuds trouv\u00e9s \u00e0 la surface de la plan\u00e8te, et peut convertir l'\u00e9nergie stock\u00e9e en \u00e9quipement de terrain.",
+            "it": "L'ANT \u00e8 un veicolo da costruzione in grado di estrarre il Cortium dai nodi trovati sulla superficie del pianeta e di convertire l'energia immagazzinata in equipaggiamento operativo."
         },
         "type_id": "5",
         "type_name": "Four Wheeled Ground Vehicle",
         "cost": "0",
         "cost_resource_id": "4",
         "image_set_id": "802789",
-        "image_id": "84726",
-        "image_path": "/files/ps2/images/static/84726.png"
+        "image_id": "95284",
+        "image_path": "/files/ps2/images/static/95284.png"
     },
     {
         "vehicle_id": "100",
@@ -921,8 +925,8 @@
         "cost": "0",
         "cost_resource_id": "4",
         "image_set_id": "802789",
-        "image_id": "84726",
-        "image_path": "/files/ps2/images/static/84726.png"
+        "image_id": "95284",
+        "image_path": "/files/ps2/images/static/95284.png"
     },
     {
         "vehicle_id": "2040",
@@ -942,7 +946,7 @@
         },
         "type_id": "1",
         "type_name": "Light Aircraft",
-        "cost": "250",
+        "cost": "0",
         "cost_resource_id": "4",
         "image_set_id": "14268",
         "image_id": "79698",
@@ -1262,8 +1266,154 @@
         "type_name": "Light Aircraft",
         "cost": "0",
         "cost_resource_id": "4",
-        "image_set_id": "93",
-        "image_id": "3981",
-        "image_path": "/files/ps2/images/static/3981.png"
+        "image_set_id": "806712",
+        "image_id": "93595",
+        "image_path": "/files/ps2/images/static/93595.png"
+    },
+    {
+        "vehicle_id": "2137",
+        "name": {
+            "de": "Chimera",
+            "en": "Chimera",
+            "es": "Chimera",
+            "fr": "Chim\u00e8re",
+            "it": "Chimera"
+        },
+        "description": {
+            "de": "Der Chimera besitzt anstelle von Ketten R\u00e4der, was die Wendigkeit in schwerem Gel\u00e4nde erh\u00f6ht. Auf Notsitzen k\u00f6nnen bis zu vier Passagiere bef\u00f6rdert werden, die die Kampfkraft der vom Fahrer kontrollierten Hauptkanone und des vorw\u00e4rts gerichteten Sekund\u00e4rturms erg\u00e4nzen.",
+            "en": "The Chimera sports wheels instead of treads, which increases maneuverability through rough terrain. Up to four additional rumble seat passengers may be carried, complementing the driver-operated main cannon, and forward-facing secondary turret.",
+            "es": "El Chimera tiene ruedas en vez de orugas, lo que aumenta su maniobrabilidad en terreno dif\u00edcil. Permite llevar hasta cuatro pasajeros en asientos externos para complementar el ca\u00f1\u00f3n principal que maneja el conductor y la torreta secundaria frontal.",
+            "fr": "La Chim\u00e8re dispose de roues au lieu de chenilles, de fa\u00e7on \u00e0 am\u00e9liorer sa manoeuvrabilit\u00e9 sur tous types de terrain. Elle peut transporter jusqu'\u00e0 quatre passagers suppl\u00e9mentaires, et elle est \u00e9quip\u00e9e d'un canon principal command\u00e9 par le conducteur et d'une tourelle secondaire \u00e0 l'avant.",
+            "it": "Il Chimera usa ruote al posto dei battistrada, che aumentano la manovrabilit\u00e0 su terreni accidentati. Possono essere trasportati fino a quattro passeggeri aggiuntivi nel sedile ribaltabile, che completano il cannone principale azionato dal conducente e la torretta secondaria rivolta in avanti."
+        },
+        "type_id": "5",
+        "type_name": "Four Wheeled Ground Vehicle",
+        "cost": "0",
+        "cost_resource_id": "4",
+        "image_set_id": "806711",
+        "image_id": "93592",
+        "image_path": "/files/ps2/images/static/93592.png"
+    },
+    {
+        "vehicle_id": "2139",
+        "name": {
+            "de": "Deliverer-Prototyp",
+            "en": "Deliverer Prototype",
+            "es": "Prototipo de Deliverer",
+            "fr": "Prototype de Livreur",
+            "it": "Prototipo Deliverer"
+        },
+        "description": {
+            "de": "Ein Sunderer ist ein gro\u00dfer Transporter mit Platz f\u00fcr bis zu 12 Personen. Er kann auch mit einigen anderen Unterst\u00fctzungsfunktionen wie beispielsweise einer transportablen Respawnstation, Fahrzeugreparatur oder Munitionsversorgung der Fahrzeuge ausgestattet werden.",
+            "en": "The Sunderer is a large transport capable of holding 12 soldiers.  It can also be outfitted with several support functions such as a mobile respawn station, vehicle repair or vehicle ammo resupply.",
+            "es": "El Sunderer es un transporte de gran capacidad que puede llevar hasta 12 soldados. Tambi\u00e9n se le pueden otorgar funciones de apoyo como estaci\u00f3n m\u00f3vil de apariciones, punto de reparaci\u00f3n de veh\u00edculos o punto de suministro de veh\u00edculos. ",
+            "fr": "Le Disperseur est un gros v\u00e9hicule capable de transporter 12 soldats. Il peut aussi \u00eatre \u00e9quip\u00e9 de plusieurs fonctions de soutien telles qu'une station de r\u00e9animation mobile, un v\u00e9hicule de r\u00e9paration ou un v\u00e9hicule de r\u00e9approvisionnement en munitions.",
+            "it": "Il Sunderer \u00e8 un grosso trasporto truppe capace di portare fino a 12 soldati. Pu\u00f2 anche venire equipaggiato per avere funzioni di supporto come stazione mobile di rigenerazione, di riparazione veicoli o di fornitura di munizioni per veicoli.",
+            "tr": "Yar\u0131c\u0131, 12 asker ta\u015f\u0131yabilme \u00f6zelli\u011fine sahip b\u00fcy\u00fck bir asker nakil arac\u0131d\u0131r. Ayn\u0131 zamanda gezici bir ekipman terminali, ara\u00e7 tamiri ya da ara\u00e7 m\u00fchimmat ikmali gibi farkl\u0131 i\u015flevlere de sahiptir."
+        },
+        "type_id": "5",
+        "type_name": "Four Wheeled Ground Vehicle",
+        "cost": "0",
+        "cost_resource_id": "4",
+        "image_set_id": "100",
+        "image_id": "4002",
+        "image_path": "/files/ps2/images/static/4002.png"
+    },
+    {
+        "vehicle_id": "2140",
+        "name": {
+            "de": "Lodestar-Prototyp",
+            "en": "Lodestar Prototype",
+            "es": "Prototipo de Lodestar",
+            "fr": "Prototype d'\u00c9toile polaire",
+            "it": "Prototipo Lodestar"
+        },
+        "description": {
+            "de": "Diese Prototyp-Galaxy-Konfiguration kann als verbesserte Mobilstation eingesetzt werden.",
+            "en": "This prototype Galaxy configuration can deploy as an advanced mobile station.",
+            "es": "Esta configuraci\u00f3n de prototipo de Galaxy puede desplegarse como Estaci\u00f3n M\u00f3vil Avanzada.",
+            "fr": "Ce prototype de Galaxie est configur\u00e9 pour d\u00e9ployer une station mobile avanc\u00e9e.",
+            "it": "Questa configurazione prototipo del Galaxy si pu\u00f2 schierare come Stazione Mobile Avanzata."
+        },
+        "type_id": "1",
+        "type_name": "Light Aircraft",
+        "cost": "0",
+        "cost_resource_id": "4",
+        "image_set_id": "92",
+        "image_id": "3978",
+        "image_path": "/files/ps2/images/static/3978.png"
+    },
+    {
+        "vehicle_id": "2141",
+        "name": {
+            "de": "Wasp-Prototyp",
+            "en": "Wasp Prototype",
+            "es": "Prototipo de Wasp",
+            "fr": "Prototype de Gu\u00eape",
+            "it": "Prototipo Wasp"
+        },
+        "description": {
+            "de": "Die Valkyrie ist ein 6-Personen-Flugzeug, das f\u00fcr die nahe Luftunterst\u00fctzung und den Transport geeignet sind. Es wird von einem Piloten und einem Frontsch\u00fctzen geflogen und hat vier Pl\u00e4tze f\u00fcr Passagiere, die ihre private Ausr\u00fcstung w\u00e4hrend des Fluges benutzen k\u00f6nnen.",
+            "en": "The Valkyrie is a six person aircraft used for close air support and transportation. It is crewed by a pilot and a forward gunner with room for four passengers that are able to use their personal equipment while in flight.",
+            "es": "El Valkyrie es una aeronave para seis personas que se utiliza como apoyo a\u00e9reo de corto alcance y como medio de transporte. Su tripulaci\u00f3n consta de un piloto y un artillero frontal, con espacio para cuatro pasajeros que pueden usar su propio armamento durante el vuelo.",
+            "fr": "Le Valkyrie est un a\u00e9ronef transportant 6 personnes, il est utilis\u00e9 en tant que support a\u00e9rien rapproch\u00e9 ainsi que pour le transport. Son \u00e9quipage est compos\u00e9 d'un pilote, d'un canonnier avant et il contient de la place pour quatre passagers pouvant utiliser leur \u00e9quipement en vol.",
+            "it": "Il Valkyrie \u00e8 un aereo a sei posti usato per il supporto e il trasporto sulle corte distanze. \u00c8 equipaggiato con un pilota e un artigliere frontale e ha posto per quattro passeggeri che possono usare la loro attrezzatura mentre sono in volo.",
+            "tr": "Valkyrie Vehicle Description"
+        },
+        "type_id": "1",
+        "type_name": "Light Aircraft",
+        "cost": "0",
+        "cost_resource_id": "4",
+        "image_set_id": "14268",
+        "image_id": "79698",
+        "image_path": "/files/ps2/images/static/79698.png"
+    },
+    {
+        "vehicle_id": "2142",
+        "name": {
+            "de": "Corsair",
+            "en": "Corsair",
+            "es": "Corsair",
+            "fr": "Corsaire",
+            "it": "Corsair"
+        },
+        "description": {
+            "de": "Das Corsair-Patrouillenboot hat zwei Gesch\u00fctzt\u00fcrme und kann insgesamt 8 Soldaten transportieren: Die anderen 5 Sitze sind f\u00fcr Passagiere, die mit einem Katapultsystem schnell zum Einsatz gebracht werden k\u00f6nnen.",
+            "en": "The Corsair assault craft has two gunner turrets, and can transport a total of 8 soldiers. The last 5 seats in the vehicle are fitted with a catapult system that launches personnel safely into battle.",
+            "es": "La nave de asalto Corsair tiene dos torretas de artillero y capacidad para 8 soldados. Los \u00faltimos 5 soldados en subir a bordo disponen de un sistema de catapulta para lanzarse al combate de forma segura.",
+            "fr": "L'embarcation d'assaut Corsaire poss\u00e8de deux tourelles, et peut transporter un total de huit soldats. Les cinq si\u00e8ges au fond du v\u00e9hicule sont \u00e9quip\u00e9s d'un syst\u00e8me de catapultage, capable de propulser les soldats au combat.",
+            "it": "La nave d'assalto Corsair ha due torrette di artiglieria e pu\u00f2 trasportare un totale di otto soldati. Gli ultimi 5 posti nel veicolo sono dotati di un sistema a catapulta in grado di scagliare ogni soldato in battaglia."
+        },
+        "type_id": "5",
+        "type_name": "Four Wheeled Ground Vehicle",
+        "cost": "0",
+        "cost_resource_id": "4",
+        "image_set_id": "807216",
+        "image_id": "94995",
+        "image_path": "/files/ps2/images/static/94995.png"
+    },
+    {
+        "vehicle_id": "2144",
+        "name": {
+            "de": "Verlassener Flottentr\u00e4ger",
+            "en": "Derelict Fleet Carrier",
+            "es": "Transporte de flota abandonado",
+            "fr": "Porte-vaisseaux vagabond",
+            "it": "Relitto del portaerei"
+        },
+        "description": {
+            "de": "Die Bastion ist ein Mehrzweck-Luftschiff mit verschiedenen Waffensystemen, Optionen f\u00fcr Soldaten-Respawns und J\u00e4gerstarts.",
+            "en": "The Bastion is a multi-purpose airship with multiple weapon systems, soldier respawn capabilities and fighter launch pads.",
+            "es": "El Bastion es una nave con m\u00faltiples sistemas de armas, capacidad de reaparici\u00f3n de soldados y plataformas de lanzamiento de cazas.",
+            "fr": "Le Bastion est un vaisseau multifonction dot\u00e9 de nombreux syst\u00e8mes d'armement, de rampes de lancement pour chasseurs et de fonctions de r\u00e9apparition de soldats.",
+            "it": "Bastion \u00e8 una aeronave multiuso con multipli sistemi di armi, possibilit\u00e0 di rigenerazione dei soldati e rampe di lancio per caccia."
+        },
+        "type_id": "1",
+        "type_name": "Light Aircraft",
+        "cost": "450",
+        "cost_resource_id": "4",
+        "image_set_id": "804395",
+        "image_id": "92694",
+        "image_path": "/files/ps2/images/static/92694.png"
     }
 ]

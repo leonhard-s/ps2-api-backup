@@ -83,5 +83,15 @@
             "fr": "Codex",
             "it": "Manoscritto"
         }
+    },
+    {
+        "directive_tree_category_id": "17",
+        "name": {
+            "de": "Sammlungen",
+            "en": "Collections",
+            "es": "Colecciones",
+            "fr": "Collections",
+            "it": "Collezioni"
+        }
     }
 ]

@@ -2951,5 +2951,356 @@
             "fr": "Pilleur",
             "it": "Scavenger"
         }
+    },
+    {
+        "title_id": "413",
+        "name": {
+            "de": "Flamerider",
+            "en": "Flamerider",
+            "es": "Flamerider",
+            "fr": "Flamerider",
+            "it": "Flamerider"
+        }
+    },
+    {
+        "title_id": "414",
+        "name": {
+            "de": "D\u00e4monenj\u00e4ger",
+            "en": "Demon Hunter",
+            "es": "Cazademonios",
+            "fr": "Chasseur de d\u00e9mons",
+            "it": "Cacciatore demoniaco"
+        }
+    },
+    {
+        "title_id": "415",
+        "name": {
+            "de": "Schrecklich",
+            "en": "Terrifying",
+            "es": "Terrible",
+            "fr": "Terrifiant",
+            "it": "Terrificante"
+        }
+    },
+    {
+        "title_id": "416",
+        "name": {
+            "de": "Pl\u00fcnderer",
+            "en": "Plunderer",
+            "es": "Saqueo",
+            "fr": "Pillard",
+            "it": "Saccheggiatore"
+        }
+    },
+    {
+        "title_id": "417",
+        "name": {
+            "de": "Flottenadmiral",
+            "en": "Fleet Admiral",
+            "es": "Almirante de flota",
+            "fr": "Amiral de la flotte",
+            "it": "Ammiraglio della flotta"
+        }
+    },
+    {
+        "title_id": "418",
+        "name": {
+            "de": "Quartiermeister",
+            "en": "Quartermaster",
+            "es": "Intendente",
+            "fr": "Quartier-ma\u00eetre",
+            "it": "Timoniere"
+        }
+    },
+    {
+        "title_id": "419",
+        "name": {
+            "de": "Deckhelfer",
+            "en": "Deckhand",
+            "es": "Grumete",
+            "fr": "Matelot",
+            "it": "Mozzo"
+        }
+    },
+    {
+        "title_id": "420",
+        "name": {
+            "de": "R\u00fccksichtsvoll",
+            "en": "Considerate",
+            "es": "Consideraci\u00f3n",
+            "fr": "Pr\u00e9venant",
+            "it": "Premuroso"
+        }
+    },
+    {
+        "title_id": "421",
+        "name": {
+            "de": "Festlich",
+            "en": "Festive",
+            "es": "Fiesta",
+            "fr": "Festif",
+            "it": "Festivo"
+        }
+    },
+    {
+        "title_id": "422",
+        "name": {
+            "de": "Glorreich",
+            "en": "Illustrious",
+            "es": "Ilustre",
+            "fr": "Illustre",
+            "it": "Illustre"
+        }
+    },
+    {
+        "title_id": "423",
+        "name": {
+            "de": "Wirksam",
+            "en": "Effectual",
+            "es": "Eficaz",
+            "fr": "Efficace",
+            "it": "Efficace"
+        }
+    },
+    {
+        "title_id": "424",
+        "name": {
+            "de": "Kr\u00e4ftig",
+            "en": "Vigorous",
+            "es": "Vivaz",
+            "fr": "Vigoureux",
+            "it": "Vigoroso"
+        }
+    },
+    {
+        "title_id": "425",
+        "name": {
+            "de": "Unerschrocken",
+            "en": "Intrepid",
+            "es": "Audaz",
+            "fr": "Intr\u00e9pide",
+            "it": "Intrepido"
+        }
+    },
+    {
+        "title_id": "427",
+        "name": {
+            "de": "Schwer verliebt",
+            "en": "Lovestruck",
+            "es": "Amante",
+            "fr": "Amoureux",
+            "it": "Innamorati pazzi"
+        }
+    },
+    {
+        "title_id": "428",
+        "name": {
+            "de": "Druide",
+            "en": "Druid",
+            "es": "Druida",
+            "fr": "Druide",
+            "it": "Druido"
+        }
+    },
+    {
+        "title_id": "429",
+        "name": {
+            "de": "Trickreich",
+            "en": "Tricky",
+            "es": "Astucia",
+            "fr": "\u00c9pineux",
+            "it": "Ostico"
+        }
+    },
+    {
+        "title_id": "430",
+        "name": {
+            "de": "Enthusiast",
+            "en": "Enthusiast",
+            "es": "Entusiasta",
+            "fr": "Passionn\u00e9",
+            "it": "Entusiasta"
+        }
+    },
+    {
+        "title_id": "431",
+        "name": {
+            "de": "Navigator",
+            "en": "Navigator",
+            "es": "Navegante",
+            "fr": "Navigateur",
+            "it": "Navigatore"
+        }
+    },
+    {
+        "title_id": "432",
+        "name": {
+            "de": "Liberator",
+            "en": "Liberator",
+            "es": "Liberator",
+            "fr": "Lib\u00e9rateur",
+            "it": "Liberator",
+            "tr": "KURTARICI"
+        }
+    },
+    {
+        "title_id": "433",
+        "name": {
+            "de": "Verr\u00e4ter",
+            "en": "Traitor",
+            "es": "Traici\u00f3n",
+            "fr": "Tra\u00eetre",
+            "it": "Traditore"
+        }
+    },
+    {
+        "title_id": "434",
+        "name": {
+            "de": "Doktor",
+            "en": "Doctor",
+            "es": "Doctor",
+            "fr": "Docteur",
+            "it": "Dottore"
+        }
+    },
+    {
+        "title_id": "435",
+        "name": {
+            "de": "W\u00e4chter",
+            "en": "Guardian",
+            "es": "Guardi\u00e1n",
+            "fr": "Gardien",
+            "it": "Guardiano"
+        }
+    },
+    {
+        "title_id": "436",
+        "name": {
+            "de": "Agent",
+            "en": "Operative",
+            "es": "Agente",
+            "fr": "Agent",
+            "it": "Agente"
+        }
+    },
+    {
+        "title_id": "437",
+        "name": {
+            "de": "B\u00f6sartig",
+            "en": "Wicked",
+            "es": "Malvado",
+            "fr": "Mal\u00e9fique",
+            "it": "Malvagio"
+        }
+    },
+    {
+        "title_id": "438",
+        "name": {
+            "de": "Richter",
+            "en": "Arbiter",
+            "es": "\u00c1rbitro",
+            "fr": "Arbitre",
+            "it": "Giudice"
+        }
+    },
+    {
+        "title_id": "439",
+        "name": {
+            "de": "Entfesselt",
+            "en": "Unshackled",
+            "es": "Desatado",
+            "fr": "Affranchi",
+            "it": "Slegato"
+        }
+    },
+    {
+        "title_id": "440",
+        "name": {
+            "de": "Judikator",
+            "en": "Judicator",
+            "es": "Adjudicador",
+            "fr": "Juge",
+            "it": "Giudicatore"
+        }
+    },
+    {
+        "title_id": "441",
+        "name": {
+            "de": "Nachfahre",
+            "en": "Scion",
+            "es": "Heredero",
+            "fr": "Scion",
+            "it": "Rampollo"
+        }
+    },
+    {
+        "title_id": "442",
+        "name": {
+            "de": "Ewig",
+            "en": "Eternal",
+            "es": "Eternidad",
+            "fr": "\u00c9ternel",
+            "it": "Eterno"
+        }
+    },
+    {
+        "title_id": "443",
+        "name": {
+            "de": "Rekordbrecher",
+            "en": "Record Breaker",
+            "es": "R\u00e9cord batido",
+            "fr": "Recordman",
+            "it": "Spezzarecord"
+        }
+    },
+    {
+        "title_id": "444",
+        "name": {
+            "de": "Freundlich",
+            "en": "Kindly",
+            "es": "Amabilidad",
+            "fr": "Bienveillant",
+            "it": "Gentile"
+        }
+    },
+    {
+        "title_id": "445",
+        "name": {
+            "de": "Fr\u00f6hlich",
+            "en": "Joyous",
+            "es": "Feliz",
+            "fr": "Joyeux",
+            "it": "Felice"
+        }
+    },
+    {
+        "title_id": "446",
+        "name": {
+            "de": "Schlittenfahrer",
+            "en": "Sleigher",
+            "es": "Gu\u00eda de trineo",
+            "fr": "Conducteur de traineau",
+            "it": "Pilota di slitta"
+        }
+    },
+    {
+        "title_id": "447",
+        "name": {
+            "de": "Komplettist",
+            "en": "Completionist",
+            "es": "Completista",
+            "fr": "Perfectionniste",
+            "it": "Perfezionista"
+        }
+    },
+    {
+        "title_id": "448",
+        "name": {
+            "de": "Umarmbar",
+            "en": "Huggable",
+            "es": "Abrazable",
+            "fr": "C\u00e2lin",
+            "it": "Adorabile"
+        }
     }
 ]

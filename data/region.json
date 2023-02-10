@@ -3990,5 +3990,916 @@
             "fr": "La Warpgate bris\u00e9e",
             "it": "Shattered Warpgate"
         }
+    },
+    {
+        "region_id": "18371",
+        "zone_id": "96",
+        "initial_faction_id": "2",
+        "name": {
+            "de": "Spieler-Spawn",
+            "en": "Player Spawn",
+            "es": "Aparici\u00f3n de jugador",
+            "fr": "Player Spawn",
+            "it": "Generazione giocatore",
+            "tr": "Player Spawn"
+        }
+    },
+    {
+        "region_id": "18372",
+        "zone_id": "97",
+        "initial_faction_id": "3",
+        "name": {
+            "de": "Spieler-Spawn",
+            "en": "Player Spawn",
+            "es": "Aparici\u00f3n de jugador",
+            "fr": "Player Spawn",
+            "it": "Generazione giocatore",
+            "tr": "Player Spawn"
+        }
+    },
+    {
+        "region_id": "18373",
+        "zone_id": "98",
+        "initial_faction_id": "1",
+        "name": {
+            "de": "Spieler-Spawn",
+            "en": "Player Spawn",
+            "es": "Aparici\u00f3n de jugador",
+            "fr": "Player Spawn",
+            "it": "Generazione giocatore",
+            "tr": "Player Spawn"
+        }
+    },
+    {
+        "region_id": "18263",
+        "zone_id": "344",
+        "initial_faction_id": "3",
+        "name": {
+            "de": "Mirror Bay Wachturm",
+            "en": "Mirror Bay Watchtower",
+            "es": "Atalaya de Mirror Bay",
+            "fr": "Mirror Bay Watchtower",
+            "it": "Mirror Bay Watchtower"
+        }
+    },
+    {
+        "region_id": "18264",
+        "zone_id": "344",
+        "initial_faction_id": "1",
+        "name": {
+            "de": "Astira Wasserkraftwerk",
+            "en": "Astira Hydroelectric",
+            "es": "Astira Hidroel\u00e9ctrica",
+            "fr": "Astira Hydroelectric",
+            "it": "Astira Hydroelectric"
+        }
+    },
+    {
+        "region_id": "18265",
+        "zone_id": "344",
+        "initial_faction_id": "2",
+        "name": {
+            "de": "Pommel Gardens",
+            "en": "Pommel Gardens",
+            "es": "Jardines Pommel",
+            "fr": "Pommel Gardens",
+            "it": "Pommel Gardens"
+        }
+    },
+    {
+        "region_id": "18266",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Centri Importverteilerstation",
+            "en": "Centri Import Hub",
+            "es": "Centro de importaciones Centri",
+            "fr": "Centri Import Hub",
+            "it": "Centri Import Hub"
+        }
+    },
+    {
+        "region_id": "18267",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Binusilan Interlink",
+            "en": "Binusilan Interlink",
+            "es": "Intercambiador Binusilan",
+            "fr": "Interconnexion de Binusilan",
+            "it": "Binusilan Interlink"
+        }
+    },
+    {
+        "region_id": "18268",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Ligalai Station",
+            "en": "Ligalai Station",
+            "es": "Estaci\u00f3n Ligalai",
+            "fr": "Ligalai Station",
+            "it": "Ligalai Station"
+        }
+    },
+    {
+        "region_id": "18269",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Au\u00dfenposten Kalis",
+            "en": "Outpost Kalis",
+            "es": "Puesto de avanzada Kalis",
+            "fr": "Avant-poste Kalis",
+            "it": "Outpost Kalis"
+        }
+    },
+    {
+        "region_id": "18270",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seekliff",
+            "en": "Seaside Bluffs",
+            "es": "Riscos costeros",
+            "fr": "Falaises littorales",
+            "it": "Seaside Bluffs"
+        }
+    },
+    {
+        "region_id": "18271",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Viridian Genetics Labor",
+            "en": "Viridian Genetics Lab",
+            "es": "Laboratorio de Viridian Genetics",
+            "fr": "Labo de Viridian Genetics",
+            "it": "Viridian Genetics Lab"
+        }
+    },
+    {
+        "region_id": "18272",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Viridian Dekontaminierung",
+            "en": "Viridian Decontamination",
+            "es": "Descontaminaci\u00f3n Viridian",
+            "fr": "D\u00e9contamination de Viridian",
+            "it": "Viridian Decontamination"
+        }
+    },
+    {
+        "region_id": "18273",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Centri Mining Operation",
+            "en": "Centri Mining Operation",
+            "es": "Operaci\u00f3n minera Centri",
+            "fr": "Centri Mining Operation",
+            "it": "Centri Mining Operation"
+        }
+    },
+    {
+        "region_id": "18274",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Mirror Bay Checkpoint",
+            "en": "Mirror Bay Checkpoint",
+            "es": "Punto de control de Mirror Bay",
+            "fr": "Mirror Bay Checkpoint",
+            "it": "Mirror Bay Checkpoint"
+        }
+    },
+    {
+        "region_id": "18275",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Pilay Interlink",
+            "en": "Pilay Interlink",
+            "es": "Intercambiador Pilay",
+            "fr": "Interconnexion de Pilay",
+            "it": "Pilay Interlink"
+        }
+    },
+    {
+        "region_id": "18276",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Gildad-Klippen",
+            "en": "Gildad Cliffs",
+            "es": "Acantilados de Gildad",
+            "fr": "Falaises de Gildad",
+            "it": "Gildad Cliffs"
+        }
+    },
+    {
+        "region_id": "18277",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Lamplight Security",
+            "en": "Lamplight Security",
+            "es": "Seguridad Lamplight",
+            "fr": "Lamplight Security",
+            "it": "Lamplight Security"
+        }
+    },
+    {
+        "region_id": "18278",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Hopeswell Landekopf",
+            "en": "Hopeswell Beachhead",
+            "es": "Playa de Hopeswell",
+            "fr": "T\u00eate de pont d'Hopeswell",
+            "it": "Testa di ponte di Hopeswell"
+        }
+    },
+    {
+        "region_id": "18279",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Wavecrest Landekopf",
+            "en": "Wavecrest Beachhead",
+            "es": "Playa de Wavecrest",
+            "fr": "T\u00eate de pont de Wavecrest",
+            "it": "Testa di ponte di Wavecrest"
+        }
+    },
+    {
+        "region_id": "18280",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Anat Interlink",
+            "en": "Anat Interlink",
+            "es": "Intercambiador Anat",
+            "fr": "Interconnexion d'Anat",
+            "it": "Anat Interlink"
+        }
+    },
+    {
+        "region_id": "18281",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Sage F&E Labore",
+            "en": "Sage R&D Labs",
+            "es": "Laboratorios de I+D Sage",
+            "fr": "Labos R&D de Sage",
+            "it": "Sage R&D Labs"
+        }
+    },
+    {
+        "region_id": "18282",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Tannae Energieanlage",
+            "en": "Tannae Power",
+            "es": "Central el\u00e9ctrica Tannae",
+            "fr": "Tannae Power",
+            "it": "Tannae Power"
+        }
+    },
+    {
+        "region_id": "18283",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Hunter's Ravine",
+            "en": "Hunter's Ravine",
+            "es": "Barranco del Cazador",
+            "fr": "Ravin du Chasseur",
+            "it": "Hunter's Ravine"
+        }
+    },
+    {
+        "region_id": "18284",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "K&H Techstation",
+            "en": "K&H Tech Station",
+            "es": "Estaci\u00f3n T\u00e9cnica K&H",
+            "fr": "K&H Tech Station",
+            "it": "K&H Tech Station"
+        }
+    },
+    {
+        "region_id": "18285",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "High Ridge Security",
+            "en": "High Ridge Security",
+            "es": "Seguridad High Ridge",
+            "fr": "High Ridge Security",
+            "it": "High Ridge Security"
+        }
+    },
+    {
+        "region_id": "18286",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Dekat Interlink",
+            "en": "Dekat Interlink",
+            "es": "Intercambiador Dekat",
+            "fr": "Interconnexion de Dekat",
+            "it": "Dekat Interlink"
+        }
+    },
+    {
+        "region_id": "18287",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Astira Solarstation",
+            "en": "Astira Solar Station",
+            "es": "Estaci\u00f3n Solar Astira",
+            "fr": "Astira Solar Station",
+            "it": "Astira Solar Station"
+        }
+    },
+    {
+        "region_id": "18288",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Southpeak Meadows",
+            "en": "Southpeak Meadows",
+            "es": "Prados Southpeak",
+            "fr": "Southpeak Meadows",
+            "it": "Southpeak Meadows"
+        }
+    },
+    {
+        "region_id": "18289",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Emerald Research Co.",
+            "en": "Emerald Research Co.",
+            "es": "Emerald Research Co.",
+            "fr": "Emerald Research Co.",
+            "it": "Emerald Research Co."
+        }
+    },
+    {
+        "region_id": "18290",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Remnant Cove",
+            "en": "Remnant Cove",
+            "es": "Cala de Remnant",
+            "fr": "Remnant Cove",
+            "it": "Remnant Cove"
+        }
+    },
+    {
+        "region_id": "18291",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Viridian Ostterrasse",
+            "en": "Viridian East Terrace",
+            "es": "Terraza oriental de Viridian",
+            "fr": "Terrasse est de Viridian",
+            "it": "Viridian East Terrace"
+        }
+    },
+    {
+        "region_id": "18292",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "S\u00fcdlicher Viridian Landekopf",
+            "en": "South Viridian Beachhead",
+            "es": "Playa Viridian del sur",
+            "fr": "T\u00eate de pont sud de Viridian",
+            "it": "Testa di ponte South Viridian"
+        }
+    },
+    {
+        "region_id": "18293",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Terran Genetics Inc.",
+            "en": "Terran Genetics Inc.",
+            "es": "Terran Genetics S. A.",
+            "fr": "Terran Genetics Inc.",
+            "it": "Terran Genetics Inc."
+        }
+    },
+    {
+        "region_id": "18294",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Sibo Interlink",
+            "en": "Sibo Interlink",
+            "es": "Intercambiador Sibo",
+            "fr": "Interconnexion de Sibo",
+            "it": "Sibo Interlink"
+        }
+    },
+    {
+        "region_id": "18295",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Wellerman Watch",
+            "en": "Wellerman Watch",
+            "es": "Vigilancia Wellerman",
+            "fr": "Wellerman Watch",
+            "it": "Wellerman Watch"
+        }
+    },
+    {
+        "region_id": "18296",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Palaso Nachschub-Depot",
+            "en": "Palaso Supply Depot",
+            "es": "Dep\u00f3sito de suministros Palaso",
+            "fr": "D\u00e9p\u00f4t de ravitaillement de Palaso",
+            "it": "Palaso Supply Depot"
+        }
+    },
+    {
+        "region_id": "18297",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Fort Arceo",
+            "en": "Fort Arceo",
+            "es": "Fuerte Arceo",
+            "fr": "Fort Arceo",
+            "it": "Fort Arceo"
+        }
+    },
+    {
+        "region_id": "18298",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Au\u00dfenposten Eagle",
+            "en": "Eagle Outpost",
+            "es": "Puesto de avanzada Eagle",
+            "fr": "Eagle Outpost",
+            "it": "Eagle Outpost"
+        }
+    },
+    {
+        "region_id": "18299",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Meeresgrund-Horchposten",
+            "en": "Meridian Listening Post",
+            "es": "Puesto de escucha Meridian",
+            "fr": "Meridian Listening Post",
+            "it": "Meridian Listening Post"
+        }
+    },
+    {
+        "region_id": "18300",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Imbanon Interlink",
+            "en": "Imbanon Interlink",
+            "es": "Intercambiador Imbanon",
+            "fr": "Interconnexion d'Imbanon",
+            "it": "Imbanon Interlink"
+        }
+    },
+    {
+        "region_id": "18301",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Nascent Logistik und Lager",
+            "en": "Nascent Shipping and Storage",
+            "es": "Env\u00edos y almacenes Nascent",
+            "fr": "Transport et entreposage de Nascent",
+            "it": "Nascent Shipping and Storage"
+        }
+    },
+    {
+        "region_id": "18302",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Emerald Arboretum",
+            "en": "Emerald Arboretum",
+            "es": "Arboreto Esmeralda",
+            "fr": "Emerald Arboretum",
+            "it": "Emerald Arboretum"
+        }
+    },
+    {
+        "region_id": "18303",
+        "zone_id": "344",
+        "initial_faction_id": "2",
+        "name": {
+            "de": "Oshur Nordost-Flotille",
+            "en": "Oshur Northeast Flotilla",
+            "es": "Flotilla nordeste de Oshur",
+            "fr": "Flottille nord-est d'Oshur",
+            "it": "Squadriglia nord-est di Oshur"
+        }
+    },
+    {
+        "region_id": "18304",
+        "zone_id": "344",
+        "initial_faction_id": "3",
+        "name": {
+            "de": "Oshur Nordwest-Flotille",
+            "en": "Oshur Northwest Flotilla",
+            "es": "Flotilla noroeste de Oshur",
+            "fr": "Flottille nord-ouest d'Oshur",
+            "it": "Squadriglia nord-ovest di Oshur"
+        }
+    },
+    {
+        "region_id": "18305",
+        "zone_id": "344",
+        "initial_faction_id": "1",
+        "name": {
+            "de": "Oshur S\u00fcd-Flotille",
+            "en": "Oshur South Flotilla",
+            "es": "Flotilla sur de Oshur",
+            "fr": "Flottille sud d'Oshur",
+            "it": "Squadriglia sud di Oshur"
+        }
+    },
+    {
+        "region_id": "18307",
+        "zone_id": "344",
+        "initial_faction_id": "1",
+        "name": {
+            "de": "Sirinan Trident",
+            "en": "Sirinan Trident",
+            "es": "Tridente de Sirinan",
+            "fr": "Trident de Sirinan",
+            "it": "Sirinan Trident"
+        }
+    },
+    {
+        "region_id": "18308",
+        "zone_id": "344",
+        "initial_faction_id": "1",
+        "name": {
+            "de": "Bago Trident",
+            "en": "Bago Trident",
+            "es": "Tridente de Bago",
+            "fr": "Trident de Bago",
+            "it": "Bago Trident"
+        }
+    },
+    {
+        "region_id": "18309",
+        "zone_id": "344",
+        "initial_faction_id": "1",
+        "name": {
+            "de": "Anlabban Trident",
+            "en": "Anlabban Trident",
+            "es": "Tridente de Anlabban",
+            "fr": "Trident d'Anlabban",
+            "it": "Anlabban Trident"
+        }
+    },
+    {
+        "region_id": "18328",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "en": "Oshur: Inner: NW: Waterbase 01"
+        }
+    },
+    {
+        "region_id": "18329",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten J5",
+            "en": "Seapost J5",
+            "es": "Puesto marino J5",
+            "fr": "Poste maritime J5",
+            "it": "Seapost J5"
+        }
+    },
+    {
+        "region_id": "18330",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten K10",
+            "en": "Seapost K10",
+            "es": "Puesto marino K10",
+            "fr": "Poste maritime K10",
+            "it": "Seapost K10"
+        }
+    },
+    {
+        "region_id": "18331",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten K12",
+            "en": "Seapost K12",
+            "es": "Puesto marino K12",
+            "fr": "Poste maritime K12",
+            "it": "Seapost K12"
+        }
+    },
+    {
+        "region_id": "18343",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Veridad Pass",
+            "en": "Veridad Pass",
+            "es": "Paso Veridad",
+            "fr": "Col de Veridad",
+            "it": "Veridad Pass"
+        }
+    },
+    {
+        "region_id": "18344",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Solstice Pass",
+            "en": "Solstice Pass",
+            "es": "Paso Solsticio",
+            "fr": "Col du Solstice",
+            "it": "Solstice Pass"
+        }
+    },
+    {
+        "region_id": "18346",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Wakerift Landekopf",
+            "en": "Wakerift Beachhead",
+            "es": "Playa de Wakerift",
+            "fr": "T\u00eate de pont Wakerift",
+            "it": "Testa di ponte di Wakerift"
+        }
+    },
+    {
+        "region_id": "18347",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Oshur Weiten",
+            "en": "Oshur Vast Expanse",
+            "es": "Gran explanada de Oshur",
+            "fr": "Immensit\u00e9 d'Oshur",
+            "it": "Vasta distesa di Oshur"
+        }
+    },
+    {
+        "region_id": "18351",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten L5",
+            "en": "Seapost L5",
+            "es": "Puesto naval L5",
+            "fr": "Poste maritime L5",
+            "it": "Seapost L5"
+        }
+    },
+    {
+        "region_id": "18352",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten M6",
+            "en": "Seapost M6",
+            "es": "Puesto naval M6",
+            "fr": "Poste maritime M6",
+            "it": "Seapost M6"
+        }
+    },
+    {
+        "region_id": "18353",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten M9",
+            "en": "Seapost M9",
+            "es": "Puesto naval M9",
+            "fr": "Poste maritime M9",
+            "it": "Seapost M9"
+        }
+    },
+    {
+        "region_id": "18354",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten J13",
+            "en": "Seapost J13",
+            "es": "Puesto naval J13",
+            "fr": "Poste maritime J13",
+            "it": "Seapost J13"
+        }
+    },
+    {
+        "region_id": "18356",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten E12",
+            "en": "Seapost E12",
+            "es": "Puesto naval E12",
+            "fr": "Poste maritime E12",
+            "it": "Seapost E12"
+        }
+    },
+    {
+        "region_id": "18357",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten C7",
+            "en": "Seapost C7",
+            "es": "Puesto naval C7",
+            "fr": "Poste maritime C7",
+            "it": "Seapost C7"
+        }
+    },
+    {
+        "region_id": "18358",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten E5",
+            "en": "Seapost E5",
+            "es": "Puesto naval E5",
+            "fr": "Poste maritime E5",
+            "it": "Seapost E5"
+        }
+    },
+    {
+        "region_id": "18359",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten G4",
+            "en": "Seapost G4",
+            "es": "Puesto naval G4",
+            "fr": "Poste maritime G4",
+            "it": "Seapost G4"
+        }
+    },
+    {
+        "region_id": "18360",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten I11 - Steine",
+            "en": "Seapost I11 - Stones",
+            "es": "Puesto naval I11: Piedras",
+            "fr": "Poste maritime I11 - Pierres",
+            "it": "Seapost I11 - Rocce"
+        }
+    },
+    {
+        "region_id": "18361",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten G11 - Riff",
+            "en": "Seapost G11 - Reef",
+            "es": "Puesto naval G11: Arrecife",
+            "fr": "Poste maritime G11 - R\u00e9cif",
+            "it": "Seapost G11 - Barriera"
+        }
+    },
+    {
+        "region_id": "18362",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten H10 - Schutt",
+            "en": "Seapost H10 - Debris",
+            "es": "Puesto naval H10: Escombros",
+            "fr": "Poste maritime H10 - D\u00e9bris",
+            "it": "Seapost H10 - Detriti"
+        }
+    },
+    {
+        "region_id": "18363",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten G8 - Pipeline",
+            "en": "Seapost G8 - Pipeline",
+            "es": "Puesto naval G8: Oleoducto",
+            "fr": "Poste maritime G8 - Pipeline",
+            "it": "Seapost G8 - Conduttura"
+        }
+    },
+    {
+        "region_id": "18364",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten D8 - Einsturz",
+            "en": "Seapost D8 - Collapse",
+            "es": "Puesto naval D8: Colapso",
+            "fr": "Poste maritime D8 - Effondrement",
+            "it": "Seapost D8 - Collasso"
+        }
+    },
+    {
+        "region_id": "18365",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten G6 - Gr\u00e4ben",
+            "en": "Seapost G6 - Trenches",
+            "es": "Puesto naval G6: Trincheras",
+            "fr": "Poste maritime G6 - Tranch\u00e9es",
+            "it": "Seapost G6 - Trincee"
+        }
+    },
+    {
+        "region_id": "18366",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten J7 - Garten",
+            "en": "Seapost J7 - Garden",
+            "es": "Puesto naval J7: Jard\u00edn",
+            "fr": "Poste maritime J7 - Jardin",
+            "it": "Seapost J7 - Giardino"
+        }
+    },
+    {
+        "region_id": "18367",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten L8 - Klippensprung",
+            "en": "Seapost L8 - Cliffdive",
+            "es": "Puesto naval L8: Acantilado",
+            "fr": "Poste maritime L8 - Falaise",
+            "it": "Seapost L8 - Scogliera"
+        }
+    },
+    {
+        "region_id": "18368",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Seeposten J8 - Vertiefung",
+            "en": "Seapost J8 - Delve",
+            "es": "Puesto naval J8: Buceo",
+            "fr": "Poste maritime J8 - Ab\u00eeme",
+            "it": "Seapost J8 - Scavo"
+        }
+    },
+    {
+        "region_id": "18369",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Bathala Garden",
+            "en": "Bathala Garden",
+            "es": "Jard\u00edn de Bathala",
+            "fr": "Bathala Garden",
+            "it": "Giardino di Bathala"
+        }
+    },
+    {
+        "region_id": "18370",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "HMS-Technologien",
+            "en": "HMS Technologies",
+            "es": "Tecnolog\u00edas HMS",
+            "fr": "HMS Technologies",
+            "it": "HMS Technologies"
+        }
     }
 ]
