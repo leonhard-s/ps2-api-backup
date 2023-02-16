@@ -18,7 +18,9 @@
             "fr": "Le continent aride d'Indar regroupe de multiples biomes, proposant des d\u00e9fis uniques \u00e0 ses combattants.",
             "it": "L'arido continente Indar ospita una variet\u00e0 di biomi e mette a disposizione dei soldati sfide davvero uniche.",
             "tr": "Kurak Indar k\u0131tas\u0131 \u00e7ok \u00e7e\u015fitli bir co\u011frafyaya sahiptir. Otlu ovalar, kayal\u0131k kanyonlar ve deniz yata\u011f\u0131n\u0131n geni\u015f d\u00fczl\u00fckleri askerler i\u00e7in farkl\u0131 zorluklar\u0131 da beraberinde getirir."
-        }
+        },
+        "geometry_id": "2",
+        "dynamic": "0"
     },
     {
         "zone_id": "4",
@@ -39,7 +41,9 @@
             "fr": "La dense mangrove et les for\u00eats de saule de Hossin offrent une couverture a\u00e9rienne le long de ses nombreux mar\u00e9cages et montagnes.",
             "it": "Le fitte foreste di mangrovie e di salici a Hossin forniscono copertura aerea lungo le numerose paludi e altipiani.",
             "tr": "Hossin's dense mangrove and willow forests provide air cover along its many swamps and highlands."
-        }
+        },
+        "geometry_id": "4",
+        "dynamic": "0"
     },
     {
         "zone_id": "6",
@@ -60,7 +64,9 @@
             "fr": "Les bosquets touffus et les affleurements rocheux d'Amerish offrent une abondance d'abris entre ses plaines immenses et ses cols montagneux.",
             "it": "I verdi boschi e gli affioramenti rocciosi di Amerish offrono ampie possibilit\u00e0 di rifugio tra pianure collinose e passi montani.",
             "tr": "Amerish's lush groves and rocky outcroppings provide ample cover between its rolling plains and mountain passes."
-        }
+        },
+        "geometry_id": "6",
+        "dynamic": "0"
     },
     {
         "zone_id": "8",
@@ -81,7 +87,91 @@
             "fr": "Les \u00e9tendues de tundra froide et les montagnes escarp\u00e9es d'Esamir offrent peu de protection contre les menaces a\u00e9riennes.",
             "it": "Le distese di tundra ghiacciata e le montagne rocciose di Esamir forniscono ben poca protezione contro le minacce aeree.",
             "tr": "Esamir's expanses of frigid tundra and craggy mountains provide little cover from airborne threats."
-        }
+        },
+        "geometry_id": "8",
+        "dynamic": "0"
+    },
+    {
+        "zone_id": "10",
+        "code": "nexus",
+        "hex_size": "200",
+        "name": {
+            "de": "Nexus",
+            "en": "Nexus",
+            "es": "Nexus",
+            "fr": "Nexus",
+            "it": "Nexus",
+            "tr": "Nexus"
+        },
+        "description": {
+            "de": "Die kalte Insel Nexus ist von eisigen Korridoren und steilen H\u00f6henunterschieden gepr\u00e4gt.",
+            "en": "The frigid battle island of Nexus is marked by icy corridors and steep elevation changes.",
+            "es": "La fr\u00eda isla de batalla de Nexo se caracteriza por los corredores helados y los empinados cambios de altitud.",
+            "fr": "L'\u00eele de combat glaciale du Nexus se distingue par ses couloirs de glace et ses d\u00e9nivel\u00e9s escarp\u00e9s.",
+            "it": "La gelida isola da battaglia di Nexus \u00e8 caratterizzata da corridoi ghiacciati e ripidi dislivelli."
+        },
+        "geometry_id": "10",
+        "dynamic": "1"
+    },
+    {
+        "zone_id": "11",
+        "code": "Extinction",
+        "hex_size": "200",
+        "name": {
+            "de": "Extinction",
+            "en": "Extinction",
+            "es": "Extinction",
+            "fr": "Extinction",
+            "it": "Extinction",
+            "tr": "Extinction"
+        },
+        "geometry_id": "11",
+        "dynamic": "1"
+    },
+    {
+        "zone_id": "12",
+        "code": "Desolation",
+        "hex_size": "200",
+        "name": {
+            "de": "Desolation",
+            "en": "Desolation",
+            "es": "Desolation",
+            "fr": "D\u00e9solation",
+            "it": "Desolation",
+            "tr": "Desolation"
+        },
+        "geometry_id": "12",
+        "dynamic": "1"
+    },
+    {
+        "zone_id": "13",
+        "code": "Ascension",
+        "hex_size": "200",
+        "name": {
+            "de": "Ascension",
+            "en": "Ascension",
+            "es": "Ascension",
+            "fr": "Ascension",
+            "it": "Ascension",
+            "tr": "Ascension"
+        },
+        "geometry_id": "13",
+        "dynamic": "1"
+    },
+    {
+        "zone_id": "95",
+        "code": "VR Tutorial zone",
+        "hex_size": "335",
+        "name": {
+            "de": "VR-Tutoriumszone",
+            "en": "VR Tutorial Zone",
+            "es": "Zona de aprendizaje de RV",
+            "fr": "Zone de tutoriel RV",
+            "it": "Zona di addestramento VR",
+            "tr": "Sanal Ger\u00e7eklik E\u011fitim B\u00f6lgesi"
+        },
+        "geometry_id": "95",
+        "dynamic": "1"
     },
     {
         "zone_id": "96",
@@ -102,7 +192,9 @@
             "fr": "Testez toutes les armes, tous les v\u00e9hicules et tous les accessoires dans le simulateur d'entra\u00eenement en RV de votre empire.",
             "it": "Sperimenta con tutte le armi, veicoli e accessori usando il simulatore nell'addestramento virtuale del tuo impero.",
             "tr": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator."
-        }
+        },
+        "geometry_id": "96",
+        "dynamic": "0"
     },
     {
         "zone_id": "97",
@@ -123,7 +215,9 @@
             "fr": "Testez toutes les armes, tous les v\u00e9hicules et tous les accessoires dans le simulateur d'entra\u00eenement en RV de votre empire.",
             "it": "Sperimenta con tutte le armi, veicoli e accessori usando il simulatore nell'addestramento virtuale del tuo impero.",
             "tr": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator."
-        }
+        },
+        "geometry_id": "97",
+        "dynamic": "0"
     },
     {
         "zone_id": "98",
@@ -144,7 +238,31 @@
             "fr": "Testez toutes les armes, tous les v\u00e9hicules et tous les accessoires dans le simulateur d'entra\u00eenement en RV de votre empire.",
             "it": "Sperimenta con tutte le armi, veicoli e accessori usando il simulatore nell'addestramento virtuale del tuo impero.",
             "tr": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator."
-        }
+        },
+        "geometry_id": "98",
+        "dynamic": "0"
+    },
+    {
+        "zone_id": "338",
+        "code": "Desolation",
+        "hex_size": "200",
+        "name": {
+            "de": "Desolation",
+            "en": "Desolation",
+            "es": "Desolation",
+            "fr": "D\u00e9solation",
+            "it": "Desolation",
+            "tr": "Desolation"
+        },
+        "description": {
+            "de": "In einem Asteroideng\u00fcrtel, weit entfernt von Auraxis, befinden sich antike Vanu-Artefakte, die mehr Fragen aufwerfen als sie beantworten.",
+            "en": "Far from Auraxis, an asteroid belt hides ancient Vanu artifacts, providing more questions than answers.",
+            "es": "Lejos de Auraxis, un cintur\u00f3n de asteroides oculta artefactos de Vanu, lo que da m\u00e1s preguntas que respuestas.",
+            "fr": "Loin d'Auraxis se trouve une ceinture d'ast\u00e9ro\u00efdes o\u00f9 sont cach\u00e9es d'anciennes reliques vanu qui soul\u00e8vent plus de questions qu'elles n'en solutionnent.",
+            "it": "Lontano da Auraxis si trova una cintura di asteroidi che nasconde degli antichi artefatti Vanu e genera pi\u00f9 domande che risposte."
+        },
+        "geometry_id": "361",
+        "dynamic": "1"
     },
     {
         "zone_id": "344",
@@ -163,6 +281,8 @@
             "es": "El arenoso archipi\u00e9lago de Oshur y sus resplandecientes aguas azules son el entorno ideal para luchar por tierra, mar y aire.",
             "fr": "L'archipel sablonneux d'Oshur et ses eaux bleues cristallines offrent des possibilit\u00e9s de combats terrestres, maritimes et a\u00e9riens.",
             "it": "L'arcipelago sabbioso e le vivaci acque blu di Oshur forniscono ottime opportunit\u00e0 d'ingaggio via mare, terra e aria."
-        }
+        },
+        "geometry_id": "367",
+        "dynamic": "0"
     }
 ]
