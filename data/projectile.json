@@ -5,7 +5,11 @@
         "speed": "1000",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "3",
@@ -13,7 +17,11 @@
         "speed": "275",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "4",
@@ -23,7 +31,11 @@
         "acceleration": "100",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "3"
+        "gravity": "3",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "5",
@@ -34,7 +46,11 @@
         "turn_rate": "0",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "6",
@@ -42,7 +58,11 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "7",
@@ -53,7 +73,11 @@
         "turn_rate": "0",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "8",
@@ -61,7 +85,11 @@
         "speed": "250",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "9",
@@ -69,7 +97,11 @@
         "speed": "500",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "10",
@@ -78,7 +110,11 @@
         "speed_max": "0",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "11",
@@ -86,7 +122,11 @@
         "speed": "650",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "12",
@@ -94,7 +134,11 @@
         "speed": "300",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "2.5"
+        "gravity": "2.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "13",
@@ -102,7 +146,11 @@
         "speed": "200",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "14",
@@ -111,7 +159,11 @@
         "acceleration": "0",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "15",
@@ -119,7 +171,11 @@
         "speed": "650",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "16",
@@ -127,7 +183,11 @@
         "speed": "650",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "17",
@@ -135,14 +195,22 @@
         "speed": "650",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "18",
         "projectile_flight_type_id": "1",
         "speed": "250",
         "lifespan": "5",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "19",
@@ -150,7 +218,11 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "20",
@@ -158,7 +230,11 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "21",
@@ -166,14 +242,22 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "22",
         "projectile_flight_type_id": "1",
         "speed": "250",
         "lifespan": "5",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "25",
@@ -181,7 +265,11 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "26",
@@ -189,7 +277,11 @@
         "speed": "650",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "27",
@@ -197,7 +289,11 @@
         "speed": "550",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "28",
@@ -206,7 +302,11 @@
         "speed_max": "300",
         "acceleration": "100",
         "lifespan": "4",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "29",
@@ -217,7 +317,11 @@
         "lifespan": "8",
         "lockon_acceleration": "1.8",
         "lockon_lifespan": "8",
-        "lockon_lose_angle": "180"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "180",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "30",
@@ -228,7 +332,11 @@
         "lifespan": "8",
         "lockon_acceleration": "1.8",
         "lockon_lifespan": "8",
-        "lockon_lose_angle": "180"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "180",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "31",
@@ -239,7 +347,11 @@
         "lifespan": "8",
         "lockon_acceleration": "1.8",
         "lockon_lifespan": "8",
-        "lockon_lose_angle": "180"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "180",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "32",
@@ -247,7 +359,11 @@
         "speed": "350",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "33",
@@ -255,7 +371,11 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "36",
@@ -265,7 +385,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "5",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "37",
@@ -273,7 +397,11 @@
         "speed": "225",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "38",
@@ -281,7 +409,11 @@
         "speed": "250",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "39",
@@ -289,7 +421,11 @@
         "speed": "200",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "40",
@@ -299,7 +435,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "10",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "41",
@@ -309,7 +449,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "10",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "42",
@@ -319,21 +463,33 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "10",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "43",
         "projectile_flight_type_id": "1",
         "speed": "250",
         "lifespan": "5",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "44",
         "projectile_flight_type_id": "1",
         "speed": "250",
         "lifespan": "5",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "45",
@@ -341,7 +497,11 @@
         "speed": "600",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "46",
@@ -352,7 +512,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "47",
@@ -360,7 +524,11 @@
         "speed": "600",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "48",
@@ -368,7 +536,11 @@
         "speed": "600",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "49",
@@ -379,7 +551,11 @@
         "turn_rate": "0",
         "lifespan": "4",
         "drag": "0.1",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "52",
@@ -387,7 +563,11 @@
         "speed": "125",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "10"
+        "gravity": "10",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "55",
@@ -395,7 +575,11 @@
         "speed": "100",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "56",
@@ -403,7 +587,11 @@
         "speed": "650",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "57",
@@ -411,7 +599,11 @@
         "speed": "400",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "58",
@@ -419,7 +611,11 @@
         "speed": "175",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "10"
+        "gravity": "10",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "59",
@@ -427,7 +623,11 @@
         "speed": "225",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "60",
@@ -435,7 +635,11 @@
         "speed": "300",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "61",
@@ -445,7 +649,11 @@
         "turn_rate": "0",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "62",
@@ -453,7 +661,11 @@
         "speed": "1000",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "63",
@@ -461,7 +673,11 @@
         "speed": "1000",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "64",
@@ -469,7 +685,11 @@
         "speed": "1000",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "65",
@@ -480,7 +700,11 @@
         "turn_rate": "0",
         "lifespan": "12",
         "drag": "0.1",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "66",
@@ -491,7 +715,11 @@
         "turn_rate": "0",
         "lifespan": "60",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "67",
@@ -502,7 +730,11 @@
         "turn_rate": "0",
         "lifespan": "120",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "68",
@@ -513,7 +745,11 @@
         "turn_rate": "0",
         "lifespan": "180",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "69",
@@ -523,7 +759,10 @@
         "drag": "0",
         "gravity": "7",
         "arm_distance": "10",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70",
@@ -533,7 +772,10 @@
         "drag": "0",
         "gravity": "7",
         "arm_distance": "10",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "71",
@@ -544,7 +786,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "72",
@@ -555,7 +801,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "73",
@@ -566,7 +816,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "74",
@@ -577,7 +831,11 @@
         "turn_rate": "0",
         "lifespan": "4",
         "drag": "0.1",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "75",
@@ -588,7 +846,11 @@
         "turn_rate": "0",
         "lifespan": "4",
         "drag": "0.1",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "79",
@@ -598,7 +860,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "10",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80",
@@ -608,7 +874,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "10",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "81",
@@ -618,7 +888,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "10",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "82",
@@ -628,7 +902,10 @@
         "drag": "0",
         "gravity": "7",
         "arm_distance": "10",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "83",
@@ -638,7 +915,10 @@
         "drag": "0",
         "gravity": "7",
         "arm_distance": "10",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "84",
@@ -650,8 +930,10 @@
         "lifespan": "4",
         "drag": "0.1",
         "gravity": "1",
-        "sticky": "true",
-        "sticks_to_players": "true"
+        "detonate_on_contact": "0",
+        "sticky": "1",
+        "sticks_to_players": "1",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "85",
@@ -663,8 +945,10 @@
         "lifespan": "4",
         "drag": "0.1",
         "gravity": "1",
-        "sticky": "true",
-        "sticks_to_players": "true"
+        "detonate_on_contact": "0",
+        "sticky": "1",
+        "sticks_to_players": "1",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "86",
@@ -676,8 +960,10 @@
         "lifespan": "4",
         "drag": "0.1",
         "gravity": "1",
-        "sticky": "true",
-        "sticks_to_players": "true"
+        "detonate_on_contact": "0",
+        "sticky": "1",
+        "sticks_to_players": "1",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "87",
@@ -688,7 +974,11 @@
         "turn_rate": "0",
         "lifespan": "20",
         "drag": "0.1",
-        "gravity": "3"
+        "gravity": "3",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "88",
@@ -700,7 +990,10 @@
         "lifespan": "6",
         "drag": "0.1",
         "gravity": "1",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "89",
@@ -711,7 +1004,11 @@
         "turn_rate": "0",
         "lifespan": "7",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "90",
@@ -719,7 +1016,11 @@
         "speed": "600",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "91",
@@ -731,8 +1032,10 @@
         "lifespan": "8",
         "drag": "1",
         "gravity": "1",
-        "detonate_on_contact": "true",
-        "sticky": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "92",
@@ -743,7 +1046,11 @@
         "turn_rate": "0",
         "lifespan": "30",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "93",
@@ -753,7 +1060,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "10",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "94",
@@ -761,7 +1072,11 @@
         "speed": "550",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "95",
@@ -769,7 +1084,11 @@
         "speed": "550",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "96",
@@ -777,7 +1096,11 @@
         "speed": "550",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "97",
@@ -785,7 +1108,11 @@
         "speed": "200",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "98",
@@ -796,7 +1123,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "99",
@@ -807,7 +1138,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "100",
@@ -818,7 +1153,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "101",
@@ -829,7 +1168,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "102",
@@ -839,7 +1182,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "103",
@@ -850,7 +1197,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "104",
@@ -861,7 +1212,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "105",
@@ -872,7 +1227,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "106",
@@ -883,7 +1242,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "107",
@@ -892,7 +1255,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "108",
@@ -903,7 +1270,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "109",
@@ -914,7 +1285,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "110",
@@ -925,7 +1300,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "111",
@@ -936,7 +1315,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "112",
@@ -948,7 +1331,10 @@
         "drag": "0",
         "gravity": "2",
         "lockon_acceleration": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "113",
@@ -959,7 +1345,11 @@
         "lifespan": "8",
         "drag": "0",
         "gravity": "2",
-        "lockon_acceleration": "0"
+        "lockon_acceleration": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "115",
@@ -969,7 +1359,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "1.5",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "116",
@@ -980,7 +1374,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "117",
@@ -991,7 +1389,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "118",
@@ -1003,8 +1405,10 @@
         "lifespan": "8",
         "drag": "1",
         "gravity": "1",
-        "detonate_on_contact": "true",
-        "sticky": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "119",
@@ -1016,8 +1420,10 @@
         "lifespan": "8",
         "drag": "1",
         "gravity": "1",
-        "detonate_on_contact": "true",
-        "sticky": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "120",
@@ -1029,8 +1435,10 @@
         "lifespan": "8",
         "drag": "1",
         "gravity": "1",
-        "detonate_on_contact": "true",
-        "sticky": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "121",
@@ -1042,8 +1450,10 @@
         "lifespan": "8",
         "drag": "1",
         "gravity": "1",
-        "detonate_on_contact": "true",
-        "sticky": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "122",
@@ -1055,8 +1465,10 @@
         "lifespan": "8",
         "drag": "1",
         "gravity": "1",
-        "detonate_on_contact": "true",
-        "sticky": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "130",
@@ -1064,7 +1476,11 @@
         "speed": "400",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "131",
@@ -1072,7 +1488,11 @@
         "speed": "400",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "132",
@@ -1080,7 +1500,11 @@
         "speed": "400",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "135",
@@ -1088,7 +1512,11 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "136",
@@ -1096,7 +1524,11 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "137",
@@ -1104,14 +1536,22 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "138",
         "projectile_flight_type_id": "1",
         "speed": "250",
         "lifespan": "5",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "139",
@@ -1119,7 +1559,11 @@
         "speed": "600",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "140",
@@ -1127,7 +1571,11 @@
         "speed": "600",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "141",
@@ -1135,7 +1583,11 @@
         "speed": "600",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "142",
@@ -1147,7 +1599,11 @@
         "drag": "0",
         "gravity": "2",
         "lockon_acceleration": "2.5",
-        "lockon_lifespan": "3.2"
+        "lockon_lifespan": "3.2",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "143",
@@ -1159,7 +1615,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "20",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "144",
@@ -1171,7 +1631,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "20",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "145",
@@ -1183,7 +1647,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "20",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "146",
@@ -1191,7 +1659,11 @@
         "speed": "750",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "147",
@@ -1199,7 +1671,11 @@
         "speed": "750",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "148",
@@ -1207,7 +1683,11 @@
         "speed": "750",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "166",
@@ -1215,7 +1695,11 @@
         "speed": "770",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "167",
@@ -1226,7 +1710,11 @@
         "lifespan": "3.67",
         "gravity": "1.5",
         "lockon_acceleration": "2",
-        "lockon_lifespan": "4.5"
+        "lockon_lifespan": "4.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "168",
@@ -1239,8 +1727,11 @@
         "gravity": "1",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
         "lockon_lose_angle": "135",
-        "lockon_seek_in_flight": "true"
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "171",
@@ -1248,7 +1739,11 @@
         "speed": "770",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "172",
@@ -1259,7 +1754,11 @@
         "lifespan": "3.67",
         "gravity": "1.5",
         "lockon_acceleration": "2",
-        "lockon_lifespan": "4.5"
+        "lockon_lifespan": "4.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "173",
@@ -1272,8 +1771,11 @@
         "gravity": "1",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
         "lockon_lose_angle": "135",
-        "lockon_seek_in_flight": "true"
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "176",
@@ -1281,7 +1783,11 @@
         "speed": "770",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "177",
@@ -1292,7 +1798,11 @@
         "lifespan": "3.67",
         "gravity": "1.5",
         "lockon_acceleration": "2",
-        "lockon_lifespan": "4.5"
+        "lockon_lifespan": "4.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "178",
@@ -1305,8 +1815,11 @@
         "gravity": "1",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
         "lockon_lose_angle": "135",
-        "lockon_seek_in_flight": "true"
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "186",
@@ -1316,7 +1829,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "1.25",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "190",
@@ -1327,7 +1844,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "191",
@@ -1338,7 +1859,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "192",
@@ -1349,7 +1874,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "251",
@@ -1361,8 +1890,10 @@
         "lifespan": "4",
         "drag": "0.1",
         "gravity": "1",
-        "sticky": "false",
-        "sticks_to_players": "true"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "1",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "252",
@@ -1374,7 +1905,10 @@
         "lifespan": "3",
         "drag": "0.1",
         "gravity": "3",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "253",
@@ -1385,7 +1919,11 @@
         "turn_rate": "0",
         "lifespan": "240",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "254",
@@ -1396,7 +1934,11 @@
         "turn_rate": "0",
         "lifespan": "300",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "255",
@@ -1407,7 +1949,11 @@
         "turn_rate": "0",
         "lifespan": "360",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "650",
@@ -1418,7 +1964,11 @@
         "turn_rate": "0",
         "lifespan": "18000",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "658",
@@ -1430,7 +1980,10 @@
         "lifespan": "18000",
         "drag": "0",
         "gravity": "5",
-        "sticky": "true"
+        "detonate_on_contact": "0",
+        "sticky": "1",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "659",
@@ -1441,7 +1994,11 @@
         "turn_rate": "0",
         "lifespan": "18000",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "660",
@@ -1452,7 +2009,11 @@
         "turn_rate": "0",
         "lifespan": "18000",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "663",
@@ -1464,7 +2025,10 @@
         "lifespan": "18000",
         "drag": "0",
         "gravity": "5",
-        "sticky": "true"
+        "detonate_on_contact": "0",
+        "sticky": "1",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "667",
@@ -1472,7 +2036,11 @@
         "speed": "100",
         "lifespan": "8",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "668",
@@ -1480,7 +2048,11 @@
         "speed": "100",
         "lifespan": "8",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "669",
@@ -1488,7 +2060,11 @@
         "speed": "100",
         "lifespan": "8",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "670",
@@ -1501,7 +2077,10 @@
         "gravity": "1",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
-        "lockon_seek_in_flight": "true"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "671",
@@ -1514,7 +2093,10 @@
         "gravity": "1",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
-        "lockon_seek_in_flight": "true"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "672",
@@ -1527,7 +2109,10 @@
         "gravity": "1",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
-        "lockon_seek_in_flight": "true"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "1057",
@@ -1539,7 +2124,10 @@
         "lifespan": "5",
         "drag": "0.1",
         "gravity": "1",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "1063",
@@ -1550,7 +2138,11 @@
         "lifespan": "8",
         "drag": "0",
         "gravity": "2",
-        "lockon_acceleration": "0"
+        "lockon_acceleration": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "1064",
@@ -1563,8 +2155,11 @@
         "gravity": "0.5",
         "lockon_acceleration": "6.67",
         "lockon_lifespan": "5",
-        "detonate_on_contact": "true",
-        "lockon_lose_angle": "145"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "145",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "6050",
@@ -1573,7 +2168,11 @@
         "turn_rate": "0",
         "lifespan": "8",
         "drag": "0.1",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "8000",
@@ -1584,7 +2183,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "10009",
@@ -1595,7 +2198,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "10010",
@@ -1606,7 +2213,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "10011",
@@ -1617,7 +2228,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "10019",
@@ -1628,7 +2243,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "10110",
@@ -1639,7 +2258,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "10111",
@@ -1650,7 +2273,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "15000",
@@ -1661,7 +2288,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "15001",
@@ -1672,7 +2303,11 @@
         "turn_rate": "0",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "15004",
@@ -1684,7 +2319,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "0",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "16000",
@@ -1695,7 +2334,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "16001",
@@ -1706,7 +2349,11 @@
         "turn_rate": "0",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "2"
+        "gravity": "2",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "16004",
@@ -1718,7 +2365,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "0",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "16028",
@@ -1730,7 +2381,11 @@
         "drag": "0",
         "gravity": "1",
         "lockon_acceleration": "0.85",
-        "lockon_lifespan": "5"
+        "lockon_lifespan": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "16029",
@@ -1740,7 +2395,11 @@
         "acceleration": "80",
         "lifespan": "2.5",
         "drag": "0",
-        "gravity": "1.5"
+        "gravity": "1.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "16030",
@@ -1748,7 +2407,11 @@
         "speed": "450",
         "lifespan": "1.165",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "17000",
@@ -1758,7 +2421,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "17001",
@@ -1769,7 +2436,11 @@
         "turn_rate": "0",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "17004",
@@ -1781,7 +2452,11 @@
         "drag": "0",
         "gravity": "1",
         "arm_distance": "0",
-        "detonate_distance": "5"
+        "detonate_distance": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "18000",
@@ -1792,7 +2467,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "18001",
@@ -1803,7 +2482,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "19000",
@@ -1814,7 +2497,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "19001",
@@ -1825,7 +2512,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "20000",
@@ -1836,7 +2527,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "24000",
@@ -1846,7 +2541,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "24005",
@@ -1857,7 +2556,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "25000",
@@ -1867,7 +2570,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "25005",
@@ -1878,7 +2585,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "26000",
@@ -1888,7 +2599,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "26001",
@@ -1898,7 +2613,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "26002",
@@ -1908,7 +2627,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "26005",
@@ -1918,7 +2641,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "27000",
@@ -1929,7 +2656,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "28000",
@@ -1940,7 +2671,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "29000",
@@ -1951,7 +2686,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "30000",
@@ -1962,7 +2701,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "31000",
@@ -1971,7 +2714,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "31001",
@@ -1980,7 +2727,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "32000",
@@ -1990,7 +2741,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "32001",
@@ -2000,7 +2755,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "33002",
@@ -2011,7 +2770,10 @@
         "gravity": "0.5",
         "lockon_lifespan": "12",
         "tether_distance": "295",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "33003",
@@ -2023,7 +2785,10 @@
         "gravity": "1",
         "lockon_acceleration": "2.5",
         "lockon_lifespan": "5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "33004",
@@ -2036,8 +2801,11 @@
         "gravity": "1",
         "lockon_acceleration": "6.67",
         "lockon_lifespan": "5",
-        "detonate_on_contact": "true",
-        "lockon_lose_angle": "145"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "145",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "34002",
@@ -2051,8 +2819,10 @@
         "gravity": "1",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
-        "detonate_on_contact": "true",
-        "lockon_seek_in_flight": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "34003",
@@ -2065,7 +2835,10 @@
         "gravity": "1",
         "lockon_acceleration": "2.5",
         "lockon_lifespan": "5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "34004",
@@ -2078,8 +2851,11 @@
         "gravity": "1",
         "lockon_acceleration": "6.67",
         "lockon_lifespan": "5",
-        "detonate_on_contact": "true",
-        "lockon_lose_angle": "145"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "145",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "35000",
@@ -2090,7 +2866,11 @@
         "lifespan": "8",
         "drag": "0",
         "gravity": "2",
-        "lockon_acceleration": "0"
+        "lockon_acceleration": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "35002",
@@ -2098,7 +2878,11 @@
         "speed": "450",
         "lifespan": "1",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "35003",
@@ -2111,7 +2895,10 @@
         "gravity": "1",
         "lockon_acceleration": "2.5",
         "lockon_lifespan": "5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "35004",
@@ -2124,8 +2911,11 @@
         "gravity": "1",
         "lockon_acceleration": "6.67",
         "lockon_lifespan": "5",
-        "detonate_on_contact": "true",
-        "lockon_lose_angle": "145"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "145",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "42000",
@@ -2134,7 +2924,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "43000",
@@ -2143,7 +2937,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "44000",
@@ -2151,7 +2949,10 @@
         "speed": "100",
         "turn_rate": "0",
         "lifespan": "4",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "50051",
@@ -2163,8 +2964,10 @@
         "lifespan": "4",
         "drag": "0.1",
         "gravity": "1",
-        "detonate_on_contact": "true",
-        "sticky": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70006",
@@ -2175,7 +2978,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70007",
@@ -2186,7 +2993,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70008",
@@ -2197,7 +3008,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70009",
@@ -2208,7 +3023,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70010",
@@ -2219,7 +3038,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70012",
@@ -2230,7 +3053,11 @@
         "turn_rate": "0",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70013",
@@ -2241,7 +3068,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70016",
@@ -2249,7 +3080,10 @@
         "speed": "325",
         "turn_rate": "0",
         "lifespan": "1.25",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70023",
@@ -2257,7 +3091,11 @@
         "speed": "150",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70024",
@@ -2267,7 +3105,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "1.25",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70025",
@@ -2275,7 +3117,11 @@
         "speed": "600",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70026",
@@ -2283,7 +3129,11 @@
         "speed": "600",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70027",
@@ -2291,7 +3141,11 @@
         "speed": "600",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70028",
@@ -2301,7 +3155,10 @@
         "drag": "0",
         "gravity": "3",
         "arm_distance": "400",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70029",
@@ -2311,7 +3168,10 @@
         "drag": "0",
         "gravity": "3",
         "arm_distance": "400",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70030",
@@ -2321,7 +3181,10 @@
         "drag": "0",
         "gravity": "3",
         "arm_distance": "400",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70031",
@@ -2331,7 +3194,10 @@
         "drag": "0",
         "gravity": "3",
         "arm_distance": "400",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70033",
@@ -2341,7 +3207,10 @@
         "drag": "0",
         "gravity": "3",
         "arm_distance": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70034",
@@ -2349,7 +3218,11 @@
         "speed": "150",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "10"
+        "gravity": "10",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70036",
@@ -2360,7 +3233,11 @@
         "turn_rate": "0",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70037",
@@ -2371,7 +3248,11 @@
         "turn_rate": "0",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70044",
@@ -2379,7 +3260,11 @@
         "speed": "550",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70045",
@@ -2387,7 +3272,11 @@
         "speed": "550",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70046",
@@ -2395,7 +3284,11 @@
         "speed": "550",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70047",
@@ -2403,7 +3296,11 @@
         "speed": "500",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70048",
@@ -2411,7 +3308,11 @@
         "speed": "500",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70049",
@@ -2419,7 +3320,11 @@
         "speed": "500",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70050",
@@ -2427,7 +3332,11 @@
         "speed": "300",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70051",
@@ -2435,7 +3344,11 @@
         "speed": "300",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70052",
@@ -2443,28 +3356,44 @@
         "speed": "300",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70053",
         "projectile_flight_type_id": "1",
         "speed": "250",
         "lifespan": "5",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70054",
         "projectile_flight_type_id": "1",
         "speed": "250",
         "lifespan": "5",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70055",
         "projectile_flight_type_id": "1",
         "speed": "250",
         "lifespan": "5",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70056",
@@ -2474,7 +3403,11 @@
         "turn_rate": "1",
         "lifespan": "3",
         "lockon_acceleration": "2",
-        "lockon_lifespan": "2.9"
+        "lockon_lifespan": "2.9",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70057",
@@ -2484,7 +3417,11 @@
         "turn_rate": "1",
         "lifespan": "3",
         "lockon_acceleration": "2",
-        "lockon_lifespan": "2.9"
+        "lockon_lifespan": "2.9",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70058",
@@ -2494,7 +3431,11 @@
         "turn_rate": "1",
         "lifespan": "3",
         "lockon_acceleration": "2",
-        "lockon_lifespan": "2.9"
+        "lockon_lifespan": "2.9",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70062",
@@ -2504,7 +3445,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "1.25",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70063",
@@ -2515,7 +3460,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70064",
@@ -2524,7 +3473,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70065",
@@ -2534,7 +3487,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70066",
@@ -2545,7 +3502,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70067",
@@ -2556,7 +3517,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70068",
@@ -2567,7 +3532,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70069",
@@ -2578,7 +3547,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70070",
@@ -2589,7 +3562,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70071",
@@ -2600,7 +3577,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70072",
@@ -2611,7 +3592,11 @@
         "lifespan": "8",
         "drag": "0",
         "gravity": "2",
-        "lockon_acceleration": "0"
+        "lockon_acceleration": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70073",
@@ -2621,7 +3606,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "1.5",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70074",
@@ -2632,7 +3621,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70075",
@@ -2642,7 +3635,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70076",
@@ -2653,7 +3650,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70077",
@@ -2664,7 +3665,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70078",
@@ -2674,7 +3679,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70079",
@@ -2685,7 +3694,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "70080",
@@ -2697,7 +3710,10 @@
         "lifespan": "18000",
         "drag": "0",
         "gravity": "5",
-        "sticky": "true"
+        "detonate_on_contact": "0",
+        "sticky": "1",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80027",
@@ -2707,7 +3723,10 @@
         "drag": "0",
         "gravity": "3",
         "arm_distance": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80032",
@@ -2715,7 +3734,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80033",
@@ -2723,7 +3746,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80034",
@@ -2731,7 +3758,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80035",
@@ -2739,7 +3770,11 @@
         "speed": "425",
         "lifespan": "1",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80036",
@@ -2747,7 +3782,11 @@
         "speed": "425",
         "lifespan": "1",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80037",
@@ -2755,7 +3794,11 @@
         "speed": "425",
         "lifespan": "1",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80040",
@@ -2763,7 +3806,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80041",
@@ -2771,7 +3818,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80042",
@@ -2782,7 +3833,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80043",
@@ -2794,7 +3849,10 @@
         "gravity": "1",
         "arm_distance": "0",
         "detonate_distance": "5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80046",
@@ -2807,7 +3865,10 @@
         "drag": "0",
         "gravity": "7.5",
         "arm_distance": "25",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80047",
@@ -2817,7 +3878,10 @@
         "lifespan": "3.5",
         "drag": "0",
         "gravity": "3",
-        "lockon_seek_in_flight": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80048",
@@ -2825,14 +3889,22 @@
         "speed": "300",
         "lifespan": "7",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80049",
         "projectile_flight_type_id": "1",
         "speed": "200",
         "lifespan": "5",
-        "gravity": "8"
+        "gravity": "8",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80051",
@@ -2840,7 +3912,11 @@
         "speed": "425",
         "lifespan": "1",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80052",
@@ -2848,7 +3924,11 @@
         "speed": "425",
         "lifespan": "1",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80053",
@@ -2856,7 +3936,11 @@
         "speed": "500",
         "lifespan": "1",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80054",
@@ -2870,8 +3954,11 @@
         "gravity": "0",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
         "lockon_lose_angle": "135",
-        "lockon_seek_in_flight": "true"
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "80055",
@@ -2885,8 +3972,11 @@
         "gravity": "0",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
         "lockon_lose_angle": "135",
-        "lockon_seek_in_flight": "true"
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "80056",
@@ -2900,8 +3990,11 @@
         "gravity": "0",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
         "lockon_lose_angle": "135",
-        "lockon_seek_in_flight": "true"
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "80077",
@@ -2911,7 +4004,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "1.25",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80078",
@@ -2924,8 +4021,11 @@
         "gravity": "0.5",
         "lockon_acceleration": "1.85",
         "lockon_lifespan": "12",
-        "detonate_on_contact": "true",
-        "lockon_lose_angle": "180"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "180",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80079",
@@ -2938,8 +4038,11 @@
         "gravity": "0.5",
         "lockon_acceleration": "2",
         "lockon_lifespan": "12",
-        "detonate_on_contact": "true",
-        "lockon_lose_angle": "180"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "180",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80082",
@@ -2950,7 +4053,11 @@
         "turn_rate": "0",
         "lifespan": "7",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80083",
@@ -2958,7 +4065,11 @@
         "speed": "1000",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80084",
@@ -2966,7 +4077,11 @@
         "speed": "1000",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80085",
@@ -2974,7 +4089,11 @@
         "speed": "1000",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80090",
@@ -2984,7 +4103,10 @@
         "drag": "0",
         "gravity": "3",
         "arm_distance": "400",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80091",
@@ -2994,7 +4116,10 @@
         "drag": "0",
         "gravity": "3",
         "arm_distance": "400",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80092",
@@ -3004,7 +4129,10 @@
         "drag": "0",
         "gravity": "3",
         "arm_distance": "400",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80093",
@@ -3013,7 +4141,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80094",
@@ -3022,7 +4154,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80095",
@@ -3030,7 +4166,10 @@
         "speed": "100",
         "turn_rate": "0",
         "lifespan": "4",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80096",
@@ -3041,7 +4180,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80097",
@@ -3051,7 +4194,10 @@
         "lifespan": "3.5",
         "drag": "0",
         "gravity": "3",
-        "lockon_seek_in_flight": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80100",
@@ -3062,7 +4208,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80101",
@@ -3073,8 +4223,10 @@
         "lifespan": "6",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true",
-        "lockon_seek_in_flight": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80102",
@@ -3085,7 +4237,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80103",
@@ -3096,7 +4252,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80104",
@@ -3107,7 +4267,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80105",
@@ -3118,7 +4282,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.5"
+        "gravity": "11.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80106",
@@ -3129,7 +4297,10 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "gravity": "7.5",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80107",
@@ -3140,7 +4311,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80116",
@@ -3148,7 +4323,11 @@
         "speed": "490",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80117",
@@ -3156,7 +4335,11 @@
         "speed": "490",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80118",
@@ -3164,7 +4347,11 @@
         "speed": "490",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80122",
@@ -3172,7 +4359,11 @@
         "speed": "850",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80123",
@@ -3180,7 +4371,11 @@
         "speed": "850",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80124",
@@ -3188,7 +4383,11 @@
         "speed": "850",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80129",
@@ -3197,7 +4396,11 @@
         "speed_max": "0",
         "acceleration": "0",
         "lifespan": "40",
-        "gravity": "3"
+        "gravity": "3",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80130",
@@ -3206,7 +4409,11 @@
         "speed_max": "0",
         "acceleration": "0",
         "lifespan": "40",
-        "gravity": "3"
+        "gravity": "3",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80131",
@@ -3215,7 +4422,11 @@
         "speed_max": "0",
         "acceleration": "0",
         "lifespan": "40",
-        "gravity": "3"
+        "gravity": "3",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80132",
@@ -3227,7 +4438,10 @@
         "lifespan": "60",
         "drag": "1",
         "gravity": "4",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80133",
@@ -3238,7 +4452,11 @@
         "turn_rate": "0",
         "lifespan": "20",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80134",
@@ -3249,7 +4467,11 @@
         "turn_rate": "0",
         "lifespan": "20",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80135",
@@ -3260,7 +4482,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80136",
@@ -3271,7 +4497,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80137",
@@ -3282,7 +4512,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80138",
@@ -3293,7 +4527,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80139",
@@ -3304,7 +4542,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80140",
@@ -3315,7 +4557,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80141",
@@ -3327,7 +4573,10 @@
         "lifespan": "3",
         "drag": "0.1",
         "gravity": "1",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80146",
@@ -3338,7 +4587,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80147",
@@ -3349,7 +4602,11 @@
         "turn_rate": "0",
         "lifespan": "20",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80148",
@@ -3360,7 +4617,11 @@
         "turn_rate": "0",
         "lifespan": "20",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80150",
@@ -3368,7 +4629,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80151",
@@ -3379,7 +4644,11 @@
         "turn_rate": "0",
         "lifespan": "20",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80152",
@@ -3391,7 +4660,10 @@
         "lifespan": "1",
         "drag": "0",
         "gravity": "0",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80155",
@@ -3403,7 +4675,10 @@
         "lifespan": "5",
         "drag": "0",
         "gravity": "0",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80158",
@@ -3411,7 +4686,11 @@
         "speed": "30",
         "lifespan": "0.5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80159",
@@ -3422,7 +4701,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80160",
@@ -3433,7 +4716,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80166",
@@ -3443,14 +4730,21 @@
         "drag": "0",
         "gravity": "11.25",
         "arm_distance": "0",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80176",
         "projectile_flight_type_id": "1",
         "speed": "250",
         "lifespan": "5",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80180",
@@ -3461,7 +4755,11 @@
         "turn_rate": "0",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "0.4"
+        "gravity": "0.4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80182",
@@ -3471,7 +4769,10 @@
         "drag": "0",
         "gravity": "7",
         "arm_distance": "10",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80183",
@@ -3479,7 +4780,11 @@
         "speed": "250",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80184",
@@ -3487,7 +4792,11 @@
         "speed": "250",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80185",
@@ -3495,7 +4804,11 @@
         "speed": "200",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80186",
@@ -3503,7 +4816,11 @@
         "speed": "200",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80187",
@@ -3511,7 +4828,11 @@
         "speed": "225",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80188",
@@ -3519,7 +4840,11 @@
         "speed": "225",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80189",
@@ -3529,7 +4854,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "5",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80190",
@@ -3539,7 +4868,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "5",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80194",
@@ -3550,7 +4883,11 @@
         "turn_rate": "0",
         "lifespan": "7",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80196",
@@ -3560,7 +4897,11 @@
         "acceleration": "100",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80198",
@@ -3571,7 +4912,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80202",
@@ -3583,8 +4928,10 @@
         "lifespan": "14",
         "drag": "0.1",
         "gravity": "3",
-        "detonate_on_contact": "false",
-        "sticks_to_players": "true"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "1",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80204",
@@ -3595,7 +4942,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80205",
@@ -3605,7 +4956,10 @@
         "drag": "0.15",
         "gravity": "11",
         "lockon_acceleration": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80212",
@@ -3616,7 +4970,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80216",
@@ -3627,7 +4985,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80218",
@@ -3638,7 +5000,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80220",
@@ -3649,7 +5015,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80223",
@@ -3660,7 +5030,11 @@
         "turn_rate": "0",
         "lifespan": "1",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80226",
@@ -3673,7 +5047,10 @@
         "drag": "0",
         "gravity": "7.5",
         "arm_distance": "25",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80227",
@@ -3684,7 +5061,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80228",
@@ -3695,7 +5076,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80230",
@@ -3705,7 +5090,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80231",
@@ -3714,7 +5103,11 @@
         "speed_max": "0",
         "acceleration": "0",
         "lifespan": "40",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80232",
@@ -3726,14 +5119,21 @@
         "lifespan": "60",
         "drag": "1",
         "gravity": "4",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80234",
         "projectile_flight_type_id": "1",
         "speed": "100",
         "lifespan": "5",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80236",
@@ -3742,7 +5142,11 @@
         "speed_max": "250",
         "acceleration": "100",
         "lifespan": "4",
-        "gravity": "6"
+        "gravity": "6",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80238",
@@ -3753,7 +5157,11 @@
         "turn_rate": "0",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "10"
+        "gravity": "10",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80239",
@@ -3765,7 +5173,10 @@
         "lifespan": "3",
         "drag": "0.1",
         "gravity": "11",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80240",
@@ -3777,7 +5188,10 @@
         "lifespan": "3",
         "drag": "0.1",
         "gravity": "11",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80241",
@@ -3789,7 +5203,10 @@
         "lifespan": "3",
         "drag": "0.1",
         "gravity": "11",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80243",
@@ -3801,8 +5218,10 @@
         "lifespan": "4",
         "drag": "0.1",
         "gravity": "1",
-        "detonate_on_contact": "false",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80244",
@@ -3813,8 +5232,10 @@
         "drag": "0.75",
         "gravity": "2",
         "arm_distance": "20",
-        "detonate_on_contact": "true",
-        "sticks_to_players": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80245",
@@ -3826,7 +5247,10 @@
         "lifespan": "1",
         "drag": "0.1",
         "gravity": "11.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80246",
@@ -3837,7 +5261,11 @@
         "turn_rate": "0",
         "lifespan": "4",
         "drag": "0.25",
-        "gravity": "11"
+        "gravity": "11",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80264",
@@ -3849,7 +5277,10 @@
         "lifespan": "1.5",
         "drag": "0",
         "gravity": "7.5",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80265",
@@ -3858,7 +5289,10 @@
         "turn_rate": "0",
         "lifespan": "3",
         "gravity": "11",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80270",
@@ -3869,7 +5303,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80273",
@@ -3880,7 +5318,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80280",
@@ -3891,7 +5333,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80282",
@@ -3902,7 +5348,11 @@
         "turn_rate": "0",
         "lifespan": "4",
         "drag": "0.1",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80284",
@@ -3913,7 +5363,11 @@
         "turn_rate": "0",
         "lifespan": "18000",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80285",
@@ -3921,7 +5375,11 @@
         "speed": "600",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80286",
@@ -3932,9 +5390,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "0.2",
-        "detonate_on_contact": "false",
-        "sticky": "false",
-        "sticks_to_players": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80289",
@@ -3946,8 +5405,10 @@
         "lifespan": "4",
         "drag": "0.1",
         "gravity": "1",
-        "sticky": "true",
-        "sticks_to_players": "true"
+        "detonate_on_contact": "0",
+        "sticky": "1",
+        "sticks_to_players": "1",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80290",
@@ -3957,7 +5418,11 @@
         "turn_rate": "0",
         "lifespan": "1.25",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80291",
@@ -3968,8 +5433,10 @@
         "lifespan": "6",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true",
-        "lockon_seek_in_flight": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80292",
@@ -3980,7 +5447,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80293",
@@ -3991,7 +5462,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80294",
@@ -4002,7 +5477,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80296",
@@ -4013,7 +5492,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.5"
+        "gravity": "11.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80297",
@@ -4021,7 +5504,11 @@
         "speed": "500",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80298",
@@ -4029,7 +5516,11 @@
         "speed": "500",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80299",
@@ -4037,7 +5528,11 @@
         "speed": "500",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80302",
@@ -4045,7 +5540,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80308",
@@ -4056,7 +5555,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80309",
@@ -4065,7 +5568,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80310",
@@ -4075,7 +5582,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80313",
@@ -4085,7 +5596,10 @@
         "lifespan": "3",
         "gravity": "1.5",
         "arm_distance": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80325",
@@ -4096,7 +5610,10 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "gravity": "7.5",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80328",
@@ -4108,7 +5625,10 @@
         "lifespan": "3",
         "drag": "0.1",
         "gravity": "11",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80344",
@@ -4118,7 +5638,10 @@
         "lifespan": "3",
         "gravity": "1.5",
         "arm_distance": "10",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80351",
@@ -4126,7 +5649,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80352",
@@ -4136,7 +5663,10 @@
         "lifespan": "3",
         "gravity": "1.3",
         "arm_distance": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80353",
@@ -4151,9 +5681,11 @@
         "lockon_acceleration": "10",
         "lockon_lifespan": "4",
         "arm_distance": "10",
-        "detonate_on_contact": "true",
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
         "lockon_lose_angle": "180",
-        "lockon_seek_in_flight": "true"
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "80354",
@@ -4161,13 +5693,21 @@
         "speed": "250",
         "lifespan": "7",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80355",
         "projectile_flight_type_id": "1",
         "speed": "250",
-        "lifespan": "5"
+        "lifespan": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80357",
@@ -4175,7 +5715,11 @@
         "speed": "250",
         "speed_max": "250",
         "lifespan": "5",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80358",
@@ -4187,19 +5731,30 @@
         "lifespan": "18000",
         "drag": "0",
         "gravity": "5",
-        "sticky": "true"
+        "detonate_on_contact": "0",
+        "sticky": "1",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80359",
         "projectile_flight_type_id": "1",
         "speed": "250",
-        "lifespan": "5"
+        "lifespan": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80360",
         "projectile_flight_type_id": "1",
         "speed": "250",
-        "lifespan": "5"
+        "lifespan": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80362",
@@ -4207,7 +5762,11 @@
         "speed": "1000",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80363",
@@ -4215,7 +5774,11 @@
         "speed": "1000",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80364",
@@ -4223,7 +5786,11 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80365",
@@ -4231,7 +5798,11 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80366",
@@ -4239,7 +5810,11 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80369",
@@ -4250,7 +5825,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80370",
@@ -4261,7 +5840,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80371",
@@ -4270,7 +5853,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80372",
@@ -4279,7 +5865,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80377",
@@ -4288,7 +5877,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80378",
@@ -4297,7 +5889,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80380",
@@ -4306,7 +5901,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80383",
@@ -4314,7 +5912,11 @@
         "speed": "400",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80384",
@@ -4322,7 +5924,11 @@
         "speed": "450",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80385",
@@ -4330,7 +5936,11 @@
         "speed": "450",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80386",
@@ -4338,7 +5948,11 @@
         "speed": "500",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80387",
@@ -4346,7 +5960,11 @@
         "speed": "500",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80388",
@@ -4354,7 +5972,11 @@
         "speed": "500",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80389",
@@ -4362,7 +5984,11 @@
         "speed": "75",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "6.5"
+        "gravity": "6.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80390",
@@ -4372,7 +5998,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "5",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80391",
@@ -4385,7 +6015,10 @@
         "gravity": "1",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
-        "lockon_seek_in_flight": "true"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "80392",
@@ -4395,7 +6028,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "5",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80393",
@@ -4405,7 +6042,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "5",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80394",
@@ -4413,7 +6054,11 @@
         "speed": "250",
         "lifespan": "7",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80395",
@@ -4421,7 +6066,11 @@
         "speed": "250",
         "lifespan": "7",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80405",
@@ -4430,7 +6079,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80408",
@@ -4441,7 +6093,10 @@
         "lifespan": "4",
         "drag": "0",
         "gravity": "5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80409",
@@ -4449,7 +6104,11 @@
         "speed": "300",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "2.5"
+        "gravity": "2.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80415",
@@ -4457,7 +6116,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80416",
@@ -4468,8 +6131,11 @@
         "lifespan": "6",
         "lockon_acceleration": "1.8",
         "lockon_lifespan": "6",
-        "detonate_on_contact": "false",
-        "lockon_lose_angle": "180"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "180",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80417",
@@ -4480,8 +6146,11 @@
         "lifespan": "6",
         "lockon_acceleration": "1.8",
         "lockon_lifespan": "6",
-        "detonate_on_contact": "false",
-        "lockon_lose_angle": "180"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "180",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80418",
@@ -4492,8 +6161,11 @@
         "lifespan": "6",
         "lockon_acceleration": "1.8",
         "lockon_lifespan": "6",
-        "detonate_on_contact": "false",
-        "lockon_lose_angle": "180"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "180",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80421",
@@ -4501,7 +6173,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80422",
@@ -4512,7 +6188,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80423",
@@ -4523,7 +6203,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80425",
@@ -4534,7 +6218,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80426",
@@ -4545,7 +6233,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80427",
@@ -4556,7 +6248,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80429",
@@ -4567,7 +6263,11 @@
         "turn_rate": "0",
         "lifespan": "0.1",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80430",
@@ -4581,8 +6281,10 @@
         "gravity": "1.5",
         "lockon_acceleration": "1",
         "lockon_lifespan": "3.8",
-        "detonate_on_contact": "true",
-        "lockon_seek_in_flight": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80431",
@@ -4594,7 +6296,10 @@
         "lifespan": "18000",
         "drag": "0",
         "gravity": "5",
-        "sticky": "true"
+        "detonate_on_contact": "0",
+        "sticky": "1",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80432",
@@ -4602,7 +6307,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80433",
@@ -4614,8 +6323,10 @@
         "lifespan": "18000",
         "drag": "0",
         "gravity": "5",
-        "detonate_on_contact": "true",
-        "sticky": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80434",
@@ -4623,7 +6334,11 @@
         "speed": "750",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80436",
@@ -4632,7 +6347,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80437",
@@ -4641,7 +6360,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80438",
@@ -4650,7 +6373,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80439",
@@ -4659,7 +6386,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80440",
@@ -4668,7 +6399,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80441",
@@ -4677,7 +6412,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80442",
@@ -4686,7 +6425,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80443",
@@ -4695,7 +6438,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80444",
@@ -4704,7 +6451,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80445",
@@ -4713,7 +6464,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80446",
@@ -4722,7 +6477,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80447",
@@ -4731,7 +6490,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80448",
@@ -4740,7 +6503,11 @@
         "acceleration": "0",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80449",
@@ -4749,7 +6516,11 @@
         "acceleration": "0",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80450",
@@ -4758,7 +6529,11 @@
         "acceleration": "0",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80451",
@@ -4769,7 +6544,11 @@
         "lifespan": "8",
         "drag": "0",
         "gravity": "2",
-        "lockon_acceleration": "0"
+        "lockon_acceleration": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80452",
@@ -4782,7 +6561,10 @@
         "gravity": "1",
         "lockon_acceleration": "2.5",
         "lockon_lifespan": "5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80453",
@@ -4795,8 +6577,11 @@
         "gravity": "1",
         "lockon_acceleration": "6.67",
         "lockon_lifespan": "5",
-        "detonate_on_contact": "true",
-        "lockon_lose_angle": "145"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "145",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80454",
@@ -4807,7 +6592,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80455",
@@ -4818,7 +6607,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80456",
@@ -4829,7 +6622,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80459",
@@ -4837,7 +6634,11 @@
         "speed": "225",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80463",
@@ -4845,7 +6646,11 @@
         "speed": "550",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80464",
@@ -4856,7 +6661,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80465",
@@ -4867,7 +6676,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80466",
@@ -4878,7 +6691,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80471",
@@ -4886,7 +6703,11 @@
         "speed": "650",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80474",
@@ -4895,8 +6716,10 @@
         "lifespan": "1",
         "drag": "0",
         "gravity": "1.25",
-        "detonate_on_contact": "true",
-        "lockon_seek_in_flight": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80476",
@@ -4908,7 +6731,10 @@
         "lifespan": "10",
         "drag": "0",
         "gravity": "2",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80479",
@@ -4919,7 +6745,10 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "gravity": "7.5",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80480",
@@ -4930,7 +6759,10 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "gravity": "7.5",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80481",
@@ -4941,7 +6773,10 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "gravity": "7.5",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80484",
@@ -4949,7 +6784,11 @@
         "speed": "275",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80486",
@@ -4957,7 +6796,11 @@
         "speed": "550",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80487",
@@ -4965,7 +6808,11 @@
         "speed": "275",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80489",
@@ -4978,7 +6825,10 @@
         "gravity": "1",
         "lockon_acceleration": "40",
         "lockon_lifespan": "5",
-        "lockon_seek_in_flight": "true"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "80493",
@@ -4989,8 +6839,11 @@
         "lifespan": "6",
         "lockon_acceleration": "4",
         "lockon_lifespan": "6",
-        "detonate_on_contact": "true",
-        "lockon_lose_angle": "180"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_lose_angle": "180",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80494",
@@ -4999,8 +6852,10 @@
         "lifespan": "3.5",
         "drag": "0",
         "gravity": "0",
-        "detonate_on_contact": "true",
-        "lockon_seek_in_flight": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80495",
@@ -5008,7 +6863,11 @@
         "speed": "600",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80496",
@@ -5016,7 +6875,11 @@
         "speed": "800",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80497",
@@ -5024,7 +6887,11 @@
         "speed": "800",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80498",
@@ -5034,7 +6901,11 @@
         "acceleration": "0",
         "turn_rate": "0",
         "lifespan": "5",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80499",
@@ -5047,9 +6918,11 @@
         "gravity": "5.5",
         "lockon_acceleration": "2.5",
         "lockon_lifespan": "6",
-        "detonate_on_contact": "true",
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
         "lockon_lose_angle": "180",
-        "lockon_seek_in_flight": "false"
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80502",
@@ -5060,7 +6933,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80504",
@@ -5069,7 +6946,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80505",
@@ -5078,7 +6959,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80506",
@@ -5087,7 +6972,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80507",
@@ -5096,7 +6985,11 @@
         "acceleration": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80508",
@@ -5107,7 +7000,10 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "gravity": "7.5",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80510",
@@ -5118,7 +7014,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80511",
@@ -5127,7 +7027,11 @@
         "acceleration": "0",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80512",
@@ -5136,7 +7040,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.5"
+        "gravity": "11.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80513",
@@ -5148,7 +7056,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "7.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80514",
@@ -5158,7 +7069,10 @@
         "lifespan": "9",
         "gravity": "7",
         "arm_distance": "20",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80516",
@@ -5168,7 +7082,10 @@
         "lifespan": "3",
         "gravity": "1.5",
         "arm_distance": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80517",
@@ -5178,7 +7095,10 @@
         "lifespan": "3",
         "gravity": "1.5",
         "arm_distance": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80518",
@@ -5188,7 +7108,10 @@
         "lifespan": "3",
         "gravity": "1.5",
         "arm_distance": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80519",
@@ -5198,7 +7121,10 @@
         "lifespan": "3",
         "gravity": "1.5",
         "arm_distance": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80520",
@@ -5208,7 +7134,10 @@
         "lifespan": "3",
         "gravity": "1.5",
         "arm_distance": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80521",
@@ -5219,7 +7148,11 @@
         "turn_rate": "0",
         "lifespan": "6",
         "drag": "0",
-        "gravity": "11.5"
+        "gravity": "11.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80526",
@@ -5230,7 +7163,11 @@
         "turn_rate": "0",
         "lifespan": "6",
         "drag": "0",
-        "gravity": "11.5"
+        "gravity": "11.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80531",
@@ -5241,7 +7178,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80532",
@@ -5252,7 +7193,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80533",
@@ -5263,7 +7208,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80534",
@@ -5274,7 +7223,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80537",
@@ -5284,7 +7237,10 @@
         "drag": "0",
         "gravity": "11",
         "arm_distance": "0",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80538",
@@ -5293,8 +7249,10 @@
         "lifespan": "1",
         "drag": "0",
         "gravity": "1.25",
-        "detonate_on_contact": "true",
-        "lockon_seek_in_flight": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80540",
@@ -5305,7 +7263,11 @@
         "lifespan": "8",
         "drag": "0",
         "gravity": "2",
-        "lockon_acceleration": "0"
+        "lockon_acceleration": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80541",
@@ -5313,7 +7275,11 @@
         "speed": "1250",
         "lifespan": "5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80542",
@@ -5324,7 +7290,11 @@
         "turn_rate": "0",
         "lifespan": "6",
         "drag": "0",
-        "gravity": "11.5"
+        "gravity": "11.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80544",
@@ -5336,8 +7306,10 @@
         "lifespan": "4",
         "drag": "0.1",
         "gravity": "11",
-        "detonate_on_contact": "true",
-        "sticky": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80545",
@@ -5345,7 +7317,11 @@
         "speed": "650",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80546",
@@ -5353,7 +7329,11 @@
         "speed": "650",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80547",
@@ -5365,8 +7345,10 @@
         "lifespan": "4",
         "drag": "0.1",
         "gravity": "11",
-        "detonate_on_contact": "true",
-        "sticky": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80548",
@@ -5374,7 +7356,11 @@
         "speed": "425",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80549",
@@ -5382,7 +7368,11 @@
         "speed": "600",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80550",
@@ -5390,7 +7380,11 @@
         "speed": "575",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80551",
@@ -5402,7 +7396,10 @@
         "lifespan": "18000",
         "drag": "0",
         "gravity": "5",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80552",
@@ -5410,7 +7407,11 @@
         "speed": "600",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80553",
@@ -5418,7 +7419,11 @@
         "speed": "575",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80554",
@@ -5426,7 +7431,11 @@
         "speed": "425",
         "lifespan": "3",
         "drag": "0",
-        "gravity": "5"
+        "gravity": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80555",
@@ -5434,7 +7443,11 @@
         "speed": "650",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80556",
@@ -5446,7 +7459,10 @@
         "lifespan": "18000",
         "drag": "0",
         "gravity": "5",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80557",
@@ -5458,7 +7474,10 @@
         "lifespan": "18000",
         "drag": "0",
         "gravity": "5",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80558",
@@ -5470,7 +7489,10 @@
         "lifespan": "18000",
         "drag": "0",
         "gravity": "5",
-        "sticky": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80559",
@@ -5482,7 +7504,10 @@
         "lifespan": "4",
         "drag": "0.1",
         "gravity": "11",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80560",
@@ -5492,7 +7517,11 @@
         "acceleration": "0",
         "lifespan": "4",
         "drag": "0.1",
-        "gravity": "1"
+        "gravity": "1",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80561",
@@ -5501,7 +7530,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80563",
@@ -5512,8 +7544,10 @@
         "lifespan": "6",
         "drag": "0.1",
         "gravity": "2",
-        "detonate_on_contact": "true",
-        "lockon_seek_in_flight": "false"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80565",
@@ -5521,7 +7555,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80568",
@@ -5533,7 +7571,10 @@
         "lifespan": "15",
         "drag": "0",
         "gravity": "11.25",
-        "sticky": "true"
+        "detonate_on_contact": "0",
+        "sticky": "1",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80569",
@@ -5541,7 +7582,11 @@
         "speed": "550",
         "lifespan": "2",
         "drag": "0",
-        "gravity": "7.5"
+        "gravity": "7.5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80570",
@@ -5555,7 +7600,10 @@
         "gravity": "7.5",
         "arm_distance": "25",
         "detonate_distance": "2",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80571",
@@ -5568,7 +7616,10 @@
         "drag": "0",
         "gravity": "7.5",
         "arm_distance": "25",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80572",
@@ -5581,7 +7632,10 @@
         "drag": "0",
         "gravity": "0",
         "arm_distance": "25",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80573",
@@ -5594,13 +7648,20 @@
         "drag": "0",
         "gravity": "7.5",
         "arm_distance": "25",
-        "detonate_on_contact": "false"
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80577",
         "projectile_flight_type_id": "1",
         "drag": "0",
-        "gravity": "2"
+        "gravity": "2",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80579",
@@ -5608,7 +7669,11 @@
         "speed": "225",
         "lifespan": "6",
         "drag": "0",
-        "gravity": "2"
+        "gravity": "2",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80580",
@@ -5618,7 +7683,11 @@
         "turn_rate": "0",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80582",
@@ -5626,7 +7695,11 @@
         "speed": "350",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80583",
@@ -5634,7 +7707,11 @@
         "speed": "300",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80585",
@@ -5644,14 +7721,22 @@
         "turn_rate": "0",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "4"
+        "gravity": "4",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80586",
         "projectile_flight_type_id": "3",
         "speed": "200",
         "lifespan": "6",
-        "gravity": "2"
+        "gravity": "2",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80587",
@@ -5660,7 +7745,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80588",
@@ -5669,7 +7757,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80589",
@@ -5678,7 +7769,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80590",
@@ -5687,7 +7781,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80591",
@@ -5696,7 +7793,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80592",
@@ -5705,7 +7805,10 @@
         "lifespan": "3",
         "drag": "0",
         "gravity": "1.5",
-        "detonate_on_contact": "true"
+        "detonate_on_contact": "1",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80594",
@@ -5714,7 +7817,11 @@
         "speed_max": "0",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80596",
@@ -5726,8 +7833,11 @@
         "gravity": "0",
         "lockon_acceleration": "20",
         "lockon_lifespan": "5",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
         "lockon_lose_angle": "135",
-        "lockon_seek_in_flight": "true"
+        "lockon_seek_in_flight": "1"
     },
     {
         "projectile_id": "80598",
@@ -5736,7 +7846,11 @@
         "speed_max": "0",
         "lifespan": "4",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80602",
@@ -5744,7 +7858,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80603",
@@ -5752,7 +7870,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80604",
@@ -5760,7 +7882,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80605",
@@ -5771,7 +7897,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80606",
@@ -5782,7 +7912,11 @@
         "turn_rate": "0",
         "lifespan": "1.5",
         "drag": "0",
-        "gravity": "11.25"
+        "gravity": "11.25",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80607",
@@ -5790,7 +7924,11 @@
         "speed": "13",
         "lifespan": "0.12",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     },
     {
         "projectile_id": "80608",
@@ -5798,6 +7936,10 @@
         "speed": "30",
         "lifespan": "0.5",
         "drag": "0",
-        "gravity": "0"
+        "gravity": "0",
+        "detonate_on_contact": "0",
+        "sticky": "0",
+        "sticks_to_players": "0",
+        "lockon_seek_in_flight": "0"
     }
 ]
