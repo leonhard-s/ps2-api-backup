@@ -10,7 +10,15 @@
         "location_y": "491.7669",
         "location_z": "-2444.069",
         "reward_amount": "1",
-        "reward_currency_id": "1000"
+        "reward_currency_id": "1000",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "2102",
@@ -23,7 +31,15 @@
         "location_y": "110",
         "location_z": "1514",
         "reward_amount": "1",
-        "reward_currency_id": "1000"
+        "reward_currency_id": "1000",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "2103",
@@ -34,7 +50,15 @@
         "facility_type": "Bio Lab",
         "location_x": "-383",
         "location_y": "443",
-        "location_z": "-845"
+        "location_z": "-845",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "2104",
@@ -45,7 +69,15 @@
         "facility_type": "Bio Lab",
         "location_x": "2381.5",
         "location_y": "52.75031",
-        "location_z": "-2045.004"
+        "location_z": "-2045.004",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "2105",
@@ -56,7 +88,15 @@
         "facility_type": "Amp Station",
         "location_x": "-2384.115",
         "location_y": "471.3849",
-        "location_z": "-1148.466"
+        "location_z": "-1148.466",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "2106",
@@ -67,7 +107,15 @@
         "facility_type": "Bio Lab",
         "location_x": "-508",
         "location_y": "398",
-        "location_z": "2456"
+        "location_z": "2456",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "2107",
@@ -78,7 +126,15 @@
         "facility_type": "Amp Station",
         "location_x": "1416",
         "location_y": "151",
-        "location_z": "-1181"
+        "location_z": "-1181",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "2108",
@@ -91,7 +147,15 @@
         "location_y": "226",
         "location_z": "810",
         "reward_amount": "1",
-        "reward_currency_id": "1000"
+        "reward_currency_id": "1000",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "2109",
@@ -102,7 +166,15 @@
         "facility_type": "Amp Station",
         "location_x": "-432.539001",
         "location_y": "204.841507",
-        "location_z": "1126.246094"
+        "location_z": "1126.246094",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "2201",
@@ -152,7 +224,15 @@
         "facility_type": "Large Outpost",
         "location_x": "2507",
         "location_y": "75",
-        "location_z": "-786"
+        "location_z": "-786",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2302",
@@ -163,7 +243,15 @@
         "facility_type": "Large Outpost",
         "location_x": "2705",
         "location_y": "49",
-        "location_z": "1537"
+        "location_z": "1537",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2303",
@@ -174,7 +262,15 @@
         "facility_type": "Large CTF Outpost",
         "location_x": "999",
         "location_y": "106",
-        "location_z": "-2385"
+        "location_z": "-2385",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2304",
@@ -185,7 +281,15 @@
         "facility_type": "Large CTF Outpost",
         "location_x": "1112.449",
         "location_y": "-86.38023",
-        "location_z": "48.47856"
+        "location_z": "48.47856",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2305",
@@ -196,7 +300,15 @@
         "facility_type": "Large Outpost",
         "location_x": "224.6381",
         "location_y": "391.722",
-        "location_z": "1949.769"
+        "location_z": "1949.769",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2306",
@@ -207,7 +319,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-130.915",
         "location_y": "392.0261",
-        "location_z": "305.3803"
+        "location_z": "305.3803",
+        "capture_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "2"
+        },
+        "tick_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "2"
+        }
     },
     {
         "map_region_id": "2307",
@@ -218,7 +338,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-790",
         "location_y": "399",
-        "location_z": "277"
+        "location_z": "277",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2308",
@@ -229,7 +357,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-1339",
         "location_y": "488",
-        "location_z": "-2194"
+        "location_z": "-2194",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2309",
@@ -240,7 +376,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-1143.912",
         "location_y": "495.0154",
-        "location_z": "-839.8052"
+        "location_z": "-839.8052",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2310",
@@ -251,7 +395,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-1763",
         "location_y": "498",
-        "location_z": "-391"
+        "location_z": "-391",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2311",
@@ -262,7 +414,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-1579.101",
         "location_y": "256.757",
-        "location_z": "1651.754"
+        "location_z": "1651.754",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2312",
@@ -273,7 +433,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-1571.195",
         "location_y": "321.0607",
-        "location_z": "2100.946"
+        "location_z": "2100.946",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2313",
@@ -284,7 +452,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-2218.261",
         "location_y": "260.0384",
-        "location_z": "1761.455"
+        "location_z": "1761.455",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2402",
@@ -295,7 +471,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2939.126",
         "location_y": "54.81305",
-        "location_z": "-903.4175"
+        "location_z": "-903.4175",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2404",
@@ -306,7 +490,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2397.959",
         "location_y": "53.69984",
-        "location_z": "-2380.916"
+        "location_z": "-2380.916",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2405",
@@ -317,7 +509,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1849.832",
         "location_y": "75.16752",
-        "location_z": "-2386.176"
+        "location_z": "-2386.176",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2406",
@@ -328,7 +528,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1802.655",
         "location_y": "95.87053",
-        "location_z": "-1617.497"
+        "location_z": "-1617.497",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2407",
@@ -339,7 +547,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1257.532715",
         "location_y": "155.682281",
-        "location_z": "-1896.411133"
+        "location_z": "-1896.411133",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2408",
@@ -350,7 +566,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2541.409",
         "location_y": "50.26437",
-        "location_z": "-1267.405"
+        "location_z": "-1267.405",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2409",
@@ -361,7 +585,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1867",
         "location_y": "110",
-        "location_z": "-587"
+        "location_z": "-587",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2410",
@@ -372,7 +604,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1813",
         "location_y": "138",
-        "location_z": "80"
+        "location_z": "80",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2411",
@@ -383,7 +623,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2470",
         "location_y": "63",
-        "location_z": "1032"
+        "location_z": "1032",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2412",
@@ -394,7 +642,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1328.204",
         "location_y": "116.2792",
-        "location_z": "1021.284"
+        "location_z": "1021.284",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2413",
@@ -405,7 +661,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2435.791",
         "location_y": "59.29038",
-        "location_z": "1958.429"
+        "location_z": "1958.429",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2414",
@@ -416,7 +680,15 @@
         "facility_type": "Large Outpost",
         "location_x": "857.9293",
         "location_y": "165.5995",
-        "location_z": "2376.406"
+        "location_z": "2376.406",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2415",
@@ -427,7 +699,15 @@
         "facility_type": "Small Outpost",
         "location_x": "668",
         "location_y": "347",
-        "location_z": "-1403"
+        "location_z": "-1403",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2416",
@@ -438,7 +718,15 @@
         "facility_type": "Large Outpost",
         "location_x": "153.998962",
         "location_y": "223.444687",
-        "location_z": "-2312.848145"
+        "location_z": "-2312.848145",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "2418",
@@ -449,7 +737,15 @@
         "facility_type": "Small Outpost",
         "location_x": "621",
         "location_y": "238",
-        "location_z": "-428"
+        "location_z": "-428",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2419",
@@ -460,7 +756,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-125",
         "location_y": "353",
-        "location_z": "-86"
+        "location_z": "-86",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2420",
@@ -471,7 +775,15 @@
         "facility_type": "Small Outpost",
         "location_x": "260",
         "location_y": "224",
-        "location_z": "29"
+        "location_z": "29",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2421",
@@ -482,7 +794,15 @@
         "facility_type": "Small Outpost",
         "location_x": "721",
         "location_y": "176",
-        "location_z": "688"
+        "location_z": "688",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2422",
@@ -493,7 +813,15 @@
         "facility_type": "Small Outpost",
         "location_x": "333",
         "location_y": "353",
-        "location_z": "1063"
+        "location_z": "1063",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2425",
@@ -504,7 +832,15 @@
         "facility_type": "Small Outpost",
         "location_x": "240",
         "location_y": "397",
-        "location_z": "2409"
+        "location_z": "2409",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2427",
@@ -515,7 +851,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-936",
         "location_y": "487",
-        "location_z": "-1283"
+        "location_z": "-1283",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2428",
@@ -526,7 +870,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1328",
         "location_y": "510",
-        "location_z": "-1659"
+        "location_z": "-1659",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2429",
@@ -537,7 +889,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1395",
         "location_y": "473",
-        "location_z": "-1306"
+        "location_z": "-1306",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2430",
@@ -548,7 +908,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-831",
         "location_y": "411",
-        "location_z": "-470"
+        "location_z": "-470",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2431",
@@ -559,7 +927,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1269",
         "location_y": "419",
-        "location_z": "-11"
+        "location_z": "-11",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2433",
@@ -570,7 +946,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1239",
         "location_y": "220",
-        "location_z": "964"
+        "location_z": "964",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2436",
@@ -581,7 +965,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-230.45639",
         "location_y": "400.633179",
-        "location_z": "1722.342163"
+        "location_z": "1722.342163",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2437",
@@ -592,7 +984,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-996.2921",
         "location_y": "318.9241",
-        "location_z": "2001.472"
+        "location_z": "2001.472",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2438",
@@ -603,7 +1003,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2320",
         "location_y": "480",
-        "location_z": "-1903"
+        "location_z": "-1903",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2440",
@@ -614,7 +1022,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2804",
         "location_y": "508",
-        "location_z": "-1689"
+        "location_z": "-1689",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2443",
@@ -625,7 +1041,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2698",
         "location_y": "500",
-        "location_z": "340"
+        "location_z": "340",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2447",
@@ -636,7 +1060,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2345",
         "location_y": "233",
-        "location_z": "2177"
+        "location_z": "2177",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2448",
@@ -647,7 +1079,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1929.104",
         "location_y": "292.2917",
-        "location_z": "2305.955"
+        "location_z": "2305.955",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2449",
@@ -658,7 +1098,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1393",
         "location_y": "311",
-        "location_z": "2646"
+        "location_z": "2646",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2453",
@@ -669,7 +1117,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1768.703",
         "location_y": "508.1644",
-        "location_z": "-1731.421"
+        "location_z": "-1731.421",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2454",
@@ -680,7 +1136,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2441.974",
         "location_y": "483.8968",
-        "location_z": "-1574.938"
+        "location_z": "-1574.938",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2455",
@@ -691,7 +1155,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1993.015",
         "location_y": "473.8811",
-        "location_z": "-1133.28"
+        "location_z": "-1133.28",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2456",
@@ -702,7 +1174,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2022.999",
         "location_y": "472.0919",
-        "location_z": "-698.2661"
+        "location_z": "-698.2661",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2457",
@@ -713,7 +1193,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-361.7674",
         "location_y": "467.4597",
-        "location_z": "-1215.762"
+        "location_z": "-1215.762",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2458",
@@ -724,7 +1212,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-108.3359",
         "location_y": "442.9457",
-        "location_z": "-849.647"
+        "location_z": "-849.647",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2459",
@@ -735,7 +1231,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-560.3405",
         "location_y": "451.6867",
-        "location_z": "-675.2235"
+        "location_z": "-675.2235",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2460",
@@ -746,7 +1250,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1633.907",
         "location_y": "82.78875",
-        "location_z": "1717.878"
+        "location_z": "1717.878",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2461",
@@ -757,7 +1269,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1945.304",
         "location_y": "68.48983",
-        "location_z": "1942.448"
+        "location_z": "1942.448",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2462",
@@ -768,7 +1288,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1754.547",
         "location_y": "108.93",
-        "location_z": "1221.427"
+        "location_z": "1221.427",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2463",
@@ -779,7 +1307,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1605.565",
         "location_y": "214.7612",
-        "location_z": "899.3584"
+        "location_z": "899.3584",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2464",
@@ -790,7 +1326,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2105.782",
         "location_y": "219.3971",
-        "location_z": "1014.026"
+        "location_z": "1014.026",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2465",
@@ -801,7 +1345,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1710.768",
         "location_y": "225.063",
-        "location_z": "658.5409"
+        "location_z": "658.5409",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2466",
@@ -812,7 +1364,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-241.8272",
         "location_y": "421.6388",
-        "location_z": "2709.082"
+        "location_z": "2709.082",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2467",
@@ -823,7 +1383,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-242.8177",
         "location_y": "401.4805",
-        "location_z": "2293.439"
+        "location_z": "2293.439",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2468",
@@ -834,7 +1402,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-749.2546",
         "location_y": "395.0005",
-        "location_z": "2480.463"
+        "location_z": "2480.463",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2469",
@@ -845,7 +1421,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-625.7628",
         "location_y": "228.084",
-        "location_z": "1472.189"
+        "location_z": "1472.189",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2470",
@@ -856,7 +1440,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-419.6224",
         "location_y": "211.3201",
-        "location_z": "721.2118"
+        "location_z": "721.2118",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2471",
@@ -867,7 +1459,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-97.41698",
         "location_y": "206.6847",
-        "location_z": "1239.215"
+        "location_z": "1239.215",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2472",
@@ -878,7 +1478,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2747.485",
         "location_y": "33.14049",
-        "location_z": "-2088.378"
+        "location_z": "-2088.378",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2473",
@@ -889,7 +1497,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1998.099",
         "location_y": "70.20764",
-        "location_z": "-2106.455"
+        "location_z": "-2106.455",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2474",
@@ -900,7 +1516,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-606.125122",
         "location_y": "491.815918",
-        "location_z": "-2164.260498"
+        "location_z": "-2164.260498",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2475",
@@ -911,7 +1535,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-886.838135",
         "location_y": "515.59552",
-        "location_z": "-2743.968262"
+        "location_z": "-2743.968262",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2476",
@@ -922,7 +1554,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-861.4577",
         "location_y": "506.275",
-        "location_z": "-2136.984"
+        "location_z": "-2136.984",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2477",
@@ -933,7 +1573,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1280.267",
         "location_y": "147.7859",
-        "location_z": "-1618.84"
+        "location_z": "-1618.84",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2478",
@@ -944,7 +1592,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1049.639",
         "location_y": "150.5795",
-        "location_z": "-1139.729"
+        "location_z": "-1139.729",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "2479",
@@ -955,7 +1611,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1405.415",
         "location_y": "181.273",
-        "location_z": "-864.2725"
+        "location_z": "-864.2725",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4101",
@@ -966,7 +1630,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1355.880493",
         "location_y": "47.429688",
-        "location_z": "-3052.787598"
+        "location_z": "-3052.787598",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4102",
@@ -977,7 +1649,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1338.956",
         "location_y": "61.572",
-        "location_z": "-2397.17"
+        "location_z": "-2397.17",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4103",
@@ -988,7 +1668,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2112.503418",
         "location_y": "77.063301",
-        "location_z": "-2229.820801"
+        "location_z": "-2229.820801",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4104",
@@ -999,7 +1687,15 @@
         "facility_type": "Small Outpost",
         "location_x": "982.746765",
         "location_y": "40.17625",
-        "location_z": "-1631.165771"
+        "location_z": "-1631.165771",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4105",
@@ -1010,7 +1706,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2626.842285",
         "location_y": "3.797127",
-        "location_z": "-723.887634"
+        "location_z": "-723.887634",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4106",
@@ -1021,7 +1725,15 @@
         "facility_type": "Small Outpost",
         "location_x": "3185.979",
         "location_y": "26.20848",
-        "location_z": "-186.0505"
+        "location_z": "-186.0505",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4107",
@@ -1032,7 +1744,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2841.118896",
         "location_y": "28.645786",
-        "location_z": "1325.563354"
+        "location_z": "1325.563354",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4108",
@@ -1043,7 +1763,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2033.7146",
         "location_y": "61.567184",
-        "location_z": "1261.743042"
+        "location_z": "1261.743042",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4109",
@@ -1054,7 +1782,15 @@
         "facility_type": "Small Outpost",
         "location_x": "857.322449",
         "location_y": "81.801033",
-        "location_z": "1359.79895"
+        "location_z": "1359.79895",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4110",
@@ -1065,7 +1801,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1518.861816",
         "location_y": "5.892097",
-        "location_z": "2428.437988"
+        "location_z": "2428.437988",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4111",
@@ -1076,7 +1820,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2330",
         "location_y": "75",
-        "location_z": "2645"
+        "location_z": "2645",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4112",
@@ -1087,7 +1839,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1120.911255",
         "location_y": "58.979736",
-        "location_z": "2761.887451"
+        "location_z": "2761.887451",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4113",
@@ -1098,7 +1858,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-57.844524",
         "location_y": "63.886196",
-        "location_z": "-3270.179443"
+        "location_z": "-3270.179443",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4114",
@@ -1109,7 +1877,15 @@
         "facility_type": "Small Outpost",
         "location_x": "342.3697",
         "location_y": "9.04604",
-        "location_z": "-1818.202"
+        "location_z": "-1818.202",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4115",
@@ -1120,7 +1896,15 @@
         "facility_type": "Small Outpost",
         "location_x": "517.051",
         "location_y": "160.4547",
-        "location_z": "-475.1586"
+        "location_z": "-475.1586",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4116",
@@ -1131,7 +1915,15 @@
         "facility_type": "Small Outpost",
         "location_x": "887.6013",
         "location_y": "106.307",
-        "location_z": "779.0043"
+        "location_z": "779.0043",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4117",
@@ -1142,7 +1934,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1252.280151",
         "location_y": "29.067974",
-        "location_z": "-2449.98584"
+        "location_z": "-2449.98584",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4118",
@@ -1153,7 +1953,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1492.96",
         "location_y": "3.906586",
-        "location_z": "-1933.5"
+        "location_z": "-1933.5",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4119",
@@ -1164,7 +1972,15 @@
         "facility_type": "Small CTF Outpost",
         "location_x": "-1767.461548",
         "location_y": "-12.758247",
-        "location_z": "68.108749"
+        "location_z": "68.108749",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4120",
@@ -1175,7 +1991,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-663.1986",
         "location_y": "137.8467",
-        "location_z": "-293.3634"
+        "location_z": "-293.3634",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4121",
@@ -1186,7 +2010,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1536.903076",
         "location_y": "34.400906",
-        "location_z": "922.072205"
+        "location_z": "922.072205",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4122",
@@ -1197,7 +2029,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-570.813232",
         "location_y": "10.615234",
-        "location_z": "2796.259521"
+        "location_z": "2796.259521",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4123",
@@ -1208,7 +2048,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1139.473022",
         "location_y": "4",
-        "location_z": "2551.879395"
+        "location_z": "2551.879395",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4124",
@@ -1219,7 +2067,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2755.65",
         "location_y": "5.92041",
-        "location_z": "-726.9462"
+        "location_z": "-726.9462",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4125",
@@ -1230,7 +2086,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2597.571",
         "location_y": "20.29149",
-        "location_z": "183.4767"
+        "location_z": "183.4767",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4126",
@@ -1241,7 +2105,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-3205.175",
         "location_y": "15.59608",
-        "location_z": "743.1317"
+        "location_z": "743.1317",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4127",
@@ -1252,7 +2124,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2571.105",
         "location_y": "58.47634",
-        "location_z": "1894.895"
+        "location_z": "1894.895",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4130",
@@ -1263,7 +2143,15 @@
         "facility_type": "Large Outpost",
         "location_x": "698.7863",
         "location_y": "117.2206",
-        "location_z": "-2960.46"
+        "location_z": "-2960.46",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "4131",
@@ -1274,7 +2162,15 @@
         "facility_type": "Large CTF Outpost",
         "location_x": "-739.217896",
         "location_y": "29.677734",
-        "location_z": "-1772.752441"
+        "location_z": "-1772.752441",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "4132",
@@ -1285,7 +2181,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-1339.238037",
         "location_y": "7.860434",
-        "location_z": "-803.346558"
+        "location_z": "-803.346558",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "4133",
@@ -1296,7 +2200,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-2563.266",
         "location_y": "22.37783",
-        "location_z": "1386.883"
+        "location_z": "1386.883",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "4134",
@@ -1307,7 +2219,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-793.579",
         "location_y": "18.6718",
-        "location_z": "1706.495"
+        "location_z": "1706.495",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "4135",
@@ -1318,7 +2238,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-3.031891",
         "location_y": "22.128429",
-        "location_z": "1848.095825"
+        "location_z": "1848.095825",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "4136",
@@ -1329,7 +2257,15 @@
         "facility_type": "Large Outpost",
         "location_x": "2443.277",
         "location_y": "11.60689",
-        "location_z": "1869.253"
+        "location_z": "1869.253",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "4137",
@@ -1340,7 +2276,15 @@
         "facility_type": "Large Outpost",
         "location_x": "2281.435",
         "location_y": "29.48964",
-        "location_z": "-221.0779"
+        "location_z": "-221.0779",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "4138",
@@ -1351,7 +2295,15 @@
         "facility_type": "Large Outpost",
         "location_x": "1528.477",
         "location_y": "37.65943",
-        "location_z": "-1014.045"
+        "location_z": "-1014.045",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "4139",
@@ -1362,7 +2314,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-15.675148",
         "location_y": "157.980591",
-        "location_z": "22.435139"
+        "location_z": "22.435139",
+        "capture_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "2"
+        },
+        "tick_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "2"
+        }
     },
     {
         "map_region_id": "4140",
@@ -1373,7 +2333,15 @@
         "facility_type": "Amp Station",
         "location_x": "2397.267822",
         "location_y": "16.101931",
-        "location_z": "-1478.350586"
+        "location_z": "-1478.350586",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "4141",
@@ -1384,7 +2352,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2642.908203",
         "location_y": "39.101212",
-        "location_z": "-1183.002441"
+        "location_z": "-1183.002441",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4142",
@@ -1395,7 +2371,15 @@
         "facility_type": "Small CTF Outpost",
         "location_x": "2115.025879",
         "location_y": "14.3377",
-        "location_z": "-1108.963379"
+        "location_z": "-1108.963379",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4143",
@@ -1406,7 +2390,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2263.150391",
         "location_y": "15.912388",
-        "location_z": "-1828.472412"
+        "location_z": "-1828.472412",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4150",
@@ -1417,7 +2409,15 @@
         "facility_type": "Amp Station",
         "location_x": "-404.065063",
         "location_y": "73.752747",
-        "location_z": "-1007.791077"
+        "location_z": "-1007.791077",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "4151",
@@ -1428,7 +2428,15 @@
         "facility_type": "Small CTF Outpost",
         "location_x": "-77.25874",
         "location_y": "112.5849",
-        "location_z": "-773.0132"
+        "location_z": "-773.0132",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4152",
@@ -1439,7 +2447,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-340.624",
         "location_y": "95.32407",
-        "location_z": "-1281.309"
+        "location_z": "-1281.309",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4153",
@@ -1450,7 +2466,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-703.9125",
         "location_y": "70.34908",
-        "location_z": "-1212.7"
+        "location_z": "-1212.7",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4160",
@@ -1461,7 +2485,15 @@
         "facility_type": "Amp Station",
         "location_x": "-469.0049",
         "location_y": "55.88142",
-        "location_z": "1003.755"
+        "location_z": "1003.755",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "4161",
@@ -1472,7 +2504,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-478.7307",
         "location_y": "80.71923",
-        "location_z": "753.8644"
+        "location_z": "753.8644",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4162",
@@ -1483,7 +2523,15 @@
         "facility_type": "Small CTF Outpost",
         "location_x": "-177.7653",
         "location_y": "59.99991",
-        "location_z": "1325.116"
+        "location_z": "1325.116",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4163",
@@ -1494,7 +2542,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-774.3772",
         "location_y": "86.84877",
-        "location_z": "1192.519"
+        "location_z": "1192.519",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4170",
@@ -1505,7 +2561,15 @@
         "facility_type": "Bio Lab",
         "location_x": "1135.100952",
         "location_y": "119.943176",
-        "location_z": "-143.733292"
+        "location_z": "-143.733292",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "4171",
@@ -1516,7 +2580,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1170.853394",
         "location_y": "90.212921",
-        "location_z": "373.68692"
+        "location_z": "373.68692",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4172",
@@ -1527,7 +2599,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1473.683105",
         "location_y": "133.368988",
-        "location_z": "-313.897217"
+        "location_z": "-313.897217",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4173",
@@ -1538,7 +2618,15 @@
         "facility_type": "Small Outpost",
         "location_x": "786.318909",
         "location_y": "122.168098",
-        "location_z": "-154.389114"
+        "location_z": "-154.389114",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4180",
@@ -1549,7 +2637,15 @@
         "facility_type": "Bio Lab",
         "location_x": "-2159.799316",
         "location_y": "5.424654",
-        "location_z": "-1355.342041"
+        "location_z": "-1355.342041",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "4181",
@@ -1560,7 +2656,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2028.892578",
         "location_y": "20.78772",
-        "location_z": "-1681.812134"
+        "location_z": "-1681.812134",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4182",
@@ -1571,7 +2675,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1897.288452",
         "location_y": "36.900871",
-        "location_z": "-1248.183716"
+        "location_z": "-1248.183716",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4183",
@@ -1582,7 +2694,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2085.203125",
         "location_y": "27.460793",
-        "location_z": "-1020.359985"
+        "location_z": "-1020.359985",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4190",
@@ -1593,7 +2713,15 @@
         "facility_type": "Bio Lab",
         "location_x": "486.858429",
         "location_y": "14.897891",
-        "location_z": "2781.840576"
+        "location_z": "2781.840576",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "4191",
@@ -1604,7 +2732,15 @@
         "facility_type": "Small Outpost",
         "location_x": "725.937",
         "location_y": "14",
-        "location_z": "2436.851"
+        "location_z": "2436.851",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4192",
@@ -1615,7 +2751,15 @@
         "facility_type": "Small Outpost",
         "location_x": "473.908875",
         "location_y": "-37.468807",
-        "location_z": "2276.47168"
+        "location_z": "2276.47168",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4193",
@@ -1626,7 +2770,15 @@
         "facility_type": "Small Outpost",
         "location_x": "266.6301",
         "location_y": "14.48802",
-        "location_z": "2678.566"
+        "location_z": "2678.566",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4200",
@@ -1639,7 +2791,15 @@
         "location_y": "9.643489",
         "location_z": "-2805.933838",
         "reward_amount": "1",
-        "reward_currency_id": "1000"
+        "reward_currency_id": "1000",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "4201",
@@ -1650,7 +2810,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1062.403",
         "location_y": "10.83291",
-        "location_z": "-3025.609"
+        "location_z": "-3025.609",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4202",
@@ -1661,7 +2829,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-410.7588",
         "location_y": "42.3",
-        "location_z": "-3181.961"
+        "location_z": "-3181.961",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4203",
@@ -1672,7 +2848,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-853.4761",
         "location_y": "25.77377",
-        "location_z": "-2508.433"
+        "location_z": "-2508.433",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4210",
@@ -1685,7 +2869,15 @@
         "location_y": "17.789253",
         "location_z": "2161.546631",
         "reward_amount": "1",
-        "reward_currency_id": "1000"
+        "reward_currency_id": "1000",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "4211",
@@ -1696,7 +2888,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1462.455933",
         "location_y": "31.170313",
-        "location_z": "2030.323608"
+        "location_z": "2030.323608",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4212",
@@ -1707,7 +2907,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1843.732056",
         "location_y": "19.268036",
-        "location_z": "2496.869141"
+        "location_z": "2496.869141",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4213",
@@ -1718,7 +2926,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2238.982178",
         "location_y": "10.100885",
-        "location_z": "2257.801025"
+        "location_z": "2257.801025",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4220",
@@ -1731,7 +2947,15 @@
         "location_y": "12.755198",
         "location_z": "661.381775",
         "reward_amount": "1",
-        "reward_currency_id": "1000"
+        "reward_currency_id": "1000",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "4221",
@@ -1742,7 +2966,15 @@
         "facility_type": "Small Outpost",
         "location_x": "3088.505127",
         "location_y": "2.633946",
-        "location_z": "446.044067"
+        "location_z": "446.044067",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4222",
@@ -1753,7 +2985,15 @@
         "facility_type": "Small Outpost",
         "location_x": "3097.351074",
         "location_y": "7.239565",
-        "location_z": "961.714966"
+        "location_z": "961.714966",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4223",
@@ -1764,7 +3004,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2707.071045",
         "location_y": "9.482571",
-        "location_z": "442.284851"
+        "location_z": "442.284851",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4230",
@@ -1814,7 +3062,15 @@
         "facility_type": "Small Outpost",
         "location_x": "796.077393",
         "location_y": "17.260582",
-        "location_z": "-2365.660156"
+        "location_z": "-2365.660156",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4261",
@@ -1825,7 +3081,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2011.421753",
         "location_y": "63.117371",
-        "location_z": "-657.818726"
+        "location_z": "-657.818726",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4262",
@@ -1836,7 +3100,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1923.290527",
         "location_y": "2.196446",
-        "location_z": "1853.465332"
+        "location_z": "1853.465332",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4263",
@@ -1847,7 +3119,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1159.890869",
         "location_y": "10.945744",
-        "location_z": "-1499.660767"
+        "location_z": "-1499.660767",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4264",
@@ -1858,7 +3138,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2088.809082",
         "location_y": "27.607361",
-        "location_z": "745.218933"
+        "location_z": "745.218933",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4265",
@@ -1869,7 +3157,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-417.65274",
         "location_y": "6.357099",
-        "location_z": "2082.915039"
+        "location_z": "2082.915039",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4266",
@@ -1880,7 +3176,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1688.744507",
         "location_y": "2.196446",
-        "location_z": "-1960.015259"
+        "location_z": "-1960.015259",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4267",
@@ -1891,7 +3195,15 @@
         "facility_type": "Small Outpost",
         "location_x": "852.752563",
         "location_y": "129.485825",
-        "location_z": "-935.963928"
+        "location_z": "-935.963928",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4268",
@@ -1902,7 +3214,15 @@
         "facility_type": "Small Outpost",
         "location_x": "429.691406",
         "location_y": "62.36496",
-        "location_z": "1142.015625"
+        "location_z": "1142.015625",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4269",
@@ -1913,7 +3233,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1019.214355",
         "location_y": "50.040604",
-        "location_z": "2121.486816"
+        "location_z": "2121.486816",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4270",
@@ -1924,7 +3252,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1128.12793",
         "location_y": "2.196446",
-        "location_z": "-288.974213"
+        "location_z": "-288.974213",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "4271",
@@ -1935,7 +3271,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2268.660156",
         "location_y": "42.875595",
-        "location_z": "-207.016464"
+        "location_z": "-207.016464",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6001",
@@ -1985,7 +3329,15 @@
         "facility_type": "Amp Station",
         "location_x": "1305.857544",
         "location_y": "63.487366",
-        "location_z": "-2355.519287"
+        "location_z": "-2355.519287",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "6102",
@@ -1996,7 +3348,15 @@
         "facility_type": "Bio Lab",
         "location_x": "1649.284424",
         "location_y": "68.147888",
-        "location_z": "-507.814728"
+        "location_z": "-507.814728",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "6103",
@@ -2009,7 +3369,15 @@
         "location_y": "70.901558",
         "location_z": "-1841.45752",
         "reward_amount": "1",
-        "reward_currency_id": "1000"
+        "reward_currency_id": "1000",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "6111",
@@ -2020,7 +3388,15 @@
         "facility_type": "Amp Station",
         "location_x": "2311.400879",
         "location_y": "60.579769",
-        "location_z": "1190.187378"
+        "location_z": "1190.187378",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "6112",
@@ -2033,7 +3409,15 @@
         "location_y": "68.718071",
         "location_z": "1317.272095",
         "reward_amount": "1",
-        "reward_currency_id": "1000"
+        "reward_currency_id": "1000",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "6113",
@@ -2044,7 +3428,15 @@
         "facility_type": "Bio Lab",
         "location_x": "396.259308",
         "location_y": "60.554138",
-        "location_z": "2793.945313"
+        "location_z": "2793.945313",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "6121",
@@ -2055,7 +3447,15 @@
         "facility_type": "Amp Station",
         "location_x": "-1969.289185",
         "location_y": "60.350159",
-        "location_z": "-2140.14209"
+        "location_z": "-2140.14209",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "6122",
@@ -2068,7 +3468,15 @@
         "location_y": "81.847",
         "location_z": "-485.392",
         "reward_amount": "1",
-        "reward_currency_id": "1000"
+        "reward_currency_id": "1000",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "6123",
@@ -2079,7 +3487,15 @@
         "facility_type": "Bio Lab",
         "location_x": "-1555.773315",
         "location_y": "56.756042",
-        "location_z": "2338.205811"
+        "location_z": "2338.205811",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "6201",
@@ -2090,7 +3506,15 @@
         "facility_type": "Large Outpost",
         "location_x": "1969.765259",
         "location_y": "107.67469",
-        "location_z": "-1211.690796"
+        "location_z": "-1211.690796",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "6202",
@@ -2101,7 +3525,15 @@
         "facility_type": "Large Outpost",
         "location_x": "2073.250732",
         "location_y": "68.411224",
-        "location_z": "377.365753"
+        "location_z": "377.365753",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "6203",
@@ -2112,7 +3544,15 @@
         "facility_type": "Large Outpost",
         "location_x": "1180.592773",
         "location_y": "121.279297",
-        "location_z": "2952.214111"
+        "location_z": "2952.214111",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "6204",
@@ -2123,7 +3563,15 @@
         "facility_type": "Large CTF Outpost",
         "location_x": "1017.312988",
         "location_y": "79.405777",
-        "location_z": "864.884155"
+        "location_z": "864.884155",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "6205",
@@ -2134,7 +3582,15 @@
         "facility_type": "Large CTF Outpost",
         "location_x": "464.03299",
         "location_y": "116.506477",
-        "location_z": "-417.802307"
+        "location_z": "-417.802307",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "6206",
@@ -2145,7 +3601,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-1212.78125",
         "location_y": "115.552956",
-        "location_z": "471.720398"
+        "location_z": "471.720398",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "6207",
@@ -2156,7 +3620,15 @@
         "facility_type": "Large CTF Outpost",
         "location_x": "-719.208496",
         "location_y": "159.570038",
-        "location_z": "1922.303223"
+        "location_z": "1922.303223",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "6208",
@@ -2167,7 +3639,15 @@
         "facility_type": "Large CTF Outpost",
         "location_x": "-1052.092163",
         "location_y": "76.263252",
-        "location_z": "-1927.831177"
+        "location_z": "-1927.831177",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "6209",
@@ -2178,7 +3658,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-1903",
         "location_y": "90",
-        "location_z": "1515"
+        "location_z": "1515",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "6301",
@@ -2189,7 +3677,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2798.045654",
         "location_y": "69.814743",
-        "location_z": "-1162.959106"
+        "location_z": "-1162.959106",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6302",
@@ -2200,7 +3696,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2856.104248",
         "location_y": "61.524124",
-        "location_z": "-123.651833"
+        "location_z": "-123.651833",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6303",
@@ -2211,7 +3715,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2803.240234",
         "location_y": "69.495331",
-        "location_z": "2206.654297"
+        "location_z": "2206.654297",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6304",
@@ -2222,7 +3734,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2767.351074",
         "location_y": "68.245651",
-        "location_z": "1635.560425"
+        "location_z": "1635.560425",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6305",
@@ -2233,7 +3753,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2243.76123",
         "location_y": "63.057365",
-        "location_z": "-2881.061523"
+        "location_z": "-2881.061523",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6306",
@@ -2244,7 +3772,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2023.971191",
         "location_y": "79.171074",
-        "location_z": "-1834.285645"
+        "location_z": "-1834.285645",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6307",
@@ -2255,7 +3791,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1001.048767",
         "location_y": "72.760277",
-        "location_z": "136.025085"
+        "location_z": "136.025085",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6308",
@@ -2266,7 +3810,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1703.290161",
         "location_y": "82.993088",
-        "location_z": "2051.147949"
+        "location_z": "2051.147949",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6309",
@@ -2277,7 +3829,15 @@
         "facility_type": "Small Outpost",
         "location_x": "416.504333",
         "location_y": "84.834106",
-        "location_z": "-2993.407715"
+        "location_z": "-2993.407715",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6310",
@@ -2288,7 +3848,15 @@
         "facility_type": "Small Outpost",
         "location_x": "212.572",
         "location_y": "139.176",
-        "location_z": "-2491.86"
+        "location_z": "-2491.86",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6311",
@@ -2299,7 +3867,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1314.221069",
         "location_y": "174.770203",
-        "location_z": "-1249.746582"
+        "location_z": "-1249.746582",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6312",
@@ -2310,7 +3886,15 @@
         "facility_type": "Small Outpost",
         "location_x": "389.078003",
         "location_y": "135.737793",
-        "location_z": "-1228.158081"
+        "location_z": "-1228.158081",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6313",
@@ -2321,7 +3905,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1298.538086",
         "location_y": "195.672775",
-        "location_z": "1337.164429"
+        "location_z": "1337.164429",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6314",
@@ -2332,7 +3924,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1254.880371",
         "location_y": "67.902695",
-        "location_z": "2178.210205"
+        "location_z": "2178.210205",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6316",
@@ -2343,7 +3943,15 @@
         "facility_type": "Small Outpost",
         "location_x": "399.056213",
         "location_y": "220.392807",
-        "location_z": "255.883377"
+        "location_z": "255.883377",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6317",
@@ -2354,7 +3962,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-43.087044",
         "location_y": "133.307205",
-        "location_z": "2139.275146"
+        "location_z": "2139.275146",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6318",
@@ -2365,7 +3981,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-308.573853",
         "location_y": "53.901035",
-        "location_z": "2818.730713"
+        "location_z": "2818.730713",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6319",
@@ -2376,7 +4000,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-852",
         "location_y": "74",
-        "location_z": "-674"
+        "location_z": "-674",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6320",
@@ -2387,7 +4019,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-683.22",
         "location_y": "98",
-        "location_z": "1129.03"
+        "location_z": "1129.03",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6323",
@@ -2398,7 +4038,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2511.082031",
         "location_y": "71.161423",
-        "location_z": "-1486.358887"
+        "location_z": "-1486.358887",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6324",
@@ -2409,7 +4057,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1775",
         "location_y": "135",
-        "location_z": "560"
+        "location_z": "560",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6325",
@@ -2420,7 +4076,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2738.894043",
         "location_y": "71.679527",
-        "location_z": "-333.652069"
+        "location_z": "-333.652069",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6326",
@@ -2431,7 +4095,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2479.385498",
         "location_y": "99.760406",
-        "location_z": "1771.310059"
+        "location_z": "1771.310059",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6328",
@@ -2442,7 +4114,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-636.242188",
         "location_y": "270.583588",
-        "location_z": "201.243881"
+        "location_z": "201.243881",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6329",
@@ -2453,7 +4133,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-0.25",
         "location_y": "437.43",
-        "location_z": "197.54"
+        "location_z": "197.54",
+        "capture_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "2"
+        },
+        "tick_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "2"
+        }
     },
     {
         "map_region_id": "6330",
@@ -2464,7 +4152,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2371.836426",
         "location_y": "70.525337",
-        "location_z": "-92.309113"
+        "location_z": "-92.309113",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6331",
@@ -2475,7 +4171,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2736.126221",
         "location_y": "67.055717",
-        "location_z": "444.44754"
+        "location_z": "444.44754",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6332",
@@ -2486,7 +4190,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1646.699",
         "location_y": "62.61347",
-        "location_z": "14.6526"
+        "location_z": "14.6526",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6333",
@@ -2497,7 +4209,15 @@
         "facility_type": "Small CTF Outpost",
         "location_x": "-27.343304",
         "location_y": "67.910309",
-        "location_z": "-3011.436523"
+        "location_z": "-3011.436523",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6334",
@@ -2508,7 +4228,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-431.255402",
         "location_y": "63.174469",
-        "location_z": "-2945.247314"
+        "location_z": "-2945.247314",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6335",
@@ -2519,7 +4247,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-174.495117",
         "location_y": "410.915863",
-        "location_z": "-205.47879"
+        "location_z": "-205.47879",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6336",
@@ -2530,7 +4266,15 @@
         "facility_type": "Small Outpost",
         "location_x": "111.953629",
         "location_y": "53.683918",
-        "location_z": "3104.443848"
+        "location_z": "3104.443848",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6337",
@@ -2541,7 +4285,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-825.85",
         "location_y": "64.8",
-        "location_z": "2755.04"
+        "location_z": "2755.04",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "6338",
@@ -2552,7 +4304,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2194.523193",
         "location_y": "149.279724",
-        "location_z": "404.757202"
+        "location_z": "404.757202",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6339",
@@ -2563,7 +4323,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1689.591",
         "location_y": "55.72833",
-        "location_z": "-2952.799"
+        "location_z": "-2952.799",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6340",
@@ -2574,7 +4342,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1385.954346",
         "location_y": "55.796524",
-        "location_z": "-2679.6521"
+        "location_z": "-2679.6521",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6341",
@@ -2585,7 +4361,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1172.366",
         "location_y": "54.11232",
-        "location_z": "-2010.489"
+        "location_z": "-2010.489",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6342",
@@ -2596,7 +4380,15 @@
         "facility_type": "Small Outpost",
         "location_x": "993.954895",
         "location_y": "113.956421",
-        "location_z": "-2661.92627"
+        "location_z": "-2661.92627",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6343",
@@ -2607,7 +4399,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1914.245",
         "location_y": "61.60606",
-        "location_z": "-631.4047"
+        "location_z": "-631.4047",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6344",
@@ -2618,7 +4418,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1846.274",
         "location_y": "65.12027",
-        "location_z": "-332.3235"
+        "location_z": "-332.3235",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6345",
@@ -2629,7 +4437,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1298.999",
         "location_y": "60.94609",
-        "location_z": "-385.4293"
+        "location_z": "-385.4293",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6346",
@@ -2640,7 +4456,15 @@
         "facility_type": "Small Outpost",
         "location_x": "323.471741",
         "location_y": "111.41938",
-        "location_z": "-1853.602295"
+        "location_z": "-1853.602295",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6347",
@@ -2651,7 +4475,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-363.920593",
         "location_y": "79.557236",
-        "location_z": "-1408.110352"
+        "location_z": "-1408.110352",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6348",
@@ -2662,7 +4494,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2217.72876",
         "location_y": "84.741791",
-        "location_z": "807.838562"
+        "location_z": "807.838562",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6349",
@@ -2673,7 +4513,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2718.543457",
         "location_y": "52.013233",
-        "location_z": "973.142517"
+        "location_z": "973.142517",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6350",
@@ -2684,7 +4532,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2329.64624",
         "location_y": "92.06395",
-        "location_z": "1554.971313"
+        "location_z": "1554.971313",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6351",
@@ -2695,7 +4551,15 @@
         "facility_type": "Small Outpost",
         "location_x": "644.107178",
         "location_y": "73.211754",
-        "location_z": "1072.032593"
+        "location_z": "1072.032593",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6352",
@@ -2706,7 +4570,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-267.638",
         "location_y": "96.616943",
-        "location_z": "1739.855469"
+        "location_z": "1739.855469",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6353",
@@ -2717,7 +4589,15 @@
         "facility_type": "Small Outpost",
         "location_x": "748.658997",
         "location_y": "82.076485",
-        "location_z": "2726.788818"
+        "location_z": "2726.788818",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6354",
@@ -2728,7 +4608,15 @@
         "facility_type": "Small Outpost",
         "location_x": "607.358215",
         "location_y": "80.271957",
-        "location_z": "3095.884766"
+        "location_z": "3095.884766",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6355",
@@ -2739,7 +4627,15 @@
         "facility_type": "Small CTF Outpost",
         "location_x": "249.210693",
         "location_y": "71.226189",
-        "location_z": "2565.091309"
+        "location_z": "2565.091309",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6356",
@@ -2750,7 +4646,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1497.875122",
         "location_y": "63.092102",
-        "location_z": "-2574.819824"
+        "location_z": "-2574.819824",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6357",
@@ -2761,7 +4665,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1405.513",
         "location_y": "51.14082",
-        "location_z": "-2154.458"
+        "location_z": "-2154.458",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6358",
@@ -2772,7 +4684,15 @@
         "facility_type": "Small CTF Outpost",
         "location_x": "-1862.503296",
         "location_y": "68.970978",
-        "location_z": "-1696.952393"
+        "location_z": "-1696.952393",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6359",
@@ -2783,7 +4703,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1500.633545",
         "location_y": "82.496033",
-        "location_z": "-810.684143"
+        "location_z": "-810.684143",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6360",
@@ -2794,7 +4722,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1499.432129",
         "location_y": "75.628754",
-        "location_z": "-43.054924"
+        "location_z": "-43.054924",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6361",
@@ -2805,7 +4741,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1481.090576",
         "location_y": "127.82634",
-        "location_z": "2101.383301"
+        "location_z": "2101.383301",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6362",
@@ -2816,7 +4760,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1250.950562",
         "location_y": "55.882324",
-        "location_z": "2542.862305"
+        "location_z": "2542.862305",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "6363",
@@ -2827,7 +4779,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1891.44873",
         "location_y": "63.580002",
-        "location_z": "2488.153564"
+        "location_z": "2488.153564",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18001",
@@ -2838,7 +4798,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1369.664",
         "location_y": "76.02497",
-        "location_z": "-2438.761"
+        "location_z": "-2438.761",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18002",
@@ -2849,7 +4817,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1511.381",
         "location_y": "80.96583",
-        "location_z": "-1661.209"
+        "location_z": "-1661.209",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18003",
@@ -2860,7 +4836,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2265.325",
         "location_y": "107.0744",
-        "location_z": "-687.7246"
+        "location_z": "-687.7246",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18004",
@@ -2871,7 +4855,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1431.570068",
         "location_y": "123.978256",
-        "location_z": "-501.545166"
+        "location_z": "-501.545166",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18005",
@@ -2882,7 +4874,15 @@
         "facility_type": "Containment Site",
         "location_x": "1099.279",
         "location_y": "135.9144",
-        "location_z": "409.8246"
+        "location_z": "409.8246",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18006",
@@ -2893,7 +4893,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "1871.567",
         "location_y": "71.16946",
-        "location_z": "1174.458"
+        "location_z": "1174.458",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18007",
@@ -2904,7 +4912,15 @@
         "facility_type": "Large Outpost",
         "location_x": "915.4762",
         "location_y": "12.00377",
-        "location_z": "1883.58"
+        "location_z": "1883.58",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18008",
@@ -2915,7 +4931,15 @@
         "facility_type": "Small CTF Outpost",
         "location_x": "311.391479",
         "location_y": "64.407578",
-        "location_z": "-1349.821411"
+        "location_z": "-1349.821411",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18010",
@@ -2926,7 +4950,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-477.7838",
         "location_y": "123.2229",
-        "location_z": "-1071.929"
+        "location_z": "-1071.929",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18011",
@@ -2937,7 +4969,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1711.926",
         "location_y": "17.19081",
-        "location_z": "-370.127"
+        "location_z": "-370.127",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18013",
@@ -2948,7 +4988,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-750.881958",
         "location_y": "73.248695",
-        "location_z": "2838.585693"
+        "location_z": "2838.585693",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18014",
@@ -2959,7 +5007,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1904.355",
         "location_y": "112.771",
-        "location_z": "648.9725"
+        "location_z": "648.9725",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18015",
@@ -2970,7 +5026,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1216.208",
         "location_y": "78.38409",
-        "location_z": "2576.946"
+        "location_z": "2576.946",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18016",
@@ -2981,7 +5045,15 @@
         "facility_type": "Large Outpost",
         "location_x": "1003.725",
         "location_y": "103.55",
-        "location_z": "-2011.889"
+        "location_z": "-2011.889",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18017",
@@ -2992,7 +5064,15 @@
         "facility_type": "Large CTF Outpost",
         "location_x": "161.4596",
         "location_y": "125.3721",
-        "location_z": "-785.2059"
+        "location_z": "-785.2059",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18018",
@@ -3003,7 +5083,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "2612.332",
         "location_y": "84.41334",
-        "location_z": "1121.946"
+        "location_z": "1121.946",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18019",
@@ -3014,7 +5102,15 @@
         "facility_type": "Large Outpost",
         "location_x": "220.3131",
         "location_y": "120.4251",
-        "location_z": "590.7097"
+        "location_z": "590.7097",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18020",
@@ -3025,7 +5121,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-688.1417",
         "location_y": "113.9208",
-        "location_z": "124.2897"
+        "location_z": "124.2897",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18022",
@@ -3036,7 +5140,15 @@
         "facility_type": "Containment Site",
         "location_x": "82",
         "location_y": "112",
-        "location_z": "-2490"
+        "location_z": "-2490",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18024",
@@ -3047,7 +5159,15 @@
         "facility_type": "Amp Station",
         "location_x": "1123.68",
         "location_y": "146.75",
-        "location_z": "-1020.97"
+        "location_z": "-1020.97",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18025",
@@ -3060,7 +5180,15 @@
         "location_y": "139.827225",
         "location_z": "-80.929832",
         "reward_amount": "1",
-        "reward_currency_id": "1000"
+        "reward_currency_id": "1000",
+        "capture_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "2"
+        },
+        "tick_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "2"
+        }
     },
     {
         "map_region_id": "18027",
@@ -3071,7 +5199,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-40.150677",
         "location_y": "59.454502",
-        "location_z": "1964.311279"
+        "location_z": "1964.311279",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18028",
@@ -3082,7 +5218,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-1953.992",
         "location_y": "83.76463",
-        "location_z": "2135.37"
+        "location_z": "2135.37",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18029",
@@ -3119,7 +5263,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-342.963776",
         "location_y": "168.766052",
-        "location_z": "524.312744"
+        "location_z": "524.312744",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18033",
@@ -3130,7 +5282,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1130.017",
         "location_y": "22.80325",
-        "location_z": "9.949173"
+        "location_z": "9.949173",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18034",
@@ -3141,7 +5301,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1470.94",
         "location_y": "4.942247",
-        "location_z": "-939.5569"
+        "location_z": "-939.5569",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18036",
@@ -3152,7 +5320,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-839.5956",
         "location_y": "32.10573",
-        "location_z": "-2175.328"
+        "location_z": "-2175.328",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18037",
@@ -3163,7 +5339,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1604.49",
         "location_y": "42.64167",
-        "location_z": "-2181.709"
+        "location_z": "-2181.709",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18038",
@@ -3174,7 +5358,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-1181.333",
         "location_y": "43.25488",
-        "location_z": "1897.884"
+        "location_z": "1897.884",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18046",
@@ -3185,7 +5377,15 @@
         "facility_type": "Small CTF Outpost",
         "location_x": "458.46463",
         "location_y": "102.134766",
-        "location_z": "-2380.399658"
+        "location_z": "-2380.399658",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18048",
@@ -3196,7 +5396,15 @@
         "facility_type": "Small CTF Outpost",
         "location_x": "-349.21",
         "location_y": "100.75",
-        "location_z": "-2356.23"
+        "location_z": "-2356.23",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18049",
@@ -3207,7 +5415,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1730.97",
         "location_y": "84.17827",
-        "location_z": "242.9768"
+        "location_z": "242.9768",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18058",
@@ -3218,7 +5434,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2416.213",
         "location_y": "88.19893",
-        "location_z": "-211.8569"
+        "location_z": "-211.8569",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18059",
@@ -3229,7 +5453,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2578.249",
         "location_y": "36.13608",
-        "location_z": "304.5212"
+        "location_z": "304.5212",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18060",
@@ -3240,7 +5472,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1860.761",
         "location_y": "123.973",
-        "location_z": "-42.99902"
+        "location_z": "-42.99902",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18062",
@@ -3264,7 +5504,15 @@
         "facility_type": "Small Outpost",
         "location_x": "310.721252",
         "location_y": "120.967918",
-        "location_z": "1348.02356"
+        "location_z": "1348.02356",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18067",
@@ -3275,7 +5523,15 @@
         "facility_type": "Small Outpost",
         "location_x": "723.092",
         "location_y": "130.515",
-        "location_z": "60.08346"
+        "location_z": "60.08346",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18068",
@@ -3286,7 +5542,15 @@
         "facility_type": "Small Outpost",
         "location_x": "716.0898",
         "location_y": "102.7103",
-        "location_z": "986.1397"
+        "location_z": "986.1397",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18204",
@@ -3297,7 +5561,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-559.74",
         "location_y": "68.37",
-        "location_z": "-2602.2"
+        "location_z": "-2602.2",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18205",
@@ -3305,7 +5577,15 @@
         "facility_id": "400130",
         "facility_name": "Berjess Overlook",
         "facility_type_id": "9",
-        "facility_type": "Construction Outpost"
+        "facility_type": "Construction Outpost",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18206",
@@ -3313,7 +5593,15 @@
         "facility_id": "400131",
         "facility_name": "Sunken Relay Station",
         "facility_type_id": "9",
-        "facility_type": "Construction Outpost"
+        "facility_type": "Construction Outpost",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18207",
@@ -3321,7 +5609,15 @@
         "facility_id": "400132",
         "facility_name": "Lowland Trading Post",
         "facility_type_id": "9",
-        "facility_type": "Construction Outpost"
+        "facility_type": "Construction Outpost",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18208",
@@ -3332,7 +5628,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-694.31",
         "location_y": "25.4",
-        "location_z": "1670.95"
+        "location_z": "1670.95",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18209",
@@ -3343,7 +5647,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-342.569336",
         "location_y": "117.106079",
-        "location_z": "-1751.916504"
+        "location_z": "-1751.916504",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18210",
@@ -3354,7 +5666,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "757.12",
         "location_y": "139.73",
-        "location_z": "-407.94"
+        "location_z": "-407.94",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18249",
@@ -3370,7 +5690,15 @@
         "facility_type": "Amp Station CTF",
         "location_x": "-843.338135",
         "location_y": "119.208771",
-        "location_z": "-559.71228"
+        "location_z": "-559.71228",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18251",
@@ -3381,7 +5709,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "1342.113403",
         "location_y": "24.764065",
-        "location_z": "2176.018066"
+        "location_z": "2176.018066",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18252",
@@ -3392,7 +5728,15 @@
         "facility_type": "Containment Site",
         "location_x": "-2047.06",
         "location_y": "103.53",
-        "location_z": "1556.34"
+        "location_z": "1556.34",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18253",
@@ -3403,7 +5747,15 @@
         "facility_type": "Amp Station CTF",
         "location_x": "-440.229645",
         "location_y": "156.246552",
-        "location_z": "1150.347046"
+        "location_z": "1150.347046",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18261",
@@ -3414,7 +5766,15 @@
         "facility_type": "Construction Outpost CTF",
         "location_x": "-1454.66",
         "location_y": "82.26",
-        "location_z": "1098.23"
+        "location_z": "1098.23",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18262",
@@ -3430,7 +5790,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-338.317261",
         "location_y": "108.666168",
-        "location_z": "214.317261"
+        "location_z": "214.317261",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18264",
@@ -3441,7 +5809,15 @@
         "facility_type": "Small CTF Outpost",
         "location_x": "-77.778915",
         "location_y": "95.325768",
-        "location_z": "-624.747009"
+        "location_z": "-624.747009",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18265",
@@ -3452,7 +5828,15 @@
         "facility_type": "Small Outpost",
         "location_x": "344.686798",
         "location_y": "141.133942",
-        "location_z": "-44.997204"
+        "location_z": "-44.997204",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18266",
@@ -3463,7 +5847,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-648.100403",
         "location_y": "85.295456",
-        "location_z": "-1005.545349"
+        "location_z": "-1005.545349",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18267",
@@ -3474,7 +5866,15 @@
         "facility_type": "Interlink Facility",
         "location_x": "-619.218384",
         "location_y": "159.172028",
-        "location_z": "-1519.788818"
+        "location_z": "-1519.788818",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18268",
@@ -3485,7 +5885,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-232.113312",
         "location_y": "105.867203",
-        "location_z": "-1430.165771"
+        "location_z": "-1430.165771",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18269",
@@ -3496,7 +5904,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1048.93396",
         "location_y": "100.44294",
-        "location_z": "-1629.705322"
+        "location_z": "-1629.705322",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18270",
@@ -3507,7 +5923,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-709.453308",
         "location_y": "143.821136",
-        "location_z": "-2171.245361"
+        "location_z": "-2171.245361",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18271",
@@ -3518,7 +5942,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-386.537109",
         "location_y": "120.802933",
-        "location_z": "1114.843262"
+        "location_z": "1114.843262",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18272",
@@ -3529,7 +5961,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-718.377625",
         "location_y": "116.035873",
-        "location_z": "947.968323"
+        "location_z": "947.968323",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18273",
@@ -3540,7 +5980,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-1140.793213",
         "location_y": "124.632004",
-        "location_z": "508.293579"
+        "location_z": "508.293579",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18274",
@@ -3551,7 +5999,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-332.989929",
         "location_y": "117.000374",
-        "location_z": "634.094849"
+        "location_z": "634.094849",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18275",
@@ -3562,7 +6018,15 @@
         "facility_type": "Interlink Facility",
         "location_x": "-1257.325928",
         "location_y": "197.346512",
-        "location_z": "1432.28186"
+        "location_z": "1432.28186",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18276",
@@ -3573,7 +6037,15 @@
         "facility_type": "Small Outpost",
         "location_x": "991.518311",
         "location_y": "152.748581",
-        "location_z": "400.573608"
+        "location_z": "400.573608",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18277",
@@ -3584,7 +6056,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1048.015137",
         "location_y": "142.520599",
-        "location_z": "-188.00621"
+        "location_z": "-188.00621",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18278",
@@ -3595,7 +6075,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "1435.754517",
         "location_y": "75.875885",
-        "location_z": "-163.03331"
+        "location_z": "-163.03331",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18279",
@@ -3606,7 +6094,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "825.923767",
         "location_y": "57.15625",
-        "location_z": "700.994263"
+        "location_z": "700.994263",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18280",
@@ -3617,7 +6113,15 @@
         "facility_type": "Interlink Facility",
         "location_x": "1482.778931",
         "location_y": "142.946213",
-        "location_z": "228.986938"
+        "location_z": "228.986938",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18281",
@@ -3628,7 +6132,15 @@
         "facility_type": "Small Outpost",
         "location_x": "331.406281",
         "location_y": "159.18399",
-        "location_z": "-2614.756836"
+        "location_z": "-2614.756836",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18282",
@@ -3639,7 +6151,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-807.515137",
         "location_y": "193.364075",
-        "location_z": "-2644.55542"
+        "location_z": "-2644.55542",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18283",
@@ -3650,7 +6170,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-1207.701416",
         "location_y": "156.21109",
-        "location_z": "-2570.100586"
+        "location_z": "-2570.100586",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18284",
@@ -3661,7 +6189,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1628.701904",
         "location_y": "118.678268",
-        "location_z": "-2106.338623"
+        "location_z": "-2106.338623",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18285",
@@ -3672,7 +6208,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-1522.508545",
         "location_y": "157.342468",
-        "location_z": "-1369.56311"
+        "location_z": "-1369.56311",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18286",
@@ -3683,7 +6227,15 @@
         "facility_type": "Interlink Facility",
         "location_x": "-2051.873291",
         "location_y": "187.292236",
-        "location_z": "-593.245789"
+        "location_z": "-593.245789",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18287",
@@ -3694,7 +6246,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-1850.979858",
         "location_y": "153.071121",
-        "location_z": "527.939819"
+        "location_z": "527.939819",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18288",
@@ -3705,7 +6265,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-2394.977295",
         "location_y": "130.840561",
-        "location_z": "1156.290283"
+        "location_z": "1156.290283",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18289",
@@ -3716,7 +6284,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-2410.424561",
         "location_y": "134.278244",
-        "location_z": "1435.602173"
+        "location_z": "1435.602173",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18290",
@@ -3727,7 +6303,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-1740.144775",
         "location_y": "116.149643",
-        "location_z": "2165.526123"
+        "location_z": "2165.526123",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18291",
@@ -3738,7 +6322,15 @@
         "facility_type": "Small Outpost",
         "location_x": "-598.827393",
         "location_y": "174.9263",
-        "location_z": "1962.872314"
+        "location_z": "1962.872314",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18292",
@@ -3749,7 +6341,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-903.418396",
         "location_y": "58.580818",
-        "location_z": "1828.759766"
+        "location_z": "1828.759766",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18293",
@@ -3760,7 +6360,15 @@
         "facility_type": "Small Outpost",
         "location_x": "479.266968",
         "location_y": "184.363861",
-        "location_z": "2340.538818"
+        "location_z": "2340.538818",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18294",
@@ -3771,7 +6379,15 @@
         "facility_type": "Interlink Facility",
         "location_x": "1141.803345",
         "location_y": "168.211151",
-        "location_z": "1995.087402"
+        "location_z": "1995.087402",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18295",
@@ -3782,7 +6398,15 @@
         "facility_type": "Large Outpost",
         "location_x": "1196.985962",
         "location_y": "187.299561",
-        "location_z": "1079.018311"
+        "location_z": "1079.018311",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18296",
@@ -3793,7 +6417,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2329.086914",
         "location_y": "139.885437",
-        "location_z": "1056.979126"
+        "location_z": "1056.979126",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18297",
@@ -3804,7 +6436,15 @@
         "facility_type": "Large Outpost",
         "location_x": "2060.398438",
         "location_y": "133.454987",
-        "location_z": "537.541504"
+        "location_z": "537.541504",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18298",
@@ -3815,7 +6455,15 @@
         "facility_type": "Small Outpost",
         "location_x": "2288.571045",
         "location_y": "117.76519",
-        "location_z": "95.030365"
+        "location_z": "95.030365",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18299",
@@ -3826,7 +6474,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "1621.225098",
         "location_y": "105.567299",
-        "location_z": "-804.511169"
+        "location_z": "-804.511169",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18300",
@@ -3837,7 +6493,15 @@
         "facility_type": "Interlink Facility",
         "location_x": "1451.489624",
         "location_y": "176.345642",
-        "location_z": "-1751.360352"
+        "location_z": "-1751.360352",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "8"
+        }
     },
     {
         "map_region_id": "18301",
@@ -3848,7 +6512,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1157.633911",
         "location_y": "171.207306",
-        "location_z": "-2035.633911"
+        "location_z": "-2035.633911",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18302",
@@ -3859,7 +6531,15 @@
         "facility_type": "Large Outpost",
         "location_x": "-1451.766602",
         "location_y": "216.752075",
-        "location_z": "2722.766602"
+        "location_z": "2722.766602",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "25"
+        }
     },
     {
         "map_region_id": "18303",
@@ -3909,7 +6589,15 @@
         "facility_type": "Trident Relay",
         "location_x": "569.938843",
         "location_y": "297.477264",
-        "location_z": "-1287.730225"
+        "location_z": "-1287.730225",
+        "capture_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "1"
+        },
+        "tick_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "1"
+        }
     },
     {
         "map_region_id": "18308",
@@ -3920,7 +6608,15 @@
         "facility_type": "Trident Relay",
         "location_x": "305.173035",
         "location_y": "308.795837",
-        "location_z": "1234.573364"
+        "location_z": "1234.573364",
+        "capture_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "1"
+        },
+        "tick_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "1"
+        }
     },
     {
         "map_region_id": "18309",
@@ -3931,7 +6627,15 @@
         "facility_type": "Trident Relay",
         "location_x": "-1299.012451",
         "location_y": "314.914978",
-        "location_z": "-411.469635"
+        "location_z": "-411.469635",
+        "capture_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "1"
+        },
+        "tick_reward": {
+            "description": "Polystellarite - Rare",
+            "amount": "1"
+        }
     },
     {
         "map_region_id": "18328",
@@ -3947,7 +6651,15 @@
         "facility_type": "Seapost",
         "location_x": "1753.7677",
         "location_y": "63.119469",
-        "location_z": "730.624207"
+        "location_z": "730.624207",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18330",
@@ -3958,7 +6670,15 @@
         "facility_type": "Seapost",
         "location_x": "-641.054688",
         "location_y": "59.461048",
-        "location_z": "1457.194702"
+        "location_z": "1457.194702",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18331",
@@ -3969,7 +6689,15 @@
         "facility_type": "Seapost",
         "location_x": "-1684.615723",
         "location_y": "59.28022",
-        "location_z": "1491.645752"
+        "location_z": "1491.645752",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18343",
@@ -3980,7 +6708,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-185.992859",
         "location_y": "131.748962",
-        "location_z": "-2597.929199"
+        "location_z": "-2597.929199",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18344",
@@ -3991,7 +6727,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-2197.394531",
         "location_y": "133.375",
-        "location_z": "31.853664"
+        "location_z": "31.853664",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18346",
@@ -4002,7 +6746,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-394.111755",
         "location_y": "56.732193",
-        "location_z": "-557.931091"
+        "location_z": "-557.931091",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18347",
@@ -4018,7 +6770,15 @@
         "facility_type": "Seapost",
         "location_x": "1740.342651",
         "location_y": "76.028809",
-        "location_z": "1556.66748"
+        "location_z": "1556.66748",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18352",
@@ -4034,7 +6794,15 @@
         "facility_type": "Seapost",
         "location_x": "-130.957535",
         "location_y": "73.273705",
-        "location_z": "2470.739258"
+        "location_z": "2470.739258",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18354",
@@ -4050,7 +6818,15 @@
         "facility_type": "Seapost",
         "location_x": "-2011.505493",
         "location_y": "64.402985",
-        "location_z": "-1595.312866"
+        "location_z": "-1595.312866",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18357",
@@ -4071,7 +6847,15 @@
         "facility_type": "Seapost",
         "location_x": "2137.520752",
         "location_y": "63.739616",
-        "location_z": "-730.74292"
+        "location_z": "-730.74292",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18360",
@@ -4082,7 +6866,15 @@
         "facility_type": "Seapost",
         "location_x": "-1401.133301",
         "location_y": "66.182945",
-        "location_z": "110.026756"
+        "location_z": "110.026756",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18361",
@@ -4093,7 +6885,15 @@
         "facility_type": "Seapost",
         "location_x": "-1354.489624",
         "location_y": "64.472183",
-        "location_z": "-924.156006"
+        "location_z": "-924.156006",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18362",
@@ -4104,7 +6904,15 @@
         "facility_type": "Seapost",
         "location_x": "-755.673157",
         "location_y": "63.422569",
-        "location_z": "-486.19455"
+        "location_z": "-486.19455",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18363",
@@ -4115,7 +6923,15 @@
         "facility_type": "Seapost",
         "location_x": "113.404976",
         "location_y": "64.146332",
-        "location_z": "-971.948914"
+        "location_z": "-971.948914",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18364",
@@ -4126,7 +6942,15 @@
         "facility_type": "Seapost",
         "location_x": "139.620956",
         "location_y": "63.944283",
-        "location_z": "-2124.002441"
+        "location_z": "-2124.002441",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18365",
@@ -4137,7 +6961,15 @@
         "facility_type": "Seapost",
         "location_x": "1123.265015",
         "location_y": "62.716373",
-        "location_z": "-669.263611"
+        "location_z": "-669.263611",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18366",
@@ -4148,7 +6980,15 @@
         "facility_type": "Seapost",
         "location_x": "756.811218",
         "location_y": "65.770584",
-        "location_z": "967.915466"
+        "location_z": "967.915466",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18367",
@@ -4159,7 +6999,15 @@
         "facility_type": "Seapost",
         "location_x": "351.356995",
         "location_y": "64.245667",
-        "location_z": "1739.925659"
+        "location_z": "1739.925659",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18368",
@@ -4170,7 +7018,15 @@
         "facility_type": "Seapost",
         "location_x": "72.003395",
         "location_y": "64.158455",
-        "location_z": "713.284668"
+        "location_z": "713.284668",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18369",
@@ -4181,7 +7037,15 @@
         "facility_type": "Construction Outpost",
         "location_x": "-108.05",
         "location_y": "20.94",
-        "location_z": "-243.7"
+        "location_z": "-243.7",
+        "capture_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        },
+        "tick_reward": {
+            "description": "Synthium - Uncommon",
+            "amount": "3"
+        }
     },
     {
         "map_region_id": "18370",
@@ -4192,7 +7056,15 @@
         "facility_type": "Small Outpost",
         "location_x": "1612.34",
         "location_y": "147.69",
-        "location_z": "-1334.77"
+        "location_z": "-1334.77",
+        "capture_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        },
+        "tick_reward": {
+            "description": "Auraxium - Common",
+            "amount": "5"
+        }
     },
     {
         "map_region_id": "18371",

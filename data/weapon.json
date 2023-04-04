@@ -52,7 +52,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "300000"
     },
     {
         "weapon_id": "9",
@@ -285,7 +286,8 @@
         "equip_ms": "125",
         "unequip_ms": "125",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "35",
@@ -295,7 +297,8 @@
         "equip_ms": "125",
         "unequip_ms": "125",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "36",
@@ -305,7 +308,8 @@
         "equip_ms": "125",
         "unequip_ms": "125",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "37",
@@ -383,7 +387,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "51",
@@ -393,7 +398,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "52",
@@ -403,7 +409,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "53",
@@ -437,7 +444,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "75",
@@ -447,7 +455,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "79",
@@ -533,7 +542,8 @@
         "equip_ms": "125",
         "unequip_ms": "125",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "87",
@@ -543,7 +553,8 @@
         "equip_ms": "125",
         "unequip_ms": "125",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "88",
@@ -553,7 +564,8 @@
         "equip_ms": "125",
         "unequip_ms": "125",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "92",
@@ -574,7 +586,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "94",
@@ -584,7 +598,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "95",
@@ -594,7 +610,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "96",
@@ -604,7 +622,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "97",
@@ -614,7 +634,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "98",
@@ -967,7 +989,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "202",
@@ -977,7 +1000,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "5000"
     },
     {
         "weapon_id": "206",
@@ -987,7 +1011,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "207",
@@ -997,7 +1022,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "300",
@@ -1313,7 +1339,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "381",
@@ -1323,7 +1350,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "382",
@@ -1333,7 +1361,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "386",
@@ -1523,7 +1552,8 @@
         "from_iron_sights_ms": "200",
         "heat_capacity": "800",
         "heat_bleed_off_rate": "265",
-        "heat_overheat_penalty_ms": "1000"
+        "heat_overheat_penalty_ms": "1000",
+        "use_cooldown_ms": "0"
     },
     {
         "weapon_id": "430",
@@ -1533,7 +1563,8 @@
         "from_iron_sights_ms": "200",
         "heat_capacity": "800",
         "heat_bleed_off_rate": "265",
-        "heat_overheat_penalty_ms": "1000"
+        "heat_overheat_penalty_ms": "1000",
+        "use_cooldown_ms": "0"
     },
     {
         "weapon_id": "431",
@@ -1543,7 +1574,8 @@
         "from_iron_sights_ms": "200",
         "heat_capacity": "800",
         "heat_bleed_off_rate": "265",
-        "heat_overheat_penalty_ms": "1000"
+        "heat_overheat_penalty_ms": "1000",
+        "use_cooldown_ms": "0"
     },
     {
         "weapon_id": "432",
@@ -1625,7 +1657,8 @@
         "from_iron_sights_ms": "200",
         "heat_capacity": "800",
         "heat_bleed_off_rate": "265",
-        "heat_overheat_penalty_ms": "1000"
+        "heat_overheat_penalty_ms": "1000",
+        "use_cooldown_ms": "0"
     },
     {
         "weapon_id": "442",
@@ -2353,7 +2386,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "658",
@@ -2363,7 +2397,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "659",
@@ -2373,7 +2408,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "660",
@@ -2383,7 +2419,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "661",
@@ -2403,7 +2440,8 @@
         "equip_ms": "400",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "664",
@@ -2413,7 +2451,8 @@
         "equip_ms": "400",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "665",
@@ -2423,7 +2462,8 @@
         "equip_ms": "400",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "666",
@@ -2595,7 +2635,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "7101",
@@ -3401,7 +3442,8 @@
         "equip_ms": "500",
         "unequip_ms": "1000",
         "to_iron_sights_ms": "0",
-        "from_iron_sights_ms": "0"
+        "from_iron_sights_ms": "0",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "7506",
@@ -3532,7 +3574,8 @@
         "equip_ms": "400",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "7547",
@@ -3542,7 +3585,8 @@
         "equip_ms": "400",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "7548",
@@ -3552,7 +3596,8 @@
         "equip_ms": "400",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "7549",
@@ -3562,7 +3607,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "7553",
@@ -4532,7 +4578,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "50561",
@@ -4565,7 +4612,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "70008",
@@ -4575,7 +4623,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "70009",
@@ -4585,7 +4634,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "70010",
@@ -4762,7 +4812,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "70033",
@@ -4772,7 +4824,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "70034",
@@ -4782,7 +4836,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "70035",
@@ -4792,7 +4848,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "70036",
@@ -4802,7 +4860,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "70037",
@@ -5135,7 +5195,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "35000"
     },
     {
         "weapon_id": "77843",
@@ -5145,7 +5207,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "35000"
     },
     {
         "weapon_id": "77844",
@@ -5155,7 +5219,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "35000"
     },
     {
         "weapon_id": "77845"
@@ -5354,7 +5420,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1"
     },
     {
         "weapon_id": "77869"
@@ -5367,7 +5435,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1"
     },
     {
         "weapon_id": "77871"
@@ -5380,7 +5450,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1"
     },
     {
         "weapon_id": "77873"
@@ -5393,7 +5465,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1"
     },
     {
         "weapon_id": "77875"
@@ -5406,7 +5480,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1"
     },
     {
         "weapon_id": "77877"
@@ -5419,7 +5495,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1"
     },
     {
         "weapon_id": "77879",
@@ -5452,7 +5530,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77892",
@@ -5495,7 +5574,8 @@
         "equip_ms": "400",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "77900",
@@ -5650,7 +5730,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77923",
@@ -5660,7 +5741,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77924",
@@ -5734,7 +5816,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77935",
@@ -5744,7 +5827,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77936",
@@ -5754,7 +5838,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77937",
@@ -5764,7 +5849,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77939",
@@ -5953,7 +6039,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77967",
@@ -5963,7 +6050,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77968",
@@ -5973,7 +6061,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77969",
@@ -5983,7 +6072,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77974",
@@ -6069,7 +6159,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "77995",
@@ -6297,7 +6388,8 @@
         "to_iron_sights_ms": "150",
         "from_iron_sights_ms": "150",
         "melee_detect_width": "0.15",
-        "melee_detect_height": "0.1"
+        "melee_detect_height": "0.1",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "78020",
@@ -6307,7 +6399,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "78022",
@@ -6317,7 +6410,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78023",
@@ -6327,7 +6421,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78024",
@@ -6337,7 +6432,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78025",
@@ -6358,7 +6454,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78027",
@@ -6368,7 +6465,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78028",
@@ -6433,7 +6531,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78035",
@@ -6443,7 +6542,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78036",
@@ -6453,7 +6553,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78037",
@@ -6463,7 +6564,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78041",
@@ -6473,7 +6575,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78042",
@@ -6504,7 +6607,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78046",
@@ -6536,7 +6640,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78054",
@@ -6546,7 +6651,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78055",
@@ -6556,7 +6662,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78056",
@@ -6566,7 +6673,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78057",
@@ -6576,7 +6684,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78058",
@@ -6586,7 +6695,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78059",
@@ -6596,7 +6706,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78061",
@@ -6606,7 +6717,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78062",
@@ -6876,7 +6988,9 @@
         "equip_ms": "100",
         "unequip_ms": "100",
         "to_iron_sights_ms": "50",
-        "from_iron_sights_ms": "50"
+        "from_iron_sights_ms": "50",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "78127",
@@ -6886,7 +7000,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "120000"
     },
     {
         "weapon_id": "78128",
@@ -6896,7 +7012,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "120000"
     },
     {
         "weapon_id": "78129",
@@ -6906,7 +7024,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "120000"
     },
     {
         "weapon_id": "78130",
@@ -7015,7 +7135,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78145",
@@ -7048,7 +7169,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78148",
@@ -7270,7 +7392,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78177",
@@ -7280,7 +7403,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78178",
@@ -7290,7 +7414,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78179",
@@ -7351,7 +7476,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "20000"
     },
     {
         "weapon_id": "78187",
@@ -7361,7 +7488,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "20000"
     },
     {
         "weapon_id": "78188",
@@ -7371,7 +7500,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "20000"
     },
     {
         "weapon_id": "78190"
@@ -7395,7 +7526,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "20000"
     },
     {
         "weapon_id": "78193",
@@ -7417,7 +7549,9 @@
         "equip_ms": "100",
         "unequip_ms": "100",
         "to_iron_sights_ms": "50",
-        "from_iron_sights_ms": "50"
+        "from_iron_sights_ms": "50",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "78195",
@@ -7427,7 +7561,9 @@
         "equip_ms": "100",
         "unequip_ms": "100",
         "to_iron_sights_ms": "50",
-        "from_iron_sights_ms": "50"
+        "from_iron_sights_ms": "50",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "78196",
@@ -7437,7 +7573,9 @@
         "equip_ms": "100",
         "unequip_ms": "100",
         "to_iron_sights_ms": "50",
-        "from_iron_sights_ms": "50"
+        "from_iron_sights_ms": "50",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "78199",
@@ -7447,7 +7585,9 @@
         "equip_ms": "100",
         "unequip_ms": "100",
         "to_iron_sights_ms": "50",
-        "from_iron_sights_ms": "50"
+        "from_iron_sights_ms": "50",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "78200",
@@ -7554,7 +7694,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78228",
@@ -7662,7 +7803,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78249",
@@ -7738,7 +7880,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78264",
@@ -7748,7 +7891,8 @@
         "equip_ms": "400",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78265",
@@ -7758,7 +7902,8 @@
         "equip_ms": "400",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78266",
@@ -7798,7 +7943,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78272",
@@ -7808,7 +7954,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78273",
@@ -7847,7 +7994,8 @@
         "weapon_id": "78276",
         "weapon_group_id": "1104",
         "turn_modifier": "1.0",
-        "move_modifier": "1.0"
+        "move_modifier": "1.0",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "78277",
@@ -7893,7 +8041,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78284",
@@ -7903,7 +8052,8 @@
         "from_iron_sights_ms": "200",
         "heat_capacity": "800",
         "heat_bleed_off_rate": "265",
-        "heat_overheat_penalty_ms": "1000"
+        "heat_overheat_penalty_ms": "1000",
+        "use_cooldown_ms": "0"
     },
     {
         "weapon_id": "78285",
@@ -7913,7 +8063,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "use_cooldown_ms": "6000"
     },
     {
         "weapon_id": "78286",
@@ -8054,7 +8205,9 @@
         "equip_ms": "100",
         "unequip_ms": "100",
         "to_iron_sights_ms": "50",
-        "from_iron_sights_ms": "50"
+        "from_iron_sights_ms": "50",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "78309",
@@ -8160,7 +8313,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "20000"
     },
     {
         "weapon_id": "78334",
@@ -8170,7 +8325,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "20000"
     },
     {
         "weapon_id": "78335",
@@ -8258,7 +8415,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "35000"
     },
     {
         "weapon_id": "78351",
@@ -8268,7 +8427,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78352",
@@ -8278,7 +8438,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78353",
@@ -8288,7 +8449,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78354",
@@ -8298,7 +8460,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78355",
@@ -8423,7 +8586,8 @@
         "to_iron_sights_ms": "150",
         "from_iron_sights_ms": "150",
         "melee_detect_width": "0.15",
-        "melee_detect_height": "0.1"
+        "melee_detect_height": "0.1",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "78372",
@@ -8557,7 +8721,9 @@
         "equip_ms": "100",
         "unequip_ms": "100",
         "to_iron_sights_ms": "50",
-        "from_iron_sights_ms": "50"
+        "from_iron_sights_ms": "50",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "78403",
@@ -8592,7 +8758,8 @@
         "to_iron_sights_ms": "150",
         "from_iron_sights_ms": "150",
         "melee_detect_width": "0.15",
-        "melee_detect_height": "0.1"
+        "melee_detect_height": "0.1",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "78410",
@@ -8611,7 +8778,8 @@
         "from_iron_sights_ms": "150",
         "heat_capacity": "6999",
         "heat_bleed_off_rate": "1750",
-        "heat_overheat_penalty_ms": "0"
+        "heat_overheat_penalty_ms": "0",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "78412",
@@ -8704,7 +8872,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "0",
-        "from_iron_sights_ms": "0"
+        "from_iron_sights_ms": "0",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78424",
@@ -8730,7 +8899,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "25000"
     },
     {
         "weapon_id": "78427",
@@ -8810,7 +8981,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "25000"
     },
     {
         "weapon_id": "78437",
@@ -8820,7 +8993,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "20000"
     },
     {
         "weapon_id": "78438",
@@ -8830,7 +9005,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78441",
@@ -8840,7 +9016,8 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78445",
@@ -8850,7 +9027,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "1000"
     },
     {
         "weapon_id": "78448",
@@ -8860,7 +9039,8 @@
         "equip_ms": "400",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78449",
@@ -9158,7 +9338,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "5000"
     },
     {
         "weapon_id": "78505",
@@ -9206,7 +9388,8 @@
         "to_iron_sights_ms": "150",
         "from_iron_sights_ms": "150",
         "melee_detect_width": "0.15",
-        "melee_detect_height": "0.1"
+        "melee_detect_height": "0.1",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "78523",
@@ -9309,7 +9492,8 @@
         "to_iron_sights_ms": "150",
         "from_iron_sights_ms": "150",
         "melee_detect_width": "0.15",
-        "melee_detect_height": "0.1"
+        "melee_detect_height": "0.1",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "78535",
@@ -9749,7 +9933,8 @@
         "to_iron_sights_ms": "150",
         "from_iron_sights_ms": "150",
         "melee_detect_width": "0.15",
-        "melee_detect_height": "0.1"
+        "melee_detect_height": "0.1",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "78606",
@@ -9773,7 +9958,8 @@
         "from_iron_sights_ms": "150",
         "heat_capacity": "6999",
         "heat_bleed_off_rate": "1714",
-        "heat_overheat_penalty_ms": "0"
+        "heat_overheat_penalty_ms": "0",
+        "use_cooldown_ms": "300"
     },
     {
         "weapon_id": "78609",
@@ -9885,7 +10071,8 @@
         "from_iron_sights_ms": "150",
         "heat_capacity": "2999",
         "heat_bleed_off_rate": "1090",
-        "heat_overheat_penalty_ms": "0"
+        "heat_overheat_penalty_ms": "0",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "78619",
@@ -9895,7 +10082,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1",
+        "use_cooldown_ms": "120000"
     },
     {
         "weapon_id": "78620",
@@ -10150,7 +10339,9 @@
         "equip_ms": "450",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "45000"
     },
     {
         "weapon_id": "78656",
@@ -10254,7 +10445,9 @@
         "equip_ms": "450",
         "unequip_ms": "350",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "0",
+        "use_cooldown_ms": "0"
     },
     {
         "weapon_id": "78668",
@@ -10275,7 +10468,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78670",
@@ -10297,7 +10491,8 @@
         "equip_ms": "100",
         "unequip_ms": "100",
         "to_iron_sights_ms": "50",
-        "from_iron_sights_ms": "50"
+        "from_iron_sights_ms": "50",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78673",
@@ -10343,7 +10538,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78680",
@@ -10419,7 +10615,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78693",
@@ -10429,7 +10626,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78694",
@@ -10439,7 +10637,8 @@
         "equip_ms": "600",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78695",
@@ -10472,7 +10671,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78699",
@@ -10482,7 +10682,8 @@
         "equip_ms": "250",
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150"
+        "from_iron_sights_ms": "150",
+        "requires_ammo": "1"
     },
     {
         "weapon_id": "78700",
@@ -10851,7 +11052,8 @@
         "to_iron_sights_ms": "150",
         "from_iron_sights_ms": "150",
         "melee_detect_width": "0.15",
-        "melee_detect_height": "0.1"
+        "melee_detect_height": "0.1",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "78752",
@@ -11019,7 +11221,8 @@
         "to_iron_sights_ms": "150",
         "from_iron_sights_ms": "150",
         "melee_detect_width": "0.15",
-        "melee_detect_height": "0.1"
+        "melee_detect_height": "0.1",
+        "requires_ammo": "0"
     },
     {
         "weapon_id": "78775",
