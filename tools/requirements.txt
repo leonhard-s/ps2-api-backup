@@ -1,1 +1,1 @@
-auraxium >= 0.2.0b4
+auraxium >= 0.2.3
