@@ -2224,5 +2224,95 @@
             "it": "I velivoli sono gratuiti durante quest'evento."
         },
         "type": "4"
+    },
+    {
+        "metagame_event_id": "251",
+        "name": {
+            "de": "Nanitensturm",
+            "en": "Nanite Storm",
+            "es": "Tormenta de nanites",
+            "fr": "Temp\u00eate de nanites",
+            "it": "Tempesta di naniti"
+        },
+        "description": {
+            "de": "\u00dcberlebe den Nanitensturm.",
+            "en": "Survive the nanite storm.",
+            "es": "Sobrevive a la tormenta de nanites.",
+            "fr": "Survivez \u00e0 la temp\u00eate de nanites.",
+            "it": "Sopravvivi alla tempesta di naniti."
+        },
+        "type": "4"
+    },
+    {
+        "metagame_event_id": "252",
+        "name": {
+            "de": "Nanitensturm",
+            "en": "Nanite Storm",
+            "es": "Tormenta de nanites",
+            "fr": "Temp\u00eate de nanites",
+            "it": "Tempesta di naniti"
+        },
+        "description": {
+            "de": "\u00dcberlebe den Nanitensturm.",
+            "en": "Survive the nanite storm.",
+            "es": "Sobrevive a la tormenta de nanites.",
+            "fr": "Survivez \u00e0 la temp\u00eate de nanites.",
+            "it": "Sopravvivi alla tempesta di naniti."
+        },
+        "type": "4"
+    },
+    {
+        "metagame_event_id": "253",
+        "name": {
+            "de": "Nanitensturm",
+            "en": "Nanite Storm",
+            "es": "Tormenta de nanites",
+            "fr": "Temp\u00eate de nanites",
+            "it": "Tempesta di naniti"
+        },
+        "description": {
+            "de": "\u00dcberlebe den Nanitensturm.",
+            "en": "Survive the nanite storm.",
+            "es": "Sobrevive a la tormenta de nanites.",
+            "fr": "Survivez \u00e0 la temp\u00eate de nanites.",
+            "it": "Sopravvivi alla tempesta di naniti."
+        },
+        "type": "4"
+    },
+    {
+        "metagame_event_id": "254",
+        "name": {
+            "de": "Nanitensturm",
+            "en": "Nanite Storm",
+            "es": "Tormenta de nanites",
+            "fr": "Temp\u00eate de nanites",
+            "it": "Tempesta di naniti"
+        },
+        "description": {
+            "de": "\u00dcberlebe den Nanitensturm.",
+            "en": "Survive the nanite storm.",
+            "es": "Sobrevive a la tormenta de nanites.",
+            "fr": "Survivez \u00e0 la temp\u00eate de nanites.",
+            "it": "Sopravvivi alla tempesta di naniti."
+        },
+        "type": "4"
+    },
+    {
+        "metagame_event_id": "255",
+        "name": {
+            "de": "Nanitensturm",
+            "en": "Nanite Storm",
+            "es": "Tormenta de nanites",
+            "fr": "Temp\u00eate de nanites",
+            "it": "Tempesta di naniti"
+        },
+        "description": {
+            "de": "\u00dcberlebe den Nanitensturm.",
+            "en": "Survive the nanite storm.",
+            "es": "Sobrevive a la tormenta de nanites.",
+            "fr": "Survivez \u00e0 la temp\u00eate de nanites.",
+            "it": "Sopravvivi alla tempesta di naniti."
+        },
+        "type": "4"
     }
 ]

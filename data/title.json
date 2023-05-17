@@ -3302,5 +3302,15 @@
             "fr": "C\u00e2lin",
             "it": "Adorabile"
         }
+    },
+    {
+        "title_id": "449",
+        "name": {
+            "de": "Feldkommandeur",
+            "en": "Field Commander",
+            "es": "Comandante de campo\n",
+            "fr": "Commandant de terrain",
+            "it": "Comandante operativo"
+        }
     }
 ]

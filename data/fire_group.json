@@ -2222,6 +2222,10 @@
         "can_chamber_ironsights": "0"
     },
     {
+        "fire_group_id": "80084",
+        "can_chamber_ironsights": "0"
+    },
+    {
         "fire_group_id": "80085",
         "can_chamber_ironsights": "0"
     },
@@ -2825,10 +2829,6 @@
     {
         "fire_group_id": "80338",
         "transition_duration_ms": "500",
-        "can_chamber_ironsights": "0"
-    },
-    {
-        "fire_group_id": "80343",
         "can_chamber_ironsights": "0"
     },
     {
@@ -4031,14 +4031,6 @@
         "can_chamber_ironsights": "0"
     },
     {
-        "fire_group_id": "80775",
-        "can_chamber_ironsights": "0"
-    },
-    {
-        "fire_group_id": "80776",
-        "can_chamber_ironsights": "0"
-    },
-    {
         "fire_group_id": "80780",
         "can_chamber_ironsights": "0"
     },
@@ -4693,6 +4685,18 @@
         "can_chamber_ironsights": "0"
     },
     {
+        "fire_group_id": "80949",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80951",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80952",
+        "can_chamber_ironsights": "0"
+    },
+    {
         "fire_group_id": "80954",
         "transition_duration_ms": "500",
         "can_chamber_ironsights": "0"
@@ -4712,6 +4716,22 @@
         "can_chamber_ironsights": "0"
     },
     {
+        "fire_group_id": "80958",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80959",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80961",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80963",
+        "can_chamber_ironsights": "0"
+    },
+    {
         "fire_group_id": "80964",
         "can_chamber_ironsights": "0"
     },
@@ -4719,5 +4739,51 @@
         "fire_group_id": "80965",
         "transition_duration_ms": "500",
         "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80966",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80967",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80968",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80971",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80972",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80973",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80974",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80975",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80976",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80978",
+        "transition_duration_ms": "500",
+        "can_chamber_ironsights": "1"
+    },
+    {
+        "fire_group_id": "80979",
+        "transition_duration_ms": "500",
+        "can_chamber_ironsights": "1"
     }
 ]

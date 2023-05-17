@@ -1365,5 +1365,21 @@
             "fr": "8 f\u00e9v. - 14 f\u00e9v.",
             "it": "8-14 febbraio"
         }
+    },
+    {
+        "directive_tree_id": "119",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Jubil\u00e4um 20 Jahre PlanetSide",
+            "en": "PlanetSide 20-Year Legacy",
+            "es": "Legado de 20 a\u00f1os de PlanetSide",
+            "fr": "20 ans d'H\u00e9ritage de PlanetSide"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 4. Juni",
+            "en": "Available through June 4",
+            "es": "Disponible hasta el 4 de junio",
+            "fr": "Disponible jusqu'au 4 juin"
+        }
     }
 ]

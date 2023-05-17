@@ -4035,11 +4035,11 @@
         "zone_id": "344",
         "initial_faction_id": "3",
         "name": {
-            "de": "Mirror Bay Wachturm",
-            "en": "Mirror Bay Watchtower",
-            "es": "Atalaya de Mirror Bay",
-            "fr": "Mirror Bay Watchtower",
-            "it": "Mirror Bay Watchtower"
+            "de": "Ausgrabungs-R\u00e4umstelle",
+            "en": "Excavion Cleanup Site",
+            "es": "Lugar de limpieza de Excavion",
+            "fr": "Site d'\u00e9puration Excavion",
+            "it": "Sito di pulizia degli scavi"
         }
     },
     {
@@ -4515,11 +4515,11 @@
         "zone_id": "344",
         "initial_faction_id": "2",
         "name": {
-            "de": "Oshur Nordost-Flotille",
-            "en": "Oshur Northeast Flotilla",
-            "es": "Flotilla nordeste de Oshur",
-            "fr": "Flottille nord-est d'Oshur",
-            "it": "Squadriglia nord-est di Oshur"
+            "de": "Oshur Nord-Flotille",
+            "en": "Oshur North Flotilla",
+            "es": "Flotilla norte de Oshur",
+            "fr": "Flottille nord d'Oshur",
+            "it": "Squadriglia nord di Oshur"
         }
     },
     {
@@ -4527,11 +4527,11 @@
         "zone_id": "344",
         "initial_faction_id": "3",
         "name": {
-            "de": "Oshur Nordwest-Flotille",
-            "en": "Oshur Northwest Flotilla",
-            "es": "Flotilla noroeste de Oshur",
-            "fr": "Flottille nord-ouest d'Oshur",
-            "it": "Squadriglia nord-ovest di Oshur"
+            "de": "Oshur West-Flotille",
+            "en": "Oshur West Flotilla",
+            "es": "Flotilla oeste de Oshur",
+            "fr": "Flottille ouest d'Oshur",
+            "it": "Squadriglia ovest di Oshur"
         }
     },
     {
@@ -4539,11 +4539,11 @@
         "zone_id": "344",
         "initial_faction_id": "1",
         "name": {
-            "de": "Oshur S\u00fcd-Flotille",
-            "en": "Oshur South Flotilla",
-            "es": "Flotilla sur de Oshur",
-            "fr": "Flottille sud d'Oshur",
-            "it": "Squadriglia sud di Oshur"
+            "de": "Oshur S\u00fcdost-Flotille",
+            "en": "Oshur Southeast Flotilla",
+            "es": "Flotilla sudeste de Oshur",
+            "fr": "Flottille sud-est d'Oshur",
+            "it": "Squadriglia sud-est di Oshur"
         }
     },
     {
@@ -4655,11 +4655,11 @@
         "zone_id": "344",
         "initial_faction_id": "0",
         "name": {
-            "de": "Wakerift Landekopf",
-            "en": "Wakerift Beachhead",
-            "es": "Playa de Wakerift",
-            "fr": "T\u00eate de pont Wakerift",
-            "it": "Testa di ponte di Wakerift"
+            "de": "Wakerift Plateau",
+            "en": "Wakerift Plateau",
+            "es": "Meseta de Wakerift",
+            "fr": "Plateau de Wakerift",
+            "it": "Altopiano di Wakerift"
         }
     },
     {
@@ -4883,11 +4883,11 @@
         "zone_id": "344",
         "initial_faction_id": "0",
         "name": {
-            "de": "Bathala Garden",
-            "en": "Bathala Garden",
-            "es": "Jard\u00edn de Bathala",
-            "fr": "Bathala Garden",
-            "it": "Giardino di Bathala"
+            "de": "Edgewater Overlook",
+            "en": "Bathala Overlook",
+            "es": "Bathala Overlook",
+            "fr": "Bathala Overlook",
+            "it": "Bathala Overlook"
         }
     },
     {
@@ -4900,6 +4900,30 @@
             "es": "Tecnolog\u00edas HMS",
             "fr": "HMS Technologies",
             "it": "HMS Technologies"
+        }
+    },
+    {
+        "region_id": "18375",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Rast des J\u00e4gers",
+            "en": "Hunter's Respite",
+            "es": "Descanso del cazador",
+            "fr": "R\u00e9pit des chasseurs",
+            "it": "Tregua del cacciatore"
+        }
+    },
+    {
+        "region_id": "18376",
+        "zone_id": "344",
+        "initial_faction_id": "0",
+        "name": {
+            "de": "Leif Biochemical",
+            "en": "Leif Biochemical",
+            "es": "Leif Biochemical",
+            "fr": "Leif Biochemical",
+            "it": "Leif Biochemical"
         }
     }
 ]

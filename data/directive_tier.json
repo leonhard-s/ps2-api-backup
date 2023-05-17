@@ -5618,5 +5618,73 @@
         "image_set_id": "80232",
         "image_id": "84283",
         "image_path": "/files/ps2/images/static/84283.png"
+    },
+    {
+        "directive_tree_id": "119",
+        "directive_tier_id": "1",
+        "reward_set_id": "6228",
+        "directive_points": "0",
+        "completion_count": "2",
+        "name": {
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
+        },
+        "image_set_id": "802808",
+        "image_id": "84781",
+        "image_path": "/files/ps2/images/static/84781.png"
+    },
+    {
+        "directive_tree_id": "119",
+        "directive_tier_id": "2",
+        "reward_set_id": "6229",
+        "directive_points": "0",
+        "completion_count": "3",
+        "name": {
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
+        },
+        "image_set_id": "802810",
+        "image_id": "84787",
+        "image_path": "/files/ps2/images/static/84787.png"
+    },
+    {
+        "directive_tree_id": "119",
+        "directive_tier_id": "3",
+        "reward_set_id": "6230",
+        "directive_points": "0",
+        "completion_count": "4",
+        "name": {
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
+        },
+        "image_set_id": "802809",
+        "image_id": "84784",
+        "image_path": "/files/ps2/images/static/84784.png"
+    },
+    {
+        "directive_tree_id": "119",
+        "directive_tier_id": "4",
+        "reward_set_id": "6231",
+        "directive_points": "0",
+        "completion_count": "4",
+        "name": {
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
+        },
+        "image_set_id": "802807",
+        "image_id": "84778",
+        "image_path": "/files/ps2/images/static/84778.png"
     }
 ]
