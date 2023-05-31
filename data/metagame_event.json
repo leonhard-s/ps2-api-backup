@@ -2226,6 +2226,42 @@
         "type": "4"
     },
     {
+        "metagame_event_id": "248",
+        "description": {
+            "de": "Kontrolliere das Gebiet, um Oshur zu sperren.",
+            "en": "Control territory to lock Oshur",
+            "es": "Controla territorio para bloquear Oshur",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Oshur",
+            "it": "Controlla il territorio per bloccare Oshur"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "249",
+        "description": {
+            "de": "Kontrolliere das Gebiet, um Oshur zu sperren.",
+            "en": "Control territory to lock Oshur",
+            "es": "Controla territorio para bloquear Oshur",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Oshur",
+            "it": "Controlla il territorio per bloccare Oshur"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
+        "metagame_event_id": "250",
+        "description": {
+            "de": "Kontrolliere das Gebiet, um Oshur zu sperren.",
+            "en": "Control territory to lock Oshur",
+            "es": "Controla territorio para bloquear Oshur",
+            "fr": "Contr\u00f4lez le territoire pour verrouiller Oshur",
+            "it": "Controlla il territorio per bloccare Oshur"
+        },
+        "type": "9",
+        "experience_bonus": "25"
+    },
+    {
         "metagame_event_id": "251",
         "name": {
             "de": "Nanitensturm",

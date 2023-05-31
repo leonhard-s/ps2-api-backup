@@ -11805,7 +11805,7 @@
     {
         "resist_info_id": "2613",
         "resist_type_id": "23",
-        "resist_percent": "-50",
+        "resist_percent": "-25",
         "multiplier_when_headshot": "1",
         "description": "Rampart Wall: Air to Ground"
     },
@@ -11931,7 +11931,7 @@
     {
         "resist_info_id": "2632",
         "resist_type_id": "7",
-        "resist_percent": "-50",
+        "resist_percent": "-25",
         "multiplier_when_headshot": "1",
         "description": "Construction - Rampart Wall - Tank Shell"
     },
@@ -23335,13 +23335,13 @@
     {
         "resist_info_id": "4632",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Sunderer Garage: Fast Siege"
     },
     {
         "resist_info_id": "4633",
         "resist_type_id": "49",
-        "resist_percent": "10",
+        "resist_percent": "15",
         "description": "Sunderer Garage: Fast Siege"
     },
     {
@@ -23353,7 +23353,7 @@
     {
         "resist_info_id": "4635",
         "resist_type_id": "49",
-        "resist_percent": "-10",
+        "resist_percent": "0",
         "description": "Under Construction: Rampart Wall: Fast Siege"
     },
     {
@@ -23365,133 +23365,133 @@
     {
         "resist_info_id": "4637",
         "resist_type_id": "49",
-        "resist_percent": "-10",
+        "resist_percent": "0",
         "description": "Construction: Lumifiber Rampart Wall: Fast Siege"
     },
     {
         "resist_info_id": "4638",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "30",
         "description": "Construction: Bunker: Fast Siege"
     },
     {
         "resist_info_id": "4639",
         "resist_type_id": "49",
-        "resist_percent": "-10",
+        "resist_percent": "30",
         "description": "Construction: Bunker: Fast Siege"
     },
     {
         "resist_info_id": "4640",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Infantry Tower: Fast Siege"
     },
     {
         "resist_info_id": "4641",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Infantry Tower: Fast Siege"
     },
     {
         "resist_info_id": "4642",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "15",
         "description": "Construction: Vehicle Ramp: Fast Siege"
     },
     {
         "resist_info_id": "4643",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Under Construction: Vehicle Ramp: Fast Siege"
     },
     {
         "resist_info_id": "4644",
         "resist_type_id": "49",
-        "resist_percent": "50",
+        "resist_percent": "0",
         "description": "Construction: Blast Wall: Fast Siege"
     },
     {
         "resist_info_id": "4645",
         "resist_type_id": "49",
-        "resist_percent": "13",
+        "resist_percent": "0",
         "description": "Construction: Blast Wall: Fast Siege"
     },
     {
         "resist_info_id": "4646",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "15",
         "description": "Construction: VehiclePad: Fast Siege"
     },
     {
         "resist_info_id": "4647",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: VehiclePad: Fast Siege"
     },
     {
         "resist_info_id": "4648",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Pillbox: Fast Siege"
     },
     {
         "resist_info_id": "4649",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Pillbox: Fast Siege"
     },
     {
         "resist_info_id": "4650",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "15",
         "description": "Construction: Air Pad: Fast Siege"
     },
     {
         "resist_info_id": "4651",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Air Pad: Fast Siege"
     },
     {
         "resist_info_id": "4652",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "30",
         "description": "Construction: Faction Banner: Fast Siege"
     },
     {
         "resist_info_id": "4653",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "30",
         "description": "Construction: Faction Banner: Fast Siege"
     },
     {
         "resist_info_id": "4654",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "15",
         "description": "Construction: Gate Wall: Fast Siege"
     },
     {
         "resist_info_id": "4655",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Gate Wall: Fast Siege"
     },
     {
         "resist_info_id": "4656",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "15",
         "description": "Construction: Ammo Tower: Fast Siege"
     },
     {
         "resist_info_id": "4657",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Ammo Tower: Fast Siege"
     },
     {
         "resist_info_id": "4658",
         "resist_type_id": "49",
-        "resist_percent": "70",
+        "resist_percent": "30",
         "description": "Construction: Spawn Tube: Fast Siege"
     },
     {
@@ -23503,19 +23503,19 @@
     {
         "resist_info_id": "4660",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "0",
         "description": "Construction: Phalanx Tower: Fast Siege"
     },
     {
         "resist_info_id": "4661",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Phalanx Tower: Fast Siege"
     },
     {
         "resist_info_id": "4662",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "0",
         "description": "Construction: AV Phalanx Towerless: Fast Siege"
     },
     {
@@ -23527,7 +23527,7 @@
     {
         "resist_info_id": "4664",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "0",
         "description": "Construction: AI Phalanx: Fast Siege"
     },
     {
@@ -23539,7 +23539,7 @@
     {
         "resist_info_id": "4666",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "0",
         "description": "Construction: AA Phalanx: Fast Siege"
     },
     {
@@ -23551,13 +23551,13 @@
     {
         "resist_info_id": "4668",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "15",
         "description": "Construction: Deployed ION Turret: Fast Siege"
     },
     {
         "resist_info_id": "4669",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Deployed ION Turret: Fast Siege"
     },
     {
@@ -23695,13 +23695,13 @@
     {
         "resist_info_id": "4692",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Deployed Artillery: Fast Siege"
     },
     {
         "resist_info_id": "4693",
         "resist_type_id": "49",
-        "resist_percent": "37",
+        "resist_percent": "15",
         "description": "Construction: Deployed Artillery: Fast Siege"
     },
     {
@@ -30788,7 +30788,7 @@
     {
         "resist_info_id": "6123",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Infantry Treestand: Fast Siege"
     },
     {
@@ -30876,7 +30876,7 @@
     {
         "resist_info_id": "6137",
         "resist_type_id": "49",
-        "resist_percent": "0",
+        "resist_percent": "15",
         "description": "Construction: Infantry Tunnel: Fast Siege"
     },
     {
@@ -32210,5 +32210,19 @@
         "resist_percent": "100",
         "multiplier_when_headshot": "1",
         "description": "Construction: Command Center: Tier 1 AV"
+    },
+    {
+        "resist_info_id": "6331",
+        "resist_type_id": "7",
+        "resist_percent": "20",
+        "multiplier_when_headshot": "1",
+        "description": "Construction: Durability Mod: Tank Shell"
+    },
+    {
+        "resist_info_id": "6332",
+        "resist_type_id": "23",
+        "resist_percent": "20",
+        "multiplier_when_headshot": "1",
+        "description": "Construction: Durability Mod: A2G"
     }
 ]
