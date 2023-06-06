@@ -2227,6 +2227,13 @@
     },
     {
         "metagame_event_id": "248",
+        "name": {
+            "de": "Oshur - Instabiler Zusammenbruch",
+            "en": "Oshur Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Oshur",
+            "fr": "Fusion instable d'Oshur",
+            "it": "Fusione instabile di Oshur"
+        },
         "description": {
             "de": "Kontrolliere das Gebiet, um Oshur zu sperren.",
             "en": "Control territory to lock Oshur",
@@ -2239,6 +2246,13 @@
     },
     {
         "metagame_event_id": "249",
+        "name": {
+            "de": "Oshur - Instabiler Zusammenbruch",
+            "en": "Oshur Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Oshur",
+            "fr": "Fusion instable d'Oshur",
+            "it": "Fusione instabile di Oshur"
+        },
         "description": {
             "de": "Kontrolliere das Gebiet, um Oshur zu sperren.",
             "en": "Control territory to lock Oshur",
@@ -2251,6 +2265,13 @@
     },
     {
         "metagame_event_id": "250",
+        "name": {
+            "de": "Oshur - Instabiler Zusammenbruch",
+            "en": "Oshur Unstable Meltdown",
+            "es": "Fusi\u00f3n inestable de Oshur",
+            "fr": "Fusion instable d'Oshur",
+            "it": "Fusione instabile di Oshur"
+        },
         "description": {
             "de": "Kontrolliere das Gebiet, um Oshur zu sperren.",
             "en": "Control territory to lock Oshur",

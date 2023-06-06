@@ -654,11 +654,11 @@
             "it": "Glaive IPC"
         },
         "description": {
-            "de": "Die Ionenpartikel-Kanone Glaive ist ein unbemanntes Gesch\u00fctz f\u00fcr mittelgro\u00dfe Distanzen, das Verteidigungsschildsysteme unterbricht, jedoch, augrund seines Mangels an konventioneller Ladung, nur geringen Schaden an Personen und Ausr\u00fcstung anrichtet. Die IPK erfordert AI-Modulunterst\u00fctzung sowie manuell abgefeuerte Zielpfeile, um ein Ziel zu erfassen.",
-            "en": "The Glaive Ionized Particle Cannon is unmanned mid-range artillery that disrupts defensive shield systems but only inflicts minor damage to personnel and equipment due to its lack of conventional payload. The IPC requires AI module support as well as a manually fired targeting dart to acquire a target.",
-            "es": "El ca\u00f1\u00f3n de part\u00edculas ionizado Guja es una artiller\u00eda de medio alcance no tripulada que interfiere en los sistemas de escudos defensivos pero que solo inflinge da\u00f1os leves al personal y al equipo debido a su falta de carga convencional. El CPI requiere tanto un m\u00f3dulo de IA como un dardo de adquisici\u00f3n de objetivos disparado manualmente.",
-            "fr": "Le Canon \u00e0 Particules Ionis\u00e9es \"Glaive\" est une pi\u00e8ce d'artillerie sans pilote de port\u00e9e moyenne qui perturbe les syst\u00e8mes de boucliers d\u00e9fensifs mais n'inflige que des d\u00e9g\u00e2ts mineurs au personnel et \u00e0 l'\u00e9quipement en raison de sa faible charge conventionnelle. Le CPI n\u00e9cessite un module IA ainsi qu'une fl\u00e9chette de guidage tir\u00e9e manuellement pour identifier une cible.",
-            "it": "Il cannone a particelle ionizzate Glaive  \u00e8 un pezzo di artiglieria di medio raggio non pilotato che blocca gli scudi difensivi ma infligge solo danni minori alle persone e alle attrezzature perch\u00e9 non ha la carica esplosiva tradizionale.  L'IPC richiede un supporto modulare d IA e anche un dardo lanciato manualmente per acquisire un bersaglio."
+            "de": "Die Ionenpartikel-Kanone Glaive ist ein unbemanntes Gesch\u00fctz f\u00fcr mittelgro\u00dfe Distanzen, das Verteidigungsschildsysteme st\u00f6rt, jedoch, aufgrund seines Mangels an konventioneller Ladung, nur geringen Schaden an Personen und Ausr\u00fcstung anrichtet. Die IPK erfordert manuell abgefeuerte Zielpfeile, um ein Ziel zu erfassen.",
+            "en": "The Glaive Ionized Particle Cannon is unmanned mid-range artillery that disrupts defensive shield systems but only inflicts minor damage to personnel and equipment due to its lack of conventional payload. The IPC requires a manually fired targeting dart to acquire a target.",
+            "es": "El ca\u00f1\u00f3n de part\u00edculas ionizado Guja es una artiller\u00eda de medio alcance no tripulada que interfiere en los sistemas de escudos defensivos pero que solo inflinge da\u00f1os leves al personal y al equipo debido a su falta de carga convencional. El CPI requiere un dardo de adquisici\u00f3n de objetivos disparado manualmente para la adquisici\u00f3n de blancos.",
+            "fr": "Le Canon \u00e0 Particules Ionis\u00e9es \"Glaive\" est une pi\u00e8ce d'artillerie sans pilote de port\u00e9e moyenne qui perturbe les syst\u00e8mes de boucliers d\u00e9fensifs mais n'inflige que des d\u00e9g\u00e2ts mineurs au personnel et \u00e0 l'\u00e9quipement en raison de sa faible charge conventionnelle. Le CPI n\u00e9cessite une fl\u00e9chette de guidage tir\u00e9e manuellement pour identifier une cible.",
+            "it": "Il cannone a particelle ionizzate Glaive \u00e8 un pezzo di artiglieria di medio raggio non pilotato che blocca gli scudi difensivi, ma infligge solo danni minori alle persone e alle attrezzature, poich\u00e9 non ha una carica esplosiva tradizionale. L'IPC richiede un dardo lanciato manualmente per acquisire un bersaglio."
         },
         "type_id": "7",
         "type_name": "Umovable Turret",
@@ -854,11 +854,11 @@
             "it": "Il Flail"
         },
         "description": {
-            "de": "Der Flail feuert eine Salve von 4 M\u00f6rsergranaten in schneller Abfolge ab, wodurch auf allen Distanzen moderaten Schaden verursacht wird. Erfordert IA-Module sowie einen manuell abgefeuerten Zielpfeil, um abgefeuert zu werden.",
-            "en": "The Flail fires a volley of 4 mortar shells in quick succession, doing moderate damage to all in range. Requires AI module as well as a manually fired targeting dart in order to fire.",
-            "es": "El Flail dispara una oleada de 4 proyectiles de mortero en una r\u00e1pida sucesi\u00f3n y causa da\u00f1os moderados a todo lo que est\u00e9 a su alcance. Para disparar requiere un m\u00f3dulo de IA y un dardo objetivo disparado de forma manual.",
-            "fr": "Le Fl\u00e9au tire une salve de 4 obus de mortiers \u00e0 la suite, infligeant des d\u00e9g\u00e2ts mod\u00e9r\u00e9s dans son rayon d'action. N\u00e9cessite un module IA ainsi qu'une fl\u00e9chette de guidage tir\u00e9e manuellement pour pouvoir faire feu.",
-            "it": "Il Flail spara una raffica di 4 colpi di mortaio in rapida successione, causando danni moderati nel suo raggio d'azione. Richiede un modulo di IA e un dardo mirato sparato manualmente per funzionare."
+            "de": "Der Flail feuert eine Salve von 4 M\u00f6rsergranaten in schneller Abfolge ab, wodurch auf allen Distanzen moderaten Schaden verursacht wird. Erfordert f\u00fcr den Einsatz einen manuell abgefeuerten Zielpfeil.",
+            "en": "The Flail fires a volley of 4 mortar shells in quick succession, doing moderate damage to all in range. Requires a manually fired targeting dart in order to fire.",
+            "es": "El Flail dispara una oleada de 4 proyectiles de mortero en una r\u00e1pida sucesi\u00f3n y causa da\u00f1os moderados a todo lo que est\u00e9 a su alcance. Para disparar un dardo de punter\u00eda disparado de forma manual.",
+            "fr": "Le Fl\u00e9au tire une salve de 4 obus de mortiers \u00e0 la suite, infligeant des d\u00e9g\u00e2ts mod\u00e9r\u00e9s dans son rayon d'action. N\u00e9cessite une fl\u00e9chette de guidage tir\u00e9e manuellement pour pouvoir faire feu.",
+            "it": "Il Flail spara una raffica di 4 colpi di mortaio in rapida successione, causando danni moderati nel suo raggio d'azione. Richiede un dardo lanciato manualmente per funzionare."
         },
         "type_id": "7",
         "type_name": "Umovable Turret",
