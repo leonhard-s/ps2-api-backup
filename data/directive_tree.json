@@ -1383,5 +1383,41 @@
             "fr": "Disponible jusqu'au 4 juin",
             "it": "Disponibile fino al 4 giugno"
         }
+    },
+    {
+        "directive_tree_id": "122",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Operation Tidebreaker",
+            "en": "Operation Tidebreaker",
+            "es": "Operaci\u00f3n Rompeolas",
+            "fr": "Op\u00e9ration Brise-lames",
+            "it": "Operazione Tidebreaker"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 31. Juli",
+            "en": "Available through July 31",
+            "es": "Disponible hasta el 31 de julio",
+            "fr": "Disponible jusqu'au 31 juillet",
+            "it": "Disponibile fino al 31 luglio"
+        }
+    },
+    {
+        "directive_tree_id": "123",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Operation Emberfall",
+            "en": "Operation Emberfall",
+            "es": "Operaci\u00f3n Ca\u00edda de ascuas",
+            "fr": "Op\u00e9ration Emberfall",
+            "it": "Operazione Emberfall"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 31. August",
+            "en": "Available through August 31",
+            "es": "Disponible hasta el 31 de agosto",
+            "fr": "Disponible jusqu'au 31 ao\u00fbt",
+            "it": "Disponibile fino al 31 agosto"
+        }
     }
 ]
