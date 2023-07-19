@@ -690,5 +690,21 @@
     {
         "vehicle_id": "2142",
         "faction_id": "4"
+    },
+    {
+        "vehicle_id": "2145",
+        "faction_id": "1"
+    },
+    {
+        "vehicle_id": "2145",
+        "faction_id": "2"
+    },
+    {
+        "vehicle_id": "2145",
+        "faction_id": "3"
+    },
+    {
+        "vehicle_id": "2145",
+        "faction_id": "4"
     }
 ]

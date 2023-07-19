@@ -2446,10 +2446,6 @@
         "can_chamber_ironsights": "0"
     },
     {
-        "fire_group_id": "80178",
-        "can_chamber_ironsights": "0"
-    },
-    {
         "fire_group_id": "80181",
         "can_chamber_ironsights": "0"
     },
@@ -2535,7 +2531,7 @@
         "can_chamber_ironsights": "0"
     },
     {
-        "fire_group_id": "80211",
+        "fire_group_id": "80214",
         "can_chamber_ironsights": "0"
     },
     {
@@ -2817,10 +2813,6 @@
     },
     {
         "fire_group_id": "80345",
-        "can_chamber_ironsights": "0"
-    },
-    {
-        "fire_group_id": "80346",
         "can_chamber_ironsights": "0"
     },
     {
@@ -4761,5 +4753,21 @@
         "fire_group_id": "80979",
         "transition_duration_ms": "500",
         "can_chamber_ironsights": "1"
+    },
+    {
+        "fire_group_id": "80986",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80987",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80992",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "80993",
+        "can_chamber_ironsights": "0"
     }
 ]

@@ -16722,5 +16722,69 @@
     {
         "objective_set_id": "9537",
         "objective_group_id": "21010"
+    },
+    {
+        "objective_set_id": "9597",
+        "objective_group_id": "21077"
+    },
+    {
+        "objective_set_id": "9598",
+        "objective_group_id": "21078"
+    },
+    {
+        "objective_set_id": "9599",
+        "objective_group_id": "21079"
+    },
+    {
+        "objective_set_id": "9600",
+        "objective_group_id": "21080"
+    },
+    {
+        "objective_set_id": "9601",
+        "objective_group_id": "21081"
+    },
+    {
+        "objective_set_id": "9602",
+        "objective_group_id": "21082"
+    },
+    {
+        "objective_set_id": "9603",
+        "objective_group_id": "21083"
+    },
+    {
+        "objective_set_id": "9604",
+        "objective_group_id": "21084"
+    },
+    {
+        "objective_set_id": "9605",
+        "objective_group_id": "21085"
+    },
+    {
+        "objective_set_id": "9606",
+        "objective_group_id": "21086"
+    },
+    {
+        "objective_set_id": "9607",
+        "objective_group_id": "21087"
+    },
+    {
+        "objective_set_id": "9608",
+        "objective_group_id": "21088"
+    },
+    {
+        "objective_set_id": "9609",
+        "objective_group_id": "21089"
+    },
+    {
+        "objective_set_id": "9610",
+        "objective_group_id": "21090"
+    },
+    {
+        "objective_set_id": "9611",
+        "objective_group_id": "21091"
+    },
+    {
+        "objective_set_id": "9612",
+        "objective_group_id": "21092"
     }
 ]

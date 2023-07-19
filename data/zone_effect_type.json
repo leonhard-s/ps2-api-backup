@@ -163,6 +163,11 @@
         "string1": "StatId"
     },
     {
+        "zone_effect_type_id": "28",
+        "description": "Modify Turn Rate",
+        "param1": "TurnModifier"
+    },
+    {
         "zone_effect_type_id": "29",
         "description": "Modify Strafe Speed",
         "param1": "StrafeModifier"
