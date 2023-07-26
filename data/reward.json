@@ -4268,5 +4268,14 @@
         "param1": "6015084",
         "param2": "0",
         "param3": "0"
+    },
+    {
+        "reward_id": "10347",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6014027",
+        "param2": "0",
+        "param3": "0"
     }
 ]

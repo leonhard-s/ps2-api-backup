@@ -10506,5 +10506,12 @@
         "weapon_slot_index": "0",
         "clip_size": "0",
         "capacity": "0"
+    },
+    {
+        "weapon_id": "78822",
+        "weapon_slot_index": "0",
+        "clip_size": "25",
+        "capacity": "150",
+        "refill_ammo_rate": "25"
     }
 ]

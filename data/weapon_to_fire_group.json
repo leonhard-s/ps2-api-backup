@@ -6476,5 +6476,9 @@
     {
         "weapon_id": "78820",
         "fire_group_id": "80993"
+    },
+    {
+        "weapon_id": "78822",
+        "fire_group_id": "80994"
     }
 ]

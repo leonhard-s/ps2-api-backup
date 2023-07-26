@@ -1419,11 +1419,11 @@
     {
         "vehicle_id": "2145",
         "name": {
-            "de": "\"Zweiter\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "\"The Second\" Spitfire Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Segunda\"",
-            "fr": "\"La Seconde\" tourelle automatique Spitfire",
-            "it": "Torretta automatica Spitfire \"The Second\""
+            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
+            "en": "Spitfire \"Deluxe\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
+            "fr": "Tourelle automatique Spitfire \"de luxe\"",
+            "it": "Torretta automatica Spitfire \"Deluxe\""
         },
         "description": {
             "de": "Die automatischen Spitfire-Gesch\u00fctze werden von Ingenieuren platziert und greifen feindliche Infanterie innerhalb von 50 Metern automatisch an.",

@@ -9788,5 +9788,15 @@
         "fire_group_id": "80993",
         "fire_mode_id": "80037",
         "fire_mode_index": "0"
+    },
+    {
+        "fire_group_id": "80994",
+        "fire_mode_id": "81399",
+        "fire_mode_index": "0"
+    },
+    {
+        "fire_group_id": "80994",
+        "fire_mode_id": "81400",
+        "fire_mode_index": "1"
     }
 ]
