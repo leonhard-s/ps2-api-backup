@@ -18,7 +18,8 @@
             "tr": "Zaman s\u0131n\u0131r\u0131 i\u00e7inde Indar'\u0131 Ele Ge\u00e7ir"
         },
         "type": "1",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "2",
@@ -39,7 +40,8 @@
             "tr": "Zaman s\u0131n\u0131r\u0131 i\u00e7inde Esamir'i El Ge\u00e7ir"
         },
         "type": "1",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "3",
@@ -60,7 +62,8 @@
             "tr": "Zaman s\u0131n\u0131r\u0131 i\u00e7inde Amerish'i Ele Ge\u00e7ir"
         },
         "type": "1",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "4",
@@ -81,7 +84,8 @@
             "tr": "Capture Hossin within the time limit"
         },
         "type": "1",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "7",
@@ -101,7 +105,8 @@
             "it": "Conquista e difendi tutti e 3 i Biolab di Amerish",
             "tr": "Capture and hold all 3 Biolabs on Amerish"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "8",
@@ -121,7 +126,8 @@
             "it": "Conquista e difendi tutti e 3 i Tech Plant di Amerish",
             "tr": "Capture and hold all 3 Tech Plants on Amerish"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "9",
@@ -141,7 +147,8 @@
             "it": "Conquista e difendi tutte e 3 le Amp Station di Amerish",
             "tr": "Capture and hold all 3 Amp Stations on Amerish"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "10",
@@ -161,7 +168,8 @@
             "it": "Conquista e difendi tutti e 3 i Biolab di Indar",
             "tr": "Capture and hold all 3 Biolabs on Indar"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "11",
@@ -181,7 +189,8 @@
             "it": "Conquista e difendi tutti e 3 i Tech Plant di Indar",
             "tr": "Capture and hold all 3 Tech Plants on Indar"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "12",
@@ -201,7 +210,8 @@
             "it": "Conquista e difendi tutte e 3 le Amp Station di Indar",
             "tr": "Capture and hold all 3 Amp Stations on Indar"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "13",
@@ -221,7 +231,8 @@
             "it": "Conquista e difendi tutti e 3 i Biolab di Esamir",
             "tr": "Capture and hold all 3 Biolabs on Esamir"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "14",
@@ -241,7 +252,8 @@
             "it": "Conquista e difendi tutte e 3 le Amp Station di Esamir",
             "tr": "Capture and hold all 3 Amp Stations on Esamir"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "16",
@@ -261,7 +273,8 @@
             "it": "Conquista e difendi tutti e 3 i Biolab di Hossin",
             "tr": "Capture and hold all 3 Biolabs on Hossin"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "17",
@@ -281,7 +294,8 @@
             "it": "Conquista e difendi tutti e 3 i Tech Plant di Hossin",
             "tr": "Capture and hold all 3 Tech Plants on Hossin"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "18",
@@ -301,7 +315,8 @@
             "it": "Conquista e difendi tutte e 3 le Amp Station di Hossin",
             "tr": "Capture and hold all 3 Amp Stations on Hossin"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "106",
@@ -319,7 +334,8 @@
             "fr": "Capturer des bases et tuer des ennemis afin de remporter des points.",
             "it": "Conquista le basi e uccidi i nemici per accumulare punti."
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "120"
     },
     {
         "metagame_event_id": "123",
@@ -338,7 +354,8 @@
             "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "124",
@@ -357,7 +374,8 @@
             "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "125",
@@ -376,7 +394,8 @@
             "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "126",
@@ -395,7 +414,8 @@
             "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "127",
@@ -414,7 +434,8 @@
             "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "128",
@@ -433,7 +454,8 @@
             "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "129",
@@ -452,7 +474,8 @@
             "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "130",
@@ -471,7 +494,8 @@
             "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "131",
@@ -490,7 +514,8 @@
             "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "132",
@@ -509,7 +534,8 @@
             "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "133",
@@ -528,7 +554,8 @@
             "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "134",
@@ -547,7 +574,8 @@
             "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "8",
-        "experience_bonus": "30"
+        "experience_bonus": "30",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "147",
@@ -566,7 +594,8 @@
             "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "148",
@@ -585,7 +614,8 @@
             "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "149",
@@ -604,7 +634,8 @@
             "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "150",
@@ -623,7 +654,8 @@
             "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "151",
@@ -642,7 +674,8 @@
             "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "152",
@@ -661,7 +694,8 @@
             "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "153",
@@ -680,7 +714,8 @@
             "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "154",
@@ -699,7 +734,8 @@
             "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "155",
@@ -718,7 +754,8 @@
             "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "156",
@@ -737,7 +774,8 @@
             "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "157",
@@ -756,7 +794,8 @@
             "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "158",
@@ -775,7 +814,8 @@
             "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "159",
@@ -793,7 +833,8 @@
             "fr": "Des territoires suppl\u00e9mentaires reviennent en ligne.",
             "it": "Altri territori si stanno riattivando."
         },
-        "type": "5"
+        "type": "5",
+        "duration_minutes": "10"
     },
     {
         "metagame_event_id": "160",
@@ -811,7 +852,8 @@
             "fr": "Des territoires suppl\u00e9mentaires reviennent en ligne.",
             "it": "Altri territori si stanno riattivando."
         },
-        "type": "5"
+        "type": "5",
+        "duration_minutes": "10"
     },
     {
         "metagame_event_id": "161",
@@ -829,7 +871,8 @@
             "fr": "Des territoires suppl\u00e9mentaires reviennent en ligne.",
             "it": "Altri territori si stanno riattivando."
         },
-        "type": "5"
+        "type": "5",
+        "duration_minutes": "10"
     },
     {
         "metagame_event_id": "162",
@@ -847,7 +890,8 @@
             "fr": "Des territoires suppl\u00e9mentaires reviennent en ligne.",
             "it": "Altri territori si stanno riattivando."
         },
-        "type": "5"
+        "type": "5",
+        "duration_minutes": "10"
     },
     {
         "metagame_event_id": "164",
@@ -867,7 +911,8 @@
             "it": "Conquista e difendi tutti e 3 i Tech Plant di Esamir",
             "tr": "Capture and hold all 3 Tech Plants on Esamir"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "60"
     },
     {
         "metagame_event_id": "167",
@@ -885,7 +930,8 @@
             "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
             "it": "Effettua i rilevamenti delle anomalie aeree"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "168",
@@ -903,7 +949,8 @@
             "fr": "R\u00e9cup\u00e9rez de la Temp\u00eate au site de la m\u00e9t\u00e9orite et ramenez-la \u00e0 votre Warpgate",
             "it": "Raccogli la bufera dal sito della meteorite e riportala al tuo warpgate."
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "170",
@@ -921,7 +968,8 @@
             "fr": "Une pluie de m\u00e9t\u00e9orites d\u00e9vastatrices ravage le continent.",
             "it": "Una letale pioggia di meteoriti sta portando distruzione sul continente."
         },
-        "type": "5"
+        "type": "5",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "172",
@@ -939,7 +987,8 @@
             "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
             "it": "Effettua i rilevamenti delle anomalie aeree"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "173",
@@ -957,7 +1006,8 @@
             "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
             "it": "Effettua i rilevamenti delle anomalie aeree"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "174",
@@ -975,7 +1025,8 @@
             "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
             "it": "Effettua i rilevamenti delle anomalie aeree"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "175",
@@ -993,7 +1044,8 @@
             "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
             "it": "Effettua i rilevamenti delle anomalie aeree"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "176",
@@ -1012,7 +1064,8 @@
             "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "177",
@@ -1031,7 +1084,8 @@
             "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "178",
@@ -1050,7 +1104,8 @@
             "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "179",
@@ -1069,7 +1124,8 @@
             "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "180",
@@ -1087,7 +1143,8 @@
             "fr": "Capturez et tenez le plus de grands avant-postes",
             "it": "Conquista e difendi i pi\u00f9 grand avamposti"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "181",
@@ -1105,7 +1162,8 @@
             "fr": "Capturez et tenez le plus de grands avant-postes",
             "it": "Conquista e difendi i pi\u00f9 grand avamposti"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "182",
@@ -1123,7 +1181,8 @@
             "fr": "Capturez et tenez le plus de grands avant-postes",
             "it": "Conquista e difendi i pi\u00f9 grand avamposti"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "183",
@@ -1141,7 +1200,8 @@
             "fr": "Capturez et tenez le plus de grands avant-postes",
             "it": "Conquista e difendi i pi\u00f9 grand avamposti"
         },
-        "type": "2"
+        "type": "2",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "186",
@@ -1160,7 +1220,8 @@
             "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "187",
@@ -1179,7 +1240,8 @@
             "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "188",
@@ -1198,7 +1260,8 @@
             "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "189",
@@ -1217,7 +1280,8 @@
             "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "190",
@@ -1236,7 +1300,8 @@
             "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "191",
@@ -1255,7 +1320,8 @@
             "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "192",
@@ -1274,7 +1340,8 @@
             "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "193",
@@ -1293,7 +1360,8 @@
             "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "194",
@@ -1311,7 +1379,8 @@
             "fr": "D\u00e9posez du Cortium dans la raffinerie",
             "it": "Deposita il Cortium nella raffineria"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "195",
@@ -1329,7 +1398,8 @@
             "fr": "D\u00e9posez du Cortium dans la raffinerie",
             "it": "Deposita il Cortium nella raffineria"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "196",
@@ -1347,7 +1417,8 @@
             "fr": "D\u00e9posez du Cortium dans la raffinerie",
             "it": "Deposita il Cortium nella raffineria"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "197",
@@ -1365,7 +1436,8 @@
             "fr": "D\u00e9posez du Cortium dans la raffinerie",
             "it": "Deposita il Cortium nella raffineria"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "198",
@@ -1383,7 +1455,8 @@
             "fr": "Tuez autant d'ennemis que possible",
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "199",
@@ -1401,7 +1474,8 @@
             "fr": "Tuez autant d'ennemis que possible",
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "200",
@@ -1419,7 +1493,8 @@
             "fr": "Tuez autant d'ennemis que possible",
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "201",
@@ -1437,7 +1512,8 @@
             "fr": "Tuez autant d'ennemis que possible",
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "204",
@@ -1455,7 +1531,8 @@
             "fr": "Capturer les reliques Vanu actives",
             "it": "Cattura le reliquie Vanu attive"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "10"
     },
     {
         "metagame_event_id": "205",
@@ -1473,7 +1550,8 @@
             "fr": "Pr\u00e9parez-vous pour la Guerre d'Unit\u00e9s !",
             "it": "Preparatevi alla guerra delle outfit!"
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "20"
     },
     {
         "metagame_event_id": "206",
@@ -1491,7 +1569,8 @@
             "fr": "Changement de reliques actif",
             "it": "Cambiamento delle reliquie attive"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "2"
     },
     {
         "metagame_event_id": "207",
@@ -1509,7 +1588,8 @@
             "fr": "Obtenez 750 points ou ayez le maximum une fois le temps \u00e9coul\u00e9.",
             "it": "Ottieni 750 punti o possiedi il massimo dei punti quando scade il timer."
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "60"
     },
     {
         "metagame_event_id": "208",
@@ -1528,7 +1608,8 @@
             "it": "Controlla il territorio per bloccare Koltyr"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "209",
@@ -1547,7 +1628,8 @@
             "it": "Controlla il territorio per bloccare Koltyr"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "210",
@@ -1566,7 +1648,8 @@
             "it": "Controlla il territorio per bloccare Koltyr"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "211",
@@ -1585,7 +1668,8 @@
             "it": "Controlla il territorio per bloccare Amerish"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "212",
@@ -1604,7 +1688,8 @@
             "it": "Controlla il territorio per bloccare Esamir"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "213",
@@ -1623,7 +1708,8 @@
             "it": "Controlla il territorio per bloccare Hossin"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "214",
@@ -1642,7 +1728,8 @@
             "it": "Controlla il territorio per bloccare Indar"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "215",
@@ -1661,7 +1748,8 @@
             "it": "Controlla il territorio per bloccare Koltyr"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "216",
@@ -1679,7 +1767,8 @@
             "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
             "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "217",
@@ -1697,7 +1786,8 @@
             "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
             "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "218",
@@ -1715,7 +1805,8 @@
             "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
             "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "219",
@@ -1733,7 +1824,8 @@
             "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
             "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "220",
@@ -1751,7 +1843,8 @@
             "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
             "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "221",
@@ -1769,7 +1862,8 @@
             "fr": "Escortez votre drone de levage jusqu'\u00e0 destination avant vos ennemis.",
             "it": "Accompagna il tuo drone di carico utile fino a destinazione prima che i nemici facciano lo stesso."
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "222",
@@ -1788,7 +1882,8 @@
             "it": "Controlla il territorio per bloccare Oshur"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "223",
@@ -1807,7 +1902,8 @@
             "it": "Controlla il territorio per bloccare Oshur"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "224",
@@ -1826,7 +1922,8 @@
             "it": "Controlla il territorio per bloccare Oshur"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "225",
@@ -1844,7 +1941,8 @@
             "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
             "it": "Effettua i rilevamenti delle anomalie aeree"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "226",
@@ -1863,7 +1961,8 @@
             "it": "Controlla il territorio per bloccare Oshur"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "90"
     },
     {
         "metagame_event_id": "227",
@@ -1881,7 +1980,8 @@
             "fr": "Contr\u00f4lez le plus de territoire pour conqu\u00e9rir le continent",
             "it": "Controlla la maggior parte del territorio per conquistare il continente"
         },
-        "type": "9"
+        "type": "9",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "228",
@@ -1899,7 +1999,8 @@
             "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
             "it": "Effettua i rilevamenti delle anomalie aeree"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "229",
@@ -1917,7 +2018,8 @@
             "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
             "it": "Effettua i rilevamenti delle anomalie aeree"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "230",
@@ -1935,7 +2037,8 @@
             "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
             "it": "Effettua i rilevamenti delle anomalie aeree"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "231",
@@ -1953,7 +2056,8 @@
             "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
             "it": "Effettua i rilevamenti delle anomalie aeree"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "232",
@@ -1971,7 +2075,8 @@
             "fr": "Effectuez des relev\u00e9s des anomalies a\u00e9riennes",
             "it": "Effettua i rilevamenti delle anomalie aeree"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "233",
@@ -1989,7 +2094,8 @@
             "fr": "Tuez autant d'ennemis que possible",
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "234",
@@ -2007,7 +2113,8 @@
             "fr": "Pr\u00e9parez-vous pour la Guerre d'Unit\u00e9s !",
             "it": "Preparatevi alla guerra delle outfit!"
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "20"
     },
     {
         "metagame_event_id": "235",
@@ -2025,7 +2132,8 @@
             "fr": "Changement de reliques actif",
             "it": "Cambiamento delle reliquie attive"
         },
-        "type": "10"
+        "type": "10",
+        "duration_minutes": "2"
     },
     {
         "metagame_event_id": "236",
@@ -2043,7 +2151,8 @@
             "fr": "Tuez autant d'ennemis que possible",
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "237",
@@ -2061,7 +2170,8 @@
             "fr": "Tuez autant d'ennemis que possible",
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "238",
@@ -2079,7 +2189,8 @@
             "fr": "Tuez autant d'ennemis que possible",
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "239",
@@ -2097,7 +2208,8 @@
             "fr": "Tuez autant d'ennemis que possible",
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "240",
@@ -2115,7 +2227,8 @@
             "fr": "Tuez autant d'ennemis que possible",
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "241",
@@ -2133,7 +2246,8 @@
             "fr": "Tuez autant d'ennemis que possible",
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
-        "type": "6"
+        "type": "6",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "242",
@@ -2151,7 +2265,8 @@
             "fr": "Les a\u00e9ronefs sont gratuits pendant cet \u00e9v\u00e9nement.",
             "it": "I velivoli sono gratuiti durante quest'evento."
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "243",
@@ -2169,7 +2284,8 @@
             "fr": "Les a\u00e9ronefs sont gratuits pendant cet \u00e9v\u00e9nement.",
             "it": "I velivoli sono gratuiti durante quest'evento."
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "244",
@@ -2187,7 +2303,8 @@
             "fr": "Les a\u00e9ronefs sont gratuits pendant cet \u00e9v\u00e9nement.",
             "it": "I velivoli sono gratuiti durante quest'evento."
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "245",
@@ -2205,7 +2322,8 @@
             "fr": "Les a\u00e9ronefs sont gratuits pendant cet \u00e9v\u00e9nement.",
             "it": "I velivoli sono gratuiti durante quest'evento."
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "246",
@@ -2223,7 +2341,8 @@
             "fr": "Les a\u00e9ronefs sont gratuits pendant cet \u00e9v\u00e9nement.",
             "it": "I velivoli sono gratuiti durante quest'evento."
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "248",
@@ -2242,7 +2361,8 @@
             "it": "Controlla il territorio per bloccare Oshur"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "249",
@@ -2261,7 +2381,8 @@
             "it": "Controlla il territorio per bloccare Oshur"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "250",
@@ -2280,7 +2401,8 @@
             "it": "Controlla il territorio per bloccare Oshur"
         },
         "type": "9",
-        "experience_bonus": "25"
+        "experience_bonus": "25",
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "251",
@@ -2298,7 +2420,8 @@
             "fr": "Survivez \u00e0 la temp\u00eate de nanites.",
             "it": "Sopravvivi alla tempesta di naniti."
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "252",
@@ -2316,7 +2439,8 @@
             "fr": "Survivez \u00e0 la temp\u00eate de nanites.",
             "it": "Sopravvivi alla tempesta di naniti."
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "253",
@@ -2334,7 +2458,8 @@
             "fr": "Survivez \u00e0 la temp\u00eate de nanites.",
             "it": "Sopravvivi alla tempesta di naniti."
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "254",
@@ -2352,7 +2477,8 @@
             "fr": "Survivez \u00e0 la temp\u00eate de nanites.",
             "it": "Sopravvivi alla tempesta di naniti."
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "15"
     },
     {
         "metagame_event_id": "255",
@@ -2370,6 +2496,7 @@
             "fr": "Survivez \u00e0 la temp\u00eate de nanites.",
             "it": "Sopravvivi alla tempesta di naniti."
         },
-        "type": "4"
+        "type": "4",
+        "duration_minutes": "15"
     }
 ]

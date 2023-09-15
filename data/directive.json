@@ -27632,6 +27632,30 @@
         "image_path": "/files/ps2/images/static/89259.png"
     },
     {
+        "directive_id": "5572",
+        "directive_tree_id": "127",
+        "directive_tier_id": "4",
+        "objective_set_id": "9664"
+    },
+    {
+        "directive_id": "5573",
+        "directive_tree_id": "127",
+        "directive_tier_id": "3",
+        "objective_set_id": "9665"
+    },
+    {
+        "directive_id": "5574",
+        "directive_tree_id": "127",
+        "directive_tier_id": "2",
+        "objective_set_id": "9666"
+    },
+    {
+        "directive_id": "5575",
+        "directive_tree_id": "127",
+        "directive_tier_id": "1",
+        "objective_set_id": "9667"
+    },
+    {
         "directive_id": "552",
         "directive_tree_id": "13",
         "directive_tier_id": "1",
@@ -28320,32 +28344,6 @@
             "fr": "Barrage FA1",
             "it": "FA1 Barrage",
             "tr": "FA1 Baraj"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "565",
-        "directive_tree_id": "13",
-        "directive_tier_id": "1",
-        "objective_set_id": "4566",
-        "qualify_requirement_id": "3312",
-        "name": {
-            "de": "Nova",
-            "en": "Nova",
-            "es": "Nova",
-            "fr": "Nova",
-            "it": "Nova",
-            "tr": "Nova"
         },
         "description": {
             "de": "10 Feinde get\u00f6tet",
@@ -29100,6 +29098,32 @@
             "fr": "Griffe GD-66",
             "it": "GD-66 Claw",
             "tr": "NS-7G PDW"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "565",
+        "directive_tree_id": "13",
+        "directive_tier_id": "1",
+        "objective_set_id": "4566",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "Nova",
+            "en": "Nova",
+            "es": "Nova",
+            "fr": "Nova",
+            "it": "Nova",
+            "tr": "Nova"
         },
         "description": {
             "de": "10 Feinde get\u00f6tet",
@@ -32754,6 +32778,30 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
+        "directive_id": "2242",
+        "directive_tree_id": "4",
+        "directive_tier_id": "1",
+        "objective_set_id": "6243",
+        "name": {
+            "de": "NS-11CB",
+            "en": "NS-11CB",
+            "es": "NS-11CB",
+            "fr": "NS-11CB",
+            "it": "NS-11CB"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
         "directive_id": "520",
         "directive_tree_id": "10",
         "directive_tier_id": "3",
@@ -33482,6 +33530,30 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
+        "directive_id": "3629",
+        "directive_tree_id": "75",
+        "directive_tier_id": "1",
+        "objective_set_id": "6243",
+        "name": {
+            "de": "NS-11CB",
+            "en": "NS-11CB",
+            "es": "NS-11CB",
+            "fr": "NS-11CB",
+            "it": "NS-11CB"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
         "directive_id": "527",
         "directive_tree_id": "10",
         "directive_tier_id": "3",
@@ -33584,30 +33656,6 @@
         "image_set_id": "1566",
         "image_id": "3075",
         "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-        "directive_id": "2291",
-        "directive_tree_id": "8",
-        "directive_tier_id": "2",
-        "objective_set_id": "6292",
-        "name": {
-            "de": "NS-15M2",
-            "en": "NS-15M2",
-            "es": "NS-15M2",
-            "fr": "NS-15M2",
-            "it": "NS-15M2"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "223",
@@ -37896,32 +37944,6 @@
         "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-        "directive_id": "948",
-        "directive_tree_id": "23",
-        "directive_tier_id": "1",
-        "objective_set_id": "4949",
-        "qualify_requirement_id": "2107",
-        "name": {
-            "de": "M20 Drake",
-            "en": "M20 Drake",
-            "es": "M20 Drake",
-            "fr": "M20 Drake",
-            "it": "M20 Drake",
-            "tr": "M20 Suna"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
         "directive_id": "1690",
         "directive_tree_id": "26",
         "directive_tier_id": "2",
@@ -41866,6 +41888,32 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "1056",
+        "directive_tree_id": "23",
+        "directive_tier_id": "1",
+        "objective_set_id": "5057",
+        "qualify_requirement_id": "2107",
+        "name": {
+            "de": "C150 Dalton",
+            "en": "C150 Dalton",
+            "es": "C150 Dalton",
+            "fr": "C150 Dalton",
+            "it": "C150 Dalton",
+            "tr": "C150 Dalton"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
         "directive_id": "1480",
         "directive_tree_id": "42",
         "directive_tier_id": "1",
@@ -41956,6 +42004,32 @@
             "fr": "Canon rotatif M18",
             "it": "M18 rotatorio",
             "tr": "M18 Rotary"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "948",
+        "directive_tree_id": "23",
+        "directive_tier_id": "1",
+        "objective_set_id": "4949",
+        "qualify_requirement_id": "2107",
+        "name": {
+            "de": "M20 Drake",
+            "en": "M20 Drake",
+            "es": "M20 Drake",
+            "fr": "M20 Drake",
+            "it": "M20 Drake",
+            "tr": "M20 Suna"
         },
         "description": {
             "de": "10 Feinde get\u00f6tet",
@@ -42516,30 +42590,28 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-        "directive_id": "1056",
-        "directive_tree_id": "23",
-        "directive_tier_id": "1",
-        "objective_set_id": "5057",
-        "qualify_requirement_id": "2107",
+        "directive_id": "2243",
+        "directive_tree_id": "4",
+        "directive_tier_id": "2",
+        "objective_set_id": "6244",
         "name": {
-            "de": "C150 Dalton",
-            "en": "C150 Dalton",
-            "es": "C150 Dalton",
-            "fr": "C150 Dalton",
-            "it": "C150 Dalton",
-            "tr": "C150 Dalton"
+            "de": "NS-11CB",
+            "en": "NS-11CB",
+            "es": "NS-11CB",
+            "fr": "NS-11CB",
+            "it": "NS-11CB"
         },
         "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
         },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "1060",
@@ -44036,30 +44108,6 @@
             "fr": "Canon laser Saron",
             "it": "Cannone laser Saron",
             "tr": "Saron Lazer Topu"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "3446",
-        "directive_tree_id": "75",
-        "directive_tier_id": "2",
-        "objective_set_id": "6292",
-        "name": {
-            "de": "NS-15M2",
-            "en": "NS-15M2",
-            "es": "NS-15M2",
-            "fr": "NS-15M2",
-            "it": "NS-15M2"
         },
         "description": {
             "de": "50 Feinde get\u00f6tet",
@@ -47454,31 +47502,6 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-        "directive_id": "4263",
-        "directive_tree_id": "47",
-        "directive_tier_id": "2",
-        "objective_set_id": "8256",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "LAV-AG",
-            "en": "LAV-AG",
-            "es": "LAV-AG",
-            "fr": "LAV-AG",
-            "it": "LAV-AG"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
         "directive_id": "1534",
         "directive_tree_id": "23",
         "directive_tier_id": "3",
@@ -48673,6 +48696,30 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "3630",
+        "directive_tree_id": "75",
+        "directive_tier_id": "2",
+        "objective_set_id": "6244",
+        "name": {
+            "de": "NS-11CB",
+            "en": "NS-11CB",
+            "es": "NS-11CB",
+            "fr": "NS-11CB",
+            "it": "NS-11CB"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "1379",
@@ -52161,31 +52208,6 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-        "directive_id": "3459",
-        "directive_tree_id": "72",
-        "directive_tier_id": "3",
-        "objective_set_id": "4653",
-        "name": {
-            "de": "NS-7 PDW",
-            "en": "NS-7 PDW",
-            "es": "NS-7 PDW",
-            "fr": "NS-7 PDW",
-            "it": "NS-7 PDW",
-            "tr": "NS-7 PDW"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
         "directive_id": "705",
         "directive_tree_id": "17",
         "directive_tier_id": "2",
@@ -54102,6 +54124,32 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
+        "directive_id": "1181",
+        "directive_tree_id": "35",
+        "directive_tier_id": "2",
+        "objective_set_id": "5182",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "M40 Fury-H",
+            "en": "M40 Fury-H",
+            "es": "M40 Fury-H",
+            "fr": "Furie-H M40",
+            "it": "M40 Fury-H",
+            "tr": "M40 Fury-H"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "1702",
         "directive_tree_id": "26",
         "directive_tier_id": "2",
@@ -54953,6 +55001,58 @@
         "image_path": "/files/ps2/images/static/8446.png"
     },
     {
+        "directive_id": "1122",
+        "directive_tree_id": "35",
+        "directive_tier_id": "3",
+        "objective_set_id": "5123",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "M20 Basilisk-H",
+            "en": "M20 Basilisk-H",
+            "es": "M20 Basilisk-H",
+            "fr": "M20 Basilisk-H",
+            "it": "M20 Basilisk-H",
+            "tr": "M20 Basilisk-H"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+        "directive_id": "1123",
+        "directive_tree_id": "35",
+        "directive_tier_id": "4",
+        "objective_set_id": "5124",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "M20 Basilisk-H",
+            "en": "M20 Basilisk-H",
+            "es": "M20 Basilisk-H",
+            "fr": "M20 Basilisk-H",
+            "it": "M20 Basilisk-H",
+            "tr": "M20 Basilisk-H"
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
         "directive_id": "1677",
         "directive_tree_id": "26",
         "directive_tier_id": "1",
@@ -55001,32 +55101,6 @@
         "image_set_id": "7996",
         "image_id": "8440",
         "image_path": "/files/ps2/images/static/8440.png"
-    },
-    {
-        "directive_id": "1117",
-        "directive_tree_id": "35",
-        "directive_tier_id": "2",
-        "objective_set_id": "5118",
-        "qualify_requirement_id": "3311",
-        "name": {
-            "de": "M20 Basilisk-H",
-            "en": "M20 Basilisk-H",
-            "es": "M20 Basilisk-H",
-            "fr": "M20 Basilisk-H",
-            "it": "M20 Basilisk-H",
-            "tr": "M20 Basilisk-H"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "142",
@@ -55443,56 +55517,28 @@
         "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-        "directive_id": "1122",
-        "directive_tree_id": "35",
-        "directive_tier_id": "3",
-        "objective_set_id": "5123",
-        "qualify_requirement_id": "3312",
+        "directive_id": "2291",
+        "directive_tree_id": "8",
+        "directive_tier_id": "2",
+        "objective_set_id": "6292",
         "name": {
-            "de": "M20 Basilisk-H",
-            "en": "M20 Basilisk-H",
-            "es": "M20 Basilisk-H",
-            "fr": "M20 Basilisk-H",
-            "it": "M20 Basilisk-H",
-            "tr": "M20 Basilisk-H"
+            "de": "NS-15M2",
+            "en": "NS-15M2",
+            "es": "NS-15M2",
+            "fr": "NS-15M2",
+            "it": "NS-15M2"
         },
         "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
         },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-        "directive_id": "1123",
-        "directive_tree_id": "35",
-        "directive_tier_id": "4",
-        "objective_set_id": "5124",
-        "qualify_requirement_id": "3312",
-        "name": {
-            "de": "M20 Basilisk-H",
-            "en": "M20 Basilisk-H",
-            "es": "M20 Basilisk-H",
-            "fr": "M20 Basilisk-H",
-            "it": "M20 Basilisk-H",
-            "tr": "M20 Basilisk-H"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "1112",
@@ -55623,6 +55669,32 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "1117",
+        "directive_tree_id": "35",
+        "directive_tier_id": "2",
+        "objective_set_id": "5118",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "M20 Basilisk-H",
+            "en": "M20 Basilisk-H",
+            "es": "M20 Basilisk-H",
+            "fr": "M20 Basilisk-H",
+            "it": "M20 Basilisk-H",
+            "tr": "M20 Basilisk-H"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "1118",
@@ -56847,32 +56919,6 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-        "directive_id": "1181",
-        "directive_tree_id": "35",
-        "directive_tier_id": "2",
-        "objective_set_id": "5182",
-        "qualify_requirement_id": "3311",
-        "name": {
-            "de": "M40 Fury-H",
-            "en": "M40 Fury-H",
-            "es": "M40 Fury-H",
-            "fr": "Furie-H M40",
-            "it": "M40 Fury-H",
-            "tr": "M40 Fury-H"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
         "directive_id": "1182",
         "directive_tree_id": "35",
         "directive_tier_id": "3",
@@ -57651,31 +57697,6 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "3458",
-        "directive_tree_id": "72",
-        "directive_tier_id": "2",
-        "objective_set_id": "4641",
-        "name": {
-            "de": "NS-7 PDW",
-            "en": "NS-7 PDW",
-            "es": "NS-7 PDW",
-            "fr": "NS-7 PDW",
-            "it": "NS-7 PDW",
-            "tr": "NS-7 PDW"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "1212",
@@ -59021,31 +59042,6 @@
         "image_set_id": "1565",
         "image_id": "3079",
         "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "652",
-        "directive_tree_id": "15",
-        "directive_tier_id": "3",
-        "objective_set_id": "4653",
-        "name": {
-            "de": "NS-7 PDW",
-            "en": "NS-7 PDW",
-            "es": "NS-7 PDW",
-            "fr": "NS-7 PDW",
-            "it": "NS-7 PDW",
-            "tr": "NS-7 PDW"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
     },
     {
         "directive_id": "3474",
@@ -60972,6 +60968,81 @@
         "image_path": "/files/ps2/images/static/3079.png"
     },
     {
+        "directive_id": "3458",
+        "directive_tree_id": "72",
+        "directive_tier_id": "2",
+        "objective_set_id": "4641",
+        "name": {
+            "de": "NS-7 PDW",
+            "en": "NS-7 PDW",
+            "es": "NS-7 PDW",
+            "fr": "NS-7 PDW",
+            "it": "NS-7 PDW",
+            "tr": "NS-7 PDW"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+        "directive_id": "652",
+        "directive_tree_id": "15",
+        "directive_tier_id": "3",
+        "objective_set_id": "4653",
+        "name": {
+            "de": "NS-7 PDW",
+            "en": "NS-7 PDW",
+            "es": "NS-7 PDW",
+            "fr": "NS-7 PDW",
+            "it": "NS-7 PDW",
+            "tr": "NS-7 PDW"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+        "directive_id": "3459",
+        "directive_tree_id": "72",
+        "directive_tier_id": "3",
+        "objective_set_id": "4653",
+        "name": {
+            "de": "NS-7 PDW",
+            "en": "NS-7 PDW",
+            "es": "NS-7 PDW",
+            "fr": "NS-7 PDW",
+            "it": "NS-7 PDW",
+            "tr": "NS-7 PDW"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
         "directive_id": "664",
         "directive_tree_id": "15",
         "directive_tier_id": "4",
@@ -61608,32 +61679,6 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-        "directive_id": "1464",
-        "directive_tree_id": "41",
-        "directive_tier_id": "1",
-        "objective_set_id": "5465",
-        "qualify_requirement_id": "3310",
-        "name": {
-            "de": "M20 Kestrel",
-            "en": "M20 Kestrel",
-            "es": "M20 Kestrel",
-            "fr": "Kestrel M20",
-            "it": "M20 Kestrel",
-            "tr": "Increases the maximum ammo capacity of the weapon by 18 missiles."
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
         "directive_id": "872",
         "directive_tree_id": "33",
         "directive_tier_id": "1",
@@ -62250,6 +62295,32 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
+        "directive_id": "1464",
+        "directive_tree_id": "41",
+        "directive_tier_id": "1",
+        "objective_set_id": "5465",
+        "qualify_requirement_id": "3310",
+        "name": {
+            "de": "M20 Kestrel",
+            "en": "M20 Kestrel",
+            "es": "M20 Kestrel",
+            "fr": "Kestrel M20",
+            "it": "M20 Kestrel",
+            "tr": "Increases the maximum ammo capacity of the weapon by 18 missiles."
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
         "directive_id": "1465",
         "directive_tree_id": "41",
         "directive_tier_id": "2",
@@ -62716,6 +62787,32 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "200",
+        "directive_tree_id": "4",
+        "directive_tier_id": "2",
+        "objective_set_id": "4201",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "Zenith VX-5",
+            "en": "Zenith VX-5",
+            "es": "Zenith VX-5",
+            "fr": "Zenith VX-5",
+            "it": "Zenith VX-5",
+            "tr": "Zenith VX-5"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "912",
@@ -63536,31 +63633,6 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "4298",
-        "directive_tree_id": "6",
-        "directive_tier_id": "1",
-        "objective_set_id": "8426",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "SR-150",
-            "en": "SR-150",
-            "es": "SR-150",
-            "fr": "SR-150",
-            "it": "SR-150"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
     },
     {
         "directive_id": "1500",
@@ -65379,6 +65451,32 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "222",
+        "directive_tree_id": "4",
+        "directive_tier_id": "3",
+        "objective_set_id": "4223",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "Zenith VX-5",
+            "en": "Zenith VX-5",
+            "es": "Zenith VX-5",
+            "fr": "Zenith VX-5",
+            "it": "Zenith VX-5",
+            "tr": "Zenith VX-5"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
         "directive_id": "3461",
         "directive_tree_id": "72",
         "directive_tier_id": "1",
@@ -66630,58 +66728,6 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-        "directive_id": "200",
-        "directive_tree_id": "4",
-        "directive_tier_id": "2",
-        "objective_set_id": "4201",
-        "qualify_requirement_id": "3312",
-        "name": {
-            "de": "Zenith VX-5",
-            "en": "Zenith VX-5",
-            "es": "Zenith VX-5",
-            "fr": "Zenith VX-5",
-            "it": "Zenith VX-5",
-            "tr": "Zenith VX-5"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "222",
-        "directive_tree_id": "4",
-        "directive_tier_id": "3",
-        "objective_set_id": "4223",
-        "qualify_requirement_id": "3312",
-        "name": {
-            "de": "Zenith VX-5",
-            "en": "Zenith VX-5",
-            "es": "Zenith VX-5",
-            "fr": "Zenith VX-5",
-            "it": "Zenith VX-5",
-            "tr": "Zenith VX-5"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
         "directive_id": "244",
         "directive_tree_id": "4",
         "directive_tier_id": "4",
@@ -66810,31 +66856,6 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "4299",
-        "directive_tree_id": "6",
-        "directive_tier_id": "2",
-        "objective_set_id": "8427",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "SR-150",
-            "en": "SR-150",
-            "es": "SR-150",
-            "fr": "SR-150",
-            "it": "SR-150"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "172",
@@ -68057,6 +68078,30 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "2251",
+        "directive_tree_id": "10",
+        "directive_tier_id": "2",
+        "objective_set_id": "6252",
+        "name": {
+            "de": "NS-11AG",
+            "en": "NS-11AG",
+            "es": "NS-11AG",
+            "fr": "NS-11AG",
+            "it": "NS-11AG"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "2102",
         "directive_tree_id": "48",
         "directive_tier_id": "2",
@@ -69167,6 +69212,54 @@
         "image_path": "/files/ps2/images/static/8439.png"
     },
     {
+        "directive_id": "3618",
+        "directive_tree_id": "75",
+        "directive_tier_id": "2",
+        "objective_set_id": "6252",
+        "name": {
+            "de": "NS-11AG",
+            "en": "NS-11AG",
+            "es": "NS-11AG",
+            "fr": "NS-11AG",
+            "it": "NS-11AG"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+        "directive_id": "2252",
+        "directive_tree_id": "10",
+        "directive_tier_id": "3",
+        "objective_set_id": "6253",
+        "name": {
+            "de": "NS-11AG",
+            "en": "NS-11AG",
+            "es": "NS-11AG",
+            "fr": "NS-11AG",
+            "it": "NS-11AG"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
         "directive_id": "1776",
         "directive_tree_id": "25",
         "directive_tier_id": "4",
@@ -69215,30 +69308,6 @@
         "image_set_id": "13452",
         "image_id": "9985",
         "image_path": "/files/ps2/images/static/9985.png"
-    },
-    {
-        "directive_id": "2148",
-        "directive_tree_id": "33",
-        "directive_tier_id": "4",
-        "objective_set_id": "6149",
-        "name": {
-            "de": "NS AutoBlade",
-            "en": "NS AutoBlade",
-            "es": "NS AutoBlade",
-            "fr": "Lame r\u00e9tractable NS",
-            "it": "NS AutoBlade"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
     },
     {
         "directive_id": "1774",
@@ -69491,6 +69560,30 @@
         "image_path": "/files/ps2/images/static/8305.png"
     },
     {
+        "directive_id": "3619",
+        "directive_tree_id": "75",
+        "directive_tier_id": "3",
+        "objective_set_id": "6253",
+        "name": {
+            "de": "NS-11AG",
+            "en": "NS-11AG",
+            "es": "NS-11AG",
+            "fr": "NS-11AG",
+            "it": "NS-11AG"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
         "directive_id": "1607",
         "directive_tree_id": "40",
         "directive_tier_id": "4",
@@ -69541,30 +69634,6 @@
         "image_set_id": "13451",
         "image_id": "9820",
         "image_path": "/files/ps2/images/static/9820.png"
-    },
-    {
-        "directive_id": "2145",
-        "directive_tree_id": "33",
-        "directive_tier_id": "1",
-        "objective_set_id": "6146",
-        "name": {
-            "de": "NS AutoBlade",
-            "en": "NS AutoBlade",
-            "es": "NS AutoBlade",
-            "fr": "Lame r\u00e9tractable NS",
-            "it": "NS AutoBlade"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
     },
     {
         "directive_id": "1605",
@@ -69801,6 +69870,30 @@
         "image_path": "/files/ps2/images/static/9820.png"
     },
     {
+        "directive_id": "2253",
+        "directive_tree_id": "10",
+        "directive_tier_id": "4",
+        "objective_set_id": "6254",
+        "name": {
+            "de": "NS-11AG",
+            "en": "NS-11AG",
+            "es": "NS-11AG",
+            "fr": "NS-11AG",
+            "it": "NS-11AG"
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
         "directive_id": "1596",
         "directive_tree_id": "42",
         "directive_tier_id": "1",
@@ -69851,30 +69944,6 @@
         "image_set_id": "13451",
         "image_id": "9820",
         "image_path": "/files/ps2/images/static/9820.png"
-    },
-    {
-        "directive_id": "2147",
-        "directive_tree_id": "33",
-        "directive_tier_id": "3",
-        "objective_set_id": "6148",
-        "name": {
-            "de": "NS AutoBlade",
-            "en": "NS AutoBlade",
-            "es": "NS AutoBlade",
-            "fr": "Lame r\u00e9tractable NS",
-            "it": "NS AutoBlade"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
     },
     {
         "directive_id": "4508",
@@ -70600,6 +70669,30 @@
         "image_path": "/files/ps2/images/static/80254.png"
     },
     {
+        "directive_id": "3620",
+        "directive_tree_id": "75",
+        "directive_tier_id": "4",
+        "objective_set_id": "6254",
+        "name": {
+            "de": "NS-11AG",
+            "en": "NS-11AG",
+            "es": "NS-11AG",
+            "fr": "NS-11AG",
+            "it": "NS-11AG"
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
         "directive_id": "2193",
         "directive_tree_id": "49",
         "directive_tier_id": "1",
@@ -70621,29 +70714,6 @@
         "image_set_id": "14458",
         "image_id": "80254",
         "image_path": "/files/ps2/images/static/80254.png"
-    },
-    {
-        "directive_id": "2209",
-        "directive_tree_id": "49",
-        "directive_tier_id": "1",
-        "objective_set_id": "6210",
-        "name": {
-            "de": "Platoon-F\u00fchrung",
-            "en": "Platoon Leadership",
-            "es": "Liderazgo de pelot\u00f3n",
-            "fr": "Commandement de section",
-            "it": "Leadership del plotone"
-        },
-        "description": {
-            "de": "Erhalte diese Auszeichnung, indem du ein Platoon-F\u00fchrer bist, w\u00e4hrend deine anderen Trupp-F\u00fchrer Truppf\u00fchrer-Auszeichnungen verdienen.",
-            "en": "Earn this ribbon by being a Platoon Leader when your other squad leaders earn Squad Leadership ribbons. ",
-            "es": "Gana este gal\u00f3n por ser el l\u00edder de un pelot\u00f3n cuando tus l\u00edderes de escuadr\u00f3n ganan galones de liderazgo de escuadr\u00f3n.",
-            "fr": "Gagnez cette d\u00e9coration en \u00e9tant un chef de section quand vos autres chefs d'escouade gagnent des d\u00e9corations de commandement d'escouade.",
-            "it": "Se sei il capo di un plotone mentre gli altri capi squadra ottengono coccarde per la leadership di squadra, guadagnerai questa coccarda."
-        },
-        "image_set_id": "14460",
-        "image_id": "80260",
-        "image_path": "/files/ps2/images/static/80260.png"
     },
     {
         "directive_id": "2204",
@@ -70989,6 +71059,101 @@
         "image_set_id": "14460",
         "image_id": "80260",
         "image_path": "/files/ps2/images/static/80260.png"
+    },
+    {
+        "directive_id": "2209",
+        "directive_tree_id": "49",
+        "directive_tier_id": "1",
+        "objective_set_id": "6210",
+        "name": {
+            "de": "Platoon-F\u00fchrung",
+            "en": "Platoon Leadership",
+            "es": "Liderazgo de pelot\u00f3n",
+            "fr": "Commandement de section",
+            "it": "Leadership del plotone"
+        },
+        "description": {
+            "de": "Erhalte diese Auszeichnung, indem du ein Platoon-F\u00fchrer bist, w\u00e4hrend deine anderen Trupp-F\u00fchrer Truppf\u00fchrer-Auszeichnungen verdienen.",
+            "en": "Earn this ribbon by being a Platoon Leader when your other squad leaders earn Squad Leadership ribbons. ",
+            "es": "Gana este gal\u00f3n por ser el l\u00edder de un pelot\u00f3n cuando tus l\u00edderes de escuadr\u00f3n ganan galones de liderazgo de escuadr\u00f3n.",
+            "fr": "Gagnez cette d\u00e9coration en \u00e9tant un chef de section quand vos autres chefs d'escouade gagnent des d\u00e9corations de commandement d'escouade.",
+            "it": "Se sei il capo di un plotone mentre gli altri capi squadra ottengono coccarde per la leadership di squadra, guadagnerai questa coccarda."
+        },
+        "image_set_id": "14460",
+        "image_id": "80260",
+        "image_path": "/files/ps2/images/static/80260.png"
+    },
+    {
+        "directive_id": "2148",
+        "directive_tree_id": "33",
+        "directive_tier_id": "4",
+        "objective_set_id": "6149",
+        "name": {
+            "de": "NS AutoBlade",
+            "en": "NS AutoBlade",
+            "es": "NS AutoBlade",
+            "fr": "Lame r\u00e9tractable NS",
+            "it": "NS AutoBlade"
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "2145",
+        "directive_tree_id": "33",
+        "directive_tier_id": "1",
+        "objective_set_id": "6146",
+        "name": {
+            "de": "NS AutoBlade",
+            "en": "NS AutoBlade",
+            "es": "NS AutoBlade",
+            "fr": "Lame r\u00e9tractable NS",
+            "it": "NS AutoBlade"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "2147",
+        "directive_tree_id": "33",
+        "directive_tier_id": "3",
+        "objective_set_id": "6148",
+        "name": {
+            "de": "NS AutoBlade",
+            "en": "NS AutoBlade",
+            "es": "NS AutoBlade",
+            "fr": "Lame r\u00e9tractable NS",
+            "it": "NS AutoBlade"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
     },
     {
         "directive_id": "2146",
@@ -71445,246 +71610,6 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "2251",
-        "directive_tree_id": "10",
-        "directive_tier_id": "2",
-        "objective_set_id": "6252",
-        "name": {
-            "de": "NS-11AG",
-            "en": "NS-11AG",
-            "es": "NS-11AG",
-            "fr": "NS-11AG",
-            "it": "NS-11AG"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "3618",
-        "directive_tree_id": "75",
-        "directive_tier_id": "2",
-        "objective_set_id": "6252",
-        "name": {
-            "de": "NS-11AG",
-            "en": "NS-11AG",
-            "es": "NS-11AG",
-            "fr": "NS-11AG",
-            "it": "NS-11AG"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "2252",
-        "directive_tree_id": "10",
-        "directive_tier_id": "3",
-        "objective_set_id": "6253",
-        "name": {
-            "de": "NS-11AG",
-            "en": "NS-11AG",
-            "es": "NS-11AG",
-            "fr": "NS-11AG",
-            "it": "NS-11AG"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-        "directive_id": "3619",
-        "directive_tree_id": "75",
-        "directive_tier_id": "3",
-        "objective_set_id": "6253",
-        "name": {
-            "de": "NS-11AG",
-            "en": "NS-11AG",
-            "es": "NS-11AG",
-            "fr": "NS-11AG",
-            "it": "NS-11AG"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-        "directive_id": "2253",
-        "directive_tree_id": "10",
-        "directive_tier_id": "4",
-        "objective_set_id": "6254",
-        "name": {
-            "de": "NS-11AG",
-            "en": "NS-11AG",
-            "es": "NS-11AG",
-            "fr": "NS-11AG",
-            "it": "NS-11AG"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "3620",
-        "directive_tree_id": "75",
-        "directive_tier_id": "4",
-        "objective_set_id": "6254",
-        "name": {
-            "de": "NS-11AG",
-            "en": "NS-11AG",
-            "es": "NS-11AG",
-            "fr": "NS-11AG",
-            "it": "NS-11AG"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "2242",
-        "directive_tree_id": "4",
-        "directive_tier_id": "1",
-        "objective_set_id": "6243",
-        "name": {
-            "de": "NS-11CB",
-            "en": "NS-11CB",
-            "es": "NS-11CB",
-            "fr": "NS-11CB",
-            "it": "NS-11CB"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "3629",
-        "directive_tree_id": "75",
-        "directive_tier_id": "1",
-        "objective_set_id": "6243",
-        "name": {
-            "de": "NS-11CB",
-            "en": "NS-11CB",
-            "es": "NS-11CB",
-            "fr": "NS-11CB",
-            "it": "NS-11CB"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "2243",
-        "directive_tree_id": "4",
-        "directive_tier_id": "2",
-        "objective_set_id": "6244",
-        "name": {
-            "de": "NS-11CB",
-            "en": "NS-11CB",
-            "es": "NS-11CB",
-            "fr": "NS-11CB",
-            "it": "NS-11CB"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "3630",
-        "directive_tree_id": "75",
-        "directive_tier_id": "2",
-        "objective_set_id": "6244",
-        "name": {
-            "de": "NS-11CB",
-            "en": "NS-11CB",
-            "es": "NS-11CB",
-            "fr": "NS-11CB",
-            "it": "NS-11CB"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "2244",
@@ -72405,6 +72330,30 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "3446",
+        "directive_tree_id": "75",
+        "directive_tier_id": "2",
+        "objective_set_id": "6292",
+        "name": {
+            "de": "NS-15M2",
+            "en": "NS-15M2",
+            "es": "NS-15M2",
+            "fr": "NS-15M2",
+            "it": "NS-15M2"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "2292",
@@ -73667,6 +73616,31 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
+        "directive_id": "2490",
+        "directive_tree_id": "8",
+        "directive_tier_id": "2",
+        "objective_set_id": "6497",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "SVA-GG",
+            "en": "SVA-GG",
+            "es": "SVA-GG",
+            "fr": "SVA-GG",
+            "it": "SVA-GG"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "2338",
         "directive_tree_id": "33",
         "directive_tier_id": "1",
@@ -74266,31 +74240,6 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "2490",
-        "directive_tree_id": "8",
-        "directive_tier_id": "2",
-        "objective_set_id": "6497",
-        "qualify_requirement_id": "3312",
-        "name": {
-            "de": "SVA-GG",
-            "en": "SVA-GG",
-            "es": "SVA-GG",
-            "fr": "SVA-GG",
-            "it": "SVA-GG"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "2491",
@@ -75567,6 +75516,30 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
+        "directive_id": "2801",
+        "directive_tree_id": "61",
+        "directive_tier_id": "2",
+        "objective_set_id": "6829",
+        "name": {
+            "de": "NSX Tengu",
+            "en": "NSX Tengu",
+            "es": "NSX Tengu",
+            "fr": "NSX Tengu",
+            "it": "NSX Tengu"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "3600",
         "directive_tree_id": "74",
         "directive_tier_id": "4",
@@ -75613,31 +75586,6 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "4378",
-        "directive_tree_id": "97",
-        "directive_tier_id": "2",
-        "objective_set_id": "8514",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "CT2-XP",
-            "en": "CT2-XP",
-            "es": "CT2-XP",
-            "fr": "CT2-XP",
-            "it": "CT2-XP"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "3601",
@@ -79148,16 +79096,17 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-        "directive_id": "2801",
-        "directive_tree_id": "61",
+        "directive_id": "4263",
+        "directive_tree_id": "47",
         "directive_tier_id": "2",
-        "objective_set_id": "6829",
+        "objective_set_id": "8256",
+        "qualify_requirement_id": "45167",
         "name": {
-            "de": "NSX Tengu",
-            "en": "NSX Tengu",
-            "es": "NSX Tengu",
-            "fr": "NSX Tengu",
-            "it": "NSX Tengu"
+            "de": "LAV-AG",
+            "en": "LAV-AG",
+            "es": "LAV-AG",
+            "fr": "LAV-AG",
+            "it": "LAV-AG"
         },
         "description": {
             "de": "50 Feinde get\u00f6tet",
@@ -82229,6 +82178,30 @@
         "image_path": "/files/ps2/images/static/3079.png"
     },
     {
+        "directive_id": "2951",
+        "directive_tree_id": "62",
+        "directive_tier_id": "1",
+        "objective_set_id": "6976",
+        "name": {
+            "de": "NSX-P Tanto",
+            "en": "NSX-P Tanto",
+            "es": "NSX-P Tanto ",
+            "fr": "NSX-P Tanto",
+            "it": "NSX-P Tanto"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
         "directive_id": "2907",
         "directive_tree_id": "62",
         "directive_tier_id": "4",
@@ -82796,30 +82769,6 @@
         "directive_tree_id": "65",
         "directive_tier_id": "1",
         "objective_set_id": "7072",
-        "name": {
-            "de": "NSX-P Tanto",
-            "en": "NSX-P Tanto",
-            "es": "NSX-P Tanto ",
-            "fr": "NSX-P Tanto",
-            "it": "NSX-P Tanto"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "2951",
-        "directive_tree_id": "62",
-        "directive_tier_id": "1",
-        "objective_set_id": "6976",
         "name": {
             "de": "NSX-P Tanto",
             "en": "NSX-P Tanto",
@@ -83534,31 +83483,6 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-        "directive_id": "3076",
-        "directive_tree_id": "15",
-        "directive_tier_id": "2",
-        "objective_set_id": "7101",
-        "qualify_requirement_id": "3311",
-        "name": {
-            "de": "MG-S1 Jackal",
-            "en": "MG-S1 Jackal",
-            "es": "Chacal MG-S1",
-            "fr": "MG-S1 Chacal",
-            "it": "MG-S1 Jackal"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
         "directive_id": "3009",
         "directive_tree_id": "62",
         "directive_tier_id": "3",
@@ -84176,6 +84100,31 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
+        "directive_id": "4298",
+        "directive_tree_id": "6",
+        "directive_tier_id": "1",
+        "objective_set_id": "8426",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "SR-150",
+            "en": "SR-150",
+            "es": "SR-150",
+            "fr": "SR-150",
+            "it": "SR-150"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
         "directive_id": "3075",
         "directive_tree_id": "15",
         "directive_tier_id": "1",
@@ -84199,6 +84148,31 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "3076",
+        "directive_tree_id": "15",
+        "directive_tier_id": "2",
+        "objective_set_id": "7101",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "MG-S1 Jackal",
+            "en": "MG-S1 Jackal",
+            "es": "Chacal MG-S1",
+            "fr": "MG-S1 Chacal",
+            "it": "MG-S1 Jackal"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "3077",
@@ -92632,6 +92606,30 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "4004",
+        "directive_tree_id": "72",
+        "directive_tier_id": "2",
+        "objective_set_id": "7786",
+        "name": {
+            "de": "NS-66 Punisher",
+            "en": "NS-66 Punisher",
+            "es": "NS-66 Punisher",
+            "fr": "NS-66 Punisher",
+            "it": "NS-66 Punisher"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "3831",
         "directive_tree_id": "65",
         "directive_tier_id": "4",
@@ -93772,30 +93770,6 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-        "directive_id": "4917",
-        "directive_tree_id": "109",
-        "directive_tier_id": "3",
-        "objective_set_id": "7743",
-        "name": {
-            "de": "Antike Psychokinetische Klinge",
-            "en": "Ancient Psykinetic Blade",
-            "es": "Espada psicocin\u00e9tica ancestral",
-            "fr": "Lame psychokin\u00e9tique ancestrale",
-            "it": "Antica lama psicocinetica"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
         "directive_id": "4000",
         "directive_tree_id": "15",
         "directive_tier_id": "2",
@@ -93818,6 +93792,30 @@
         "image_set_id": "1565",
         "image_id": "3079",
         "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+        "directive_id": "4917",
+        "directive_tree_id": "109",
+        "directive_tier_id": "3",
+        "objective_set_id": "7743",
+        "name": {
+            "de": "Antike Psychokinetische Klinge",
+            "en": "Ancient Psykinetic Blade",
+            "es": "Espada psicocin\u00e9tica ancestral",
+            "fr": "Lame psychokin\u00e9tique ancestrale",
+            "it": "Antica lama psicocinetica"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
     },
     {
         "directive_id": "3938",
@@ -94406,30 +94404,6 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "4004",
-        "directive_tree_id": "72",
-        "directive_tier_id": "2",
-        "objective_set_id": "7786",
-        "name": {
-            "de": "NS-66 Punisher",
-            "en": "NS-66 Punisher",
-            "es": "NS-66 Punisher",
-            "fr": "NS-66 Punisher",
-            "it": "NS-66 Punisher"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "4005",
@@ -98515,6 +98489,31 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
+        "directive_id": "4299",
+        "directive_tree_id": "6",
+        "directive_tier_id": "2",
+        "objective_set_id": "8427",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "SR-150",
+            "en": "SR-150",
+            "es": "SR-150",
+            "fr": "SR-150",
+            "it": "SR-150"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "4300",
         "directive_tree_id": "6",
         "directive_tier_id": "3",
@@ -99155,6 +99154,31 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "5047",
+        "directive_tree_id": "36",
+        "directive_tier_id": "2",
+        "objective_set_id": "9210",
+        "qualify_requirement_id": "3310",
+        "name": {
+            "de": "JGX11",
+            "en": "JGX11",
+            "es": "JGX11",
+            "fr": "JGX11",
+            "it": "JGX11"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "4330",
@@ -100568,6 +100592,31 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "4378",
+        "directive_tree_id": "97",
+        "directive_tier_id": "2",
+        "objective_set_id": "8514",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "CT2-XP",
+            "en": "CT2-XP",
+            "es": "CT2-XP",
+            "fr": "CT2-XP",
+            "it": "CT2-XP"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "4379",
@@ -105550,31 +105599,6 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-        "directive_id": "5049",
-        "directive_tree_id": "36",
-        "directive_tier_id": "4",
-        "objective_set_id": "9212",
-        "qualify_requirement_id": "3310",
-        "name": {
-            "de": "JGX11",
-            "en": "JGX11",
-            "es": "JGX11",
-            "fr": "JGX11",
-            "it": "JGX11"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
         "directive_id": "4962",
         "directive_tree_id": "109",
         "directive_tier_id": "4",
@@ -106035,6 +106059,31 @@
         "image_set_id": "1565",
         "image_id": "3079",
         "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+        "directive_id": "5048",
+        "directive_tree_id": "36",
+        "directive_tier_id": "3",
+        "objective_set_id": "9211",
+        "qualify_requirement_id": "3310",
+        "name": {
+            "de": "JGX11",
+            "en": "JGX11",
+            "es": "JGX11",
+            "fr": "JGX11",
+            "it": "JGX11"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
     },
     {
         "directive_id": "5193",
@@ -106654,10 +106703,10 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-        "directive_id": "5047",
+        "directive_id": "5049",
         "directive_tree_id": "36",
-        "directive_tier_id": "2",
-        "objective_set_id": "9210",
+        "directive_tier_id": "4",
+        "objective_set_id": "9212",
         "qualify_requirement_id": "3310",
         "name": {
             "de": "JGX11",
@@ -106667,41 +106716,16 @@
             "it": "JGX11"
         },
         "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
         },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "5048",
-        "directive_tree_id": "36",
-        "directive_tier_id": "3",
-        "objective_set_id": "9211",
-        "qualify_requirement_id": "3310",
-        "name": {
-            "de": "JGX11",
-            "en": "JGX11",
-            "es": "JGX11",
-            "fr": "JGX11",
-            "it": "JGX11"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
     },
     {
         "directive_id": "5050",
@@ -109766,17 +109790,17 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-        "directive_id": "5488",
-        "directive_tree_id": "127",
+        "directive_id": "5582",
+        "directive_tree_id": "26",
         "directive_tier_id": "1",
-        "objective_set_id": "9600",
+        "objective_set_id": "9674",
         "qualify_requirement_id": "3312",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "10 Feinde get\u00f6tet",
@@ -109791,17 +109815,67 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "5488",
+        "directive_tree_id": "127",
+        "directive_tier_id": "1",
+        "objective_set_id": "9600",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "5578",
+        "directive_tree_id": "26",
+        "directive_tier_id": "2",
+        "objective_set_id": "9670",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "5487",
         "directive_tree_id": "127",
         "directive_tier_id": "2",
         "objective_set_id": "9599",
         "qualify_requirement_id": "3312",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "50 Feinde get\u00f6tet",
@@ -109822,11 +109896,11 @@
         "objective_set_id": "9597",
         "qualify_requirement_id": "3312",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "100 Feinde get\u00f6tet",
@@ -109842,16 +109916,16 @@
     },
     {
         "directive_id": "5485",
-        "directive_tree_id": "127",
+        "directive_tree_id": "26",
         "directive_tier_id": "3",
         "objective_set_id": "9597",
         "qualify_requirement_id": "3312",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "100 Feinde get\u00f6tet",
@@ -109866,17 +109940,17 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-        "directive_id": "5486",
-        "directive_tree_id": "127",
+        "directive_id": "5584",
+        "directive_tree_id": "26",
         "directive_tier_id": "4",
-        "objective_set_id": "9598",
+        "objective_set_id": "9676",
         "qualify_requirement_id": "3312",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "1000 Feinde get\u00f6tet",
@@ -109891,17 +109965,42 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-        "directive_id": "5489",
+        "directive_id": "5486",
         "directive_tree_id": "127",
+        "directive_tier_id": "4",
+        "objective_set_id": "9598",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "5583",
+        "directive_tree_id": "26",
         "directive_tier_id": "1",
-        "objective_set_id": "9601",
+        "objective_set_id": "9675",
         "qualify_requirement_id": "3310",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "10 Feinde get\u00f6tet",
@@ -109916,17 +110015,67 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "5489",
+        "directive_tree_id": "127",
+        "directive_tier_id": "1",
+        "objective_set_id": "9601",
+        "qualify_requirement_id": "3310",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "5579",
+        "directive_tree_id": "26",
+        "directive_tier_id": "2",
+        "objective_set_id": "9671",
+        "qualify_requirement_id": "3310",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "5490",
         "directive_tree_id": "127",
         "directive_tier_id": "2",
         "objective_set_id": "9602",
         "qualify_requirement_id": "3310",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "50 Feinde get\u00f6tet",
@@ -109947,11 +110096,11 @@
         "objective_set_id": "9603",
         "qualify_requirement_id": "3310",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "100 Feinde get\u00f6tet",
@@ -109967,16 +110116,16 @@
     },
     {
         "directive_id": "5491",
-        "directive_tree_id": "127",
+        "directive_tree_id": "26",
         "directive_tier_id": "3",
         "objective_set_id": "9603",
         "qualify_requirement_id": "3310",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "100 Feinde get\u00f6tet",
@@ -109991,17 +110140,17 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-        "directive_id": "5492",
-        "directive_tree_id": "127",
+        "directive_id": "5585",
+        "directive_tree_id": "26",
         "directive_tier_id": "4",
-        "objective_set_id": "9604",
+        "objective_set_id": "9677",
         "qualify_requirement_id": "3310",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "1000 Feinde get\u00f6tet",
@@ -110016,17 +110165,42 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-        "directive_id": "5493",
+        "directive_id": "5492",
         "directive_tree_id": "127",
+        "directive_tier_id": "4",
+        "objective_set_id": "9604",
+        "qualify_requirement_id": "3310",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "5581",
+        "directive_tree_id": "26",
         "directive_tier_id": "1",
-        "objective_set_id": "9605",
+        "objective_set_id": "9673",
         "qualify_requirement_id": "3311",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "10 Feinde get\u00f6tet",
@@ -110041,17 +110215,67 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "5493",
+        "directive_tree_id": "127",
+        "directive_tier_id": "1",
+        "objective_set_id": "9605",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "5577",
+        "directive_tree_id": "26",
+        "directive_tier_id": "2",
+        "objective_set_id": "9669",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "5494",
         "directive_tree_id": "127",
         "directive_tier_id": "2",
         "objective_set_id": "9606",
         "qualify_requirement_id": "3311",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "50 Feinde get\u00f6tet",
@@ -110072,11 +110296,11 @@
         "objective_set_id": "9607",
         "qualify_requirement_id": "3311",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "100 Feinde get\u00f6tet",
@@ -110092,16 +110316,16 @@
     },
     {
         "directive_id": "5495",
-        "directive_tree_id": "127",
+        "directive_tree_id": "26",
         "directive_tier_id": "3",
         "objective_set_id": "9607",
         "qualify_requirement_id": "3311",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "100 Feinde get\u00f6tet",
@@ -110116,17 +110340,17 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-        "directive_id": "5496",
-        "directive_tree_id": "127",
+        "directive_id": "5587",
+        "directive_tree_id": "26",
         "directive_tier_id": "4",
-        "objective_set_id": "9608",
+        "objective_set_id": "9679",
         "qualify_requirement_id": "3311",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "1000 Feinde get\u00f6tet",
@@ -110141,17 +110365,42 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-        "directive_id": "5497",
+        "directive_id": "5496",
         "directive_tree_id": "127",
+        "directive_tier_id": "4",
+        "objective_set_id": "9608",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "5580",
+        "directive_tree_id": "26",
         "directive_tier_id": "1",
-        "objective_set_id": "9609",
+        "objective_set_id": "9672",
         "qualify_requirement_id": "45167",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "10 Feinde get\u00f6tet",
@@ -110166,17 +110415,67 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "5497",
+        "directive_tree_id": "127",
+        "directive_tier_id": "1",
+        "objective_set_id": "9609",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "5576",
+        "directive_tree_id": "26",
+        "directive_tier_id": "2",
+        "objective_set_id": "9668",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "5498",
         "directive_tree_id": "127",
         "directive_tier_id": "2",
         "objective_set_id": "9610",
         "qualify_requirement_id": "45167",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "50 Feinde get\u00f6tet",
@@ -110197,11 +110496,11 @@
         "objective_set_id": "9611",
         "qualify_requirement_id": "45167",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "100 Feinde get\u00f6tet",
@@ -110217,16 +110516,16 @@
     },
     {
         "directive_id": "5499",
-        "directive_tree_id": "127",
+        "directive_tree_id": "26",
         "directive_tier_id": "3",
         "objective_set_id": "9611",
         "qualify_requirement_id": "45167",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "100 Feinde get\u00f6tet",
@@ -110241,17 +110540,42 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
+        "directive_id": "5586",
+        "directive_tree_id": "26",
+        "directive_tier_id": "4",
+        "objective_set_id": "9678",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
         "directive_id": "5500",
         "directive_tree_id": "127",
         "directive_tier_id": "4",
         "objective_set_id": "9612",
         "qualify_requirement_id": "45167",
         "name": {
-            "de": "\"Deluxe\" Spitfire-Auto-Gesch\u00fctz",
-            "en": "Spitfire \"Deluxe\" Auto-Turret",
-            "es": "Torreta autom\u00e1tica Spitfire \"Deluxe\"",
-            "fr": "Tourelle automatique Spitfire \"de luxe\"",
-            "it": "Torretta automatica Spitfire \"Deluxe\""
+            "de": "Spitfire-Auto-Gesch\u00fctz \"Oberste Direktive\"",
+            "en": "Spitfire \"Prime Directive\" Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire \"Primera Directiva\"",
+            "fr": "Tourelle automatique Spitfire \"Directive Prime\"\n",
+            "it": "Torretta automatica Spitfire \"Direttiva Prime\""
         },
         "description": {
             "de": "1000 Feinde get\u00f6tet",
