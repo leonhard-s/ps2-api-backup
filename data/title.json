@@ -3312,5 +3312,15 @@
             "fr": "Commandant de terrain",
             "it": "Comandante operativo"
         }
+    },
+    {
+        "title_id": "450",
+        "name": {
+            "de": "Infernal",
+            "en": "Infernal",
+            "es": "Infernal",
+            "fr": "Infernal",
+            "it": "Infernale"
+        }
     }
 ]

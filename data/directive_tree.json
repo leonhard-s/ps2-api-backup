@@ -1421,6 +1421,20 @@
         }
     },
     {
+        "directive_tree_id": "126",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Halloween 2023",
+            "en": "Halloween 2023",
+            "es": "Halloween 2023",
+            "fr": "Halloween 2023",
+            "it": "Halloween 2023"
+        },
+        "image_set_id": "82818",
+        "image_id": "80676",
+        "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
         "directive_tree_id": "127",
         "directive_tree_category_id": "11",
         "name": {
