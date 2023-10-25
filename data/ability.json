@@ -4841,70 +4841,80 @@
         "ability_type_id": "26",
         "distance_max": "6",
         "radius_max": "0",
-        "flag_toggle": "0"
+        "flag_toggle": "0",
+        "param1": "1"
     },
     {
         "ability_id": "6266",
         "ability_type_id": "26",
         "distance_max": "6",
         "radius_max": "0",
-        "flag_toggle": "0"
+        "flag_toggle": "0",
+        "param1": "1"
     },
     {
         "ability_id": "6267",
         "ability_type_id": "26",
         "distance_max": "6",
         "radius_max": "0",
-        "flag_toggle": "0"
+        "flag_toggle": "0",
+        "param1": "1"
     },
     {
         "ability_id": "6268",
         "ability_type_id": "26",
         "distance_max": "6",
         "radius_max": "0",
-        "flag_toggle": "0"
+        "flag_toggle": "0",
+        "param1": "1"
     },
     {
         "ability_id": "6269",
         "ability_type_id": "26",
         "distance_max": "6",
         "radius_max": "0",
-        "flag_toggle": "0"
+        "flag_toggle": "0",
+        "param1": "1"
     },
     {
         "ability_id": "6283",
         "ability_type_id": "26",
         "distance_max": "6",
         "radius_max": "0",
-        "flag_toggle": "0"
+        "flag_toggle": "0",
+        "param1": "1"
     },
     {
         "ability_id": "6284",
         "ability_type_id": "26",
         "distance_max": "6",
         "radius_max": "0",
-        "flag_toggle": "0"
+        "flag_toggle": "0",
+        "param1": "1"
     },
     {
         "ability_id": "6285",
         "ability_type_id": "26",
         "distance_max": "6",
         "radius_max": "0",
-        "flag_toggle": "0"
+        "flag_toggle": "0",
+        "param1": "1"
     },
     {
         "ability_id": "6286",
         "ability_type_id": "26",
         "distance_max": "6",
         "radius_max": "0",
-        "flag_toggle": "0"
+        "flag_toggle": "0",
+        "param1": "1"
     },
     {
         "ability_id": "6287",
         "ability_type_id": "26",
         "distance_max": "6",
         "radius_max": "0",
-        "flag_toggle": "0"
+        "flag_toggle": "0",
+        "param1": "1"
     },
     {
         "ability_id": "6300",
