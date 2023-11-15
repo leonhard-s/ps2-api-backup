@@ -3322,5 +3322,15 @@
             "fr": "Infernal",
             "it": "Infernale"
         }
+    },
+    {
+        "title_id": "451",
+        "name": {
+            "de": "Nascent-Gesandter",
+            "en": "Nascent Envoy",
+            "es": "Portavoz de Nascent",
+            "fr": "\u00c9missaire de Nascent",
+            "it": "Portavoce Nascent"
+        }
     }
 ]
