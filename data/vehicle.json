@@ -667,6 +667,110 @@
         "image_path": "/files/ps2/images/static/4052.png"
     },
     {
+        "vehicle_id": "1001",
+        "name": {
+            "de": "Flash",
+            "en": "Flash",
+            "es": "Flash",
+            "fr": "Flash",
+            "it": "Flash",
+            "tr": "\u015e\u0130M\u015eEK"
+        },
+        "description": {
+            "de": "Der Flash ist ein Quad, das den Fahrer und einen Passagier schnell an die Front zu bringt. Der Passagier ist in der Lage, das meiste seiner Ausr\u00fcstung zu benutzen, w\u00e4hrend er auf dem R\u00fccksitz mitf\u00e4hrt.",
+            "en": "The Flash is an ATV capable of getting the driver and one passenger quickly to the front lines.  The passenger is able to use most of their personal equipment while riding on the back.",
+            "es": "El Flash es un ATV capaz de llevar al conductor y aun soldado m\u00e1s a las l\u00edneas del frente r\u00e1pidamente. El pasajero puede usar la mayor\u00eda de su equipo personal desde la parte trasera del veh\u00edculo en la que se sienta.",
+            "fr": "Le Flash est un Quad pouvant transporter son conducteur et un passager au front rapidement. Le passager peut utiliser la plupart de son \u00e9quipement personnel lorsqu'il est install\u00e9 \u00e0 l'arri\u00e8re.",
+            "it": "Il Flash \u00e8 un Atv che consente al conducente e al passeggero di arrivare velocemente al fronte. Il passeggero pu\u00f2 utilizzare la maggior parte dell'equipaggiamento personale mentre viaggia nel retro del veicolo.",
+            "tr": "\u015eim\u015fek, s\u00fcr\u00fcc\u00fcy\u00fc ve bir yolcuyu cephe hatt\u0131na \u00e7abuk ula\u015ft\u0131rabilen bir ATV arac\u0131d\u0131r. Yolcu arkada otururken ki\u015fisel ekipmanlar\u0131ndan \u00e7o\u011funu kullanabilir."
+        },
+        "type_id": "5",
+        "type_name": "Four Wheeled Ground Vehicle",
+        "cost": "9999",
+        "cost_resource_id": "3",
+        "image_set_id": "98",
+        "image_id": "3975",
+        "image_path": "/files/ps2/images/static/3975.png"
+    },
+    {
+        "vehicle_id": "1002",
+        "name": {
+            "de": "Sunderer",
+            "en": "Sunderer",
+            "es": "Sunderer",
+            "fr": "Disperseur",
+            "it": "Sunderer",
+            "tr": "YARICI"
+        },
+        "description": {
+            "de": "Ein Sunderer ist ein gro\u00dfer Transporter mit Platz f\u00fcr bis zu 12 Personen. Er kann auch mit einigen anderen Unterst\u00fctzungsfunktionen wie beispielsweise einer transportablen Respawnstation, Fahrzeugreparatur oder Munitionsversorgung der Fahrzeuge ausgestattet werden.",
+            "en": "The Sunderer is a large transport capable of holding 12 soldiers.  It can also be outfitted with several support functions such as a mobile respawn station, vehicle repair or vehicle ammo resupply.",
+            "es": "El Sunderer es un transporte de gran capacidad que puede llevar hasta 12 soldados. Tambi\u00e9n se le pueden otorgar funciones de apoyo como estaci\u00f3n m\u00f3vil de apariciones, punto de reparaci\u00f3n de veh\u00edculos o punto de suministro de veh\u00edculos. ",
+            "fr": "Le Disperseur est un gros v\u00e9hicule capable de transporter 12 soldats. Il peut aussi \u00eatre \u00e9quip\u00e9 de plusieurs fonctions de soutien telles qu'une station de r\u00e9animation mobile, un v\u00e9hicule de r\u00e9paration ou un v\u00e9hicule de r\u00e9approvisionnement en munitions.",
+            "it": "Il Sunderer \u00e8 un grosso trasporto truppe capace di portare fino a 12 soldati. Pu\u00f2 anche venire equipaggiato per avere funzioni di supporto come stazione mobile di rigenerazione, di riparazione veicoli o di fornitura di munizioni per veicoli.",
+            "tr": "Yar\u0131c\u0131, 12 asker ta\u015f\u0131yabilme \u00f6zelli\u011fine sahip b\u00fcy\u00fck bir asker nakil arac\u0131d\u0131r. Ayn\u0131 zamanda gezici bir ekipman terminali, ara\u00e7 tamiri ya da ara\u00e7 m\u00fchimmat ikmali gibi farkl\u0131 i\u015flevlere de sahiptir."
+        },
+        "type_id": "5",
+        "type_name": "Four Wheeled Ground Vehicle",
+        "cost": "9999",
+        "cost_resource_id": "3",
+        "image_set_id": "100",
+        "image_id": "4002",
+        "image_path": "/files/ps2/images/static/4002.png"
+    },
+    {
+        "vehicle_id": "1010",
+        "name": {
+            "de": "Liberator",
+            "en": "Liberator",
+            "es": "Liberator",
+            "fr": "Lib\u00e9rateur",
+            "it": "Liberator",
+            "tr": "KURTARICI"
+        },
+        "description": {
+            "de": "Der Liberator ist ein Drei-Mann-Kampfflugzeug. Das Artelleriegesch\u00fctz ist extrem wirksam gegen Bodenziele und er verf\u00fcgt ebenso \u00fcber ein Heckgesch\u00fctz, um gegnerische J\u00e4ger abzuwehren.",
+            "en": "The Liberator is a three man gun ship.  The bombardier weapon is very powerful against ground targets and it has a tail gun to ward off enemy fighters.",
+            "es": "El Liberator es una nave de asalto de tres plazas. Su arma bombardera es muy potente contra objetivos terrestres y tiene un puesto de artillero de cola para defenderse de los cazas enemigos.",
+            "fr": "Le Lib\u00e9rateur est un appareil de combat servi par 3 hommes d'\u00e9quipage. Son bombardier est tr\u00e8s puissant contre les cibles au sol et il poss\u00e8de un canonnier arri\u00e8re pour repousser les combattants ennemis.",
+            "it": "Il Liberator \u00e8 una cannoniera volante con tre uomini di equipaggio. L'armamento di bordo \u00e8 molto potente contro i bersagli a terra e possiede anche un cannone sulla coda per tenere lontani i caccia nemici.",
+            "tr": "Kurtar\u0131c\u0131, \u00fc\u00e7 ki\u015filik bir sava\u015f helikopteridir. Bombard\u0131man silah\u0131 yer hedeflerine kar\u015f\u0131 \u00e7ok g\u00fc\u00e7l\u00fcd\u00fcr ve kuyruk silah\u0131 d\u00fc\u015fman sava\u015f\u00e7\u0131lar\u0131n\u0131 parampar\u00e7a eder."
+        },
+        "type_id": "1",
+        "type_name": "Light Aircraft",
+        "cost": "9999",
+        "cost_resource_id": "3",
+        "image_set_id": "93",
+        "image_id": "3981",
+        "image_path": "/files/ps2/images/static/3981.png"
+    },
+    {
+        "vehicle_id": "1011",
+        "name": {
+            "de": "Galaxy",
+            "en": "Galaxy",
+            "es": "Galaxy",
+            "fr": "Galaxie",
+            "it": "Galaxy",
+            "tr": "GALAKS\u0130"
+        },
+        "description": {
+            "de": "Der Galaxy ist ein Lufttransporter, der bis zu elf Soldaten schnell in eine Basis bringen kann. Er enth\u00e4lt vier Waffenaufs\u00e4tze, die zur Verteidigung oder zur Ausstattung in einer Kampfflugzeugrolle verwendet werden k\u00f6nnen.",
+            "en": "The Galaxy is an air transport that can be used to hot drop up to 11 soldiers.  It has four weapon mounts that can be used for defense or outfitted into a gunship role.",
+            "es": "El Galaxy sirve como trasporte a\u00e9reo y puede desembarcar hasta 11 soldados. Tiene cuatro puntos de fijaci\u00f3n de armas que pueden ser utilizados como defensa o para transformarlo en una nave de guerra.",
+            "fr": "Le Galaxie est un transport a\u00e9rien qui peut \u00eatre utilis\u00e9 pour larguer directement jusqu'\u00e0 11 soldats. Il a quatre supports d'armes qui peuvent \u00eatre utilis\u00e9s pour la d\u00e9fense ou \u00e9quip\u00e9s pour remplir le r\u00f4le de canonnier.",
+            "it": "Il Galaxy \u00e8 un aereo da trasporto che pu\u00f2 essere usato per paracadutare fino a 11 soldati. Pu\u00f2 montare fino a quattro armi per difesa o le pu\u00f2 equipaggiare come cannoniera. ",
+            "tr": "Galaksi, 11 askeri ta\u015f\u0131yabilen bir hava nakil arac\u0131d\u0131r. Savunma amac\u0131yla ya da sald\u0131r\u0131 arac\u0131 olarak kullan\u0131labilen d\u00f6rt silah yuvas\u0131na sahiptir."
+        },
+        "type_id": "1",
+        "type_name": "Light Aircraft",
+        "cost": "9999",
+        "cost_resource_id": "3",
+        "image_set_id": "92",
+        "image_id": "3978",
+        "image_path": "/files/ps2/images/static/3978.png"
+    },
+    {
         "vehicle_id": "1013",
         "name": {
             "de": "Aufkl\u00e4rungsdrohne",
