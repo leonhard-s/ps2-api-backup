@@ -28185,6 +28185,530 @@
         "image_path": "/files/ps2/images/static/79560.png"
     },
     {
+        "directive_id": "5664",
+        "directive_tree_id": "131",
+        "directive_tier_id": "1",
+        "objective_set_id": "9758",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5665",
+        "directive_tree_id": "131",
+        "directive_tier_id": "2",
+        "objective_set_id": "9759",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5666",
+        "directive_tree_id": "131",
+        "directive_tier_id": "3",
+        "objective_set_id": "9760",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5667",
+        "directive_tree_id": "131",
+        "directive_tier_id": "4",
+        "objective_set_id": "9761",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5668",
+        "directive_tree_id": "131",
+        "directive_tier_id": "1",
+        "objective_set_id": "9762",
+        "name": {
+            "de": "Auraximas-Stimmung",
+            "en": "Auraximas Cheer",
+            "es": "Alegr\u00eda de la Auraxidad",
+            "fr": "Esprit d'Auraximas",
+            "it": "Festeggiamenti di Auraximas"
+        },
+        "description": {
+            "de": "Schlie\u00dfe t\u00e4gliche Auraximas-Missionen ab.",
+            "en": "Complete daily Auraximas missions.",
+            "es": "Completa las misiones diarias de Auraxidad.",
+            "fr": "Terminez les missions quotidiennes d'Auraximas.",
+            "it": "Completa le missioni giornaliere di Auraximas."
+        },
+        "image_set_id": "93051",
+        "image_id": "81993",
+        "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+        "directive_id": "5669",
+        "directive_tree_id": "131",
+        "directive_tier_id": "2",
+        "objective_set_id": "9763",
+        "name": {
+            "de": "Auraximas-Stimmung",
+            "en": "Auraximas Cheer",
+            "es": "Alegr\u00eda de la Auraxidad",
+            "fr": "Esprit d'Auraximas",
+            "it": "Festeggiamenti di Auraximas"
+        },
+        "description": {
+            "de": "Schlie\u00dfe t\u00e4gliche Auraximas-Missionen ab.",
+            "en": "Complete daily Auraximas missions.",
+            "es": "Completa las misiones diarias de Auraxidad.",
+            "fr": "Terminez les missions quotidiennes d'Auraximas.",
+            "it": "Completa le missioni giornaliere di Auraximas."
+        },
+        "image_set_id": "93051",
+        "image_id": "81993",
+        "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+        "directive_id": "5670",
+        "directive_tree_id": "131",
+        "directive_tier_id": "3",
+        "objective_set_id": "9764",
+        "name": {
+            "de": "Auraximas-Stimmung",
+            "en": "Auraximas Cheer",
+            "es": "Alegr\u00eda de la Auraxidad",
+            "fr": "Esprit d'Auraximas",
+            "it": "Festeggiamenti di Auraximas"
+        },
+        "description": {
+            "de": "Schlie\u00dfe t\u00e4gliche Auraximas-Missionen ab.",
+            "en": "Complete daily Auraximas missions.",
+            "es": "Completa las misiones diarias de Auraxidad.",
+            "fr": "Terminez les missions quotidiennes d'Auraximas.",
+            "it": "Completa le missioni giornaliere di Auraximas."
+        },
+        "image_set_id": "93051",
+        "image_id": "81993",
+        "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+        "directive_id": "5671",
+        "directive_tree_id": "131",
+        "directive_tier_id": "4",
+        "objective_set_id": "9765",
+        "name": {
+            "de": "Auraximas-Stimmung",
+            "en": "Auraximas Cheer",
+            "es": "Alegr\u00eda de la Auraxidad",
+            "fr": "Esprit d'Auraximas",
+            "it": "Festeggiamenti di Auraximas"
+        },
+        "description": {
+            "de": "Schlie\u00dfe t\u00e4gliche Auraximas-Missionen ab.",
+            "en": "Complete daily Auraximas missions.",
+            "es": "Completa las misiones diarias de Auraxidad.",
+            "fr": "Terminez les missions quotidiennes d'Auraximas.",
+            "it": "Completa le missioni giornaliere di Auraximas."
+        },
+        "image_set_id": "93051",
+        "image_id": "81993",
+        "image_path": "/files/ps2/images/static/81993.png"
+    },
+    {
+        "directive_id": "5672",
+        "directive_tree_id": "131",
+        "directive_tier_id": "1",
+        "objective_set_id": "9766"
+    },
+    {
+        "directive_id": "5673",
+        "directive_tree_id": "131",
+        "directive_tier_id": "2",
+        "objective_set_id": "9767"
+    },
+    {
+        "directive_id": "5674",
+        "directive_tree_id": "131",
+        "directive_tier_id": "3",
+        "objective_set_id": "9768"
+    },
+    {
+        "directive_id": "5675",
+        "directive_tree_id": "131",
+        "directive_tier_id": "4",
+        "objective_set_id": "9769"
+    },
+    {
+        "directive_id": "5676",
+        "directive_tree_id": "131",
+        "directive_tier_id": "1",
+        "objective_set_id": "9770",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5677",
+        "directive_tree_id": "131",
+        "directive_tier_id": "2",
+        "objective_set_id": "9771",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5678",
+        "directive_tree_id": "131",
+        "directive_tier_id": "3",
+        "objective_set_id": "9772",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5679",
+        "directive_tree_id": "131",
+        "directive_tier_id": "4",
+        "objective_set_id": "9773",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5680",
+        "directive_tree_id": "131",
+        "directive_tier_id": "1",
+        "objective_set_id": "9774",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5681",
+        "directive_tree_id": "131",
+        "directive_tier_id": "2",
+        "objective_set_id": "9775",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5682",
+        "directive_tree_id": "131",
+        "directive_tier_id": "3",
+        "objective_set_id": "9776",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5683",
+        "directive_tree_id": "131",
+        "directive_tier_id": "4",
+        "objective_set_id": "9777",
+        "qualify_requirement_id": "3451"
+    },
+    {
+        "directive_id": "5684",
+        "directive_tree_id": "131",
+        "directive_tier_id": "1",
+        "objective_set_id": "9778"
+    },
+    {
+        "directive_id": "5685",
+        "directive_tree_id": "131",
+        "directive_tier_id": "2",
+        "objective_set_id": "9779"
+    },
+    {
+        "directive_id": "5686",
+        "directive_tree_id": "131",
+        "directive_tier_id": "3",
+        "objective_set_id": "9780"
+    },
+    {
+        "directive_id": "5687",
+        "directive_tree_id": "131",
+        "directive_tier_id": "4",
+        "objective_set_id": "9781"
+    },
+    {
+        "directive_id": "5696",
+        "directive_tree_id": "131",
+        "directive_tier_id": "2",
+        "objective_set_id": "9794",
+        "name": {
+            "de": "Fremdenf\u00fchrer",
+            "en": "Tour Guide",
+            "es": "Gu\u00eda de turistas",
+            "fr": "Visite guid\u00e9e",
+            "it": "Guida turistica"
+        },
+        "description": {
+            "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt f\u00fcr diese Anweisung zu erreichen.",
+            "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+            "es": "Conduce o pilota un veh\u00edculo con pasajeros para avanzar en esta directiva.",
+            "fr": "Plongez ou pilotez un v\u00e9hicule avec un passager pour progresser dans cette directive.",
+            "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva."
+        },
+        "image_set_id": "14062",
+        "image_id": "79485",
+        "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+        "directive_id": "5697",
+        "directive_tree_id": "131",
+        "directive_tier_id": "3",
+        "objective_set_id": "9795",
+        "name": {
+            "de": "Fremdenf\u00fchrer",
+            "en": "Tour Guide",
+            "es": "Gu\u00eda de turistas",
+            "fr": "Visite guid\u00e9e",
+            "it": "Guida turistica"
+        },
+        "description": {
+            "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt f\u00fcr diese Anweisung zu erreichen.",
+            "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+            "es": "Conduce o pilota un veh\u00edculo con pasajeros para avanzar en esta directiva.",
+            "fr": "Plongez ou pilotez un v\u00e9hicule avec un passager pour progresser dans cette directive.",
+            "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva."
+        },
+        "image_set_id": "14062",
+        "image_id": "79485",
+        "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+        "directive_id": "5698",
+        "directive_tree_id": "131",
+        "directive_tier_id": "4",
+        "objective_set_id": "9796",
+        "name": {
+            "de": "Fremdenf\u00fchrer",
+            "en": "Tour Guide",
+            "es": "Gu\u00eda de turistas",
+            "fr": "Visite guid\u00e9e",
+            "it": "Guida turistica"
+        },
+        "description": {
+            "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt f\u00fcr diese Anweisung zu erreichen.",
+            "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+            "es": "Conduce o pilota un veh\u00edculo con pasajeros para avanzar en esta directiva.",
+            "fr": "Plongez ou pilotez un v\u00e9hicule avec un passager pour progresser dans cette directive.",
+            "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva."
+        },
+        "image_set_id": "14062",
+        "image_id": "79485",
+        "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
+        "directive_id": "5699",
+        "directive_tree_id": "131",
+        "directive_tier_id": "1",
+        "objective_set_id": "9797",
+        "name": {
+            "de": "Mit M\u00fche und Not",
+            "en": "Toil and Trouble",
+            "es": "Hierve, olla",
+            "fr": "Peine et panique",
+            "it": "Fatiche e preoccupazioni"
+        },
+        "description": {
+            "de": "Verdiene Nachschub-Erfahrung.",
+            "en": "Earn resupply experience",
+            "es": "Gana experiencia reabasteciendo.",
+            "fr": "Gagnez de l'exp\u00e9rience en r\u00e9approvisionnement",
+            "it": "Guadagna esperienza nel rifornimento\n"
+        },
+        "image_set_id": "93043",
+        "image_id": "81977",
+        "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+        "directive_id": "5700",
+        "directive_tree_id": "131",
+        "directive_tier_id": "2",
+        "objective_set_id": "9798",
+        "name": {
+            "de": "Mit M\u00fche und Not",
+            "en": "Toil and Trouble",
+            "es": "Hierve, olla",
+            "fr": "Peine et panique",
+            "it": "Fatiche e preoccupazioni"
+        },
+        "description": {
+            "de": "Verdiene Nachschub-Erfahrung.",
+            "en": "Earn resupply experience",
+            "es": "Gana experiencia reabasteciendo.",
+            "fr": "Gagnez de l'exp\u00e9rience en r\u00e9approvisionnement",
+            "it": "Guadagna esperienza nel rifornimento\n"
+        },
+        "image_set_id": "93043",
+        "image_id": "81977",
+        "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+        "directive_id": "5701",
+        "directive_tree_id": "131",
+        "directive_tier_id": "3",
+        "objective_set_id": "9799",
+        "name": {
+            "de": "Mit M\u00fche und Not",
+            "en": "Toil and Trouble",
+            "es": "Hierve, olla",
+            "fr": "Peine et panique",
+            "it": "Fatiche e preoccupazioni"
+        },
+        "description": {
+            "de": "Verdiene Nachschub-Erfahrung.",
+            "en": "Earn resupply experience",
+            "es": "Gana experiencia reabasteciendo.",
+            "fr": "Gagnez de l'exp\u00e9rience en r\u00e9approvisionnement",
+            "it": "Guadagna esperienza nel rifornimento\n"
+        },
+        "image_set_id": "93043",
+        "image_id": "81977",
+        "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+        "directive_id": "5702",
+        "directive_tree_id": "131",
+        "directive_tier_id": "4",
+        "objective_set_id": "9800",
+        "name": {
+            "de": "Mit M\u00fche und Not",
+            "en": "Toil and Trouble",
+            "es": "Hierve, olla",
+            "fr": "Peine et panique",
+            "it": "Fatiche e preoccupazioni"
+        },
+        "description": {
+            "de": "Verdiene Nachschub-Erfahrung.",
+            "en": "Earn resupply experience",
+            "es": "Gana experiencia reabasteciendo.",
+            "fr": "Gagnez de l'exp\u00e9rience en r\u00e9approvisionnement",
+            "it": "Guadagna esperienza nel rifornimento\n"
+        },
+        "image_set_id": "93043",
+        "image_id": "81977",
+        "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+        "directive_id": "5703",
+        "directive_tree_id": "131",
+        "directive_tier_id": "1",
+        "objective_set_id": "9801",
+        "name": {
+            "de": "Helfende Hand",
+            "en": "Helping Hand",
+            "es": "Mano amiga",
+            "fr": "Coup de main",
+            "it": "Sostegno"
+        },
+        "description": {
+            "de": "Verdiene dieses Verdienstabzeichen, indem du deine Verb\u00fcnderen mit der medizinischen Infusionspistole, der Naniten-Heilungsgranate oder dem Nano-Regenerationsger\u00e4t heilst.",
+            "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability.",
+            "es": "Este gal\u00f3n se otorga por curar a tus aliados con el aplicador m\u00e9dico, la granada de curaci\u00f3n nan\u00edtica o el nanoregenerador.",
+            "fr": "Gagnez cette d\u00e9coration pour service rendu en gu\u00e9rissant des alli\u00e9s avec l'applicateur m\u00e9dical, une grenade vivifiante Nanite ou la capacit\u00e9 de l'appareil de nanor\u00e9g\u00e9n\u00e9ration.",
+            "it": "Ottieni questa coccarda di servizio curando i tuoi alleati con l'Applicatore medico, la Granata curativa a naniti o il Dispositivo di nano-rigenerazione."
+        },
+        "image_set_id": "93043",
+        "image_id": "81977",
+        "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+        "directive_id": "5695",
+        "directive_tree_id": "127",
+        "directive_tier_id": "1",
+        "objective_set_id": "9793",
+        "name": {
+            "de": "NS-66 \"Cold Fusion\" Punisher",
+            "en": "NS-66 \"Cold Fusion\" Punisher",
+            "es": "NS-66 Punisher \"Fusi\u00f3n Fr\u00eda\" ",
+            "fr": "NS-66 \"Cold Fusion\" Punisher",
+            "it": "NS-66 Punisher \"Cold Fusion\""
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "5704",
+        "directive_tree_id": "131",
+        "directive_tier_id": "2",
+        "objective_set_id": "9802",
+        "name": {
+            "de": "Helfende Hand",
+            "en": "Helping Hand",
+            "es": "Mano amiga",
+            "fr": "Coup de main",
+            "it": "Sostegno"
+        },
+        "description": {
+            "de": "Verdiene dieses Verdienstabzeichen, indem du deine Verb\u00fcnderen mit der medizinischen Infusionspistole, der Naniten-Heilungsgranate oder dem Nano-Regenerationsger\u00e4t heilst.",
+            "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability.",
+            "es": "Este gal\u00f3n se otorga por curar a tus aliados con el aplicador m\u00e9dico, la granada de curaci\u00f3n nan\u00edtica o el nanoregenerador.",
+            "fr": "Gagnez cette d\u00e9coration pour service rendu en gu\u00e9rissant des alli\u00e9s avec l'applicateur m\u00e9dical, une grenade vivifiante Nanite ou la capacit\u00e9 de l'appareil de nanor\u00e9g\u00e9n\u00e9ration.",
+            "it": "Ottieni questa coccarda di servizio curando i tuoi alleati con l'Applicatore medico, la Granata curativa a naniti o il Dispositivo di nano-rigenerazione."
+        },
+        "image_set_id": "93043",
+        "image_id": "81977",
+        "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+        "directive_id": "5705",
+        "directive_tree_id": "131",
+        "directive_tier_id": "3",
+        "objective_set_id": "9803",
+        "name": {
+            "de": "Helfende Hand",
+            "en": "Helping Hand",
+            "es": "Mano amiga",
+            "fr": "Coup de main",
+            "it": "Sostegno"
+        },
+        "description": {
+            "de": "Verdiene dieses Verdienstabzeichen, indem du deine Verb\u00fcnderen mit der medizinischen Infusionspistole, der Naniten-Heilungsgranate oder dem Nano-Regenerationsger\u00e4t heilst.",
+            "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability.",
+            "es": "Este gal\u00f3n se otorga por curar a tus aliados con el aplicador m\u00e9dico, la granada de curaci\u00f3n nan\u00edtica o el nanoregenerador.",
+            "fr": "Gagnez cette d\u00e9coration pour service rendu en gu\u00e9rissant des alli\u00e9s avec l'applicateur m\u00e9dical, une grenade vivifiante Nanite ou la capacit\u00e9 de l'appareil de nanor\u00e9g\u00e9n\u00e9ration.",
+            "it": "Ottieni questa coccarda di servizio curando i tuoi alleati con l'Applicatore medico, la Granata curativa a naniti o il Dispositivo di nano-rigenerazione."
+        },
+        "image_set_id": "93043",
+        "image_id": "81977",
+        "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+        "directive_id": "5706",
+        "directive_tree_id": "131",
+        "directive_tier_id": "4",
+        "objective_set_id": "9804",
+        "name": {
+            "de": "Helfende Hand",
+            "en": "Helping Hand",
+            "es": "Mano amiga",
+            "fr": "Coup de main",
+            "it": "Sostegno"
+        },
+        "description": {
+            "de": "Verdiene dieses Verdienstabzeichen, indem du deine Verb\u00fcnderen mit der medizinischen Infusionspistole, der Naniten-Heilungsgranate oder dem Nano-Regenerationsger\u00e4t heilst.",
+            "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability.",
+            "es": "Este gal\u00f3n se otorga por curar a tus aliados con el aplicador m\u00e9dico, la granada de curaci\u00f3n nan\u00edtica o el nanoregenerador.",
+            "fr": "Gagnez cette d\u00e9coration pour service rendu en gu\u00e9rissant des alli\u00e9s avec l'applicateur m\u00e9dical, une grenade vivifiante Nanite ou la capacit\u00e9 de l'appareil de nanor\u00e9g\u00e9n\u00e9ration.",
+            "it": "Ottieni questa coccarda di servizio curando i tuoi alleati con l'Applicatore medico, la Granata curativa a naniti o il Dispositivo di nano-rigenerazione."
+        },
+        "image_set_id": "93043",
+        "image_id": "81977",
+        "image_path": "/files/ps2/images/static/81977.png"
+    },
+    {
+        "directive_id": "5707",
+        "directive_tree_id": "131",
+        "directive_tier_id": "1",
+        "objective_set_id": "9805",
+        "name": {
+            "de": "Fremdenf\u00fchrer",
+            "en": "Tour Guide",
+            "es": "Gu\u00eda de turistas",
+            "fr": "Visite guid\u00e9e",
+            "it": "Guida turistica"
+        },
+        "description": {
+            "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt f\u00fcr diese Anweisung zu erreichen.",
+            "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+            "es": "Conduce o pilota un veh\u00edculo con pasajeros para avanzar en esta directiva.",
+            "fr": "Plongez ou pilotez un v\u00e9hicule avec un passager pour progresser dans cette directive.",
+            "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva."
+        },
+        "image_set_id": "14062",
+        "image_id": "79485",
+        "image_path": "/files/ps2/images/static/79485.png"
+    },
+    {
         "directive_id": "552",
         "directive_tree_id": "13",
         "directive_tier_id": "1",
@@ -34581,6 +35105,32 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
+        "directive_id": "360",
+        "directive_tree_id": "45",
+        "directive_tier_id": "4",
+        "objective_set_id": "4361",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "AMR-66",
+            "en": "AMR-66",
+            "es": "AMR-66",
+            "fr": "AMR-66",
+            "it": "AMR-66",
+            "tr": "AMR-66"
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
         "directive_id": "347",
         "directive_tree_id": "45",
         "directive_tier_id": "3",
@@ -35295,32 +35845,6 @@
             "fr": "HSR-1",
             "it": "HSR-1",
             "tr": "SOAS-20"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "360",
-        "directive_tree_id": "45",
-        "directive_tier_id": "4",
-        "objective_set_id": "4361",
-        "qualify_requirement_id": "3311",
-        "name": {
-            "de": "AMR-66",
-            "en": "AMR-66",
-            "es": "AMR-66",
-            "fr": "AMR-66",
-            "it": "AMR-66",
-            "tr": "AMR-66"
         },
         "description": {
             "de": "1000 Feinde get\u00f6tet",
@@ -36323,32 +36847,6 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-        "directive_id": "479",
-        "directive_tree_id": "10",
-        "directive_tier_id": "1",
-        "objective_set_id": "4480",
-        "qualify_requirement_id": "3312",
-        "name": {
-            "de": "Pulsar VS1",
-            "en": "Pulsar VS1",
-            "es": "Pulsar VS1",
-            "fr": "Pulsar VS1",
-            "it": "Pulsar VS1",
-            "tr": "Pulsar VS1"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
         "directive_id": "243",
         "directive_tree_id": "4",
         "directive_tier_id": "4",
@@ -37051,6 +37549,32 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "479",
+        "directive_tree_id": "10",
+        "directive_tier_id": "1",
+        "objective_set_id": "4480",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "Pulsar VS1",
+            "en": "Pulsar VS1",
+            "es": "Pulsar VS1",
+            "fr": "Pulsar VS1",
+            "it": "Pulsar VS1",
+            "tr": "Pulsar VS1"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
         "directive_id": "691",
         "directive_tree_id": "17",
         "directive_tier_id": "1",
@@ -37464,6 +37988,32 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "933",
+        "directive_tree_id": "17",
+        "directive_tier_id": "2",
+        "objective_set_id": "4934",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "Spiker",
+            "en": "Spiker",
+            "es": "Spiker",
+            "fr": "Perceur",
+            "it": "Spiker",
+            "tr": "Spiker"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "1685",
@@ -39485,6 +40035,30 @@
         "image_set_id": "1566",
         "image_id": "3075",
         "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+        "directive_id": "2234",
+        "directive_tree_id": "10",
+        "directive_tier_id": "2",
+        "objective_set_id": "6235",
+        "name": {
+            "de": "NS-11AB",
+            "en": "NS-11AB",
+            "es": "NS-11AB",
+            "fr": "NS-11AB",
+            "it": "NS-11AB"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "828",
@@ -42499,30 +43073,6 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-        "directive_id": "2291",
-        "directive_tree_id": "8",
-        "directive_tier_id": "2",
-        "objective_set_id": "6292",
-        "name": {
-            "de": "NS-15M2",
-            "en": "NS-15M2",
-            "es": "NS-15M2",
-            "fr": "NS-15M2",
-            "it": "NS-15M2"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
         "directive_id": "944",
         "directive_tree_id": "23",
         "directive_tier_id": "1",
@@ -44603,30 +45153,6 @@
         "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-        "directive_id": "3446",
-        "directive_tree_id": "75",
-        "directive_tier_id": "2",
-        "objective_set_id": "6292",
-        "name": {
-            "de": "NS-15M2",
-            "en": "NS-15M2",
-            "es": "NS-15M2",
-            "fr": "NS-15M2",
-            "it": "NS-15M2"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
         "directive_id": "1425",
         "directive_tree_id": "40",
         "directive_tier_id": "2",
@@ -44951,6 +45477,30 @@
             "fr": "M20 Drake",
             "it": "M20 Drake",
             "tr": "M20 Suna"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+        "directive_id": "3614",
+        "directive_tree_id": "75",
+        "directive_tier_id": "2",
+        "objective_set_id": "6235",
+        "name": {
+            "de": "NS-11AB",
+            "en": "NS-11AB",
+            "es": "NS-11AB",
+            "fr": "NS-11AB",
+            "it": "NS-11AB"
         },
         "description": {
             "de": "50 Feinde get\u00f6tet",
@@ -46343,6 +46893,30 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
+        "directive_id": "2275",
+        "directive_tree_id": "8",
+        "directive_tier_id": "2",
+        "objective_set_id": "6276",
+        "name": {
+            "de": "NS-15MG",
+            "en": "NS-15MG",
+            "es": "NS-15MG",
+            "fr": "NS-15MG",
+            "it": "NS-15MG"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "1294",
         "directive_tree_id": "37",
         "directive_tier_id": "3",
@@ -47669,6 +48243,30 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
+        "directive_id": "3622",
+        "directive_tree_id": "75",
+        "directive_tier_id": "2",
+        "objective_set_id": "6276",
+        "name": {
+            "de": "NS-15MG",
+            "en": "NS-15MG",
+            "es": "NS-15MG",
+            "fr": "NS-15MG",
+            "it": "NS-15MG"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "982",
         "directive_tree_id": "23",
         "directive_tier_id": "3",
@@ -48005,31 +48603,6 @@
         "image_set_id": "1566",
         "image_id": "3075",
         "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-        "directive_id": "4263",
-        "directive_tree_id": "47",
-        "directive_tier_id": "2",
-        "objective_set_id": "8256",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "LAV-AG",
-            "en": "LAV-AG",
-            "es": "LAV-AG",
-            "fr": "LAV-AG",
-            "it": "LAV-AG"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "1534",
@@ -49668,6 +50241,32 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "781",
+        "directive_tree_id": "47",
+        "directive_tier_id": "3",
+        "objective_set_id": "4782",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "T2 Striker",
+            "en": "T2 Striker",
+            "es": "T2 Striker",
+            "fr": "Percuteur T2",
+            "it": "T2 Striker",
+            "tr": "T2 Vurucu"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
     },
     {
         "directive_id": "1479",
@@ -51712,32 +52311,6 @@
         "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-        "directive_id": "781",
-        "directive_tree_id": "47",
-        "directive_tier_id": "3",
-        "objective_set_id": "4782",
-        "qualify_requirement_id": "3311",
-        "name": {
-            "de": "T2 Striker",
-            "en": "T2 Striker",
-            "es": "T2 Striker",
-            "fr": "Percuteur T2",
-            "it": "T2 Striker",
-            "tr": "T2 Vurucu"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
         "directive_id": "760",
         "directive_tree_id": "47",
         "directive_tier_id": "1",
@@ -52402,6 +52975,32 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "932",
+        "directive_tree_id": "17",
+        "directive_tier_id": "1",
+        "objective_set_id": "4933",
+        "qualify_requirement_id": "3312",
+        "name": {
+            "de": "Spiker",
+            "en": "Spiker",
+            "es": "Spiker",
+            "fr": "Perceur",
+            "it": "Spiker",
+            "tr": "Spiker"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
         "directive_id": "707",
         "directive_tree_id": "17",
         "directive_tier_id": "2",
@@ -52712,31 +53311,6 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "3459",
-        "directive_tree_id": "72",
-        "directive_tier_id": "3",
-        "objective_set_id": "4653",
-        "name": {
-            "de": "NS-7 PDW",
-            "en": "NS-7 PDW",
-            "es": "NS-7 PDW",
-            "fr": "NS-7 PDW",
-            "it": "NS-7 PDW",
-            "tr": "NS-7 PDW"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
     },
     {
         "directive_id": "705",
@@ -53127,58 +53701,6 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "932",
-        "directive_tree_id": "17",
-        "directive_tier_id": "1",
-        "objective_set_id": "4933",
-        "qualify_requirement_id": "3312",
-        "name": {
-            "de": "Spiker",
-            "en": "Spiker",
-            "es": "Spiker",
-            "fr": "Perceur",
-            "it": "Spiker",
-            "tr": "Spiker"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "933",
-        "directive_tree_id": "17",
-        "directive_tier_id": "2",
-        "objective_set_id": "4934",
-        "qualify_requirement_id": "3312",
-        "name": {
-            "de": "Spiker",
-            "en": "Spiker",
-            "es": "Spiker",
-            "fr": "Perceur",
-            "it": "Spiker",
-            "tr": "Spiker"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "934",
@@ -55456,6 +55978,84 @@
         "image_path": "/files/ps2/images/static/8446.png"
     },
     {
+        "directive_id": "1131",
+        "directive_tree_id": "35",
+        "directive_tier_id": "4",
+        "objective_set_id": "5132",
+        "qualify_requirement_id": "3310",
+        "name": {
+            "de": "M12 Kobalt-H",
+            "en": "M12 Kobalt-H",
+            "es": "M12 Kobalt-H",
+            "fr": "M12 Kobalt-H",
+            "it": "M12 Kobalt-H",
+            "tr": "M12 Kobalt-H"
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "1132",
+        "directive_tree_id": "35",
+        "directive_tier_id": "1",
+        "objective_set_id": "5133",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "M12 Kobalt-H",
+            "en": "M12 Kobalt-H",
+            "es": "M12 Kobalt-H",
+            "fr": "M12 Kobalt-H",
+            "it": "M12 Kobalt-H",
+            "tr": "M12 Kobalt-H"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "1133",
+        "directive_tree_id": "35",
+        "directive_tier_id": "2",
+        "objective_set_id": "5134",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "M12 Kobalt-H",
+            "en": "M12 Kobalt-H",
+            "es": "M12 Kobalt-H",
+            "fr": "M12 Kobalt-H",
+            "it": "M12 Kobalt-H",
+            "tr": "M12 Kobalt-H"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "1679",
         "directive_tree_id": "26",
         "directive_tier_id": "3",
@@ -55554,32 +56154,6 @@
         "image_set_id": "7996",
         "image_id": "8440",
         "image_path": "/files/ps2/images/static/8440.png"
-    },
-    {
-        "directive_id": "1117",
-        "directive_tree_id": "35",
-        "directive_tier_id": "2",
-        "objective_set_id": "5118",
-        "qualify_requirement_id": "3311",
-        "name": {
-            "de": "M20 Basilisk-H",
-            "en": "M20 Basilisk-H",
-            "es": "M20 Basilisk-H",
-            "fr": "M20 Basilisk-H",
-            "it": "M20 Basilisk-H",
-            "tr": "M20 Basilisk-H"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "142",
@@ -55812,84 +56386,6 @@
         "image_set_id": "1566",
         "image_id": "3075",
         "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-        "directive_id": "1131",
-        "directive_tree_id": "35",
-        "directive_tier_id": "4",
-        "objective_set_id": "5132",
-        "qualify_requirement_id": "3310",
-        "name": {
-            "de": "M12 Kobalt-H",
-            "en": "M12 Kobalt-H",
-            "es": "M12 Kobalt-H",
-            "fr": "M12 Kobalt-H",
-            "it": "M12 Kobalt-H",
-            "tr": "M12 Kobalt-H"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "1132",
-        "directive_tree_id": "35",
-        "directive_tier_id": "1",
-        "objective_set_id": "5133",
-        "qualify_requirement_id": "3311",
-        "name": {
-            "de": "M12 Kobalt-H",
-            "en": "M12 Kobalt-H",
-            "es": "M12 Kobalt-H",
-            "fr": "M12 Kobalt-H",
-            "it": "M12 Kobalt-H",
-            "tr": "M12 Kobalt-H"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "1133",
-        "directive_tree_id": "35",
-        "directive_tier_id": "2",
-        "objective_set_id": "5134",
-        "qualify_requirement_id": "3311",
-        "name": {
-            "de": "M12 Kobalt-H",
-            "en": "M12 Kobalt-H",
-            "es": "M12 Kobalt-H",
-            "fr": "M12 Kobalt-H",
-            "it": "M12 Kobalt-H",
-            "tr": "M12 Kobalt-H"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "1134",
@@ -56176,6 +56672,32 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "1117",
+        "directive_tree_id": "35",
+        "directive_tier_id": "2",
+        "objective_set_id": "5118",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "M20 Basilisk-H",
+            "en": "M20 Basilisk-H",
+            "es": "M20 Basilisk-H",
+            "fr": "M20 Basilisk-H",
+            "it": "M20 Basilisk-H",
+            "tr": "M20 Basilisk-H"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "1118",
@@ -58206,31 +58728,6 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-        "directive_id": "3458",
-        "directive_tree_id": "72",
-        "directive_tier_id": "2",
-        "objective_set_id": "4641",
-        "name": {
-            "de": "NS-7 PDW",
-            "en": "NS-7 PDW",
-            "es": "NS-7 PDW",
-            "fr": "NS-7 PDW",
-            "it": "NS-7 PDW",
-            "tr": "NS-7 PDW"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
         "directive_id": "1212",
         "directive_tree_id": "35",
         "directive_tier_id": "1",
@@ -59574,31 +60071,6 @@
         "image_set_id": "1565",
         "image_id": "3079",
         "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "652",
-        "directive_tree_id": "15",
-        "directive_tier_id": "3",
-        "objective_set_id": "4653",
-        "name": {
-            "de": "NS-7 PDW",
-            "en": "NS-7 PDW",
-            "es": "NS-7 PDW",
-            "fr": "NS-7 PDW",
-            "it": "NS-7 PDW",
-            "tr": "NS-7 PDW"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
     },
     {
         "directive_id": "3474",
@@ -61525,6 +61997,81 @@
         "image_path": "/files/ps2/images/static/3079.png"
     },
     {
+        "directive_id": "3458",
+        "directive_tree_id": "72",
+        "directive_tier_id": "2",
+        "objective_set_id": "4641",
+        "name": {
+            "de": "NS-7 PDW",
+            "en": "NS-7 PDW",
+            "es": "NS-7 PDW",
+            "fr": "NS-7 PDW",
+            "it": "NS-7 PDW",
+            "tr": "NS-7 PDW"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+        "directive_id": "652",
+        "directive_tree_id": "15",
+        "directive_tier_id": "3",
+        "objective_set_id": "4653",
+        "name": {
+            "de": "NS-7 PDW",
+            "en": "NS-7 PDW",
+            "es": "NS-7 PDW",
+            "fr": "NS-7 PDW",
+            "it": "NS-7 PDW",
+            "tr": "NS-7 PDW"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+        "directive_id": "3459",
+        "directive_tree_id": "72",
+        "directive_tier_id": "3",
+        "objective_set_id": "4653",
+        "name": {
+            "de": "NS-7 PDW",
+            "en": "NS-7 PDW",
+            "es": "NS-7 PDW",
+            "fr": "NS-7 PDW",
+            "it": "NS-7 PDW",
+            "tr": "NS-7 PDW"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
         "directive_id": "664",
         "directive_tree_id": "15",
         "directive_tier_id": "4",
@@ -62161,32 +62708,6 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-        "directive_id": "1464",
-        "directive_tree_id": "41",
-        "directive_tier_id": "1",
-        "objective_set_id": "5465",
-        "qualify_requirement_id": "3310",
-        "name": {
-            "de": "M20 Kestrel",
-            "en": "M20 Kestrel",
-            "es": "M20 Kestrel",
-            "fr": "Kestrel M20",
-            "it": "M20 Kestrel",
-            "tr": "Increases the maximum ammo capacity of the weapon by 18 missiles."
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
         "directive_id": "872",
         "directive_tree_id": "33",
         "directive_tier_id": "1",
@@ -62801,6 +63322,32 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "1464",
+        "directive_tree_id": "41",
+        "directive_tier_id": "1",
+        "objective_set_id": "5465",
+        "qualify_requirement_id": "3310",
+        "name": {
+            "de": "M20 Kestrel",
+            "en": "M20 Kestrel",
+            "es": "M20 Kestrel",
+            "fr": "Kestrel M20",
+            "it": "M20 Kestrel",
+            "tr": "Increases the maximum ammo capacity of the weapon by 18 missiles."
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
     },
     {
         "directive_id": "1465",
@@ -64089,31 +64636,6 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "4298",
-        "directive_tree_id": "6",
-        "directive_tier_id": "1",
-        "objective_set_id": "8426",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "SR-150",
-            "en": "SR-150",
-            "es": "SR-150",
-            "fr": "SR-150",
-            "it": "SR-150"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
     },
     {
         "directive_id": "1500",
@@ -66975,6 +67497,31 @@
         "image_path": "/files/ps2/images/static/3079.png"
     },
     {
+        "directive_id": "3552",
+        "directive_tree_id": "72",
+        "directive_tier_id": "4",
+        "objective_set_id": "4627",
+        "name": {
+            "de": "NS Baron G5B",
+            "en": "NS Baron G5B",
+            "es": "NS Baron G5B",
+            "fr": "Baron G5B NS",
+            "it": "NS Baron G5B",
+            "tr": "NS Baron G5B"
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
         "directive_id": "961",
         "directive_tree_id": "23",
         "directive_tier_id": "2",
@@ -67365,31 +67912,6 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-        "directive_id": "4299",
-        "directive_tree_id": "6",
-        "directive_tier_id": "2",
-        "objective_set_id": "8427",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "SR-150",
-            "en": "SR-150",
-            "es": "SR-150",
-            "fr": "SR-150",
-            "it": "SR-150"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
         "directive_id": "172",
         "directive_tree_id": "4",
         "directive_tier_id": "1",
@@ -67646,31 +68168,6 @@
     {
         "directive_id": "626",
         "directive_tree_id": "13",
-        "directive_tier_id": "4",
-        "objective_set_id": "4627",
-        "name": {
-            "de": "NS Baron G5B",
-            "en": "NS Baron G5B",
-            "es": "NS Baron G5B",
-            "fr": "Baron G5B NS",
-            "it": "NS Baron G5B",
-            "tr": "NS Baron G5B"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "3552",
-        "directive_tree_id": "72",
         "directive_tier_id": "4",
         "objective_set_id": "4627",
         "name": {
@@ -69770,30 +70267,6 @@
         "image_path": "/files/ps2/images/static/9985.png"
     },
     {
-        "directive_id": "2148",
-        "directive_tree_id": "33",
-        "directive_tier_id": "4",
-        "objective_set_id": "6149",
-        "name": {
-            "de": "NS AutoBlade",
-            "en": "NS AutoBlade",
-            "es": "NS AutoBlade",
-            "fr": "Lame r\u00e9tractable NS",
-            "it": "NS AutoBlade"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
         "directive_id": "1774",
         "directive_tree_id": "25",
         "directive_tier_id": "2",
@@ -69942,6 +70415,30 @@
         "image_set_id": "13452",
         "image_id": "9985",
         "image_path": "/files/ps2/images/static/9985.png"
+    },
+    {
+        "directive_id": "2155",
+        "directive_tree_id": "33",
+        "directive_tier_id": "3",
+        "objective_set_id": "6156",
+        "name": {
+            "de": "Der Schlitzer",
+            "en": "The Slasher",
+            "es": "Slasher",
+            "fr": "L'\u00c9ventreur",
+            "it": "Coltello Slasher"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
     },
     {
         "directive_id": "1591",
@@ -70096,30 +70593,6 @@
         "image_path": "/files/ps2/images/static/9820.png"
     },
     {
-        "directive_id": "2145",
-        "directive_tree_id": "33",
-        "directive_tier_id": "1",
-        "objective_set_id": "6146",
-        "name": {
-            "de": "NS AutoBlade",
-            "en": "NS AutoBlade",
-            "es": "NS AutoBlade",
-            "fr": "Lame r\u00e9tractable NS",
-            "it": "NS AutoBlade"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
         "directive_id": "1605",
         "directive_tree_id": "40",
         "directive_tier_id": "2",
@@ -70248,6 +70721,30 @@
         "image_set_id": "13451",
         "image_id": "9820",
         "image_path": "/files/ps2/images/static/9820.png"
+    },
+    {
+        "directive_id": "2156",
+        "directive_tree_id": "33",
+        "directive_tier_id": "4",
+        "objective_set_id": "6157",
+        "name": {
+            "de": "Der Schlitzer",
+            "en": "The Slasher",
+            "es": "Slasher",
+            "fr": "L'\u00c9ventreur",
+            "it": "Coltello Slasher"
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
     },
     {
         "directive_id": "1600",
@@ -70406,30 +70903,6 @@
         "image_path": "/files/ps2/images/static/9820.png"
     },
     {
-        "directive_id": "2147",
-        "directive_tree_id": "33",
-        "directive_tier_id": "3",
-        "objective_set_id": "6148",
-        "name": {
-            "de": "NS AutoBlade",
-            "en": "NS AutoBlade",
-            "es": "NS AutoBlade",
-            "fr": "Lame r\u00e9tractable NS",
-            "it": "NS AutoBlade"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
         "directive_id": "4508",
         "directive_tree_id": "96",
         "directive_tier_id": "3",
@@ -70556,6 +71029,30 @@
         "image_set_id": "13493",
         "image_id": "9991",
         "image_path": "/files/ps2/images/static/9991.png"
+    },
+    {
+        "directive_id": "2185",
+        "directive_tree_id": "33",
+        "directive_tier_id": "1",
+        "objective_set_id": "6186",
+        "name": {
+            "de": "NS Bonbon-Kanone 3000",
+            "en": "NS CandyCannon 3000",
+            "es": "NS CandyCannon 3000",
+            "fr": "Canon \u00e0 bonbons 3000 NS",
+            "it": "NS CandyCannon 3000"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
     },
     {
         "directive_id": "1742",
@@ -71176,29 +71673,6 @@
         "image_path": "/files/ps2/images/static/80254.png"
     },
     {
-        "directive_id": "2209",
-        "directive_tree_id": "49",
-        "directive_tier_id": "1",
-        "objective_set_id": "6210",
-        "name": {
-            "de": "Platoon-F\u00fchrung",
-            "en": "Platoon Leadership",
-            "es": "Liderazgo de pelot\u00f3n",
-            "fr": "Commandement de section",
-            "it": "Leadership del plotone"
-        },
-        "description": {
-            "de": "Erhalte diese Auszeichnung, indem du ein Platoon-F\u00fchrer bist, w\u00e4hrend deine anderen Trupp-F\u00fchrer Truppf\u00fchrer-Auszeichnungen verdienen.",
-            "en": "Earn this ribbon by being a Platoon Leader when your other squad leaders earn Squad Leadership ribbons. ",
-            "es": "Gana este gal\u00f3n por ser el l\u00edder de un pelot\u00f3n cuando tus l\u00edderes de escuadr\u00f3n ganan galones de liderazgo de escuadr\u00f3n.",
-            "fr": "Gagnez cette d\u00e9coration en \u00e9tant un chef de section quand vos autres chefs d'escouade gagnent des d\u00e9corations de commandement d'escouade.",
-            "it": "Se sei il capo di un plotone mentre gli altri capi squadra ottengono coccarde per la leadership di squadra, guadagnerai questa coccarda."
-        },
-        "image_set_id": "14460",
-        "image_id": "80260",
-        "image_path": "/files/ps2/images/static/80260.png"
-    },
-    {
         "directive_id": "2204",
         "directive_tree_id": "49",
         "directive_tier_id": "4",
@@ -71266,6 +71740,30 @@
         "image_set_id": "14457",
         "image_id": "80251",
         "image_path": "/files/ps2/images/static/80251.png"
+    },
+    {
+        "directive_id": "2186",
+        "directive_tree_id": "33",
+        "directive_tier_id": "2",
+        "objective_set_id": "6187",
+        "name": {
+            "de": "NS Bonbon-Kanone 3000",
+            "en": "NS CandyCannon 3000",
+            "es": "NS CandyCannon 3000",
+            "fr": "Canon \u00e0 bonbons 3000 NS",
+            "it": "NS CandyCannon 3000"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "2201",
@@ -71429,6 +71927,102 @@
         "image_path": "/files/ps2/images/static/80260.png"
     },
     {
+        "directive_id": "2187",
+        "directive_tree_id": "33",
+        "directive_tier_id": "3",
+        "objective_set_id": "6188",
+        "name": {
+            "de": "NS Bonbon-Kanone 3000",
+            "en": "NS CandyCannon 3000",
+            "es": "NS CandyCannon 3000",
+            "fr": "Canon \u00e0 bonbons 3000 NS",
+            "it": "NS CandyCannon 3000"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+        "directive_id": "2188",
+        "directive_tree_id": "33",
+        "directive_tier_id": "4",
+        "objective_set_id": "6189",
+        "name": {
+            "de": "NS Bonbon-Kanone 3000",
+            "en": "NS CandyCannon 3000",
+            "es": "NS CandyCannon 3000",
+            "fr": "Canon \u00e0 bonbons 3000 NS",
+            "it": "NS CandyCannon 3000"
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "2233",
+        "directive_tree_id": "10",
+        "directive_tier_id": "1",
+        "objective_set_id": "6234",
+        "name": {
+            "de": "NS-11AB",
+            "en": "NS-11AB",
+            "es": "NS-11AB",
+            "fr": "NS-11AB",
+            "it": "NS-11AB"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "3613",
+        "directive_tree_id": "75",
+        "directive_tier_id": "1",
+        "objective_set_id": "6234",
+        "name": {
+            "de": "NS-11AB",
+            "en": "NS-11AB",
+            "es": "NS-11AB",
+            "fr": "NS-11AB",
+            "it": "NS-11AB"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
         "directive_id": "2214",
         "directive_tree_id": "49",
         "directive_tier_id": "2",
@@ -71544,6 +72138,101 @@
         "image_path": "/files/ps2/images/static/80260.png"
     },
     {
+        "directive_id": "2209",
+        "directive_tree_id": "49",
+        "directive_tier_id": "1",
+        "objective_set_id": "6210",
+        "name": {
+            "de": "Platoon-F\u00fchrung",
+            "en": "Platoon Leadership",
+            "es": "Liderazgo de pelot\u00f3n",
+            "fr": "Commandement de section",
+            "it": "Leadership del plotone"
+        },
+        "description": {
+            "de": "Erhalte diese Auszeichnung, indem du ein Platoon-F\u00fchrer bist, w\u00e4hrend deine anderen Trupp-F\u00fchrer Truppf\u00fchrer-Auszeichnungen verdienen.",
+            "en": "Earn this ribbon by being a Platoon Leader when your other squad leaders earn Squad Leadership ribbons. ",
+            "es": "Gana este gal\u00f3n por ser el l\u00edder de un pelot\u00f3n cuando tus l\u00edderes de escuadr\u00f3n ganan galones de liderazgo de escuadr\u00f3n.",
+            "fr": "Gagnez cette d\u00e9coration en \u00e9tant un chef de section quand vos autres chefs d'escouade gagnent des d\u00e9corations de commandement d'escouade.",
+            "it": "Se sei il capo di un plotone mentre gli altri capi squadra ottengono coccarde per la leadership di squadra, guadagnerai questa coccarda."
+        },
+        "image_set_id": "14460",
+        "image_id": "80260",
+        "image_path": "/files/ps2/images/static/80260.png"
+    },
+    {
+        "directive_id": "2148",
+        "directive_tree_id": "33",
+        "directive_tier_id": "4",
+        "objective_set_id": "6149",
+        "name": {
+            "de": "NS AutoBlade",
+            "en": "NS AutoBlade",
+            "es": "NS AutoBlade",
+            "fr": "Lame r\u00e9tractable NS",
+            "it": "NS AutoBlade"
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "2145",
+        "directive_tree_id": "33",
+        "directive_tier_id": "1",
+        "objective_set_id": "6146",
+        "name": {
+            "de": "NS AutoBlade",
+            "en": "NS AutoBlade",
+            "es": "NS AutoBlade",
+            "fr": "Lame r\u00e9tractable NS",
+            "it": "NS AutoBlade"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "2147",
+        "directive_tree_id": "33",
+        "directive_tier_id": "3",
+        "objective_set_id": "6148",
+        "name": {
+            "de": "NS AutoBlade",
+            "en": "NS AutoBlade",
+            "es": "NS AutoBlade",
+            "fr": "Lame r\u00e9tractable NS",
+            "it": "NS AutoBlade"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
         "directive_id": "2146",
         "directive_tree_id": "33",
         "directive_tier_id": "2",
@@ -71602,246 +72291,6 @@
             "es": "Slasher",
             "fr": "L'\u00c9ventreur",
             "it": "Coltello Slasher"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "2155",
-        "directive_tree_id": "33",
-        "directive_tier_id": "3",
-        "objective_set_id": "6156",
-        "name": {
-            "de": "Der Schlitzer",
-            "en": "The Slasher",
-            "es": "Slasher",
-            "fr": "L'\u00c9ventreur",
-            "it": "Coltello Slasher"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-        "directive_id": "2156",
-        "directive_tree_id": "33",
-        "directive_tier_id": "4",
-        "objective_set_id": "6157",
-        "name": {
-            "de": "Der Schlitzer",
-            "en": "The Slasher",
-            "es": "Slasher",
-            "fr": "L'\u00c9ventreur",
-            "it": "Coltello Slasher"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "2185",
-        "directive_tree_id": "33",
-        "directive_tier_id": "1",
-        "objective_set_id": "6186",
-        "name": {
-            "de": "NS Bonbon-Kanone 3000",
-            "en": "NS CandyCannon 3000",
-            "es": "NS CandyCannon 3000",
-            "fr": "Canon \u00e0 bonbons 3000 NS",
-            "it": "NS CandyCannon 3000"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "2186",
-        "directive_tree_id": "33",
-        "directive_tier_id": "2",
-        "objective_set_id": "6187",
-        "name": {
-            "de": "NS Bonbon-Kanone 3000",
-            "en": "NS CandyCannon 3000",
-            "es": "NS CandyCannon 3000",
-            "fr": "Canon \u00e0 bonbons 3000 NS",
-            "it": "NS CandyCannon 3000"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "2187",
-        "directive_tree_id": "33",
-        "directive_tier_id": "3",
-        "objective_set_id": "6188",
-        "name": {
-            "de": "NS Bonbon-Kanone 3000",
-            "en": "NS CandyCannon 3000",
-            "es": "NS CandyCannon 3000",
-            "fr": "Canon \u00e0 bonbons 3000 NS",
-            "it": "NS CandyCannon 3000"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
-        "directive_id": "2188",
-        "directive_tree_id": "33",
-        "directive_tier_id": "4",
-        "objective_set_id": "6189",
-        "name": {
-            "de": "NS Bonbon-Kanone 3000",
-            "en": "NS CandyCannon 3000",
-            "es": "NS CandyCannon 3000",
-            "fr": "Canon \u00e0 bonbons 3000 NS",
-            "it": "NS CandyCannon 3000"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "2233",
-        "directive_tree_id": "10",
-        "directive_tier_id": "1",
-        "objective_set_id": "6234",
-        "name": {
-            "de": "NS-11AB",
-            "en": "NS-11AB",
-            "es": "NS-11AB",
-            "fr": "NS-11AB",
-            "it": "NS-11AB"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "3613",
-        "directive_tree_id": "75",
-        "directive_tier_id": "1",
-        "objective_set_id": "6234",
-        "name": {
-            "de": "NS-11AB",
-            "en": "NS-11AB",
-            "es": "NS-11AB",
-            "fr": "NS-11AB",
-            "it": "NS-11AB"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "2234",
-        "directive_tree_id": "10",
-        "directive_tier_id": "2",
-        "objective_set_id": "6235",
-        "name": {
-            "de": "NS-11AB",
-            "en": "NS-11AB",
-            "es": "NS-11AB",
-            "fr": "NS-11AB",
-            "it": "NS-11AB"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "3614",
-        "directive_tree_id": "75",
-        "directive_tier_id": "2",
-        "objective_set_id": "6235",
-        "name": {
-            "de": "NS-11AB",
-            "en": "NS-11AB",
-            "es": "NS-11AB",
-            "fr": "NS-11AB",
-            "it": "NS-11AB"
         },
         "description": {
             "de": "50 Feinde get\u00f6tet",
@@ -72576,54 +73025,6 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-        "directive_id": "2275",
-        "directive_tree_id": "8",
-        "directive_tier_id": "2",
-        "objective_set_id": "6276",
-        "name": {
-            "de": "NS-15MG",
-            "en": "NS-15MG",
-            "es": "NS-15MG",
-            "fr": "NS-15MG",
-            "it": "NS-15MG"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "3622",
-        "directive_tree_id": "75",
-        "directive_tier_id": "2",
-        "objective_set_id": "6276",
-        "name": {
-            "de": "NS-15MG",
-            "en": "NS-15MG",
-            "es": "NS-15MG",
-            "fr": "NS-15MG",
-            "it": "NS-15MG"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
         "directive_id": "2276",
         "directive_tree_id": "8",
         "directive_tier_id": "3",
@@ -72958,6 +73359,54 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "2291",
+        "directive_tree_id": "8",
+        "directive_tier_id": "2",
+        "objective_set_id": "6292",
+        "name": {
+            "de": "NS-15M2",
+            "en": "NS-15M2",
+            "es": "NS-15M2",
+            "fr": "NS-15M2",
+            "it": "NS-15M2"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+        "directive_id": "3446",
+        "directive_tree_id": "75",
+        "directive_tier_id": "2",
+        "objective_set_id": "6292",
+        "name": {
+            "de": "NS-15M2",
+            "en": "NS-15M2",
+            "es": "NS-15M2",
+            "fr": "NS-15M2",
+            "it": "NS-15M2"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "2292",
@@ -76166,31 +76615,6 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "4378",
-        "directive_tree_id": "97",
-        "directive_tier_id": "2",
-        "objective_set_id": "8514",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "CT2-XP",
-            "en": "CT2-XP",
-            "es": "CT2-XP",
-            "fr": "CT2-XP",
-            "it": "CT2-XP"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "3601",
@@ -82507,6 +82931,30 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
+        "directive_id": "4698",
+        "directive_tree_id": "106",
+        "directive_tier_id": "3",
+        "objective_set_id": "8872",
+        "name": {
+            "de": "NS-357 IA",
+            "en": "NS-357 IA",
+            "es": "NS-357 IA",
+            "fr": "NS-357 AI",
+            "it": "NS-357 IA"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
         "directive_id": "2896",
         "directive_tree_id": "62",
         "directive_tier_id": "1",
@@ -84087,31 +84535,6 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
-        "directive_id": "3076",
-        "directive_tree_id": "15",
-        "directive_tier_id": "2",
-        "objective_set_id": "7101",
-        "qualify_requirement_id": "3311",
-        "name": {
-            "de": "MG-S1 Jackal",
-            "en": "MG-S1 Jackal",
-            "es": "Chacal MG-S1",
-            "fr": "MG-S1 Chacal",
-            "it": "MG-S1 Jackal"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
         "directive_id": "3009",
         "directive_tree_id": "62",
         "directive_tier_id": "3",
@@ -84754,6 +85177,31 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "3076",
+        "directive_tree_id": "15",
+        "directive_tier_id": "2",
+        "objective_set_id": "7101",
+        "qualify_requirement_id": "3311",
+        "name": {
+            "de": "MG-S1 Jackal",
+            "en": "MG-S1 Jackal",
+            "es": "Chacal MG-S1",
+            "fr": "MG-S1 Chacal",
+            "it": "MG-S1 Jackal"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "3077",
         "directive_tree_id": "15",
         "directive_tier_id": "3",
@@ -84974,30 +85422,6 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "4698",
-        "directive_tree_id": "106",
-        "directive_tier_id": "3",
-        "objective_set_id": "8872",
-        "name": {
-            "de": "NS-357 IA",
-            "en": "NS-357 IA",
-            "es": "NS-357 IA",
-            "fr": "NS-357 AI",
-            "it": "NS-357 IA"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
     },
     {
         "directive_id": "3083",
@@ -88297,6 +88721,31 @@
         "image_path": "/files/ps2/images/static/3079.png"
     },
     {
+        "directive_id": "4274",
+        "directive_tree_id": "13",
+        "directive_tier_id": "1",
+        "objective_set_id": "8267",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "SG-100",
+            "en": "SG-100",
+            "es": "SG-100",
+            "fr": "SG-100",
+            "it": "SG-100"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
         "directive_id": "3323",
         "directive_tree_id": "23",
         "directive_tier_id": "3",
@@ -88971,6 +89420,31 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "4275",
+        "directive_tree_id": "13",
+        "directive_tier_id": "2",
+        "objective_set_id": "8268",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "SG-100",
+            "en": "SG-100",
+            "es": "SG-100",
+            "fr": "SG-100",
+            "it": "SG-100"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "3352",
@@ -94349,30 +94823,6 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-        "directive_id": "4000",
-        "directive_tree_id": "15",
-        "directive_tier_id": "2",
-        "objective_set_id": "7786",
-        "name": {
-            "de": "NS-66 Punisher",
-            "en": "NS-66 Punisher",
-            "es": "NS-66 Punisher",
-            "fr": "NS-66 Punisher",
-            "it": "NS-66 Punisher"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
         "directive_id": "3938",
         "directive_tree_id": "83",
         "directive_tier_id": "2",
@@ -94963,6 +95413,30 @@
     {
         "directive_id": "4004",
         "directive_tree_id": "72",
+        "directive_tier_id": "2",
+        "objective_set_id": "7786",
+        "name": {
+            "de": "NS-66 Punisher",
+            "en": "NS-66 Punisher",
+            "es": "NS-66 Punisher",
+            "fr": "NS-66 Punisher",
+            "it": "NS-66 Punisher"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+        "directive_id": "4000",
+        "directive_tree_id": "15",
         "directive_tier_id": "2",
         "objective_set_id": "7786",
         "name": {
@@ -96241,31 +96715,6 @@
         "image_path": "/files/ps2/images/static/3068.png"
     },
     {
-        "directive_id": "4204",
-        "directive_tree_id": "10",
-        "directive_tier_id": "3",
-        "objective_set_id": "8197",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "AR-100",
-            "en": "AR-100",
-            "es": "AR-100",
-            "fr": "AR-100",
-            "it": "AR-100"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
         "directive_id": "4118",
         "directive_tree_id": "92",
         "directive_tier_id": "1",
@@ -96866,6 +97315,31 @@
         "image_set_id": "1565",
         "image_id": "3079",
         "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+        "directive_id": "4204",
+        "directive_tree_id": "10",
+        "directive_tier_id": "3",
+        "objective_set_id": "8197",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "AR-100",
+            "en": "AR-100",
+            "es": "AR-100",
+            "fr": "AR-100",
+            "it": "AR-100"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
     },
     {
         "directive_id": "4205",
@@ -98318,6 +98792,31 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "4263",
+        "directive_tree_id": "47",
+        "directive_tier_id": "2",
+        "objective_set_id": "8256",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "LAV-AG",
+            "en": "LAV-AG",
+            "es": "LAV-AG",
+            "fr": "LAV-AG",
+            "it": "LAV-AG"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "4264",
         "directive_tree_id": "47",
         "directive_tier_id": "3",
@@ -98566,56 +99065,6 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "4274",
-        "directive_tree_id": "13",
-        "directive_tier_id": "1",
-        "objective_set_id": "8267",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "SG-100",
-            "en": "SG-100",
-            "es": "SG-100",
-            "fr": "SG-100",
-            "it": "SG-100"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
-        "directive_id": "4275",
-        "directive_tree_id": "13",
-        "directive_tier_id": "2",
-        "objective_set_id": "8268",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "SG-100",
-            "en": "SG-100",
-            "es": "SG-100",
-            "fr": "SG-100",
-            "it": "SG-100"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "4276",
@@ -99066,6 +99515,56 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "4298",
+        "directive_tree_id": "6",
+        "directive_tier_id": "1",
+        "objective_set_id": "8426",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "SR-150",
+            "en": "SR-150",
+            "es": "SR-150",
+            "fr": "SR-150",
+            "it": "SR-150"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "4299",
+        "directive_tree_id": "6",
+        "directive_tier_id": "2",
+        "objective_set_id": "8427",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "SR-150",
+            "en": "SR-150",
+            "es": "SR-150",
+            "fr": "SR-150",
+            "it": "SR-150"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "4300",
@@ -101121,6 +101620,31 @@
         "image_set_id": "1564",
         "image_id": "3072",
         "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
+        "directive_id": "4378",
+        "directive_tree_id": "97",
+        "directive_tier_id": "2",
+        "objective_set_id": "8514",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "CT2-XP",
+            "en": "CT2-XP",
+            "es": "CT2-XP",
+            "fr": "CT2-XP",
+            "it": "CT2-XP"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "4379",
@@ -103261,6 +103785,30 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "4680",
+        "directive_tree_id": "102",
+        "directive_tier_id": "1",
+        "objective_set_id": "8850",
+        "name": {
+            "de": "Shillelagh \"Wyrdholz\"",
+            "en": "Wyrdwood Shillelagh",
+            "es": "Shillelagh de Wyrdwood\n",
+            "fr": "Shillelagh \"Wyrdwood\"",
+            "it": "Randello Wyrdwood"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
+    },
+    {
         "directive_id": "4605",
         "directive_tree_id": "102",
         "directive_tier_id": "2",
@@ -103859,30 +104407,6 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "4680",
-        "directive_tree_id": "102",
-        "directive_tier_id": "1",
-        "objective_set_id": "8850",
-        "name": {
-            "de": "Shillelagh \"Wyrdholz\"",
-            "en": "Wyrdwood Shillelagh",
-            "es": "Shillelagh de Wyrdwood\n",
-            "fr": "Shillelagh \"Wyrdwood\"",
-            "it": "Randello Wyrdwood"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
     },
     {
         "directive_id": "4681",
@@ -105089,6 +105613,31 @@
         "image_path": "/files/ps2/images/static/95017.png"
     },
     {
+        "directive_id": "4803",
+        "directive_tree_id": "6",
+        "directive_tier_id": "3",
+        "objective_set_id": "8959",
+        "qualify_requirement_id": "4",
+        "name": {
+            "de": "VX4-3 Slicer",
+            "en": "VX4-3 Slicer",
+            "es": "VX4-3 Slicer",
+            "fr": "VX4-3 Slicer",
+            "it": "VX4-3 Slicer"
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
         "directive_id": "4944",
         "directive_tree_id": "113",
         "directive_tier_id": "2",
@@ -105689,31 +106238,6 @@
         "image_path": "/files/ps2/images/static/3079.png"
     },
     {
-        "directive_id": "4803",
-        "directive_tree_id": "6",
-        "directive_tier_id": "3",
-        "objective_set_id": "8959",
-        "qualify_requirement_id": "4",
-        "name": {
-            "de": "VX4-3 Slicer",
-            "en": "VX4-3 Slicer",
-            "es": "VX4-3 Slicer",
-            "fr": "VX4-3 Slicer",
-            "it": "VX4-3 Slicer"
-        },
-        "description": {
-            "de": "100 Feinde get\u00f6tet",
-            "en": "100 Enemies Killed",
-            "es": "100 enemigos muertos",
-            "fr": "100 ennemis tu\u00e9s",
-            "it": "100 nemici uccisi",
-            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1566",
-        "image_id": "3075",
-        "image_path": "/files/ps2/images/static/3075.png"
-    },
-    {
         "directive_id": "4804",
         "directive_tree_id": "6",
         "directive_tier_id": "4",
@@ -106103,31 +106627,6 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-        "directive_id": "5049",
-        "directive_tree_id": "36",
-        "directive_tier_id": "4",
-        "objective_set_id": "9212",
-        "qualify_requirement_id": "3310",
-        "name": {
-            "de": "JGX11",
-            "en": "JGX11",
-            "es": "JGX11",
-            "fr": "JGX11",
-            "it": "JGX11"
-        },
-        "description": {
-            "de": "1000 Feinde get\u00f6tet",
-            "en": "1000 Enemies Killed",
-            "es": "1000 enemigos muertos",
-            "fr": "1\u00a0000 ennemis tu\u00e9s",
-            "it": "1000 nemici uccisi",
-            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1567",
-        "image_id": "3068",
-        "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
         "directive_id": "4962",
         "directive_tree_id": "109",
         "directive_tier_id": "4",
@@ -106242,6 +106741,31 @@
         "image_set_id": "13518",
         "image_id": "77759",
         "image_path": "/files/ps2/images/static/77759.png"
+    },
+    {
+        "directive_id": "5058",
+        "directive_tree_id": "36",
+        "directive_tier_id": "1",
+        "objective_set_id": "9221",
+        "qualify_requirement_id": "45167",
+        "name": {
+            "de": "Larion LPPK",
+            "en": "Larion LPPC",
+            "es": "Larion LPPC",
+            "fr": "Larion CPPL",
+            "it": "Larion LPPC"
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
     },
     {
         "directive_id": "5207",
@@ -107257,6 +107781,31 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
+        "directive_id": "5049",
+        "directive_tree_id": "36",
+        "directive_tier_id": "4",
+        "objective_set_id": "9212",
+        "qualify_requirement_id": "3310",
+        "name": {
+            "de": "JGX11",
+            "en": "JGX11",
+            "es": "JGX11",
+            "fr": "JGX11",
+            "it": "JGX11"
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
         "directive_id": "5050",
         "directive_tree_id": "36",
         "directive_tier_id": "1",
@@ -107455,31 +108004,6 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
-    },
-    {
-        "directive_id": "5058",
-        "directive_tree_id": "36",
-        "directive_tier_id": "1",
-        "objective_set_id": "9221",
-        "qualify_requirement_id": "45167",
-        "name": {
-            "de": "Larion LPPK",
-            "en": "Larion LPPC",
-            "es": "Larion LPPC",
-            "fr": "Larion CPPL",
-            "it": "Larion LPPC"
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
     },
     {
         "directive_id": "5059",
@@ -108703,6 +109227,30 @@
         "image_set_id": "1567",
         "image_id": "3068",
         "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "5536",
+        "directive_tree_id": "127",
+        "directive_tier_id": "2",
+        "objective_set_id": "9637",
+        "name": {
+            "de": "Demn\u00e4chst Verf\u00fcgbar",
+            "en": "Coming Soon",
+            "es": "\u00a1Pr\u00f3ximamente!",
+            "fr": "\u00c0 venir",
+            "it": "Prossimamente!"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
     },
     {
         "directive_id": "5243",
@@ -110936,6 +111484,30 @@
         "image_path": "/files/ps2/images/static/3072.png"
     },
     {
+        "directive_id": "5532",
+        "directive_tree_id": "127",
+        "directive_tier_id": "2",
+        "objective_set_id": "9637",
+        "name": {
+            "de": "Demn\u00e4chst Verf\u00fcgbar",
+            "en": "Coming Soon",
+            "es": "\u00a1Pr\u00f3ximamente!",
+            "fr": "\u00c0 venir",
+            "it": "Prossimamente!"
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
         "directive_id": "5493",
         "directive_tree_id": "127",
         "directive_tier_id": "1",
@@ -111211,30 +111783,6 @@
         "image_path": "/files/ps2/images/static/3075.png"
     },
     {
-        "directive_id": "5575",
-        "directive_tree_id": "127",
-        "directive_tier_id": "1",
-        "objective_set_id": "9667",
-        "name": {
-            "de": "NS-D \"Doombringer\" Helios",
-            "en": "NS-D \"Doombringer\" Helios",
-            "es": "NS-D Helios \"Doombringer\"",
-            "fr": "NS-D \"Doombringer\" Helios",
-            "it": "NS-D Helios \"Doombringer\""
-        },
-        "description": {
-            "de": "10 Feinde get\u00f6tet",
-            "en": "10 Enemies Killed",
-            "es": "10 enemigos muertos",
-            "fr": "10 ennemis tu\u00e9s",
-            "it": "10 nemici uccisi",
-            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1564",
-        "image_id": "3072",
-        "image_path": "/files/ps2/images/static/3072.png"
-    },
-    {
         "directive_id": "5499",
         "directive_tree_id": "26",
         "directive_tier_id": "3",
@@ -111431,54 +111979,6 @@
     },
     {
         "directive_id": "5540",
-        "directive_tree_id": "127",
-        "directive_tier_id": "2",
-        "objective_set_id": "9637",
-        "name": {
-            "de": "Demn\u00e4chst Verf\u00fcgbar",
-            "en": "Coming Soon",
-            "es": "\u00a1Pr\u00f3ximamente!",
-            "fr": "\u00c0 venir",
-            "it": "Prossimamente!"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "5536",
-        "directive_tree_id": "127",
-        "directive_tier_id": "2",
-        "objective_set_id": "9637",
-        "name": {
-            "de": "Demn\u00e4chst Verf\u00fcgbar",
-            "en": "Coming Soon",
-            "es": "\u00a1Pr\u00f3ximamente!",
-            "fr": "\u00c0 venir",
-            "it": "Prossimamente!"
-        },
-        "description": {
-            "de": "50 Feinde get\u00f6tet",
-            "en": "50 Enemies Killed",
-            "es": "50 enemigos muertos",
-            "fr": "50 ennemis tu\u00e9s",
-            "it": "50 nemici uccisi",
-            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
-        },
-        "image_set_id": "1565",
-        "image_id": "3079",
-        "image_path": "/files/ps2/images/static/3079.png"
-    },
-    {
-        "directive_id": "5532",
         "directive_tree_id": "127",
         "directive_tier_id": "2",
         "objective_set_id": "9637",
@@ -111836,6 +112336,30 @@
         "image_set_id": "1566",
         "image_id": "3075",
         "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+        "directive_id": "5575",
+        "directive_tree_id": "127",
+        "directive_tier_id": "1",
+        "objective_set_id": "9667",
+        "name": {
+            "de": "NS-D \"Doombringer\" Helios",
+            "en": "NS-D \"Doombringer\" Helios",
+            "es": "NS-D Helios \"Doombringer\"",
+            "fr": "NS-D \"Doombringer\" Helios",
+            "it": "NS-D Helios \"Doombringer\""
+        },
+        "description": {
+            "de": "10 Feinde get\u00f6tet",
+            "en": "10 Enemies Killed",
+            "es": "10 enemigos muertos",
+            "fr": "10 ennemis tu\u00e9s",
+            "it": "10 nemici uccisi",
+            "tr": "10 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1564",
+        "image_id": "3072",
+        "image_path": "/files/ps2/images/static/3072.png"
     },
     {
         "directive_id": "5574",
@@ -112712,6 +113236,78 @@
             "es": "NS-R3 Swarm \"Revientamonta\u00f1as\"",
             "fr": "NS-R3 \"Mountain Buster\" Swarm",
             "it": "NS-R3 Swarm \"Mountain Buster\""
+        },
+        "description": {
+            "de": "1000 Feinde get\u00f6tet",
+            "en": "1000 Enemies Killed",
+            "es": "1000 enemigos muertos",
+            "fr": "1\u00a0000 ennemis tu\u00e9s",
+            "it": "1000 nemici uccisi",
+            "tr": "1000 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1567",
+        "image_id": "3068",
+        "image_path": "/files/ps2/images/static/3068.png"
+    },
+    {
+        "directive_id": "5694",
+        "directive_tree_id": "127",
+        "directive_tier_id": "2",
+        "objective_set_id": "9792",
+        "name": {
+            "de": "NS-66 \"Cold Fusion\" Punisher",
+            "en": "NS-66 \"Cold Fusion\" Punisher",
+            "es": "NS-66 Punisher \"Fusi\u00f3n Fr\u00eda\" ",
+            "fr": "NS-66 \"Cold Fusion\" Punisher",
+            "it": "NS-66 Punisher \"Cold Fusion\""
+        },
+        "description": {
+            "de": "50 Feinde get\u00f6tet",
+            "en": "50 Enemies Killed",
+            "es": "50 enemigos muertos",
+            "fr": "50 ennemis tu\u00e9s",
+            "it": "50 nemici uccisi",
+            "tr": "50 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1565",
+        "image_id": "3079",
+        "image_path": "/files/ps2/images/static/3079.png"
+    },
+    {
+        "directive_id": "5693",
+        "directive_tree_id": "127",
+        "directive_tier_id": "3",
+        "objective_set_id": "9791",
+        "name": {
+            "de": "NS-66 \"Cold Fusion\" Punisher",
+            "en": "NS-66 \"Cold Fusion\" Punisher",
+            "es": "NS-66 Punisher \"Fusi\u00f3n Fr\u00eda\" ",
+            "fr": "NS-66 \"Cold Fusion\" Punisher",
+            "it": "NS-66 Punisher \"Cold Fusion\""
+        },
+        "description": {
+            "de": "100 Feinde get\u00f6tet",
+            "en": "100 Enemies Killed",
+            "es": "100 enemigos muertos",
+            "fr": "100 ennemis tu\u00e9s",
+            "it": "100 nemici uccisi",
+            "tr": "100 D\u00fc\u015fman \u00d6ld\u00fcr\u00fcld\u00fc"
+        },
+        "image_set_id": "1566",
+        "image_id": "3075",
+        "image_path": "/files/ps2/images/static/3075.png"
+    },
+    {
+        "directive_id": "5692",
+        "directive_tree_id": "127",
+        "directive_tier_id": "4",
+        "objective_set_id": "9790",
+        "name": {
+            "de": "NS-66 \"Cold Fusion\" Punisher",
+            "en": "NS-66 \"Cold Fusion\" Punisher",
+            "es": "NS-66 Punisher \"Fusi\u00f3n Fr\u00eda\" ",
+            "fr": "NS-66 \"Cold Fusion\" Punisher",
+            "it": "NS-66 Punisher \"Cold Fusion\""
         },
         "description": {
             "de": "1000 Feinde get\u00f6tet",

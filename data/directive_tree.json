@@ -1454,5 +1454,23 @@
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
+    },
+    {
+        "directive_tree_id": "131",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Auraximas 2023",
+            "en": "Auraximas 2023",
+            "es": "Auraxidad 2023",
+            "fr": "Auraximas 2023",
+            "it": "Auraximas 2023"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 1. Januar",
+            "en": "Available through January 1",
+            "es": "Disponible hasta el 1 de enero",
+            "fr": "Disponible jusqu'au 1 janvier",
+            "it": "Disponibile fino al 1\u00b0 gennaio"
+        }
     }
 ]

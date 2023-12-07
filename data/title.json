@@ -3332,5 +3332,15 @@
             "fr": "\u00c9missaire de Nascent",
             "it": "Portavoce Nascent"
         }
+    },
+    {
+        "title_id": "452",
+        "name": {
+            "de": "Eisdrache",
+            "en": "Ice Dragon",
+            "es": "Drag\u00f3n de hielo",
+            "fr": "Dragon de glace",
+            "it": "Drago di ghiaccio"
+        }
     }
 ]
