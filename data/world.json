@@ -1,5 +1,29 @@
 [
     {
+        "world_id": "17",
+        "state": "online",
+        "name": {
+            "en": "Emerald",
+            "de": "Smaragd",
+            "es": "Esmeralda",
+            "fr": "Emerald",
+            "it": "Smeraldo",
+            "tr": "Emerald"
+        }
+    },
+    {
+        "world_id": "19",
+        "state": "online",
+        "name": {
+            "en": "Jaeger",
+            "de": "Jaeger",
+            "es": "Jaeger",
+            "fr": "Jaeger",
+            "it": "Jaeger",
+            "tr": "Jaeger"
+        }
+    },
+    {
         "world_id": "40",
         "state": "online",
         "name": {
@@ -36,18 +60,6 @@
         }
     },
     {
-        "world_id": "19",
-        "state": "online",
-        "name": {
-            "en": "Jaeger",
-            "de": "Jaeger",
-            "es": "Jaeger",
-            "fr": "Jaeger",
-            "it": "Jaeger",
-            "tr": "Jaeger"
-        }
-    },
-    {
         "world_id": "10",
         "state": "online",
         "name": {
@@ -69,18 +81,6 @@
             "fr": "Cobalt",
             "it": "Cobalt",
             "tr": "Cobalt"
-        }
-    },
-    {
-        "world_id": "17",
-        "state": "online",
-        "name": {
-            "en": "Emerald",
-            "de": "Smaragd",
-            "es": "Esmeralda",
-            "fr": "Emerald",
-            "it": "Smeraldo",
-            "tr": "Emerald"
         }
     },
     {
