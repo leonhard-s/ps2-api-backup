@@ -3342,5 +3342,125 @@
             "fr": "Dragon de glace",
             "it": "Drago di ghiaccio"
         }
+    },
+    {
+        "title_id": "453",
+        "name": {
+            "de": "Monddrache",
+            "en": "Lunar Dragon",
+            "es": "Drag\u00f3n lunar",
+            "fr": "Dragon lunaire",
+            "it": "Drago lunare"
+        }
+    },
+    {
+        "title_id": "454",
+        "name": {
+            "de": "Mondhase",
+            "en": "Lunar Rabbit",
+            "es": "Conejo lunar",
+            "fr": "Lapin lunaire",
+            "it": "Coniglio lunare"
+        }
+    },
+    {
+        "title_id": "455",
+        "name": {
+            "de": "Mondtiger",
+            "en": "Lunar Tiger",
+            "es": "Tigre lunar",
+            "fr": "Tigre lunaire",
+            "it": "Tigre lunare"
+        }
+    },
+    {
+        "title_id": "456",
+        "name": {
+            "de": "Mondb\u00fcffel",
+            "en": "Lunar Ox",
+            "es": "Buey lunar",
+            "fr": "Buffle lunaire",
+            "it": "Bue lunare"
+        }
+    },
+    {
+        "title_id": "457",
+        "name": {
+            "de": "Mondratte",
+            "en": "Lunar Rat",
+            "es": "Rata lunar",
+            "fr": "Rat lunaire",
+            "it": "Topo lunare"
+        }
+    },
+    {
+        "title_id": "458",
+        "name": {
+            "de": "Mondschwein",
+            "en": "Lunar Boar",
+            "es": "Jabal\u00ed lunar",
+            "fr": "Sanglier lunaire",
+            "it": "Maiale lunare"
+        }
+    },
+    {
+        "title_id": "459",
+        "name": {
+            "de": "Mondhund",
+            "en": "Lunar Hound",
+            "es": "Perro lunar",
+            "fr": "Chien lunaire",
+            "it": "Cane lunare"
+        }
+    },
+    {
+        "title_id": "460",
+        "name": {
+            "de": "Mondhahn",
+            "en": "Lunar Rooster",
+            "es": "Gallo lunar",
+            "fr": "Coq lunaire",
+            "it": "Gallo lunare"
+        }
+    },
+    {
+        "title_id": "461",
+        "name": {
+            "de": "Mondaffe",
+            "en": "Lunar Monkey",
+            "es": "Mono lunar",
+            "fr": "Singe lunaire",
+            "it": "Scimmia lunare"
+        }
+    },
+    {
+        "title_id": "462",
+        "name": {
+            "de": "Mondpferd",
+            "en": "Lunar Horse",
+            "es": "Caballo lunar",
+            "fr": "Cheval lunaire",
+            "it": "Cavallo lunare"
+        }
+    },
+    {
+        "title_id": "463",
+        "name": {
+            "de": "Mondziege",
+            "en": "Lunar Ram",
+            "es": "Carnero lunar",
+            "fr": "Ch\u00e8vre lunaire",
+            "it": "Ariete lunare"
+        }
+    },
+    {
+        "title_id": "464",
+        "name": {
+            "de": "Mondschlange",
+            "en": "Lunar Snake",
+            "es": "Serpiente lunar",
+            "fr": "Serpent lunaire",
+            "it": "Serpente lunare"
+        }
     }
 ]
