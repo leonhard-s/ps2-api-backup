@@ -3462,5 +3462,15 @@
             "fr": "Serpent lunaire",
             "it": "Serpente lunare"
         }
+    },
+    {
+        "title_id": "465",
+        "name": {
+            "de": "Liebesbomber",
+            "en": "Love Bomber",
+            "es": "Bombardero del amor",
+            "fr": "Bombe d'amour",
+            "it": "Bombardiere d'amore"
+        }
     }
 ]

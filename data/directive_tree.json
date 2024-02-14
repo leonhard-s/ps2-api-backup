@@ -995,11 +995,11 @@
             "it": "San Valentino 2021"
         },
         "description": {
-            "de": "8. Feb. - 14. Feb.",
-            "en": "Feb. 8 - Feb. 14",
-            "es": "8 de feb. - 14 de feb.",
-            "fr": "8 f\u00e9v. - 14 f\u00e9v.",
-            "it": "8-14 febbraio"
+            "de": "14. Feb. - 28. Feb.",
+            "en": "Feb. 14 - Feb. 28",
+            "es": "14 de feb. - 28 de feb.",
+            "fr": "14 f\u00e9v. - 28 f\u00e9v.",
+            "it": "14-28 febbraio"
         }
     },
     {
@@ -1154,11 +1154,11 @@
             "it": "San Valentino 2022"
         },
         "description": {
-            "de": "8. Feb. - 14. Feb.",
-            "en": "Feb. 8 - Feb. 14",
-            "es": "8 de feb. - 14 de feb.",
-            "fr": "8 f\u00e9v. - 14 f\u00e9v.",
-            "it": "8-14 febbraio"
+            "de": "14. Feb. - 28. Feb.",
+            "en": "Feb. 14 - Feb. 28",
+            "es": "14 de feb. - 28 de feb.",
+            "fr": "14 f\u00e9v. - 28 f\u00e9v.",
+            "it": "14-28 febbraio"
         }
     },
     {
@@ -1359,11 +1359,11 @@
             "it": "San Valentino 2023"
         },
         "description": {
-            "de": "8. Feb. - 14. Feb.",
-            "en": "Feb. 8 - Feb. 14",
-            "es": "8 de feb. - 14 de feb.",
-            "fr": "8 f\u00e9v. - 14 f\u00e9v.",
-            "it": "8-14 febbraio"
+            "de": "14. Feb. - 28. Feb.",
+            "en": "Feb. 14 - Feb. 28",
+            "es": "14 de feb. - 28 de feb.",
+            "fr": "14 f\u00e9v. - 28 f\u00e9v.",
+            "it": "14-28 febbraio"
         }
     },
     {
@@ -1471,6 +1471,24 @@
             "es": "Disponible hasta el 1 de enero",
             "fr": "Disponible jusqu'au 1 janvier",
             "it": "Disponibile fino al 1\u00b0 gennaio"
+        }
+    },
+    {
+        "directive_tree_id": "134",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Valentinstag 2024",
+            "en": "Valentine's Day 2024",
+            "es": "San Valent\u00edn 2024",
+            "fr": "Saint-Valentin 2024",
+            "it": "San Valentino 2024"
+        },
+        "description": {
+            "de": "14. Feb. - 28. Feb.",
+            "en": "Feb. 14 - Feb. 28",
+            "es": "14 de feb. - 28 de feb.",
+            "fr": "14 f\u00e9v. - 28 f\u00e9v.",
+            "it": "14-28 febbraio"
         }
     }
 ]
