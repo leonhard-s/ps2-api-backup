@@ -48,18 +48,6 @@
         }
     },
     {
-        "world_id": "24",
-        "state": "online",
-        "name": {
-            "en": "Apex",
-            "de": "Apex",
-            "es": "Apex",
-            "fr": "Apex",
-            "it": "Apex",
-            "tr": "Apex"
-        }
-    },
-    {
         "world_id": "40",
         "state": "online",
         "name": {
@@ -81,6 +69,18 @@
             "fr": "Connery",
             "it": "Connery",
             "tr": "Connery"
+        }
+    },
+    {
+        "world_id": "24",
+        "state": "online",
+        "name": {
+            "en": "Apex",
+            "de": "Apex",
+            "es": "Apex",
+            "fr": "Apex",
+            "it": "Apex",
+            "tr": "Apex"
         }
     },
     {
