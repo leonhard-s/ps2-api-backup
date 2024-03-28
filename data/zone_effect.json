@@ -137536,7 +137536,7 @@
         "ability_id": "1117822",
         "param1": "-1",
         "param2": "1",
-        "param3": "-0.02",
+        "param3": "-0.015",
         "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -137572,7 +137572,7 @@
         "ability_id": "1117823",
         "param1": "-1",
         "param2": "1",
-        "param3": "-0.02",
+        "param3": "-0.015",
         "string1": "FireMode.FirstPersonOffsetY"
     },
     {
@@ -138364,5 +138364,10 @@
         "param3": "1",
         "param4": "0",
         "string1": "BlockSpotOnDamageTaken"
+    },
+    {
+        "zone_effect_id": "769487",
+        "zone_effect_type_id": "37",
+        "ability_id": "1117873"
     }
 ]

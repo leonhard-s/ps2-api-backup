@@ -4856,5 +4856,9 @@
         "fire_group_id": "81018",
         "transition_duration_ms": "250",
         "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "81021",
+        "can_chamber_ironsights": "0"
     }
 ]
