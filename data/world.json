@@ -24,6 +24,18 @@
         }
     },
     {
+        "world_id": "24",
+        "state": "online",
+        "name": {
+            "en": "Apex",
+            "de": "Apex",
+            "es": "Apex",
+            "fr": "Apex",
+            "it": "Apex",
+            "tr": "Apex"
+        }
+    },
+    {
         "world_id": "17",
         "state": "online",
         "name": {
@@ -48,15 +60,15 @@
         }
     },
     {
-        "world_id": "24",
+        "world_id": "1",
         "state": "online",
         "name": {
-            "en": "Apex",
-            "de": "Apex",
-            "es": "Apex",
-            "fr": "Apex",
-            "it": "Apex",
-            "tr": "Apex"
+            "en": "Connery",
+            "de": "Connery",
+            "es": "Connery",
+            "fr": "Connery",
+            "it": "Connery",
+            "tr": "Connery"
         }
     },
     {
@@ -69,18 +81,6 @@
             "fr": "SolTech",
             "it": "SolTech",
             "tr": "SolTech"
-        }
-    },
-    {
-        "world_id": "1",
-        "state": "online",
-        "name": {
-            "en": "Connery",
-            "de": "Connery",
-            "es": "Connery",
-            "fr": "Connery",
-            "it": "Connery",
-            "tr": "Connery"
         }
     },
     {
