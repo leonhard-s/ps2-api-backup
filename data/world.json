@@ -24,6 +24,18 @@
         }
     },
     {
+        "world_id": "1",
+        "state": "online",
+        "name": {
+            "en": "Connery",
+            "de": "Connery",
+            "es": "Connery",
+            "fr": "Connery",
+            "it": "Connery",
+            "tr": "Connery"
+        }
+    },
+    {
         "world_id": "17",
         "state": "online",
         "name": {
@@ -33,18 +45,6 @@
             "fr": "Emerald",
             "it": "Smeraldo",
             "tr": "Emerald"
-        }
-    },
-    {
-        "world_id": "19",
-        "state": "online",
-        "name": {
-            "en": "Jaeger",
-            "de": "Jaeger",
-            "es": "Jaeger",
-            "fr": "Jaeger",
-            "it": "Jaeger",
-            "tr": "Jaeger"
         }
     },
     {
@@ -60,15 +60,15 @@
         }
     },
     {
-        "world_id": "1",
+        "world_id": "19",
         "state": "online",
         "name": {
-            "en": "Connery",
-            "de": "Connery",
-            "es": "Connery",
-            "fr": "Connery",
-            "it": "Connery",
-            "tr": "Connery"
+            "en": "Jaeger",
+            "de": "Jaeger",
+            "es": "Jaeger",
+            "fr": "Jaeger",
+            "it": "Jaeger",
+            "tr": "Jaeger"
         }
     },
     {
