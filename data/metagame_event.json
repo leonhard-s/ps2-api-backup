@@ -1883,7 +1883,7 @@
         },
         "type": "9",
         "experience_bonus": "25",
-        "duration_minutes": "90"
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "223",
@@ -1903,7 +1903,7 @@
         },
         "type": "9",
         "experience_bonus": "25",
-        "duration_minutes": "90"
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "224",
@@ -1923,7 +1923,7 @@
         },
         "type": "9",
         "experience_bonus": "25",
-        "duration_minutes": "90"
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "225",
@@ -1962,7 +1962,7 @@
         },
         "type": "9",
         "experience_bonus": "25",
-        "duration_minutes": "90"
+        "duration_minutes": "45"
     },
     {
         "metagame_event_id": "227",
@@ -2228,7 +2228,7 @@
             "it": "Uccidi pi\u00f9 nemici possibili"
         },
         "type": "6",
-        "duration_minutes": "15"
+        "duration_minutes": "10"
     },
     {
         "metagame_event_id": "241",
@@ -2362,7 +2362,7 @@
         },
         "type": "9",
         "experience_bonus": "25",
-        "duration_minutes": "45"
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "249",
@@ -2382,7 +2382,7 @@
         },
         "type": "9",
         "experience_bonus": "25",
-        "duration_minutes": "45"
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "250",
@@ -2402,7 +2402,7 @@
         },
         "type": "9",
         "experience_bonus": "25",
-        "duration_minutes": "45"
+        "duration_minutes": "30"
     },
     {
         "metagame_event_id": "251",
@@ -2498,5 +2498,24 @@
         },
         "type": "4",
         "duration_minutes": "15"
+    },
+    {
+        "metagame_event_id": "260",
+        "name": {
+            "de": "Sudden Death",
+            "en": "Sudden Death",
+            "es": "Muerte s\u00fabita\n",
+            "fr": "Mort subite",
+            "it": "Morte improvvisa"
+        },
+        "description": {
+            "de": "Eliminiere so viele Gegner wie m\u00f6glich",
+            "en": "Kill as many enemies as possible",
+            "es": "Mata tantos enemigos como puedas.",
+            "fr": "Tuez autant d'ennemis que possible",
+            "it": "Uccidi pi\u00f9 nemici possibili"
+        },
+        "type": "6",
+        "duration_minutes": "5"
     }
 ]

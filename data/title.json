@@ -3472,5 +3472,15 @@
             "fr": "Bombe d'amour",
             "it": "Bombardiere d'amore"
         }
+    },
+    {
+        "title_id": "466",
+        "name": {
+            "de": "Flieger",
+            "en": "Aviator",
+            "es": "Aviador",
+            "fr": "Aviateur",
+            "it": "Aviatore"
+        }
     }
 ]
