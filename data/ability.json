@@ -32761,25 +32761,25 @@
     {
         "ability_id": "1117869",
         "ability_type_id": "12",
-        "reuse_delay_msec": "55000",
+        "reuse_delay_msec": "75000",
         "flag_toggle": "0"
     },
     {
         "ability_id": "1117870",
         "ability_type_id": "12",
-        "reuse_delay_msec": "55000",
+        "reuse_delay_msec": "70000",
         "flag_toggle": "0"
     },
     {
         "ability_id": "1117871",
         "ability_type_id": "12",
-        "reuse_delay_msec": "55000",
+        "reuse_delay_msec": "65000",
         "flag_toggle": "0"
     },
     {
         "ability_id": "1117872",
         "ability_type_id": "12",
-        "reuse_delay_msec": "55000",
+        "reuse_delay_msec": "60000",
         "flag_toggle": "0"
     },
     {
@@ -32790,7 +32790,7 @@
     },
     {
         "ability_id": "1117874",
-        "ability_type_id": "6",
+        "ability_type_id": "12",
         "reuse_delay_msec": "60000",
         "flag_toggle": "0",
         "param1": "0",
@@ -32810,8 +32810,8 @@
     },
     {
         "ability_id": "1117875",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "55000",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",
@@ -32830,8 +32830,8 @@
     },
     {
         "ability_id": "1117876",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "50000",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",
@@ -32850,8 +32850,8 @@
     },
     {
         "ability_id": "1117877",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "45000",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",
@@ -32870,7 +32870,7 @@
     },
     {
         "ability_id": "1117882",
-        "ability_type_id": "6",
+        "ability_type_id": "12",
         "reuse_delay_msec": "60000",
         "flag_toggle": "0",
         "param1": "0",
@@ -32890,8 +32890,8 @@
     },
     {
         "ability_id": "1117883",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "55000",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",
@@ -32910,8 +32910,8 @@
     },
     {
         "ability_id": "1117884",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "50000",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",
@@ -32930,8 +32930,8 @@
     },
     {
         "ability_id": "1117885",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "45000",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",
@@ -32950,7 +32950,7 @@
     },
     {
         "ability_id": "1117886",
-        "ability_type_id": "6",
+        "ability_type_id": "12",
         "reuse_delay_msec": "60000",
         "flag_toggle": "0",
         "param1": "0",
@@ -32970,8 +32970,8 @@
     },
     {
         "ability_id": "1117887",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "55000",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",
@@ -32990,8 +32990,8 @@
     },
     {
         "ability_id": "1117888",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "50000",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",
@@ -33010,8 +33010,8 @@
     },
     {
         "ability_id": "1117889",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "45000",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",
@@ -33030,7 +33030,7 @@
     },
     {
         "ability_id": "1117890",
-        "ability_type_id": "6",
+        "ability_type_id": "12",
         "reuse_delay_msec": "60000",
         "flag_toggle": "0",
         "param1": "0",
@@ -33050,8 +33050,8 @@
     },
     {
         "ability_id": "1117891",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "55000",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",
@@ -33070,8 +33070,8 @@
     },
     {
         "ability_id": "1117892",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "50000",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",
@@ -33090,8 +33090,27 @@
     },
     {
         "ability_id": "1117893",
-        "ability_type_id": "6",
-        "reuse_delay_msec": "60000",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "45000",
+        "flag_toggle": "0",
+        "param1": "0",
+        "param2": "0",
+        "param3": "0",
+        "param4": "0",
+        "param5": "0",
+        "param6": "0",
+        "param7": "0",
+        "param8": "0",
+        "param9": "0",
+        "param10": "0",
+        "param11": "0",
+        "param12": "0",
+        "param13": "0",
+        "param14": "0"
+    },
+    {
+        "ability_id": "1117896",
+        "ability_type_id": "3",
         "flag_toggle": "0",
         "param1": "0",
         "param2": "0",

@@ -158,10 +158,14 @@
         "description": "Spawn Npc",
         "param1": "NpcDefinitionId",
         "param2": "NpcHeading",
-        "param3": "0 at source, 1 at target, 2 near source, 3 drop",
+        "param3": "0 at source, 1 at target, 2 near source, 3 drop, 4 drop to forward",
         "param4": "NpcDisposition",
         "param5": "MaxCount",
-        "param6": "OffsetMult"
+        "param6": "OffsetMult",
+        "param7": "MinAltitude",
+        "param8": "MaxAltitude",
+        "param9": "SweepSphereRadius",
+        "param10": "FailMessage"
     },
     {
         "zone_effect_type_id": "26",

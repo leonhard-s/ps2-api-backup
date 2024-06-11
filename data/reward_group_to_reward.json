@@ -2014,5 +2014,13 @@
     {
         "reward_group_id": "102049",
         "reward_id": "10408"
+    },
+    {
+        "reward_group_id": "102059",
+        "reward_id": "10428"
+    },
+    {
+        "reward_group_id": "102060",
+        "reward_id": "10429"
     }
 ]
