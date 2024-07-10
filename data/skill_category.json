@@ -124,12 +124,11 @@
         "skill_set_index": "0",
         "skill_points": "0",
         "name": {
-            "de": "Leistungsplatz",
-            "en": "Performance Slot",
-            "es": "Ranura de rendimiento",
-            "fr": "Case performance",
-            "it": "Slot prestazioni",
-            "tr": "Performans Yuvas\u0131"
+            "de": "Frachtplatz",
+            "en": "Cargo Slot",
+            "es": "Ranura de carga",
+            "fr": "Case de cargaison",
+            "it": "Slot Carico"
         },
         "image_set_id": "1",
         "image_id": "35",
@@ -141,12 +140,11 @@
         "skill_set_index": "0",
         "skill_points": "0",
         "name": {
-            "de": "Peripherieplatz",
-            "en": "Utility Slot",
-            "es": "Ranura multifunci\u00f3n",
-            "fr": "Case d'utilitaire",
-            "it": "Slot multiuso",
-            "tr": "Alet Yuvas\u0131"
+            "de": "Einsatzplatz",
+            "en": "Deployment Slot",
+            "es": "Ranura de despliegue",
+            "fr": "Case de d\u00e9ploiement",
+            "it": "Slot Schieramento"
         },
         "image_set_id": "1",
         "image_id": "35",
@@ -3680,12 +3678,11 @@
         "skill_set_index": "0",
         "skill_points": "0",
         "name": {
-            "de": "Verteidigungsplatz",
-            "en": "Defense Slot",
-            "es": "Ranura de defensa",
-            "fr": "Case de d\u00e9fense",
-            "it": "Slot di difesa",
-            "tr": "Savunma Yuvas\u0131"
+            "de": "Panzerungsplatz",
+            "en": "Armor Slot",
+            "es": "Ranura de armadura",
+            "fr": "Case d'armure",
+            "it": "Slot Armatura"
         },
         "image_set_id": "1",
         "image_id": "35",

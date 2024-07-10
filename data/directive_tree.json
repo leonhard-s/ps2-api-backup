@@ -1497,8 +1497,51 @@
         "image_set_id": "0"
     },
     {
+        "directive_tree_id": "136",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Operation: Lichtsucher",
+            "en": "Operation: Lightseeker",
+            "es": "Operaci\u00f3n: Busca luminosa",
+            "fr": "Op\u00e9ration : Lightseeker",
+            "it": "Operazione: Cercatore di luce"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 6. August",
+            "en": "Available through August 6th",
+            "es": "Disponible hasta el 6 de agosto",
+            "fr": "Disponible jusqu'au 6 ao\u00fbt",
+            "it": "Disponibile fino al 6 agosto"
+        }
+    },
+    {
+        "directive_tree_id": "137",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Operation: Bahnbrecher",
+            "en": "Operation: Groundbreaker",
+            "es": "Operaci\u00f3n: Rompesuelos",
+            "fr": "Op\u00e9ration : Groundbreaker",
+            "it": "Operazione: Spaccaterra"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 6. September",
+            "en": "Available through September 6th",
+            "es": "Disponible hasta el 6 de septiembre",
+            "fr": "Disponible jusqu'au 6 septembre",
+            "it": "Disponibile fino al 6 settembre"
+        }
+    },
+    {
         "directive_tree_id": "139",
         "directive_tree_category_id": "5",
+        "name": {
+            "de": "Eroberung - Indar",
+            "en": "Conquest - Indar",
+            "es": "Conquista: Indar",
+            "fr": "Conqu\u00eate - Indar",
+            "it": "Conquista - Indar"
+        },
         "image_set_id": "14163",
         "image_id": "79586",
         "image_path": "/files/ps2/images/static/79586.png"
@@ -1506,6 +1549,13 @@
     {
         "directive_tree_id": "140",
         "directive_tree_category_id": "5",
+        "name": {
+            "de": "Eroberung - Hossin",
+            "en": "Conquest - Hossin",
+            "es": "Conquista: Hossin",
+            "fr": "Conqu\u00eate - Hossin",
+            "it": "Conquista - Hossin"
+        },
         "image_set_id": "14163",
         "image_id": "79586",
         "image_path": "/files/ps2/images/static/79586.png"
@@ -1513,6 +1563,27 @@
     {
         "directive_tree_id": "141",
         "directive_tree_category_id": "5",
+        "name": {
+            "de": "Eroberung - Amerish",
+            "en": "Conquest - Amerish",
+            "es": "Conquista: Amerish",
+            "fr": "Conqu\u00eate - Amerish",
+            "it": "Conquista - Amerish"
+        },
+        "image_set_id": "14163",
+        "image_id": "79586",
+        "image_path": "/files/ps2/images/static/79586.png"
+    },
+    {
+        "directive_tree_id": "142",
+        "directive_tree_category_id": "5",
+        "name": {
+            "de": "Eroberung - Esamir",
+            "en": "Conquest - Esamir",
+            "es": "Conquista: Esamir",
+            "fr": "Conqu\u00eate - Esamir",
+            "it": "Conquista - Esamir"
+        },
         "image_set_id": "14163",
         "image_id": "79586",
         "image_path": "/files/ps2/images/static/79586.png"

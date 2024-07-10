@@ -222,20 +222,18 @@
     {
         "skill_set_id": "11",
         "name": {
-            "de": "Sunderer: Peripherieplatz",
-            "en": "Sunderer:  Utility Slot",
-            "es": "Sunderer: ranura multifunci\u00f3n",
-            "fr": "Disperseur: Case d'utilitaire",
-            "it": "Sunderer: slot multiuso",
-            "tr": "Yar\u0131c\u0131: Alet Yuvas\u0131"
+            "de": "Sunderer: Einsatzplatz",
+            "en": "Sunderer:  Deployment Slot",
+            "es": "Sunderer: ranura de despliegue",
+            "fr": "Disperseur : Case de d\u00e9ploiement",
+            "it": "Sunderer: slot Schieramento"
         },
         "description": {
-            "de": "Schaltet verschiedene Ger\u00e4te f\u00fcr den Ausr\u00fcstungsplatz des Sunderers frei. Gegenst\u00e4nde f\u00fcr den Ausr\u00fcstungsplatz k\u00f6nnen im Bildschirm \"Bewaffnung\" ausger\u00fcstet werden.",
-            "en": "Unlock various gadgets for the Sunderer's Utility slot. Utility slot items can be equipped on the loadout screen.",
-            "es": "Desbloquea varios artefactos para la ranura de utilidad del Sunderer. Los objetos de utilidad se pueden equipar en la pantalla de arsenal.",
-            "fr": "D\u00e9verrouille divers gadgets pour la case d'utilitaire du Disperseur. Vous pouvez vous munir des objets de case utilitaire sur l'\u00e9cran d'\u00e9quipement.",
-            "it": "Sblocca diversi gadget per lo slot multiuso del Sunderer. Gli articoli dello slot di utilit\u00e0 possono essere equipaggiati nella schermata della dotazione.",
-            "tr": "Yar\u0131c\u0131'n\u0131n Alet Yuvas\u0131 i\u00e7in \u00e7e\u015fitli cihazlar\u0131 a\u00e7. Alet yuvas\u0131 e\u015fyalar\u0131, te\u00e7hizat ekran\u0131nda donat\u0131labilir."
+            "de": "Schaltet verschiedene Ger\u00e4te f\u00fcr den Einsatzplatz des Sunderers frei. Gegenst\u00e4nde f\u00fcr den Einsatzplatz k\u00f6nnen im Bildschirm \"Bewaffnung\" ausger\u00fcstet werden.",
+            "en": "Unlock various gadgets for the Sunderer's Deployment slot. Deployment slot items can be equipped on the loadout screen.",
+            "es": "Desbloquea diversos artilugios para la ranura de despliegue del Sunderer. Los objetos de la ranura despliegue se equipan en la pantalla de arsenal.",
+            "fr": "D\u00e9verrouille divers gadgets pour la case de d\u00e9ploiement du Disperseur. Munissez-vous des objets pour la case de d\u00e9ploiement \u00e0 l'\u00e9cran d'\u00e9quipement.",
+            "it": "Sblocca vari gadget per lo slot Schieramento del Sunderer. Gli articoli dello slot Schieramento possono essere equipaggiati nella schermata della dotazione."
         },
         "image_set_id": "2176",
         "image_id": "4027",
@@ -5804,19 +5802,18 @@
     {
         "skill_set_id": "268",
         "name": {
-            "de": "Sunderer: Verteidigungsplatz",
-            "en": "Sunderer:  Defense Slot",
-            "es": "Sunderer: ranura de defensa",
-            "fr": "Disperseur: Case d\u00e9fense",
-            "it": "Sunderer: slot di difesa",
-            "tr": "Yar\u0131c\u0131: Savunma Yuvas\u0131"
+            "de": "Sunderer: Panzerungsplatz",
+            "en": "Sunderer:  Armor Slot",
+            "es": "Sunderer: ranura de armadura",
+            "fr": "Disperseur : Case de d'armure",
+            "it": "Sunderer: slot Armatura"
         },
         "description": {
-            "de": "Schaltet Zertifizierungen f\u00fcr den Verteidigungsplatz frei, um die \u00dcberlebenswahrscheinlichkeit des Sunderers auf dem Feld zu erh\u00f6hen. Gegenst\u00e4nde f\u00fcr den Verteidigungsplatz k\u00f6nnen im Bildschirm \"Bewaffnung\" ausger\u00fcstet werden.",
-            "en": "Unlock defense slot Certifications to increase the Sunderer's survivability on the field. Defense slot items can be equipped on the loadout screen.",
-            "es": "Desbloquea certificaciones de ranura defensiva para aumentar la supervivencia del Sunderer en combate. Los objetos de la ranura defensiva se pueden equipar en la pantalla de arsenal.",
-            "fr": "D\u00e9verrouille des certifications de case d\u00e9fense pour am\u00e9liorer la survivabilit\u00e9 du Disperseur sur le terrain. Vous pouvez vous munir des objets de case d\u00e9fense sur l'\u00e9cran d'\u00e9quipement.",
-            "it": "Sblocca certificazioni per lo slot di difesa per aumentare la sopravvivenza del Sunderer sul campo. Gli articoli dello slot di difesa possono essere equipaggiati nella schermata della dotazione.",
+            "de": "Schaltet Zertifizierungen f\u00fcr den Verteidigungsplatz frei, um die \u00dcberlebenswahrscheinlichkeit des Sunderers auf dem Feld zu erh\u00f6hen. Gegenst\u00e4nde f\u00fcr den Panzerungsplatz k\u00f6nnen im Bildschirm \"Bewaffnung\" ausger\u00fcstet werden.",
+            "en": "Unlock armor slot Certifications to increase the Sunderer's survivability on the field. Armor slot items can be equipped on the loadout screen.",
+            "es": "Desbloquea certificaciones de ranura de armadura para aumentar la supervivencia del Sunderer en combate. Los objetos de la ranura de armadura se pueden equipar en la pantalla de arsenal.\n",
+            "fr": "D\u00e9verrouille des certifications de case d'armure pour am\u00e9liorer la survivabilit\u00e9 du Disperseur sur le terrain. Munissez-vous des objets pour la case d'armure \u00e0 l'\u00e9cran d'\u00e9quipement.",
+            "it": "Sblocca certificazioni per lo slot armatura per aumentare la sopravvivenza del Sunderer sul campo. Gli articoli dello slot armatura possono essere equipaggiati nella schermata della dotazione.",
             "tr": "Yar\u0131c\u0131'n\u0131n arazi \u00fczerinde hayatta kalma \u015fans\u0131n\u0131 artt\u0131rmak i\u00e7in savunma yuvas\u0131 sertifikalar\u0131n\u0131 a\u00e7. Savunma yuvas\u0131 e\u015fyalar\u0131, te\u00e7hizat ekran\u0131nda donat\u0131labilir."
         },
         "image_set_id": "2172",
@@ -5826,19 +5823,18 @@
     {
         "skill_set_id": "269",
         "name": {
-            "de": "Sunderer: Leistungsplatz",
-            "en": "Sunderer:  Performance Slot",
-            "es": "Sunderer: ranura de rendimiento",
-            "fr": "Disperseur: Case performance",
-            "it": "Sunderer: slot prestazioni",
-            "tr": "Yar\u0131c\u0131: Performans Yuvas\u0131"
+            "de": "Sunderer: Frachtplatz",
+            "en": "Sunderer:  Cargo Slot",
+            "es": "Sunderer: ranura de carga",
+            "fr": "Disperseur : Case de cargaison",
+            "it": "Sunderer: slot Carico"
         },
         "description": {
-            "de": "Schaltet Zertifizierungen zur Steigerung der Mobilit\u00e4t f\u00fcr den Leistungsplatz des Sunderers frei. Gegenst\u00e4nde f\u00fcr den Leistungsplatz k\u00f6nnen im Bildschirm \"Bewaffnung\" ausger\u00fcstet werden.",
-            "en": "Unlock mobility boosting Certifications for the Sunderer's performance slot. Performance slot items can be equipped on the loadout screen.",
-            "es": "Desbloquea certificaciones de aumento de movilidad para la ranura de rendimiento del Sunderer. Los objetos de la ranura de rendimiento se pueden equipar en la pantalla de arsenal.",
-            "fr": "D\u00e9verrouille des certifications de pouss\u00e9e de mobilit\u00e9 pour la case performance du Disperseur. Vous pouvez vous munir des objets de case performance sur l'\u00e9cran d'\u00e9quipement.",
-            "it": "Sblocca certificazioni di miglioramento della mobilit\u00e0 per lo slot prestazioni del Sunderer. Gli articoli dello slot prestazioni possono essere equipaggiati nella schermata della dotazione.",
+            "de": "Schaltet Zertifizierungen zur Steigerung der Mobilit\u00e4t f\u00fcr den Leistungsplatz des Sunderers frei. Gegenst\u00e4nde f\u00fcr den Frachtplatz k\u00f6nnen im Bildschirm \"Bewaffnung\" ausger\u00fcstet werden.",
+            "en": "Unlock mobility boosting Certifications for the Sunderer's cargo slot. Cargo slot items can be equipped on the loadout screen.",
+            "es": "Desbloquea certificaciones de aumento de movilidad para la ranura de carga del Sunderer. Los objetos de la ranura de carga se pueden equipar en la pantalla de arsenal.",
+            "fr": "D\u00e9verrouille des certifications de pouss\u00e9e de mobilit\u00e9 pour la case de cargaison du Disperseur. Munissez-vous des objets pour la case de cargaison \u00e0 l'\u00e9cran d'\u00e9quipement.",
+            "it": "Sblocca certificazioni di miglioramento della mobilit\u00e0 per lo slot carico del Sunderer. Gli articoli dello slot carico possono essere equipaggiati nella schermata della dotazione.",
             "tr": "Yar\u0131c\u0131'n\u0131n performans yuvas\u0131 i\u00e7in hareket kabiliyetini art\u0131ran Sertifikalar\u0131 a\u00e7. Performans yuvas\u0131 e\u015fyalar\u0131, te\u00e7hizat ekran\u0131nda donat\u0131labilir."
         },
         "image_set_id": "2175",

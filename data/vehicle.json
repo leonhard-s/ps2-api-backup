@@ -1539,5 +1539,85 @@
         "type_id": "7",
         "type_name": "Umovable Turret",
         "image_set_id": "82962"
+    },
+    {
+        "vehicle_id": "2147",
+        "name": {
+            "de": "Munitionsturm",
+            "en": "Ammo Tower",
+            "es": "Torre de munici\u00f3n",
+            "fr": "Tour de munitions",
+            "it": "Torre di munizioni"
+        },
+        "description": {
+            "de": "Setzt eine Unterst\u00fctzungsstation ein, die in der N\u00e4he befindliche Fahrzeuge mit neuer Munition versorgt.",
+            "en": "Deploys a utility station that replenishes ammo to nearby friendly vehicles.",
+            "es": "Despliega una estaci\u00f3n de apoyo que repone la munici\u00f3n de los veh\u00edculos aliados cercanos.",
+            "fr": "D\u00e9ploie une station utilitaire qui restitue des munitions aux v\u00e9hicules alli\u00e9s \u00e0 proximit\u00e9.",
+            "it": "Schiera una stazione di servizio che rifornisce di munizioni i veicoli amici vicini."
+        },
+        "type_id": "7",
+        "type_name": "Umovable Turret",
+        "image_set_id": "808121"
+    },
+    {
+        "vehicle_id": "2148",
+        "name": {
+            "de": "Aufkl\u00e4rungsradar",
+            "en": "Scout Radar",
+            "es": "Radar explorador",
+            "fr": "Radar de reconnaissance",
+            "it": "Radar di esplorazione"
+        },
+        "description": {
+            "de": "Sp\u00fcrt beim Transport passiv Feinde in der N\u00e4he auf. Aktivieren, um ein Radar mit besserer Reichweite und permanenter Verfolgung einzusetzen.",
+            "en": "Passively detects nearby enemies while mounted.  Activate to deploy a RADAR with increased range and permenant detection.",
+            "es": "Detecta pasivamente enemigos si est\u00e1 montado. Act\u00edvalo para desplegar un RADAR con m\u00e1s alcance y detecci\u00f3n permanente.",
+            "fr": "Une fois mont\u00e9, d\u00e9tecte passivement les ennemis \u00e0 proximit\u00e9. \u00c0 activer pour d\u00e9ployer un RADAR dot\u00e9 d'une port\u00e9e am\u00e9lior\u00e9e et d'une d\u00e9tection permanente.",
+            "it": "Rileva passivamente i nemici vicini mentre \u00e8 montato. Attivalo per schierare un RADAR con portata aumentata e rilevamento permanente."
+        },
+        "type_id": "7",
+        "type_name": "Umovable Turret",
+        "image_set_id": "808119"
+    },
+    {
+        "vehicle_id": "2149",
+        "name": {
+            "de": "Reparaturstation",
+            "en": "Repair Station",
+            "es": "Estaci\u00f3n de reparaci\u00f3n",
+            "fr": "Station de r\u00e9paration",
+            "it": "Stazione di riparazione"
+        },
+        "description": {
+            "de": "Repariert in geringem Umfang passiv Fahrzeuge (ausgenommen Sunderer). Aktivieren, um eine Station einzusetzen, die mit gr\u00f6\u00dferer Reichweite und besserer Wirkung repariert. Sunderer erhalten reduzierte Reparaturen von eingesetzten Stationen und werden von nicht eingesetzten Stationen nicht repariert.",
+            "en": "Passively repairs nearby, non-sunderer, vehicles for a small amount.  Activate to deploy a repair station with increased range and repair.  Sunderers recieve reduced repair from deployed stations and none from undeployed.",
+            "es": "Repara de forma pasiva los veh\u00edculos (excepto Sunderers), restaurando poca salud. Act\u00edvalo para desplegar una estaci\u00f3n con mayor alcance y capacidad de reparaci\u00f3n. Los Sunderers reciben curaci\u00f3n reducida de la estaci\u00f3n desplegada y no se benefician si no est\u00e1 desplegada.",
+            "fr": "R\u00e9pare l\u00e9g\u00e8rement et passivement les v\u00e9hicules \u00e0 proximit\u00e9, hors Disperseur. \u00c0 activer pour d\u00e9ployer une station de r\u00e9paration dans un certain rayon. Si d\u00e9ploy\u00e9e, les r\u00e9parations sont r\u00e9duites pour les Disperseurs, et nulles si non d\u00e9ploy\u00e9e.",
+            "it": "Ripara passivamente veicoli non Sunderer vicini conferendo loro una breve quantit\u00e0 di ps. Attivala per schierare una stazione di riparazione con portata e riparazione aumentate. I Sunderer ricevono riparazioni ridotte dalle stazioni schierate e nessuna riparazione da quelle non schierate."
+        },
+        "type_id": "7",
+        "type_name": "Umovable Turret",
+        "image_set_id": "808122"
+    },
+    {
+        "vehicle_id": "2150",
+        "name": {
+            "de": "Schild-Disruptor",
+            "en": "Shield Disruptor",
+            "es": "Disruptor de escudos",
+            "fr": "Perturbateur de bouclier",
+            "it": "Distruttore di scudi"
+        },
+        "description": {
+            "de": "Setzt ein Frachtobjekt ein, das Fahrzeugen in der N\u00e4he einen Torschild-Diffusor gew\u00e4hrt, damit sie passieren k\u00f6nnen.",
+            "en": "Deploys a cargo device that grants Gate Diffuser to nearby friendly vehicles, allowing them to pass through.",
+            "es": "Despliega un dispositivo de carga que proporciona Difusor de portales a los veh\u00edculos aliados cercanos, permiti\u00e9ndoles el paso.",
+            "fr": "D\u00e9ploie un dispositif de cargaison qui accorde un Passe-Porte aux v\u00e9hicules alli\u00e9s \u00e0 proximit\u00e9, qui leur permet de passer.",
+            "it": "Schiera un dispositivo di carico che fornisce un Diffusore del portale ai veicoli amici vicini, consentendo loro di passare."
+        },
+        "type_id": "7",
+        "type_name": "Umovable Turret",
+        "image_set_id": "808120"
     }
 ]

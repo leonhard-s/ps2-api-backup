@@ -3482,5 +3482,95 @@
             "fr": "Aviateur",
             "it": "Aviatore"
         }
+    },
+    {
+        "title_id": "467",
+        "name": {
+            "de": "Corsair",
+            "en": "Corsair",
+            "es": "Corsair",
+            "fr": "Corsaire",
+            "it": "Corsair"
+        }
+    },
+    {
+        "title_id": "468",
+        "name": {
+            "de": "Weltraumwal",
+            "en": "Space Whale",
+            "es": "Ballena espacial",
+            "fr": "Baleine spatiale",
+            "it": "Balena spaziale"
+        }
+    },
+    {
+        "title_id": "469",
+        "name": {
+            "de": "der Wal",
+            "en": "the Whale",
+            "es": "la Ballena",
+            "fr": "la Baleine",
+            "it": "la Balena"
+        }
+    },
+    {
+        "title_id": "470",
+        "name": {
+            "de": "Killerwal",
+            "en": "Killer Whale",
+            "es": "Ballena asesina",
+            "fr": "Orque",
+            "it": "Orca assassina"
+        }
+    },
+    {
+        "title_id": "471",
+        "name": {
+            "de": "Himmelswal",
+            "en": "Sky Whale",
+            "es": "Ballena voladora",
+            "fr": "Baleine c\u00e9leste",
+            "it": "Balena celeste"
+        }
+    },
+    {
+        "title_id": "472",
+        "name": {
+            "de": "von Indar",
+            "en": "of Indar",
+            "es": "de Indar",
+            "fr": "d'Indar",
+            "it": "di Indar"
+        }
+    },
+    {
+        "title_id": "473",
+        "name": {
+            "de": "von Hossin",
+            "en": "of Hossin",
+            "es": "de Hossin",
+            "fr": "d'Hossin",
+            "it": "di Hossin"
+        }
+    },
+    {
+        "title_id": "474",
+        "name": {
+            "de": "von Amerish",
+            "en": "of Amerish",
+            "es": "de Amerish",
+            "fr": "d'Amerish",
+            "it": "di Amerish"
+        }
+    },
+    {
+        "title_id": "475",
+        "name": {
+            "de": "von Esamir",
+            "en": "of Esamir",
+            "es": "de Esamir",
+            "fr": "d'Esamir",
+            "it": "di Esamir"
+        }
     }
 ]
