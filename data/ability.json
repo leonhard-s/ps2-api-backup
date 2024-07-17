@@ -2295,31 +2295,6 @@
         "flag_toggle": "0"
     },
     {
-        "ability_id": "1247",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "1248",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "1249",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "1250",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "1251",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
         "ability_id": "1252",
         "ability_type_id": "3",
         "flag_toggle": "0"
@@ -2894,30 +2869,6 @@
         "flag_toggle": "0"
     },
     {
-        "ability_id": "2014",
-        "ability_type_id": "12",
-        "reuse_delay_msec": "55000",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "2015",
-        "ability_type_id": "12",
-        "reuse_delay_msec": "50000",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "2016",
-        "ability_type_id": "12",
-        "reuse_delay_msec": "47000",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "2017",
-        "ability_type_id": "12",
-        "reuse_delay_msec": "45000",
-        "flag_toggle": "0"
-    },
-    {
         "ability_id": "2018",
         "ability_type_id": "12",
         "reuse_delay_msec": "55000",
@@ -3169,16 +3120,6 @@
         "flag_toggle": "0"
     },
     {
-        "ability_id": "2161",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "2162",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
         "ability_id": "2163",
         "ability_type_id": "3",
         "flag_toggle": "0"
@@ -3320,26 +3261,6 @@
     },
     {
         "ability_id": "2191",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "2192",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "2193",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "2194",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "2195",
         "ability_type_id": "3",
         "flag_toggle": "0"
     },
@@ -4973,26 +4894,6 @@
     },
     {
         "ability_id": "6311",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "6312",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "6313",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "6314",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "6315",
         "ability_type_id": "3",
         "flag_toggle": "0"
     },
@@ -17030,29 +16931,9 @@
         "flag_toggle": "0"
     },
     {
-        "ability_id": "1111297",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
         "ability_id": "1111302",
         "ability_type_id": "3",
         "reuse_delay_msec": "1",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "1111304",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "1111305",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "1111306",
-        "ability_type_id": "3",
         "flag_toggle": "0"
     },
     {
@@ -19313,26 +19194,6 @@
         "ability_type_id": "12",
         "expire_msec": "8000",
         "reuse_delay_msec": "40000",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "1112369",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "1112370",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "1112371",
-        "ability_type_id": "3",
-        "flag_toggle": "0"
-    },
-    {
-        "ability_id": "1112372",
-        "ability_type_id": "3",
         "flag_toggle": "0"
     },
     {
