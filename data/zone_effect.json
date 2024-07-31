@@ -137478,7 +137478,7 @@
         "zone_effect_id": "769446",
         "zone_effect_type_id": "4",
         "ability_id": "1117856",
-        "param1": "105",
+        "param1": "90",
         "param2": "0",
         "param3": "1",
         "param4": "0",
@@ -137489,7 +137489,7 @@
         "zone_effect_id": "769447",
         "zone_effect_type_id": "4",
         "ability_id": "1117857",
-        "param1": "125",
+        "param1": "105",
         "param2": "0",
         "param3": "1",
         "param4": "0",
@@ -137500,7 +137500,7 @@
         "zone_effect_id": "769448",
         "zone_effect_type_id": "4",
         "ability_id": "1117858",
-        "param1": "145",
+        "param1": "125",
         "param2": "0",
         "param3": "1",
         "param4": "0",
@@ -137511,7 +137511,7 @@
         "zone_effect_id": "769449",
         "zone_effect_type_id": "4",
         "ability_id": "1117859",
-        "param1": "165",
+        "param1": "140",
         "param2": "0",
         "param3": "1",
         "param4": "0",
@@ -137528,7 +137528,7 @@
         "zone_effect_id": "769480",
         "zone_effect_type_id": "4",
         "ability_id": "1117869",
-        "param1": "1890",
+        "param1": "1610",
         "param2": "0"
     },
     {
@@ -137541,7 +137541,7 @@
         "zone_effect_id": "769482",
         "zone_effect_type_id": "4",
         "ability_id": "1117870",
-        "param1": "2250",
+        "param1": "1915",
         "param2": "0"
     },
     {
@@ -137554,7 +137554,7 @@
         "zone_effect_id": "769484",
         "zone_effect_type_id": "4",
         "ability_id": "1117871",
-        "param1": "2610",
+        "param1": "2220",
         "param2": "0"
     },
     {
@@ -137567,7 +137567,7 @@
         "zone_effect_id": "769486",
         "zone_effect_type_id": "4",
         "ability_id": "1117872",
-        "param1": "2970",
+        "param1": "2525",
         "param2": "0"
     },
     {
