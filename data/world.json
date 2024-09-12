@@ -36,18 +36,6 @@
         }
     },
     {
-        "world_id": "1",
-        "state": "online",
-        "name": {
-            "en": "Connery",
-            "de": "Connery",
-            "es": "Connery",
-            "fr": "Connery",
-            "it": "Connery",
-            "tr": "Connery"
-        }
-    },
-    {
         "world_id": "19",
         "state": "online",
         "name": {
@@ -69,6 +57,18 @@
             "fr": "Apex",
             "it": "Apex",
             "tr": "Apex"
+        }
+    },
+    {
+        "world_id": "1",
+        "state": "online",
+        "name": {
+            "en": "Connery",
+            "de": "Connery",
+            "es": "Connery",
+            "fr": "Connery",
+            "it": "Connery",
+            "tr": "Connery"
         }
     },
     {
