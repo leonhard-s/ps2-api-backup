@@ -24,18 +24,6 @@
         }
     },
     {
-        "world_id": "24",
-        "state": "online",
-        "name": {
-            "en": "Apex",
-            "de": "Apex",
-            "es": "Apex",
-            "fr": "Apex",
-            "it": "Apex",
-            "tr": "Apex"
-        }
-    },
-    {
         "world_id": "17",
         "state": "online",
         "name": {
@@ -45,6 +33,30 @@
             "fr": "Emerald",
             "it": "Smeraldo",
             "tr": "Emerald"
+        }
+    },
+    {
+        "world_id": "40",
+        "state": "online",
+        "name": {
+            "en": "SolTech",
+            "de": "SolTech",
+            "es": "SolTech",
+            "fr": "SolTech",
+            "it": "SolTech",
+            "tr": "SolTech"
+        }
+    },
+    {
+        "world_id": "24",
+        "state": "online",
+        "name": {
+            "en": "Apex",
+            "de": "Apex",
+            "es": "Apex",
+            "fr": "Apex",
+            "it": "Apex",
+            "tr": "Apex"
         }
     },
     {
@@ -69,18 +81,6 @@
             "fr": "Connery",
             "it": "Connery",
             "tr": "Connery"
-        }
-    },
-    {
-        "world_id": "40",
-        "state": "online",
-        "name": {
-            "en": "SolTech",
-            "de": "SolTech",
-            "es": "SolTech",
-            "fr": "SolTech",
-            "it": "SolTech",
-            "tr": "SolTech"
         }
     },
     {
