@@ -10580,13 +10580,6 @@
         "refill_ammo_rate": "6"
     },
     {
-        "weapon_id": "78837",
-        "weapon_slot_index": "0",
-        "clip_size": "0",
-        "capacity": "0",
-        "refill_ammo_rate": "0"
-    },
-    {
         "weapon_id": "78838",
         "weapon_slot_index": "0",
         "clip_size": "6",
@@ -10641,5 +10634,42 @@
         "clip_size": "999",
         "capacity": "9999",
         "refill_ammo_rate": "150"
+    },
+    {
+        "weapon_id": "78851",
+        "weapon_slot_index": "0",
+        "clip_size": "999",
+        "capacity": "9999"
+    },
+    {
+        "weapon_id": "78852",
+        "weapon_slot_index": "0",
+        "clip_size": "999",
+        "capacity": "9999"
+    },
+    {
+        "weapon_id": "78853",
+        "weapon_slot_index": "0",
+        "clip_size": "999",
+        "capacity": "9999"
+    },
+    {
+        "weapon_id": "78855",
+        "weapon_slot_index": "0",
+        "clip_size": "999",
+        "capacity": "9999"
+    },
+    {
+        "weapon_id": "78856",
+        "weapon_slot_index": "0",
+        "clip_size": "999",
+        "capacity": "9999"
+    },
+    {
+        "weapon_id": "78857",
+        "weapon_slot_index": "0",
+        "clip_size": "1",
+        "capacity": "1",
+        "refill_ammo_rate": "1"
     }
 ]

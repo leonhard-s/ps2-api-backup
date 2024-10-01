@@ -3572,5 +3572,15 @@
             "fr": "d'Esamir",
             "it": "di Esamir"
         }
+    },
+    {
+        "title_id": "476",
+        "name": {
+            "de": "El Muerto",
+            "en": "El Muerto",
+            "es": "El Muerto",
+            "fr": "El Muerto",
+            "it": "El Muerto"
+        }
     }
 ]

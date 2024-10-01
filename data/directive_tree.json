@@ -1494,7 +1494,23 @@
     {
         "directive_tree_id": "135",
         "directive_tree_category_id": "17",
-        "image_set_id": "0"
+        "name": {
+            "de": "Angeln",
+            "en": "Fishing",
+            "es": "Pesca",
+            "fr": "P\u00eache",
+            "it": "Pesca"
+        },
+        "description": {
+            "de": "Angeln",
+            "en": "Fishing",
+            "es": "Pesca",
+            "fr": "P\u00eache",
+            "it": "Pesca"
+        },
+        "image_set_id": "808177",
+        "image_id": "97804",
+        "image_path": "/files/ps2/images/static/97804.png"
     },
     {
         "directive_tree_id": "136",
@@ -1587,5 +1603,19 @@
         "image_set_id": "14163",
         "image_id": "79586",
         "image_path": "/files/ps2/images/static/79586.png"
+    },
+    {
+        "directive_tree_id": "143",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Naniten der lebenden Toten 2024",
+            "en": "Nanite of the Living Dead 2024",
+            "es": "Nanite de los muertos vivientes 2024",
+            "fr": "Nuit Nanite des Morts-Vivants 2024",
+            "it": "La notte dei naniti viventi 2024"
+        },
+        "image_set_id": "82818",
+        "image_id": "80676",
+        "image_path": "/files/ps2/images/static/80676.png"
     }
 ]

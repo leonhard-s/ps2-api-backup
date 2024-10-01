@@ -6085,6 +6085,8 @@
     {
         "directive_tree_id": "135",
         "directive_tier_id": "1",
+        "directive_points": "0",
+        "completion_count": "999",
         "name": {
             "de": "Gew\u00f6hnlich",
             "en": "Common",
@@ -6092,13 +6094,15 @@
             "fr": "Commun",
             "it": "Comune"
         },
-        "image_set_id": "806700",
-        "image_id": "93571",
-        "image_path": "/files/ps2/images/static/93571.png"
+        "image_set_id": "808174",
+        "image_id": "97797",
+        "image_path": "/files/ps2/images/static/97797.png"
     },
     {
         "directive_tree_id": "135",
         "directive_tier_id": "2",
+        "directive_points": "0",
+        "completion_count": "999",
         "name": {
             "de": "Selten",
             "en": "Rare",
@@ -6106,9 +6110,25 @@
             "fr": "Rare",
             "it": "Raro"
         },
-        "image_set_id": "806701",
-        "image_id": "93574",
-        "image_path": "/files/ps2/images/static/93574.png"
+        "image_set_id": "808175",
+        "image_id": "97800",
+        "image_path": "/files/ps2/images/static/97800.png"
+    },
+    {
+        "directive_tree_id": "135",
+        "directive_tier_id": "3",
+        "directive_points": "0",
+        "completion_count": "999",
+        "name": {
+            "de": "Legend\u00e4r",
+            "en": "Legendary",
+            "es": "Legendario",
+            "fr": "L\u00e9gendaire",
+            "it": "Leggendario"
+        },
+        "image_set_id": "808176",
+        "image_id": "97803",
+        "image_path": "/files/ps2/images/static/97803.png"
     },
     {
         "directive_tree_id": "136",
@@ -6514,5 +6534,70 @@
         "image_set_id": "13619",
         "image_id": "78182",
         "image_path": "/files/ps2/images/static/78182.png"
+    },
+    {
+        "directive_tree_id": "143",
+        "directive_tier_id": "1",
+        "reward_set_id": "6302",
+        "completion_count": "4",
+        "name": {
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
+        },
+        "image_set_id": "82820",
+        "image_id": "80683",
+        "image_path": "/files/ps2/images/static/80683.png"
+    },
+    {
+        "directive_tree_id": "143",
+        "directive_tier_id": "2",
+        "reward_set_id": "6303",
+        "completion_count": "3",
+        "name": {
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Experto",
+            "fr": "Adepte",
+            "it": "Adepto",
+            "tr": "Usta"
+        },
+        "image_set_id": "82822",
+        "image_id": "80688",
+        "image_path": "/files/ps2/images/static/80688.png"
+    },
+    {
+        "directive_tree_id": "143",
+        "directive_tier_id": "3",
+        "reward_set_id": "6304",
+        "completion_count": "4",
+        "name": {
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
+        },
+        "image_set_id": "82821",
+        "image_id": "80685",
+        "image_path": "/files/ps2/images/static/80685.png"
+    },
+    {
+        "directive_tree_id": "143",
+        "directive_tier_id": "4",
+        "reward_set_id": "6306",
+        "completion_count": "4",
+        "name": {
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
+        },
+        "image_set_id": "82819",
+        "image_id": "80680",
+        "image_path": "/files/ps2/images/static/80680.png"
     }
 ]
