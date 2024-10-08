@@ -24,6 +24,18 @@
         }
     },
     {
+        "world_id": "24",
+        "state": "online",
+        "name": {
+            "en": "Apex",
+            "de": "Apex",
+            "es": "Apex",
+            "fr": "Apex",
+            "it": "Apex",
+            "tr": "Apex"
+        }
+    },
+    {
         "world_id": "17",
         "state": "online",
         "name": {
@@ -45,18 +57,6 @@
             "fr": "SolTech",
             "it": "SolTech",
             "tr": "SolTech"
-        }
-    },
-    {
-        "world_id": "24",
-        "state": "online",
-        "name": {
-            "en": "Apex",
-            "de": "Apex",
-            "es": "Apex",
-            "fr": "Apex",
-            "it": "Apex",
-            "tr": "Apex"
         }
     },
     {
