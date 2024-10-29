@@ -12,15 +12,15 @@
         }
     },
     {
-        "world_id": "13",
+        "world_id": "24",
         "state": "online",
         "name": {
-            "en": "Cobalt",
-            "de": "Cobalt",
-            "es": "Cobalt",
-            "fr": "Cobalt",
-            "it": "Cobalt",
-            "tr": "Cobalt"
+            "en": "Apex",
+            "de": "Apex",
+            "es": "Apex",
+            "fr": "Apex",
+            "it": "Apex",
+            "tr": "Apex"
         }
     },
     {
@@ -45,18 +45,6 @@
             "fr": "SolTech",
             "it": "SolTech",
             "tr": "SolTech"
-        }
-    },
-    {
-        "world_id": "24",
-        "state": "online",
-        "name": {
-            "en": "Apex",
-            "de": "Apex",
-            "es": "Apex",
-            "fr": "Apex",
-            "it": "Apex",
-            "tr": "Apex"
         }
     },
     {
