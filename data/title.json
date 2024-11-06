@@ -3582,5 +3582,135 @@
             "fr": "El Muerto",
             "it": "El Muerto"
         }
+    },
+    {
+        "title_id": "477",
+        "name": {
+            "de": "Repr\u00e4sentant",
+            "en": "Representative",
+            "es": "Representante",
+            "fr": "Repr\u00e9sentant",
+            "it": "Agente"
+        }
+    },
+    {
+        "title_id": "478",
+        "name": {
+            "de": "Koordinator",
+            "en": "Coordinator",
+            "es": "Coordinador",
+            "fr": "Coordinateur",
+            "it": "Coordinatore"
+        }
+    },
+    {
+        "title_id": "479",
+        "name": {
+            "de": "Arch\u00e4o-Techniker",
+            "en": "Archaeo-Technician",
+            "es": "Arqueot\u00e9cnico",
+            "fr": "Arch\u00e9o-technicien",
+            "it": "Archeo-tecnico"
+        }
+    },
+    {
+        "title_id": "480",
+        "name": {
+            "de": "Tochter der D\u00e4mmerung",
+            "en": "Daughter of Dawn",
+            "es": "Hija del Amanecer",
+            "fr": "Fille de l'Aube",
+            "it": "Figlia di Dawn"
+        }
+    },
+    {
+        "title_id": "481",
+        "name": {
+            "de": "Sohn der D\u00e4mmerung",
+            "en": "Son of Dawn",
+            "es": "Hijo del Amanecer",
+            "fr": "Fils de l'Aube",
+            "it": "Figlio di Dawn"
+        }
+    },
+    {
+        "title_id": "482",
+        "name": {
+            "de": "Kind der D\u00e4mmerung",
+            "en": "Child of Dawn",
+            "es": "Progenie del Amanecer",
+            "fr": "Enfant de l'Aube",
+            "it": "Bambino di Dawn"
+        }
+    },
+    {
+        "title_id": "483",
+        "name": {
+            "de": "Justiziar",
+            "en": "Justiciar",
+            "es": "Justiciero",
+            "fr": "Justiciar",
+            "it": "Giustiziere"
+        }
+    },
+    {
+        "title_id": "484",
+        "name": {
+            "de": "Arbitrator",
+            "en": "Arbitrator",
+            "es": "\u00c1rbitro",
+            "fr": "M\u00e9diator",
+            "it": "Mediatore"
+        }
+    },
+    {
+        "title_id": "485",
+        "name": {
+            "de": "Kr\u00e4he",
+            "en": "Crow",
+            "es": "Cuervo",
+            "fr": "Corbeau",
+            "it": "Corvo"
+        }
+    },
+    {
+        "title_id": "486",
+        "name": {
+            "de": "Gal Uru",
+            "en": "Gal Uru",
+            "es": "Gal Uru",
+            "fr": "Gal Uru",
+            "it": "Gal Uru"
+        }
+    },
+    {
+        "title_id": "487",
+        "name": {
+            "de": "Ugula",
+            "en": "Ugula",
+            "es": "Ugula",
+            "fr": "Ugula",
+            "it": "Ugula"
+        }
+    },
+    {
+        "title_id": "488",
+        "name": {
+            "de": "Erin",
+            "en": "Erin",
+            "es": "Erin",
+            "fr": "Erin",
+            "it": "Erin"
+        }
+    },
+    {
+        "title_id": "489",
+        "name": {
+            "de": "Sucher",
+            "en": "Seeker",
+            "es": "Buscador",
+            "fr": "Aspirant",
+            "it": "Seeker"
+        }
     }
 ]
