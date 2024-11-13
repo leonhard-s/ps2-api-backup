@@ -141486,5 +141486,10 @@
         "param2": "6",
         "param3": "10",
         "param4": "0"
+    },
+    {
+        "zone_effect_id": "769998",
+        "zone_effect_type_id": "37",
+        "ability_id": "1117962"
     }
 ]

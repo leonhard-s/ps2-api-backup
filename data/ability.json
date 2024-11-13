@@ -33281,5 +33281,11 @@
         "radius_max": "0",
         "flag_toggle": "0",
         "param1": "1"
+    },
+    {
+        "ability_id": "1117962",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "8000",
+        "flag_toggle": "0"
     }
 ]

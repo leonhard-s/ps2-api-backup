@@ -251,6 +251,7 @@
         "param2": "Count",
         "param3": "Any Fish",
         "param4": "Rarity",
-        "param5": "Size"
+        "param5": "Size",
+        "param6": "ZoneSet"
     }
 ]

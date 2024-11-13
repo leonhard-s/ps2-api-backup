@@ -1617,5 +1617,26 @@
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+        "directive_tree_id": "145",
+        "directive_tree_category_id": "11",
+        "name": {
+            "de": "Au\u00dfergew\u00f6hnlich IX",
+            "en": "Exceptional IX",
+            "es": "Excepcional IX",
+            "fr": "Exceptionnel IX",
+            "it": "Eccezionale IX"
+        },
+        "description": {
+            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
+            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
+            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
+            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
+            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
+        },
+        "image_set_id": "14396",
+        "image_id": "79737",
+        "image_path": "/files/ps2/images/static/79737.png"
     }
 ]
