@@ -93,5 +93,15 @@
             "fr": "Collections",
             "it": "Collezioni"
         }
+    },
+    {
+        "directive_tree_category_id": "20",
+        "name": {
+            "de": "Angeln",
+            "en": "Fishing",
+            "es": "Pesca",
+            "fr": "P\u00eache",
+            "it": "Pesca"
+        }
     }
 ]
