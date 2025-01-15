@@ -10108,5 +10108,30 @@
         "fire_group_id": "81048",
         "fire_mode_id": "81487",
         "fire_mode_index": "1"
+    },
+    {
+        "fire_group_id": "81049",
+        "fire_mode_id": "81488",
+        "fire_mode_index": "0"
+    },
+    {
+        "fire_group_id": "81051",
+        "fire_mode_id": "81490",
+        "fire_mode_index": "0"
+    },
+    {
+        "fire_group_id": "81052",
+        "fire_mode_id": "81491",
+        "fire_mode_index": "0"
+    },
+    {
+        "fire_group_id": "81053",
+        "fire_mode_id": "81492",
+        "fire_mode_index": "0"
+    },
+    {
+        "fire_group_id": "81054",
+        "fire_mode_id": "81493",
+        "fire_mode_index": "0"
     }
 ]

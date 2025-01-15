@@ -4926,5 +4926,26 @@
         "fire_group_id": "81048",
         "transition_duration_ms": "500",
         "can_chamber_ironsights": "1"
+    },
+    {
+        "fire_group_id": "81049",
+        "transition_duration_ms": "500",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "81051",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "81052",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "81053",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "81054",
+        "can_chamber_ironsights": "0"
     }
 ]
