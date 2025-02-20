@@ -26362,6 +26362,11 @@
         "flag_toggle": "0"
     },
     {
+        "ability_id": "1116485",
+        "ability_type_id": "3",
+        "flag_toggle": "0"
+    },
+    {
         "ability_id": "1116486",
         "ability_type_id": "3",
         "flag_toggle": "0"
@@ -33521,6 +33526,12 @@
     },
     {
         "ability_id": "1117985",
+        "ability_type_id": "12",
+        "reuse_delay_msec": "8000",
+        "flag_toggle": "0"
+    },
+    {
+        "ability_id": "1117986",
         "ability_type_id": "12",
         "reuse_delay_msec": "8000",
         "flag_toggle": "0"

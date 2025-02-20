@@ -3712,5 +3712,15 @@
             "fr": "Aspirant",
             "it": "Seeker"
         }
+    },
+    {
+        "title_id": "490",
+        "name": {
+            "de": "Herzensbrecher",
+            "en": "Heartbreaker",
+            "es": "Rompecorazones",
+            "fr": "Bourreau des coeurs",
+            "it": "Rubacuori"
+        }
     }
 ]

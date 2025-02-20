@@ -5561,5 +5561,113 @@
         "param1": "6015835",
         "param2": "0",
         "param3": "0"
+    },
+    {
+        "reward_id": "10604",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015938",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10605",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015898",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10606",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015925",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10607",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015927",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10608",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015929",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10609",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015931",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10610",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015930",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10611",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015928",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10616",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015935",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10627",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015936",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10628",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015937",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10629",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6015932",
+        "param2": "0",
+        "param3": "0"
     }
 ]

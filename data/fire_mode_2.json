@@ -89838,7 +89838,7 @@
         "fire_mode_type_id": "0",
         "automatic": "1",
         "grief_immune": "0",
-        "iron_sights": "0",
+        "iron_sights": "1",
         "laser_guided": "0",
         "move_modifier": "0.75",
         "sprint_fire": "0",

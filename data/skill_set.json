@@ -23869,5 +23869,25 @@
         "image_set_id": "807394",
         "image_id": "95507",
         "image_path": "/files/ps2/images/static/95507.png"
+    },
+    {
+        "skill_set_id": "1987",
+        "name": {
+            "de": "Aufkl\u00e4rungsdrohnen-Granate",
+            "en": "Recon Drone Grenade",
+            "es": "Granada de VANT de reconocimiento",
+            "fr": "Grenade de drone de reconnaissance",
+            "it": "Granata per Drone di ricognizione"
+        },
+        "description": {
+            "de": "Erm\u00f6glicht die Anbringung einer Granate, die auf den Feind abgeworfen werden kann.",
+            "en": "Allows to attach a grenade for dropping on enemies",
+            "es": "Permite acoplar una granada para soltarla sobre enemigos.",
+            "fr": "Permet d'y attacher une grenade \u00e0 larguer sur les ennemis",
+            "it": "Consente di agganciare una granata da sganciare sui nemici"
+        },
+        "image_set_id": "1561",
+        "image_id": "2704",
+        "image_path": "/files/ps2/images/static/2704.png"
     }
 ]
