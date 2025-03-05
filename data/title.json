@@ -3722,5 +3722,15 @@
             "fr": "Bourreau des coeurs",
             "it": "Rubacuori"
         }
+    },
+    {
+        "title_id": "491",
+        "name": {
+            "de": "Taktischer Bewerter",
+            "en": "Tactical Evaluator",
+            "es": "Analista t\u00e1ctico",
+            "fr": "Appr\u00e9ciateur tactique",
+            "it": "Valutatore tattico"
+        }
     }
 ]

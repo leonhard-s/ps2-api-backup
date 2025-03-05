@@ -1688,5 +1688,19 @@
             "fr": "\u00c9v\u00e9nement de directives de la Saint-Valentin ! Effectif tout le mois de f\u00e9vrier !",
             "it": "Evento direttiva di San Valentino! Disponibile per tutto febbraio!"
         }
+    },
+    {
+        "directive_tree_id": "152",
+        "directive_tree_category_id": "20",
+        "name": {
+            "de": "Angelmeister",
+            "en": "Fishing Mastery",
+            "es": "Maestr\u00eda de pesca",
+            "fr": "Ma\u00eetrise de la p\u00eache",
+            "it": "Padronanza nella pesca"
+        },
+        "image_set_id": "808177",
+        "image_id": "97804",
+        "image_path": "/files/ps2/images/static/97804.png"
     }
 ]

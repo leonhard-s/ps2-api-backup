@@ -972,5 +972,15 @@
             "fr": "Fusil antimat\u00e9riel",
             "it": "Fucile anti-materiale"
         }
+    },
+    {
+        "item_category_id": "226",
+        "name": {
+            "de": "Angel-Scanner",
+            "en": "Fishing Scanners",
+            "es": "Esc\u00e1neres de pesca",
+            "fr": "Scanners de p\u00eache",
+            "it": "Scanner per la pesca"
+        }
     }
 ]
