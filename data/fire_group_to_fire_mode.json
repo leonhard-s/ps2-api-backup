@@ -9950,6 +9950,11 @@
         "fire_mode_index": "1"
     },
     {
+        "fire_group_id": "81023",
+        "fire_mode_id": "81439",
+        "fire_mode_index": "0"
+    },
+    {
         "fire_group_id": "81024",
         "fire_mode_id": "81441",
         "fire_mode_index": "0"
@@ -10132,6 +10137,16 @@
     {
         "fire_group_id": "81054",
         "fire_mode_id": "81493",
+        "fire_mode_index": "0"
+    },
+    {
+        "fire_group_id": "81055",
+        "fire_mode_id": "81494",
+        "fire_mode_index": "0"
+    },
+    {
+        "fire_group_id": "81056",
+        "fire_mode_id": "81495",
         "fire_mode_index": "0"
     },
     {

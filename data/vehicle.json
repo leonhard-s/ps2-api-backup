@@ -1619,5 +1619,30 @@
         "type_id": "7",
         "type_name": "Umovable Turret",
         "image_set_id": "808120"
+    },
+    {
+        "vehicle_id": "2153",
+        "name": {
+            "de": "Stryder",
+            "en": "Stryder",
+            "es": "Stryder",
+            "fr": "Stryder",
+            "it": "Stryder"
+        },
+        "description": {
+            "de": "Der Magrider ist ein Luftkissenpanzer, der ausschlie\u00dflich von der Vanu-Souver\u00e4nit\u00e4t genutzt wird. Mit seinen Schwebeeigenschaften kann er weitaus mehr Gel\u00e4ndearten als andere Panzer bezwingen.",
+            "en": "The Magrider is a hover tank used exclusively by the Vanu Sovereignty.  Its hover capabilities allow it ability strafe and climb more types of terrain beyond other tanks.",
+            "es": "El Magrider es un tanque aerodeslizador exclusivo de la Soberan\u00eda Vanu. Sus capacidades para sostenerse en el aire le permiten realizar desplazamientos laterales y trepar por todo tipo de terrenos inalcanzables para otros tanques.",
+            "fr": "L'A\u00e9rochar est un char planeur utilis\u00e9 exclusivement par la Souverainet\u00e9 Vanu. Ses capacit\u00e9s de vol stationnaire lui permettent de se d\u00e9placer lat\u00e9ralement et d'arpenter davantage de types de terrains que les autres chars.",
+            "it": "Il Magrider \u00e8 il carro armato aeroscivolante della Sovranit\u00e0 Vanu. La sua capacit\u00e0 di librarsi gli consente di spostarsi lateralmente e di arrampicarsi su una variet\u00e0 di terreni, in modo superiore agli altri carri.",
+            "tr": "S\u00fcvari, sadece Vanu H\u00fck\u00fcmdarl\u0131\u011f\u0131'nda mevcut olan orta s\u0131n\u0131f bir tankt\u0131r. S\u00fcvari, havada durma \u00f6zellikleri sayesinde yanlara d\u00f6n\u00fc\u015f kabiliyetine ve farkl\u0131 tip arazilerde di\u011fer tanklara g\u00f6re daha fazla t\u0131rmanma \u00f6zelli\u011fine sahiptir."
+        },
+        "type_id": "2",
+        "type_name": "Hover Tank",
+        "cost": "0",
+        "cost_resource_id": "4",
+        "image_set_id": "95",
+        "image_id": "3987",
+        "image_path": "/files/ps2/images/static/3987.png"
     }
 ]

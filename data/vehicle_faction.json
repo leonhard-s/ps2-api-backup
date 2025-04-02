@@ -706,5 +706,9 @@
     {
         "vehicle_id": "2145",
         "faction_id": "4"
+    },
+    {
+        "vehicle_id": "2153",
+        "faction_id": "1"
     }
 ]

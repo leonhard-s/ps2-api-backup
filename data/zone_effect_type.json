@@ -465,5 +465,15 @@
         "param13": "DamageType",
         "param14": "DamageType",
         "string1": "DamageType"
+    },
+    {
+        "zone_effect_type_id": "490",
+        "description": "Set Ammo By Item Amount",
+        "param1": "ItemClass",
+        "param2": "AmmoSlot",
+        "param3": "ItemClassification",
+        "param4": "ItemId",
+        "param5": "LoadoutSlotId",
+        "param6": "SetInfinite"
     }
 ]
