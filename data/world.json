@@ -12,30 +12,6 @@
         }
     },
     {
-        "world_id": "24",
-        "state": "online",
-        "name": {
-            "en": "Apex",
-            "de": "Apex",
-            "es": "Apex",
-            "fr": "Apex",
-            "it": "Apex",
-            "tr": "Apex"
-        }
-    },
-    {
-        "world_id": "17",
-        "state": "online",
-        "name": {
-            "en": "Emerald",
-            "de": "Smaragd",
-            "es": "Esmeralda",
-            "fr": "Emerald",
-            "it": "Smeraldo",
-            "tr": "Emerald"
-        }
-    },
-    {
         "world_id": "40",
         "state": "online",
         "name": {
@@ -69,6 +45,18 @@
             "fr": "Connery",
             "it": "Connery",
             "tr": "Connery"
+        }
+    },
+    {
+        "world_id": "24",
+        "state": "online",
+        "name": {
+            "en": "Apex",
+            "de": "Apex",
+            "es": "Apex",
+            "fr": "Apex",
+            "it": "Apex",
+            "tr": "Apex"
         }
     },
     {
