@@ -6605,7 +6605,7 @@
         "directive_tier_id": "1",
         "reward_set_id": "6332",
         "directive_points": "5",
-        "completion_count": "2",
+        "completion_count": "4",
         "name": {
             "de": "Anf\u00e4nger",
             "en": "Novice",
@@ -6870,7 +6870,7 @@
         "image_path": "/files/ps2/images/static/84283.png"
     },
     {
-        "directive_tree_id": "152",
+        "directive_tree_id": "154",
         "directive_tier_id": "1",
         "reward_set_id": "6328",
         "directive_points": "5",
@@ -6887,7 +6887,7 @@
         "image_path": "/files/ps2/images/static/97797.png"
     },
     {
-        "directive_tree_id": "152",
+        "directive_tree_id": "154",
         "directive_tier_id": "2",
         "reward_set_id": "6329",
         "directive_points": "10",
@@ -6904,7 +6904,7 @@
         "image_path": "/files/ps2/images/static/97800.png"
     },
     {
-        "directive_tree_id": "152",
+        "directive_tree_id": "154",
         "directive_tier_id": "3",
         "reward_set_id": "6330",
         "directive_points": "25",
@@ -6921,7 +6921,7 @@
         "image_path": "/files/ps2/images/static/97803.png"
     },
     {
-        "directive_tree_id": "152",
+        "directive_tree_id": "154",
         "directive_tier_id": "4",
         "reward_set_id": "6331",
         "directive_points": "100",

@@ -474,6 +474,7 @@
         "param3": "ItemClassification",
         "param4": "ItemId",
         "param5": "LoadoutSlotId",
-        "param6": "SetInfinite"
+        "param6": "SetInfinite",
+        "param7": "ConsumeInCode"
     }
 ]
