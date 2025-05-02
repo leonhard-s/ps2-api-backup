@@ -24,14 +24,6 @@
         }
     },
     {
-        "world_id": "1",
-        "state": "online"
-    },
-    {
-        "world_id": "10",
-        "state": "online"
-    },
-    {
         "world_id": "24",
         "state": "online",
         "name": {
@@ -42,6 +34,14 @@
             "it": "Apex",
             "tr": "Apex"
         }
+    },
+    {
+        "world_id": "1",
+        "state": "online"
+    },
+    {
+        "world_id": "10",
+        "state": "online"
     },
     {
         "world_id": "25",
