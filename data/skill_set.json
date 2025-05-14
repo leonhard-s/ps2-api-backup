@@ -23889,5 +23889,29 @@
         "image_set_id": "1561",
         "image_id": "2704",
         "image_path": "/files/ps2/images/static/2704.png"
+    },
+    {
+        "skill_set_id": "1988",
+        "skill_points": "500",
+        "required_item_id": "6016017",
+        "name": {
+            "de": "PRIM\u00c4RWAFFE: Supernova PK",
+            "en": "PRIMARY WEAPON:  Supernova PC",
+            "es": "ARMA PRIMARIA: Supernova PC",
+            "fr": "ARME PRINCIPALE: CP Supernova",
+            "it": "ARMA PRIMARIA: Supernova PC",
+            "tr": "B\u0130R\u0130NC\u0130L - S\u00fcpernova PC"
+        },
+        "description": {
+            "de": "Die Supernova PK ist geladen mit einem hochexplosiven Panzerabwehr-Plasma, das gleicherma\u00dfen wirksam gegen Panzer und Infanterie ist. Nur f\u00fcr VS.",
+            "en": "The Supernova PC quickly reloads its high-explosive anti-tank plasma charges that carry balanced effectiveness against armor and infantry. VS use only.",
+            "es": "El Supernova PC dispara proyectiles antitanque de plasma altamente explosivos con buena velocidad de recarga que resultan eficaces contra blindados e infanter\u00eda por igual. Solo para SV.",
+            "fr": "Le Supernova CP recharge rapidement ses charges de plasma hautement explosif antichars qui sont d'une grande efficacit\u00e9 contre les armures et l'infanterie. SV uniquement.",
+            "it": "Il Supernova PC ricarica velocemente i suoi proiettili anticarro al plasma altamente esplosivi che hanno un'efficacia bilanciata contro i corazzati e la fanteria. Esclusivo SV.",
+            "tr": "The Supernova PC is charged with high explosive anti-tank plasma that is effective against armor and produce an explosion harmful to personnel.  VS use only."
+        },
+        "image_set_id": "749",
+        "image_id": "1829",
+        "image_path": "/files/ps2/images/static/1829.png"
     }
 ]

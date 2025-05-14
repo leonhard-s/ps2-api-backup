@@ -1690,6 +1690,62 @@
         }
     },
     {
+        "directive_tree_id": "148",
+        "directive_tree_category_id": "17",
+        "name": {
+            "de": "Indar-Hundemarken",
+            "en": "Indar Dog Tags",
+            "es": "Placas de identificaci\u00f3n de Indar",
+            "fr": "Plaques d'identit\u00e9 d'Indar",
+            "it": "Piastrine militari di Indar"
+        },
+        "image_set_id": "14448",
+        "image_id": "78104",
+        "image_path": "/files/ps2/images/static/78104.png"
+    },
+    {
+        "directive_tree_id": "149",
+        "directive_tree_category_id": "17",
+        "name": {
+            "de": "Amerish-Hundemarken",
+            "en": "Amerish Dog Tags",
+            "es": "Placas de identificaci\u00f3n de Amerish",
+            "fr": "Plaques d'identit\u00e9 d'Amerish",
+            "it": "Piastrine militari di Amerish"
+        },
+        "image_set_id": "14448",
+        "image_id": "78104",
+        "image_path": "/files/ps2/images/static/78104.png"
+    },
+    {
+        "directive_tree_id": "150",
+        "directive_tree_category_id": "17",
+        "name": {
+            "de": "Hossin-Hundemarken",
+            "en": "Hossin Dog Tags",
+            "es": "Placas de identificaci\u00f3n de Hossin",
+            "fr": "Plaques d'identit\u00e9 d'Hossin",
+            "it": "Piastrine militare di Hossin"
+        },
+        "image_set_id": "14448",
+        "image_id": "78104",
+        "image_path": "/files/ps2/images/static/78104.png"
+    },
+    {
+        "directive_tree_id": "151",
+        "directive_tree_category_id": "17",
+        "name": {
+            "de": "Esamir-Hundemarken",
+            "en": "Esamir Dog Tags",
+            "es": "Placas de identificaci\u00f3n de Indar",
+            "fr": "Plaques d'identit\u00e9 d'Esamir",
+            "it": "Piastrine militari di Esamir"
+        },
+        "image_set_id": "14448",
+        "image_id": "78104",
+        "image_path": "/files/ps2/images/static/78104.png"
+    },
+    {
         "directive_tree_id": "154",
         "directive_tree_category_id": "20",
         "name": {

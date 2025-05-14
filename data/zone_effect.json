@@ -143945,5 +143945,15 @@
         "param13": "0",
         "param14": "0",
         "string1": "StatId.FishingAttractor.Max.Legendary"
+    },
+    {
+        "zone_effect_id": "770121",
+        "zone_effect_type_id": "37",
+        "ability_id": "1117999"
+    },
+    {
+        "zone_effect_id": "770122",
+        "zone_effect_type_id": "37",
+        "ability_id": "1118000"
     }
 ]

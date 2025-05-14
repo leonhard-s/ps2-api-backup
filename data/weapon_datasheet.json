@@ -33035,5 +33035,25 @@
             "it": "Corto",
             "tr": "K\u0131sa"
         }
+    },
+    {
+        "item_id": "6016017",
+        "damage_min": "0",
+        "damage_max": "2250",
+        "reload_ms_min": "1000",
+        "reload_ms_max": "5500",
+        "clip_size": "1",
+        "capacity": "50",
+        "range": {
+            "de": "Sehr lang",
+            "en": "Very Long",
+            "es": "Muy largo",
+            "fr": "Tr\u00e8s long",
+            "it": "Molto lunga",
+            "tr": "\u00c7ok Uzun"
+        },
+        "show_clip_size": "1",
+        "show_fire_modes": "0",
+        "show_range": "1"
     }
 ]

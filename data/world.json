@@ -24,6 +24,46 @@
         }
     },
     {
+        "world_id": "1",
+        "state": "online",
+        "name": {
+            "en": "Osprey",
+            "de": "Osprey",
+            "es": "Osprey",
+            "fr": "Osprey",
+            "it": "Osprey",
+            "tr": "null"
+        },
+        "description": {
+            "en": "Osprey",
+            "de": "Osprey",
+            "es": "Osprey",
+            "fr": "Osprey",
+            "it": "Osprey",
+            "tr": "null"
+        }
+    },
+    {
+        "world_id": "10",
+        "state": "online",
+        "name": {
+            "en": "Wainwright",
+            "de": "Wainwright",
+            "es": "Wainwright",
+            "fr": "Wainwright",
+            "it": "Wainwright",
+            "tr": "null"
+        },
+        "description": {
+            "en": "Wainwright",
+            "de": "Wainwright",
+            "es": "Wainwright",
+            "fr": "Wainwright",
+            "it": "Wainwright",
+            "tr": "null"
+        }
+    },
+    {
         "world_id": "24",
         "state": "online",
         "name": {
@@ -34,14 +74,6 @@
             "it": "Apex",
             "tr": "Apex"
         }
-    },
-    {
-        "world_id": "1",
-        "state": "online"
-    },
-    {
-        "world_id": "10",
-        "state": "online"
     },
     {
         "world_id": "25",
