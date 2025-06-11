@@ -79672,7 +79672,7 @@
         "objective_id": "20587",
         "objective_type_id": "66",
         "objective_group_id": "19626",
-        "param1": "90030",
+        "param1": "94140",
         "param2": "1",
         "param3": "1"
     },
@@ -79735,7 +79735,7 @@
         "objective_id": "20599",
         "objective_type_id": "66",
         "objective_group_id": "19637",
-        "param1": "90030",
+        "param1": "94140",
         "param2": "1",
         "param3": "15"
     },
@@ -79798,7 +79798,7 @@
         "objective_id": "20605",
         "objective_type_id": "66",
         "objective_group_id": "19643",
-        "param1": "90030",
+        "param1": "94140",
         "param2": "1",
         "param3": "100"
     },
@@ -79861,9 +79861,9 @@
         "objective_id": "20611",
         "objective_type_id": "66",
         "objective_group_id": "19649",
-        "param1": "90030",
+        "param1": "94140",
         "param2": "1",
-        "param3": "2500"
+        "param3": "250"
     },
     {
         "objective_id": "20612",
@@ -96145,7 +96145,7 @@
         "objective_group_id": "21639",
         "param1": "94034",
         "param2": "1",
-        "param3": "2500"
+        "param3": "250"
     },
     {
         "objective_id": "22728",
@@ -96501,7 +96501,7 @@
         "objective_group_id": "21681",
         "param1": "94035",
         "param2": "1",
-        "param3": "2500"
+        "param3": "250"
     },
     {
         "objective_id": "22770",
@@ -96837,7 +96837,7 @@
         "objective_group_id": "21721",
         "param1": "94036",
         "param2": "1",
-        "param3": "2500"
+        "param3": "250"
     },
     {
         "objective_id": "22810",
@@ -97191,7 +97191,7 @@
         "objective_group_id": "21762",
         "param1": "94037",
         "param2": "1",
-        "param3": "2500"
+        "param3": "250"
     },
     {
         "objective_id": "22851",
@@ -102005,6 +102005,16 @@
         "param7": "Collection.EsamirDogTags",
         "param8": "0",
         "param9": "0"
+    },
+    {
+        "objective_id": "23384",
+        "objective_type_id": "69",
+        "objective_group_id": "22226",
+        "param1": "12",
+        "param2": "18",
+        "param3": "19",
+        "param4": "21",
+        "param5": "79"
     },
     {
         "objective_id": "23385",
