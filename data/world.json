@@ -24,6 +24,18 @@
         }
     },
     {
+        "world_id": "24",
+        "state": "online",
+        "name": {
+            "en": "Apex",
+            "de": "Apex",
+            "es": "Apex",
+            "fr": "Apex",
+            "it": "Apex",
+            "tr": "Apex"
+        }
+    },
+    {
         "world_id": "1",
         "state": "online",
         "name": {
@@ -61,18 +73,6 @@
             "fr": "Wainwright",
             "it": "Wainwright",
             "tr": "null"
-        }
-    },
-    {
-        "world_id": "24",
-        "state": "online",
-        "name": {
-            "en": "Apex",
-            "de": "Apex",
-            "es": "Apex",
-            "fr": "Apex",
-            "it": "Apex",
-            "tr": "Apex"
         }
     },
     {
