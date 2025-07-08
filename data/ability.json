@@ -33820,6 +33820,11 @@
         "flag_toggle": "0"
     },
     {
+        "ability_id": "1117998",
+        "ability_type_id": "6",
+        "flag_toggle": "0"
+    },
+    {
         "ability_id": "1117999",
         "ability_type_id": "3",
         "flag_toggle": "0"

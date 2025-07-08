@@ -642,6 +642,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "28",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -661,6 +662,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "29",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -680,6 +682,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "30",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -731,6 +734,7 @@
         "param1": "-1",
         "param2": "0",
         "param3": "0",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -740,6 +744,7 @@
         "param1": "-1",
         "param2": "0",
         "param3": "0",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -780,6 +785,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "454",
         "param1": "-0.15",
+        "param4": "9",
         "string1": "StatId.BreathDrainRate"
     },
     {
@@ -787,6 +793,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "455",
         "param1": "-0.1538",
+        "param4": "9",
         "string1": "StatId.BreathDrainRate"
     },
     {
@@ -794,6 +801,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "456",
         "param1": "-0.1591",
+        "param4": "9",
         "string1": "StatId.BreathDrainRate"
     },
     {
@@ -32286,6 +32294,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21000",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32310,6 +32319,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21001",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32334,6 +32344,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21002",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32358,6 +32369,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21003",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32382,6 +32394,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21004",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32406,6 +32419,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21005",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32430,6 +32444,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21006",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32454,6 +32469,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21007",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32478,6 +32494,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21008",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32502,6 +32519,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21009",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32526,6 +32544,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21010",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32550,6 +32569,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21011",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32574,6 +32594,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21012",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32598,6 +32619,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21013",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -32622,6 +32644,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "21014",
         "param1": "7",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -38645,6 +38668,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "138",
         "param1": "-0.667",
+        "param4": "5",
         "string1": "StatId.SprintSpeedModifier"
     },
     {
@@ -38652,6 +38676,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "140",
         "param1": "-0.667",
+        "param4": "5",
         "string1": "StatId.SprintSpeedModifier"
     },
     {
@@ -38659,6 +38684,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "141",
         "param1": "-0.667",
+        "param4": "5",
         "string1": "StatId.SprintSpeedModifier"
     },
     {
@@ -38666,6 +38692,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "142",
         "param1": "-0.667",
+        "param4": "5",
         "string1": "StatId.SprintSpeedModifier"
     },
     {
@@ -38673,6 +38700,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "143",
         "param1": "-0.667",
+        "param4": "5",
         "string1": "StatId.SprintSpeedModifier"
     },
     {
@@ -41324,6 +41352,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "236",
         "param1": "7",
+        "param4": "37",
         "string1": "StatId.DeployInfoId"
     },
     {
@@ -41331,6 +41360,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "237",
         "param1": "8",
+        "param4": "37",
         "string1": "StatId.DeployInfoId"
     },
     {
@@ -41338,6 +41368,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "238",
         "param1": "9",
+        "param4": "37",
         "string1": "StatId.DeployInfoId"
     },
     {
@@ -41345,6 +41376,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "239",
         "param1": "10",
+        "param4": "37",
         "string1": "StatId.DeployInfoId"
     },
     {
@@ -41352,6 +41384,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "240",
         "param1": "11",
+        "param4": "37",
         "string1": "StatId.DeployInfoId"
     },
     {
@@ -41432,6 +41465,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "138",
         "param1": "1.5",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -41439,6 +41473,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "138",
         "param1": "-0.033",
+        "param4": "7",
         "string1": "StatId.StrafeSpeedModifier"
     },
     {
@@ -41446,6 +41481,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "138",
         "param1": "-0.033",
+        "param4": "3",
         "string1": "StatId.BackpedalSpeedModifier"
     },
     {
@@ -42072,6 +42108,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "140",
         "param1": "1.5",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -42079,6 +42116,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "140",
         "param1": "-0.033",
+        "param4": "7",
         "string1": "StatId.StrafeSpeedModifier"
     },
     {
@@ -42086,6 +42124,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "140",
         "param1": "-0.033",
+        "param4": "3",
         "string1": "StatId.BackpedalSpeedModifier"
     },
     {
@@ -42093,6 +42132,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "141",
         "param1": "1.5",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -42100,6 +42140,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "141",
         "param1": "-0.033",
+        "param4": "7",
         "string1": "StatId.StrafeSpeedModifier"
     },
     {
@@ -42107,6 +42148,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "141",
         "param1": "-0.033",
+        "param4": "3",
         "string1": "StatId.BackpedalSpeedModifier"
     },
     {
@@ -42114,6 +42156,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "142",
         "param1": "1.5",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -42121,6 +42164,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "142",
         "param1": "-0.033",
+        "param4": "7",
         "string1": "StatId.StrafeSpeedModifier"
     },
     {
@@ -42128,6 +42172,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "142",
         "param1": "-0.033",
+        "param4": "3",
         "string1": "StatId.BackpedalSpeedModifier"
     },
     {
@@ -42135,6 +42180,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "143",
         "param1": "1.5",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -42142,6 +42188,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "143",
         "param1": "-0.033",
+        "param4": "7",
         "string1": "StatId.StrafeSpeedModifier"
     },
     {
@@ -42149,6 +42196,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "143",
         "param1": "-0.033",
+        "param4": "3",
         "string1": "StatId.BackpedalSpeedModifier"
     },
     {
@@ -48699,6 +48747,7 @@
         "ability_id": "70052",
         "param1": "0.5",
         "param2": "0",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -48706,6 +48755,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "70053",
         "param1": "0.5",
+        "param4": "54",
         "string1": "StatId.NaniteCurrencyMultiplier"
     },
     {
@@ -48713,6 +48763,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "70054",
         "param1": "1",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -53656,6 +53707,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "80395",
         "param1": "0.3",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -53663,6 +53715,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "80395",
         "param1": "0.3",
+        "param4": "15",
         "string1": "StatId.CurrencyBuff"
     },
     {
@@ -55462,6 +55515,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "138",
         "param1": "-1",
+        "param4": "21",
         "string1": "StatId.SprintAccelerationTime"
     },
     {
@@ -55469,6 +55523,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "138",
         "param1": "-0.125",
+        "param4": "22",
         "string1": "StatId.SprintDecelerationTime"
     },
     {
@@ -55476,6 +55531,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "140",
         "param1": "-1",
+        "param4": "21",
         "string1": "StatId.SprintAccelerationTime"
     },
     {
@@ -55483,6 +55539,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "140",
         "param1": "-0.125",
+        "param4": "22",
         "string1": "StatId.SprintDecelerationTime"
     },
     {
@@ -55490,6 +55547,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "141",
         "param1": "-1",
+        "param4": "21",
         "string1": "StatId.SprintAccelerationTime"
     },
     {
@@ -55497,6 +55555,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "141",
         "param1": "-0.125",
+        "param4": "22",
         "string1": "StatId.SprintDecelerationTime"
     },
     {
@@ -55504,6 +55563,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "142",
         "param1": "-1",
+        "param4": "21",
         "string1": "StatId.SprintAccelerationTime"
     },
     {
@@ -55511,6 +55571,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "142",
         "param1": "-0.125",
+        "param4": "22",
         "string1": "StatId.SprintDecelerationTime"
     },
     {
@@ -55518,6 +55579,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "143",
         "param1": "-1",
+        "param4": "21",
         "string1": "StatId.SprintAccelerationTime"
     },
     {
@@ -55525,6 +55587,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "143",
         "param1": "-0.125",
+        "param4": "22",
         "string1": "StatId.SprintDecelerationTime"
     },
     {
@@ -58514,6 +58577,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "2562",
         "param1": "0.1625",
+        "param4": "5",
         "string1": "StatId.SprintSpeedModifier"
     },
     {
@@ -60037,6 +60101,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "566",
         "param1": "-0.3",
+        "param4": "40",
         "string1": "StatId.CameraShakeModifier"
     },
     {
@@ -60044,6 +60109,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "566",
         "param1": "-0.3",
+        "param4": "39",
         "string1": "StatId.FlinchModifier"
     },
     {
@@ -60567,6 +60633,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "80420",
         "param1": "0.3",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -60574,6 +60641,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "80420",
         "param1": "0.3",
+        "param4": "15",
         "string1": "StatId.CurrencyBuff"
     },
     {
@@ -60581,6 +60649,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "80416",
         "param1": "0.3",
+        "param4": "15",
         "string1": "StatId.CurrencyBuff"
     },
     {
@@ -60588,6 +60657,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "80418",
         "param1": "0.3",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -66306,6 +66376,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111390",
         "param1": "0.1",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -66313,6 +66384,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111391",
         "param1": "0.15",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -66512,6 +66584,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111406",
         "param1": "-0.1667",
+        "param4": "9",
         "string1": "StatId.BreathDrainRate"
     },
     {
@@ -66534,6 +66607,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111425",
         "param1": "-0.33",
+        "param4": "39",
         "string1": "StatId.FlinchModifier"
     },
     {
@@ -66541,6 +66615,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111425",
         "param1": "-0.33",
+        "param4": "40",
         "string1": "StatId.CameraShakeModifier"
     },
     {
@@ -66548,6 +66623,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111426",
         "param1": "-0.4",
+        "param4": "39",
         "string1": "StatId.FlinchModifier"
     },
     {
@@ -66555,6 +66631,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111426",
         "param1": "-0.4",
+        "param4": "40",
         "string1": "StatId.CameraShakeModifier"
     },
     {
@@ -66562,6 +66639,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111427",
         "param1": "-0.5",
+        "param4": "39",
         "string1": "StatId.FlinchModifier"
     },
     {
@@ -66569,6 +66647,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111427",
         "param1": "-0.5",
+        "param4": "40",
         "string1": "StatId.CameraShakeModifier"
     },
     {
@@ -66582,6 +66661,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111445",
         "param1": "0.5",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -66589,6 +66669,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111446",
         "param1": "0.5",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -66596,6 +66677,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111447",
         "param1": "0.1",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -67420,6 +67502,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111557",
         "param1": "0.5",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -67427,6 +67510,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111559",
         "param1": "0.15",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -67434,6 +67518,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111561",
         "param1": "0.1",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -68633,6 +68718,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111558",
         "param1": "0.2",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -68640,6 +68726,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111560",
         "param1": "0.2",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -72233,7 +72320,7 @@
         "param1": "-3.5",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -72459,7 +72546,7 @@
         "ability_id": "1112088",
         "param1": "0.2",
         "param3": "0",
-        "param4": "0",
+        "param4": "4",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -72471,7 +72558,7 @@
         "ability_id": "1112089",
         "param1": "0.225",
         "param3": "0",
-        "param4": "0",
+        "param4": "4",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -72483,7 +72570,7 @@
         "ability_id": "1112090",
         "param1": "0.275",
         "param3": "0",
-        "param4": "0",
+        "param4": "4",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -72495,7 +72582,7 @@
         "ability_id": "1112091",
         "param1": "0.375",
         "param3": "0",
-        "param4": "0",
+        "param4": "4",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -74250,7 +74337,7 @@
         "ability_id": "1112208",
         "param1": "0.375",
         "param3": "0",
-        "param4": "0",
+        "param4": "4",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -75124,6 +75211,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111428",
         "param1": "-0.5",
+        "param4": "40",
         "string1": "StatId.CameraShakeModifier"
     },
     {
@@ -75131,6 +75219,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111428",
         "param1": "-0.5",
+        "param4": "39",
         "string1": "StatId.FlinchModifier"
     },
     {
@@ -75158,6 +75247,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1112297",
         "param1": "-0.1875",
+        "param4": "9",
         "string1": "StatId.BreathDrainRate"
     },
     {
@@ -75195,6 +75285,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "454",
         "param1": "50",
+        "param4": "38",
         "string1": "StatId.IffRange"
     },
     {
@@ -75202,6 +75293,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "455",
         "param1": "50",
+        "param4": "38",
         "string1": "StatId.IffRange"
     },
     {
@@ -75221,6 +75313,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "456",
         "param1": "50",
+        "param4": "38",
         "string1": "StatId.IffRange"
     },
     {
@@ -75228,6 +75321,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1111406",
         "param1": "50",
+        "param4": "38",
         "string1": "StatId.IffRange"
     },
     {
@@ -75241,6 +75335,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1112297",
         "param1": "50",
+        "param4": "38",
         "string1": "StatId.IffRange"
     },
     {
@@ -76165,6 +76260,7 @@
         "param1": "-1",
         "param2": "0",
         "param3": "0",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -77148,7 +77244,7 @@
         "ability_id": "1113078",
         "param2": "35",
         "param3": "0",
-        "param4": "0",
+        "param4": "3",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82275,6 +82371,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1112783",
         "param1": "0.2",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -82582,7 +82679,7 @@
         "param1": "-0.85",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82602,7 +82699,7 @@
         "param1": "-0.83",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82622,7 +82719,7 @@
         "param1": "-0.8",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82642,7 +82739,7 @@
         "param1": "-0.75",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82662,7 +82759,7 @@
         "param1": "0.1625",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "5",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82682,7 +82779,7 @@
         "param1": "-0.83",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82702,7 +82799,7 @@
         "param1": "-0.8",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82722,7 +82819,7 @@
         "param1": "-0.75",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82742,7 +82839,7 @@
         "param1": "0.1625",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "5",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82762,7 +82859,7 @@
         "param1": "-0.85",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82782,7 +82879,7 @@
         "param1": "-0.83",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82802,7 +82899,7 @@
         "param1": "-0.8",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82822,7 +82919,7 @@
         "param1": "-0.75",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82842,7 +82939,7 @@
         "param1": "0.1625",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "5",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -82862,7 +82959,7 @@
         "param1": "-0.85",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84864,7 +84961,7 @@
         "ability_id": "1113074",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "26",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84876,7 +84973,7 @@
         "ability_id": "1113074",
         "param2": "20",
         "param3": "0",
-        "param4": "0",
+        "param4": "7",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84888,7 +84985,7 @@
         "ability_id": "1113074",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "29",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84900,7 +84997,7 @@
         "ability_id": "1113075",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "26",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84912,7 +85009,7 @@
         "ability_id": "1113075",
         "param2": "23",
         "param3": "0",
-        "param4": "0",
+        "param4": "7",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84924,7 +85021,7 @@
         "ability_id": "1113075",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "29",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84936,7 +85033,7 @@
         "ability_id": "1113076",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "26",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84948,7 +85045,7 @@
         "ability_id": "1113076",
         "param2": "28",
         "param3": "0",
-        "param4": "0",
+        "param4": "7",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84960,7 +85057,7 @@
         "ability_id": "1113076",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "29",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84972,7 +85069,7 @@
         "ability_id": "1113077",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "26",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84984,7 +85081,7 @@
         "ability_id": "1113077",
         "param2": "35",
         "param3": "0",
-        "param4": "0",
+        "param4": "7",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -84996,7 +85093,7 @@
         "ability_id": "1113077",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "29",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85008,7 +85105,7 @@
         "ability_id": "1113078",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "26",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85020,7 +85117,7 @@
         "ability_id": "1113078",
         "param2": "35",
         "param3": "0",
-        "param4": "0",
+        "param4": "7",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85032,7 +85129,7 @@
         "ability_id": "1113078",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "29",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85044,7 +85141,7 @@
         "ability_id": "1113079",
         "param2": "-10",
         "param3": "0",
-        "param4": "0",
+        "param4": "21",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85056,7 +85153,7 @@
         "ability_id": "1113079",
         "param2": "-10",
         "param3": "0",
-        "param4": "0",
+        "param4": "22",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85079,7 +85176,7 @@
         "ability_id": "1113079",
         "param2": "50",
         "param3": "0",
-        "param4": "0",
+        "param4": "14",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85091,7 +85188,7 @@
         "ability_id": "1113080",
         "param2": "-12",
         "param3": "0",
-        "param4": "0",
+        "param4": "21",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85103,7 +85200,7 @@
         "ability_id": "1113080",
         "param2": "-12",
         "param3": "0",
-        "param4": "0",
+        "param4": "22",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85115,7 +85212,7 @@
         "ability_id": "1113080",
         "param2": "65",
         "param3": "0",
-        "param4": "0",
+        "param4": "14",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85138,7 +85235,7 @@
         "ability_id": "1113081",
         "param2": "-15",
         "param3": "0",
-        "param4": "0",
+        "param4": "21",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85150,7 +85247,7 @@
         "ability_id": "1113081",
         "param2": "-15",
         "param3": "0",
-        "param4": "0",
+        "param4": "22",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85173,7 +85270,7 @@
         "ability_id": "1113081",
         "param2": "80",
         "param3": "0",
-        "param4": "0",
+        "param4": "14",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85185,7 +85282,7 @@
         "ability_id": "1113082",
         "param2": "-20",
         "param3": "0",
-        "param4": "0",
+        "param4": "21",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85197,7 +85294,7 @@
         "ability_id": "1113082",
         "param2": "-20",
         "param3": "0",
-        "param4": "0",
+        "param4": "22",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85220,7 +85317,7 @@
         "ability_id": "1113082",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "14",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85232,7 +85329,7 @@
         "ability_id": "1113083",
         "param2": "-20",
         "param3": "0",
-        "param4": "0",
+        "param4": "21",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85244,7 +85341,7 @@
         "ability_id": "1113083",
         "param2": "-20",
         "param3": "0",
-        "param4": "0",
+        "param4": "22",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85267,7 +85364,7 @@
         "ability_id": "1113083",
         "param2": "100",
         "param3": "0",
-        "param4": "0",
+        "param4": "14",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -85946,6 +86043,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1113140",
         "param1": "-0.6",
+        "param4": "40",
         "string1": "StatId.CameraShakeModifier"
     },
     {
@@ -85953,6 +86051,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1113141",
         "param1": "-0.65",
+        "param4": "40",
         "string1": "StatId.CameraShakeModifier"
     },
     {
@@ -85960,6 +86059,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1113142",
         "param1": "-0.75",
+        "param4": "40",
         "string1": "StatId.CameraShakeModifier"
     },
     {
@@ -85967,6 +86067,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1113143",
         "param1": "-0.95",
+        "param4": "40",
         "string1": "StatId.CameraShakeModifier"
     },
     {
@@ -85974,6 +86075,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1113144",
         "param1": "-0.95",
+        "param4": "40",
         "string1": "StatId.CameraShakeModifier"
     },
     {
@@ -93838,7 +93940,7 @@
         "ability_id": "1115182",
         "param2": "-40",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -93857,7 +93959,7 @@
         "ability_id": "1115183",
         "param2": "-40",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -93876,7 +93978,7 @@
         "ability_id": "1115184",
         "param2": "-40",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -93895,7 +93997,7 @@
         "ability_id": "1115185",
         "param2": "-40",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -93914,7 +94016,7 @@
         "ability_id": "1115174",
         "param2": "-10",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -93933,7 +94035,7 @@
         "ability_id": "1115177",
         "param2": "-10",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -93952,7 +94054,7 @@
         "ability_id": "1115178",
         "param2": "-10",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -93971,7 +94073,7 @@
         "ability_id": "1115179",
         "param2": "-10",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -93990,6 +94092,7 @@
         "ability_id": "1115205",
         "param1": "0.5",
         "param2": "0",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -93997,6 +94100,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1115206",
         "param1": "0.5",
+        "param4": "54",
         "string1": "StatId.NaniteCurrencyMultiplier"
     },
     {
@@ -94004,6 +94108,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1115208",
         "param1": "0.5",
+        "param4": "51",
         "string1": "StatId.OutfitResourceMultiplier"
     },
     {
@@ -94204,7 +94309,7 @@
         "ability_id": "1115174",
         "param2": "0.01",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -94223,7 +94328,7 @@
         "ability_id": "1115177",
         "param2": "0.01",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -94242,7 +94347,7 @@
         "ability_id": "1115178",
         "param2": "0.01",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -94261,7 +94366,7 @@
         "ability_id": "1115179",
         "param2": "0.01",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -94280,7 +94385,7 @@
         "ability_id": "1115182",
         "param2": "-25",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -94299,7 +94404,7 @@
         "ability_id": "1115183",
         "param2": "-25",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -94318,7 +94423,7 @@
         "ability_id": "1115184",
         "param2": "-25",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -94337,7 +94442,7 @@
         "ability_id": "1115185",
         "param2": "-25",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -94356,7 +94461,7 @@
         "ability_id": "1115214",
         "param2": "-20",
         "param3": "0",
-        "param4": "0",
+        "param4": "21",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -94529,6 +94634,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1115230",
         "param1": "0.5",
+        "param4": "53",
         "string1": "StatId.MeritCurrencyMultiplier"
     },
     {
@@ -94536,6 +94642,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1115230",
         "param1": "0.5",
+        "param4": "16",
         "string1": "StatId.XpBuff"
     },
     {
@@ -111326,7 +111433,7 @@
         "ability_id": "1116519",
         "param2": "-10",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -111364,7 +111471,7 @@
         "ability_id": "1116519",
         "param2": "0.01",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -116469,6 +116576,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1116802",
         "param2": "20",
+        "param4": "5",
         "string1": "StatId.SprintSpeedModifier"
     },
     {
@@ -116680,6 +116788,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1116816",
         "param2": "20",
+        "param4": "5",
         "string1": "StatId.SprintSpeedModifier"
     },
     {
@@ -116767,6 +116876,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1116817",
         "param2": "20",
+        "param4": "5",
         "string1": "StatId.SprintSpeedModifier"
     },
     {
@@ -116854,6 +116964,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1116818",
         "param2": "20",
+        "param4": "5",
         "string1": "StatId.SprintSpeedModifier"
     },
     {
@@ -116941,6 +117052,7 @@
         "zone_effect_type_id": "18",
         "ability_id": "1116819",
         "param2": "25",
+        "param4": "5",
         "string1": "StatId.SprintSpeedModifier"
     },
     {
@@ -117140,6 +117252,7 @@
         "param1": "-1",
         "param2": "0",
         "param3": "0",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -117269,7 +117382,7 @@
         "param1": "-0.85",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -117289,7 +117402,7 @@
         "param1": "-0.83",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -117309,7 +117422,7 @@
         "param1": "-0.8",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -117329,7 +117442,7 @@
         "param1": "-0.75",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -117349,7 +117462,7 @@
         "param1": "0.1625",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "5",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -117471,6 +117584,7 @@
         "param1": "-1",
         "param2": "0",
         "param3": "0",
+        "param4": "2",
         "string1": "StatId.MaxMovementSpeed"
     },
     {
@@ -117600,7 +117714,7 @@
         "param1": "-0.85",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -117620,7 +117734,7 @@
         "param1": "-0.83",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -117640,7 +117754,7 @@
         "param1": "-0.8",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -117660,7 +117774,7 @@
         "param1": "-0.75",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "2",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -117680,7 +117794,7 @@
         "param1": "0.1625",
         "param2": "0",
         "param3": "0",
-        "param4": "0",
+        "param4": "5",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -128931,7 +129045,7 @@
         "param1": "0",
         "param2": "30",
         "param3": "0",
-        "param4": "0",
+        "param4": "5",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141530,7 +141644,7 @@
         "param1": "100",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "60",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141550,7 +141664,7 @@
         "param1": "3",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "63",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141570,7 +141684,7 @@
         "param1": "85",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "60",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141590,7 +141704,7 @@
         "param1": "3",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "63",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141610,7 +141724,7 @@
         "param1": "15",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "61",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141630,7 +141744,7 @@
         "param1": "1",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "64",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141650,7 +141764,7 @@
         "param1": "50",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "60",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141670,7 +141784,7 @@
         "param1": "3",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "63",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141690,7 +141804,7 @@
         "param1": "45",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "61",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141710,7 +141824,7 @@
         "param1": "2",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "64",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141730,7 +141844,7 @@
         "param1": "5",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "62",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141750,7 +141864,7 @@
         "param1": "1",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "65",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141770,7 +141884,7 @@
         "param1": "25",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "60",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141790,7 +141904,7 @@
         "param1": "3",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "63",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141810,7 +141924,7 @@
         "param1": "50",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "61",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141830,7 +141944,7 @@
         "param1": "2",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "64",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141850,7 +141964,7 @@
         "param1": "25",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "62",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141870,7 +141984,7 @@
         "param1": "1",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "65",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141916,7 +142030,7 @@
         "param1": "5",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "66",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141936,7 +142050,7 @@
         "param1": "5",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "66",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141956,7 +142070,7 @@
         "param1": "5",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "66",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141976,7 +142090,7 @@
         "param1": "35",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "67",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -141996,7 +142110,7 @@
         "param1": "0",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "68",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142016,7 +142130,7 @@
         "param1": "-20",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "69",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142036,7 +142150,7 @@
         "param1": "-90",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "69",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142056,7 +142170,7 @@
         "param1": "-20",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "67",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142076,7 +142190,7 @@
         "param1": "35",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "68",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142096,7 +142210,7 @@
         "param1": "0",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "69",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142116,7 +142230,7 @@
         "param1": "-40",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "69",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142136,7 +142250,7 @@
         "param1": "-90",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "67",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142156,7 +142270,7 @@
         "param1": "-20",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "68",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142176,7 +142290,7 @@
         "param1": "35",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "69",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142196,7 +142310,7 @@
         "param1": "10",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "69",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142216,7 +142330,7 @@
         "param1": "30",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "71",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142236,7 +142350,7 @@
         "param1": "30",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "71",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -142256,7 +142370,7 @@
         "param1": "30",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "71",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -143888,7 +144002,7 @@
         "param1": "0",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "64",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -143908,7 +144022,7 @@
         "param1": "0",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "65",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -143933,7 +144047,7 @@
         "param1": "0",
         "param2": "0",
         "param3": "1",
-        "param4": "0",
+        "param4": "65",
         "param5": "0",
         "param6": "0",
         "param7": "0",
@@ -143945,6 +144059,13 @@
         "param13": "0",
         "param14": "0",
         "string1": "StatId.FishingAttractor.Max.Legendary"
+    },
+    {
+        "zone_effect_id": "770118",
+        "zone_effect_type_id": "37",
+        "ability_id": "1117998",
+        "param1": "0",
+        "param2": "0"
     },
     {
         "zone_effect_id": "770121",

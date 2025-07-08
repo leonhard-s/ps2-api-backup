@@ -1758,5 +1758,23 @@
         "image_set_id": "808177",
         "image_id": "97804",
         "image_path": "/files/ps2/images/static/97804.png"
+    },
+    {
+        "directive_tree_id": "155",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Operation: Helios",
+            "en": "Operation: Helios",
+            "es": "Operaci\u00f3n: Helios",
+            "fr": "Op\u00e9ration : H\u00e9lios",
+            "it": "Operazione: Helios"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 5. August",
+            "en": "Available through August 5th",
+            "es": "Disponible hasta el 5 de agosto",
+            "fr": "Disponible jusqu'au 5 ao\u00fbt",
+            "it": "Disponibile fino al 5 agosto"
+        }
     }
 ]

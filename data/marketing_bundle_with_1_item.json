@@ -118318,5 +118318,26 @@
         "item_quantity": "1",
         "station_cash_price": "0",
         "release_time": "1747119632"
+    },
+    {
+        "marketing_bundle_id": "814035",
+        "item_id": "6016072",
+        "item_quantity": "1",
+        "station_cash_price": "0",
+        "release_time": "1751958000"
+    },
+    {
+        "marketing_bundle_id": "814036",
+        "item_id": "6016073",
+        "item_quantity": "1",
+        "station_cash_price": "550",
+        "release_time": "1751958000"
+    },
+    {
+        "marketing_bundle_id": "814037",
+        "item_id": "6016055",
+        "item_quantity": "1",
+        "station_cash_price": "100",
+        "release_time": "1751958000"
     }
 ]

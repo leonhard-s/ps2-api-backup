@@ -3732,5 +3732,15 @@
             "fr": "Appr\u00e9ciateur tactique",
             "it": "Valutatore tattico"
         }
+    },
+    {
+        "title_id": "492",
+        "name": {
+            "de": "Schiffsbauer",
+            "en": "Shipwright",
+            "es": "Naviero",
+            "fr": "Charpentier de marine",
+            "it": "Costruttore di navi"
+        }
     }
 ]

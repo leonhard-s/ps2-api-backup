@@ -119,6 +119,7 @@
         "param1": "Addend",
         "param2": "PcntAddend",
         "param3": "SetDirectly",
+        "param4": "StatId",
         "string1": "StatId"
     },
     {
