@@ -1,17 +1,5 @@
 [
     {
-        "world_id": "19",
-        "state": "online",
-        "name": {
-            "en": "Jaeger",
-            "de": "Jaeger",
-            "es": "Jaeger",
-            "fr": "Jaeger",
-            "it": "Jaeger",
-            "tr": "Jaeger"
-        }
-    },
-    {
         "world_id": "40",
         "state": "online",
         "name": {
@@ -73,6 +61,18 @@
             "fr": "Apex",
             "it": "Apex",
             "tr": "Apex"
+        }
+    },
+    {
+        "world_id": "19",
+        "state": "online",
+        "name": {
+            "en": "Jaeger",
+            "de": "Jaeger",
+            "es": "Jaeger",
+            "fr": "Jaeger",
+            "it": "Jaeger",
+            "tr": "Jaeger"
         }
     },
     {
