@@ -52,18 +52,6 @@
         }
     },
     {
-        "world_id": "24",
-        "state": "online",
-        "name": {
-            "en": "Apex",
-            "de": "Apex",
-            "es": "Apex",
-            "fr": "Apex",
-            "it": "Apex",
-            "tr": "Apex"
-        }
-    },
-    {
         "world_id": "19",
         "state": "online",
         "name": {
@@ -73,6 +61,18 @@
             "fr": "Jaeger",
             "it": "Jaeger",
             "tr": "Jaeger"
+        }
+    },
+    {
+        "world_id": "24",
+        "state": "online",
+        "name": {
+            "en": "Apex",
+            "de": "Apex",
+            "es": "Apex",
+            "fr": "Apex",
+            "it": "Apex",
+            "tr": "Apex"
         }
     },
     {
