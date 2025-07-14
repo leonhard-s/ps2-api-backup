@@ -26,22 +26,19 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
       - name: Run scraper
+        id: run_scraper
+        continue-on-error: true
         env:
           SERVICE_ID: ${{secrets.REPO_SERVICE_ID}}
         run: |
           python tools/scraper.py
-      - name: Cancel workflow on error
-        if: ${{ failure() }}
-        uses: styfle/cancel-workflow-action@0.10.0
-        with:
-          access_token: ${{ github.token }}
-      - name: Filter changes
-        run: |
-          git add data
-          git stash save --keep-index --include-untracked
-      - name: Commit and push relevant changes
+
+      - name: Commit changes
+        if: steps.run_scraper.outcome == 'success'
         continue-on-error: true
         run: |
+          git add data/
           git commit -m "Automatic Scraper Update"
           git push origin main
