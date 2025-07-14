@@ -105,8 +105,11 @@ async def scrape_collection(collection: str, client: auraxium.Client) -> None:
         # Quit loop when limit is exhausted
         if len(data) != _PAGE_SIZE:
             break
-    # Always treat world state as "online"
+    # Special handling for the dynamic "world" collection
     if collection == 'world':
+        # Order is not guaranteed, sort by world ID
+        entries.sort(key=lambda x: str(x['world_id']))
+        # Always treat world state as "online"
         for entry in entries:
             entry['state'] = 'online'
     # Flush data to disk
