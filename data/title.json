@@ -3742,5 +3742,15 @@
             "fr": "Charpentier de marine",
             "it": "Costruttore di navi"
         }
+    },
+    {
+        "title_id": "493",
+        "name": {
+            "de": "Wegbereiter",
+            "en": "Pathfinder",
+            "es": "Senderista",
+            "fr": "Pisteur",
+            "it": "Esploratore"
+        }
     }
 ]

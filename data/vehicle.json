@@ -788,8 +788,8 @@
             "it": "Un drone a pilotaggio remoto che pu\u00f2 essere usato per rilevare le forze nemiche.",
             "tr": "A remote control aerial drone that can be used to spot enemy forces."
         },
-        "type_id": "10",
-        "type_name": "Observer Camera",
+        "type_id": "12",
+        "type_name": "Drone",
         "cost": "9999",
         "cost_resource_id": "3",
         "image_set_id": "13098",
@@ -1644,5 +1644,26 @@
         "image_set_id": "95",
         "image_id": "3987",
         "image_path": "/files/ps2/images/static/3987.png"
+    },
+    {
+        "vehicle_id": "2154",
+        "name": {
+            "de": "Spitfire-Auto-Gesch\u00fctz",
+            "en": "Spitfire Auto-Turret",
+            "es": "Torreta autom\u00e1tica Spitfire",
+            "fr": "Tourelle automatique Spitfire",
+            "it": "Torretta automatica Spitfire",
+            "tr": "Ate\u015f P\u00fcsk\u00fcren Taret"
+        },
+        "description": {
+            "de": "Die automatischen Spitfire-Gesch\u00fctze werden von Ingenieuren platziert und greifen feindliche Infanterie innerhalb von 50 Metern automatisch an.",
+            "en": "Spitfire Auto-Turrets are placed by engineers and automatically engage hostile infantry within 50 meters.",
+            "es": "Las torretas autom\u00e1ticas Spitfire las colocan los ingenieros y entablan combate autom\u00e1ticamente con la infanter\u00eda enemiga a un alcance de 50 metros.",
+            "fr": "Les tourelles automatiques Spitfire sont plac\u00e9es par les Ing\u00e9nieurs et attaquent automatiquement l'infanterie hostile pr\u00e9sente dans les 50 m\u00e8tres.",
+            "it": "Le torrette automatiche Spitfire vengono posizionate dai genieri ed entrano automaticamente in contatto con la fanteria nemica nel raggio di 50 metri."
+        },
+        "type_id": "7",
+        "type_name": "Umovable Turret",
+        "image_set_id": "82962"
     }
 ]

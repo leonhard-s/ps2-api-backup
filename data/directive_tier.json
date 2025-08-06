@@ -7069,5 +7069,69 @@
         "image_set_id": "804412",
         "image_id": "89261",
         "image_path": "/files/ps2/images/static/89261.png"
+    },
+    {
+        "directive_tree_id": "156",
+        "directive_tier_id": "1",
+        "reward_set_id": "6343",
+        "completion_count": "2",
+        "name": {
+            "de": "Anf\u00e4nger",
+            "en": "Novice",
+            "es": "Novato",
+            "fr": "Novice",
+            "it": "Novizi"
+        },
+        "image_set_id": "804413",
+        "image_id": "89264",
+        "image_path": "/files/ps2/images/static/89264.png"
+    },
+    {
+        "directive_tree_id": "156",
+        "directive_tier_id": "2",
+        "reward_set_id": "6344",
+        "completion_count": "3",
+        "name": {
+            "de": "Adept",
+            "en": "Adept",
+            "es": "Adepto",
+            "fr": "Adepte",
+            "it": "Adepto"
+        },
+        "image_set_id": "804415",
+        "image_id": "89270",
+        "image_path": "/files/ps2/images/static/89270.png"
+    },
+    {
+        "directive_tree_id": "156",
+        "directive_tier_id": "3",
+        "reward_set_id": "6345",
+        "completion_count": "4",
+        "name": {
+            "de": "Experte",
+            "en": "Expert",
+            "es": "Experto",
+            "fr": "Expert",
+            "it": "Esperti"
+        },
+        "image_set_id": "804414",
+        "image_id": "89267",
+        "image_path": "/files/ps2/images/static/89267.png"
+    },
+    {
+        "directive_tree_id": "156",
+        "directive_tier_id": "4",
+        "reward_set_id": "6346",
+        "completion_count": "4",
+        "name": {
+            "de": "Meister",
+            "en": "Master",
+            "es": "Maestro",
+            "fr": "Ma\u00eetre",
+            "it": "Maestri"
+        },
+        "image_set_id": "804412",
+        "image_id": "89261",
+        "image_path": "/files/ps2/images/static/89261.png"
     }
 ]

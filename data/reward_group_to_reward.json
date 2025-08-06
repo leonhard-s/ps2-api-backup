@@ -2590,5 +2590,65 @@
     {
         "reward_group_id": "102131",
         "reward_id": "10762"
+    },
+    {
+        "reward_group_id": "102132",
+        "reward_id": "10464"
+    },
+    {
+        "reward_group_id": "102132",
+        "reward_id": "10774"
+    },
+    {
+        "reward_group_id": "102132",
+        "reward_id": "10775"
+    },
+    {
+        "reward_group_id": "102133",
+        "reward_id": "10465"
+    },
+    {
+        "reward_group_id": "102133",
+        "reward_id": "10772"
+    },
+    {
+        "reward_group_id": "102133",
+        "reward_id": "10773"
+    },
+    {
+        "reward_group_id": "102134",
+        "reward_id": "10460"
+    },
+    {
+        "reward_group_id": "102134",
+        "reward_id": "10466"
+    },
+    {
+        "reward_group_id": "102134",
+        "reward_id": "10768"
+    },
+    {
+        "reward_group_id": "102134",
+        "reward_id": "10769"
+    },
+    {
+        "reward_group_id": "102134",
+        "reward_id": "10770"
+    },
+    {
+        "reward_group_id": "102134",
+        "reward_id": "10771"
+    },
+    {
+        "reward_group_id": "102135",
+        "reward_id": "10459"
+    },
+    {
+        "reward_group_id": "102135",
+        "reward_id": "10766"
+    },
+    {
+        "reward_group_id": "102135",
+        "reward_id": "10767"
     }
 ]

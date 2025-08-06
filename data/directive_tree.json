@@ -1541,11 +1541,11 @@
             "it": "Operazione: Spaccaterra"
         },
         "description": {
-            "de": "Verf\u00fcgbar bis 6. September",
-            "en": "Available through September 6th",
-            "es": "Disponible hasta el 6 de septiembre",
-            "fr": "Disponible jusqu'au 6 septembre",
-            "it": "Disponibile fino al 6 settembre"
+            "de": "Verf\u00fcgbar bis 5. September",
+            "en": "Available through September 5th",
+            "es": "Disponible hasta el 5 de septiembre",
+            "fr": "Disponible jusqu'au 5 septembre",
+            "it": "Disponibile fino al 5 settembre"
         }
     },
     {
@@ -1775,6 +1775,24 @@
             "es": "Disponible hasta el 5 de agosto",
             "fr": "Disponible jusqu'au 5 ao\u00fbt",
             "it": "Disponibile fino al 5 agosto"
+        }
+    },
+    {
+        "directive_tree_id": "156",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Operation: Kaiju",
+            "en": "Operation: Kaiju",
+            "es": "Operaci\u00f3n: Kaiju",
+            "fr": "Op\u00e9ration\u00a0: Kaiju",
+            "it": "Operazione: Kaiju"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 5. September",
+            "en": "Available through September 5th",
+            "es": "Disponible hasta el 5 de septiembre",
+            "fr": "Disponible jusqu'au 5 septembre",
+            "it": "Disponibile fino al 5 settembre"
         }
     }
 ]

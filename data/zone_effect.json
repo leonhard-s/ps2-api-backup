@@ -22383,8 +22383,8 @@
         "zone_effect_type_id": "62",
         "ability_id": "2450",
         "param1": "35",
-        "param2": "0.00925",
-        "param3": "-0.00923",
+        "param2": "0.01",
+        "param3": "-0.00857",
         "param4": "1000"
     },
     {
@@ -22392,8 +22392,8 @@
         "zone_effect_type_id": "62",
         "ability_id": "2451",
         "param1": "35",
-        "param2": "0.00855",
-        "param3": "-0.01",
+        "param2": "0.01",
+        "param3": "-0.00857",
         "param4": "1000"
     },
     {
@@ -144076,5 +144076,15 @@
         "zone_effect_id": "770122",
         "zone_effect_type_id": "37",
         "ability_id": "1118000"
+    },
+    {
+        "zone_effect_id": "770171",
+        "zone_effect_type_id": "37",
+        "ability_id": "1118020"
+    },
+    {
+        "zone_effect_id": "770177",
+        "zone_effect_type_id": "37",
+        "ability_id": "1118021"
     }
 ]
