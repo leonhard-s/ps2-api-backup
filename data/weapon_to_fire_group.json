@@ -5256,10 +5256,6 @@
         "fire_group_index": "0"
     },
     {
-        "weapon_id": "78504",
-        "fire_group_id": "80674"
-    },
-    {
         "weapon_id": "78505",
         "fire_group_id": "80675",
         "fire_group_index": "0"
@@ -5783,10 +5779,6 @@
         "weapon_id": "78650",
         "fire_group_id": "80811",
         "fire_group_index": "0"
-    },
-    {
-        "weapon_id": "78651",
-        "fire_group_id": "80812"
     },
     {
         "weapon_id": "78656",

@@ -9244,18 +9244,6 @@
         "from_iron_sights_ms": "200"
     },
     {
-        "weapon_id": "78504",
-        "turn_modifier": "1.0",
-        "move_modifier": "1.0",
-        "sprint_recovery_ms": "300",
-        "equip_ms": "450",
-        "unequip_ms": "250",
-        "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150",
-        "requires_ammo": "0",
-        "use_cooldown_ms": "5000"
-    },
-    {
         "weapon_id": "78505",
         "weapon_group_id": "1007",
         "turn_modifier": "1.5",
@@ -10230,18 +10218,6 @@
         "unequip_ms": "250",
         "to_iron_sights_ms": "150",
         "from_iron_sights_ms": "150"
-    },
-    {
-        "weapon_id": "78651",
-        "turn_modifier": "1.0",
-        "move_modifier": "1.0",
-        "sprint_recovery_ms": "300",
-        "equip_ms": "450",
-        "unequip_ms": "250",
-        "to_iron_sights_ms": "150",
-        "from_iron_sights_ms": "150",
-        "requires_ammo": "0",
-        "use_cooldown_ms": "45000"
     },
     {
         "weapon_id": "78656",
