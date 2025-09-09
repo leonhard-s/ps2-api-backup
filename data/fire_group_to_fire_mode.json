@@ -8590,6 +8590,11 @@
         "fire_mode_index": "1"
     },
     {
+        "fire_group_id": "80812",
+        "fire_mode_id": "81168",
+        "fire_mode_index": "0"
+    },
+    {
         "fire_group_id": "80814",
         "fire_mode_id": "1",
         "fire_mode_index": "0"
