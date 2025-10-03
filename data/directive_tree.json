@@ -1794,5 +1794,26 @@
             "fr": "Disponible jusqu'au 12 septembre",
             "it": "Disponibile fino al 12 settembre"
         }
+    },
+    {
+        "directive_tree_id": "157",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Naniten der lebenden Toten 2025",
+            "en": "Nanite of the Living Dead 2025",
+            "es": "Nanite de los muertos vivientes 2025",
+            "fr": "La Nuit Nanite des Morts Vivants 2025",
+            "it": "La notte dei naniti viventi 2025"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 4. November 2025",
+            "en": "Available through November 4th 2025",
+            "es": "Disponible hasta el 4 de noviembre de 2025",
+            "fr": "Disponible jusqu'au 4 novembre 2025",
+            "it": "Disponibile fino al 4 novembre 2025"
+        },
+        "image_set_id": "82818",
+        "image_id": "80676",
+        "image_path": "/files/ps2/images/static/80676.png"
     }
 ]

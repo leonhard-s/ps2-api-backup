@@ -5256,6 +5256,10 @@
         "fire_group_index": "0"
     },
     {
+        "weapon_id": "78504",
+        "fire_group_id": "80674"
+    },
+    {
         "weapon_id": "78505",
         "fire_group_id": "80675",
         "fire_group_index": "0"
@@ -6704,5 +6708,17 @@
     {
         "weapon_id": "78875",
         "fire_group_id": "81060"
+    },
+    {
+        "weapon_id": "78888",
+        "fire_group_id": "81072"
+    },
+    {
+        "weapon_id": "78889",
+        "fire_group_id": "81073"
+    },
+    {
+        "weapon_id": "78890",
+        "fire_group_id": "81074"
     }
 ]

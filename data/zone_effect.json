@@ -66372,14 +66372,6 @@
         "ability_id": "1111382"
     },
     {
-        "zone_effect_id": "750981",
-        "zone_effect_type_id": "18",
-        "ability_id": "1111390",
-        "param1": "0.1",
-        "param4": "16",
-        "string1": "StatId.XpBuff"
-    },
-    {
         "zone_effect_id": "750982",
         "zone_effect_type_id": "18",
         "ability_id": "1111391",
@@ -144078,6 +144070,26 @@
         "ability_id": "1118000"
     },
     {
+        "zone_effect_id": "770127",
+        "zone_effect_type_id": "463",
+        "ability_id": "1113561",
+        "param1": "1",
+        "param2": "1",
+        "param3": "0",
+        "param4": "1",
+        "param5": "0",
+        "param6": "0",
+        "param7": "0",
+        "param8": "0",
+        "param9": "0",
+        "param10": "0",
+        "param11": "0",
+        "param12": "0",
+        "param13": "0",
+        "param14": "0",
+        "string1": "CalcVisibilityByDistance"
+    },
+    {
         "zone_effect_id": "770171",
         "zone_effect_type_id": "37",
         "ability_id": "1118020"
@@ -144088,8 +144100,108 @@
         "ability_id": "1118021"
     },
     {
+        "zone_effect_id": "770202",
+        "zone_effect_type_id": "495",
+        "ability_id": "1118026",
+        "param1": "0",
+        "param2": "0",
+        "param3": "0",
+        "param4": "1",
+        "param5": "0",
+        "param6": "0",
+        "param7": "0",
+        "param8": "0",
+        "param9": "0",
+        "param10": "0",
+        "param11": "0",
+        "param12": "0",
+        "param13": "0",
+        "param14": "0",
+        "string1": "Server2"
+    },
+    {
         "zone_effect_id": "770220",
         "zone_effect_type_id": "37",
         "ability_id": "1118027"
+    },
+    {
+        "zone_effect_id": "770231",
+        "zone_effect_type_id": "495",
+        "ability_id": "1118028",
+        "param1": "0",
+        "param2": "0",
+        "param3": "0",
+        "param4": "40",
+        "param5": "0",
+        "param6": "0",
+        "param7": "0",
+        "param8": "0",
+        "param9": "0",
+        "param10": "0",
+        "param11": "0",
+        "param12": "0",
+        "param13": "0",
+        "param14": "0",
+        "string1": "Server2"
+    },
+    {
+        "zone_effect_id": "770232",
+        "zone_effect_type_id": "495",
+        "ability_id": "1118029",
+        "param1": "0",
+        "param2": "0",
+        "param3": "0",
+        "param4": "10",
+        "param5": "0",
+        "param6": "0",
+        "param7": "0",
+        "param8": "0",
+        "param9": "0",
+        "param10": "0",
+        "param11": "0",
+        "param12": "0",
+        "param13": "0",
+        "param14": "0",
+        "string1": "Server2"
+    },
+    {
+        "zone_effect_id": "770256",
+        "zone_effect_type_id": "37",
+        "ability_id": "1118030"
+    },
+    {
+        "zone_effect_id": "770259",
+        "zone_effect_type_id": "37",
+        "ability_id": "1118033"
+    },
+    {
+        "zone_effect_id": "770260",
+        "zone_effect_type_id": "37",
+        "ability_id": "1118034"
+    },
+    {
+        "zone_effect_id": "770261",
+        "zone_effect_type_id": "37",
+        "ability_id": "1118035"
+    },
+    {
+        "zone_effect_id": "770266",
+        "zone_effect_type_id": "495",
+        "ability_id": "1118038",
+        "param1": "0",
+        "param2": "0",
+        "param3": "0",
+        "param4": "101",
+        "param5": "0",
+        "param6": "0",
+        "param7": "0",
+        "param8": "0",
+        "param9": "0",
+        "param10": "0",
+        "param11": "0",
+        "param12": "0",
+        "param13": "0",
+        "param14": "0",
+        "string1": "Server2"
     }
 ]

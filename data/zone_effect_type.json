@@ -477,5 +477,10 @@
         "param5": "LoadoutSlotId",
         "param6": "SetInfinite",
         "param7": "ConsumeInCode"
+    },
+    {
+        "zone_effect_type_id": "495",
+        "description": "Character Transfer",
+        "param4": "Target Server Id"
     }
 ]

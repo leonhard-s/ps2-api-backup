@@ -3752,5 +3752,15 @@
             "fr": "Pisteur",
             "it": "Esploratore"
         }
+    },
+    {
+        "title_id": "494",
+        "name": {
+            "de": "Infiziert",
+            "en": "Infected",
+            "es": "Infectado",
+            "fr": "Infect\u00e9",
+            "it": "Infetto"
+        }
     }
 ]
