@@ -45662,7 +45662,7 @@
         "objective_group_id": "14407",
         "param1": "10",
         "param4": "-1",
-        "param5": "802514",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45671,7 +45671,7 @@
         "objective_group_id": "14408",
         "param1": "10",
         "param4": "-1",
-        "param5": "802514",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45680,7 +45680,7 @@
         "objective_group_id": "14422",
         "param1": "60",
         "param4": "-1",
-        "param5": "802514",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45689,7 +45689,7 @@
         "objective_group_id": "14423",
         "param1": "160",
         "param4": "-1",
-        "param5": "802514",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45698,7 +45698,7 @@
         "objective_group_id": "14424",
         "param1": "1160",
         "param4": "-1",
-        "param5": "802514",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45707,7 +45707,7 @@
         "objective_group_id": "14425",
         "param1": "60",
         "param4": "-1",
-        "param5": "802517",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45716,7 +45716,7 @@
         "objective_group_id": "14426",
         "param1": "10",
         "param4": "-1",
-        "param5": "802517",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45725,7 +45725,7 @@
         "objective_group_id": "14427",
         "param1": "160",
         "param4": "-1",
-        "param5": "802517",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45734,7 +45734,7 @@
         "objective_group_id": "14428",
         "param1": "1160",
         "param4": "-1",
-        "param5": "802517",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45743,7 +45743,7 @@
         "objective_group_id": "14429",
         "param1": "10",
         "param4": "-1",
-        "param5": "802517",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45752,7 +45752,7 @@
         "objective_group_id": "14430",
         "param1": "10",
         "param4": "-1",
-        "param5": "802518",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45761,7 +45761,7 @@
         "objective_group_id": "14431",
         "param1": "60",
         "param4": "-1",
-        "param5": "802518",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45770,7 +45770,7 @@
         "objective_group_id": "14432",
         "param1": "160",
         "param4": "-1",
-        "param5": "802518",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45779,7 +45779,7 @@
         "objective_group_id": "14433",
         "param1": "1160",
         "param4": "-1",
-        "param5": "802518",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -45788,7 +45788,7 @@
         "objective_group_id": "14434",
         "param1": "10",
         "param4": "-1",
-        "param5": "802518",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -62152,7 +62152,7 @@
         "objective_group_id": "17047",
         "param1": "60",
         "param4": "-1",
-        "param5": "6005427",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -62161,7 +62161,7 @@
         "objective_group_id": "17048",
         "param1": "10",
         "param4": "-1",
-        "param5": "6005427",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -62170,7 +62170,7 @@
         "objective_group_id": "17049",
         "param1": "160",
         "param4": "-1",
-        "param5": "6005427",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -62179,7 +62179,7 @@
         "objective_group_id": "17050",
         "param1": "10",
         "param4": "-1",
-        "param5": "6005427",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -62188,7 +62188,7 @@
         "objective_group_id": "17051",
         "param1": "1160",
         "param4": "-1",
-        "param5": "6005427",
+        "param6": "43",
         "param8": "-1"
     },
     {
@@ -103448,6 +103448,119 @@
         "param5": "0",
         "param6": "0",
         "param8": "0",
+        "param9": "0"
+    },
+    {
+        "objective_id": "23697",
+        "objective_type_id": "12",
+        "objective_group_id": "22533",
+        "param1": "10",
+        "param2": "0",
+        "param3": "0",
+        "param4": "-1",
+        "param5": "6016250",
+        "param6": "0",
+        "param8": "-1",
+        "param9": "0"
+    },
+    {
+        "objective_id": "23698",
+        "objective_type_id": "12",
+        "objective_group_id": "22534",
+        "param1": "60",
+        "param2": "0",
+        "param3": "0",
+        "param4": "-1",
+        "param5": "6016250",
+        "param6": "0",
+        "param8": "-1",
+        "param9": "0"
+    },
+    {
+        "objective_id": "23699",
+        "objective_type_id": "12",
+        "objective_group_id": "22535",
+        "param1": "160",
+        "param2": "0",
+        "param3": "0",
+        "param4": "-1",
+        "param5": "6016250",
+        "param6": "0",
+        "param8": "-1",
+        "param9": "0"
+    },
+    {
+        "objective_id": "23700",
+        "objective_type_id": "12",
+        "objective_group_id": "22536",
+        "param1": "1160",
+        "param2": "0",
+        "param3": "0",
+        "param4": "-1",
+        "param5": "6016250",
+        "param6": "0",
+        "param8": "-1",
+        "param9": "0"
+    },
+    {
+        "objective_id": "23701",
+        "objective_type_id": "66",
+        "objective_group_id": "22537",
+        "param1": "94164",
+        "param2": "1",
+        "param4": "0",
+        "param5": "0",
+        "param6": "0",
+        "param8": "0",
+        "param9": "0"
+    },
+    {
+        "objective_id": "23702",
+        "objective_type_id": "66",
+        "objective_group_id": "22538",
+        "param1": "94165",
+        "param2": "1",
+        "param4": "0",
+        "param5": "0",
+        "param6": "0",
+        "param8": "0",
+        "param9": "0"
+    },
+    {
+        "objective_id": "23703",
+        "objective_type_id": "66",
+        "objective_group_id": "22539",
+        "param1": "94166",
+        "param2": "1",
+        "param4": "0",
+        "param5": "0",
+        "param6": "0",
+        "param8": "0",
+        "param9": "0"
+    },
+    {
+        "objective_id": "23704",
+        "objective_type_id": "66",
+        "objective_group_id": "22540",
+        "param1": "94163",
+        "param2": "1",
+        "param4": "0",
+        "param5": "0",
+        "param6": "0",
+        "param8": "0",
+        "param9": "0"
+    },
+    {
+        "objective_id": "23705",
+        "objective_type_id": "12",
+        "objective_group_id": "22541",
+        "param1": "10",
+        "param2": "0",
+        "param3": "0",
+        "param4": "-1",
+        "param5": "6016250",
+        "param6": "0",
+        "param8": "-1",
         "param9": "0"
     }
 ]

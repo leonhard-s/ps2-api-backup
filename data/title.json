@@ -3762,5 +3762,75 @@
             "fr": "Infect\u00e9",
             "it": "Infetto"
         }
+    },
+    {
+        "title_id": "495",
+        "name": {
+            "de": "Cerator",
+            "en": "Cerator",
+            "es": "Cerator",
+            "fr": "Cerator",
+            "it": "Cerator"
+        }
+    },
+    {
+        "title_id": "496",
+        "name": {
+            "de": "Keyboard Warrior",
+            "en": "Keyboard Warrior",
+            "es": "Guerrero digital",
+            "fr": "Guerrier du clavier",
+            "it": "Guerriero da tastiera"
+        }
+    },
+    {
+        "title_id": "497",
+        "name": {
+            "de": "Veteran des 13. Jahres",
+            "en": "13th Year Veteran",
+            "es": "Veterano de 13 a\u00f1os",
+            "fr": "V\u00e9t\u00e9ran de 13\u00e8me ann\u00e9e",
+            "it": "Veterano del 13\u00b0 anniversario"
+        }
+    },
+    {
+        "title_id": "498",
+        "name": {
+            "de": "Vordenker",
+            "en": "Prospect Thinker",
+            "es": "Pensador con perspectiva",
+            "fr": "Porteur d'id\u00e9es",
+            "it": "Visionario"
+        }
+    },
+    {
+        "title_id": "499",
+        "name": {
+            "de": "Getarnter Geist",
+            "en": "Cloaked Spectre",
+            "es": "Espectro camuflado",
+            "fr": "Spectre furtif",
+            "it": "Spettro invisibile"
+        }
+    },
+    {
+        "title_id": "500",
+        "name": {
+            "de": "Pechvogel",
+            "en": "Unlucky",
+            "es": "Gafe",
+            "fr": "Malchanceux",
+            "it": "Sfortunato"
+        }
+    },
+    {
+        "title_id": "501",
+        "name": {
+            "de": "Ossuarist",
+            "en": "Ossuarist",
+            "es": "Osarista",
+            "fr": "Ossuariste",
+            "it": "Ossuarista"
+        }
     }
 ]

@@ -1962,6 +1962,10 @@
         "can_chamber_ironsights": "1"
     },
     {
+        "fire_group_id": "70060",
+        "can_chamber_ironsights": "0"
+    },
+    {
         "fire_group_id": "70061",
         "can_chamber_ironsights": "0"
     },
@@ -4974,6 +4978,26 @@
     },
     {
         "fire_group_id": "81060",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "81063",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "81064",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "81065",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "81066",
+        "can_chamber_ironsights": "0"
+    },
+    {
+        "fire_group_id": "81071",
         "can_chamber_ironsights": "0"
     },
     {

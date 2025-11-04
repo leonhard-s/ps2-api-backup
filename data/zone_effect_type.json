@@ -477,5 +477,12 @@
         "param5": "LoadoutSlotId",
         "param6": "SetInfinite",
         "param7": "ConsumeInCode"
+    },
+    {
+        "zone_effect_type_id": "496",
+        "description": "Stop ability that is active",
+        "param1": "Chance",
+        "param2": "Ability Ex ID",
+        "string1": "Design Event"
     }
 ]
