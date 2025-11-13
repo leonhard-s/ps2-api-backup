@@ -1,13 +1,6 @@
 [
     {
         "currency_id": "4",
-        "name": {
-            "de": "Naniten",
-            "en": "Nanites",
-            "es": "Nanites",
-            "fr": "Nanites",
-            "it": "Naniti"
-        },
         "icon_id": "13606",
         "inventory_cap": "750"
     }

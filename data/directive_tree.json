@@ -2,13 +2,6 @@
     {
         "directive_tree_id": "4",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Karabiner",
-            "en": "Carbines",
-            "es": "Carabinas",
-            "fr": "Carabines",
-            "it": "Carabine"
-        },
         "image_set_id": "14164",
         "image_id": "79587",
         "image_path": "/files/ps2/images/static/79587.png"
@@ -16,13 +9,6 @@
     {
         "directive_tree_id": "6",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Scharfsch\u00fctzengewehre",
-            "en": "Sniper Rifles",
-            "es": "Rifles de francotirador",
-            "fr": "Fusils de pr\u00e9cision",
-            "it": "Fucili di precisione"
-        },
         "image_set_id": "14222",
         "image_id": "79645",
         "image_path": "/files/ps2/images/static/79645.png"
@@ -30,13 +16,6 @@
     {
         "directive_tree_id": "8",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Leichte Maschinengewehre",
-            "en": "Light Machine Guns",
-            "es": "Ametralladoras ligeras",
-            "fr": "Mitrailleuses l\u00e9g\u00e8res",
-            "it": "Mitragliatrici leggere"
-        },
         "image_set_id": "14193",
         "image_id": "79616",
         "image_path": "/files/ps2/images/static/79616.png"
@@ -44,13 +23,6 @@
     {
         "directive_tree_id": "10",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Angriffsgewehre",
-            "en": "Assault Rifles",
-            "es": "Rifles de asalto",
-            "fr": "Fusils d'assaut",
-            "it": "Fucili d'assalto"
-        },
         "image_set_id": "14160",
         "image_id": "79583",
         "image_path": "/files/ps2/images/static/79583.png"
@@ -58,13 +30,6 @@
     {
         "directive_tree_id": "13",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Schrotflinten",
-            "en": "Shotguns",
-            "es": "Escopetas",
-            "fr": "Fusils",
-            "it": "Fucili"
-        },
         "image_set_id": "14233",
         "image_id": "79656",
         "image_path": "/files/ps2/images/static/79656.png"
@@ -72,13 +37,6 @@
     {
         "directive_tree_id": "15",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Maschinenpistolen",
-            "en": "Submachine Guns",
-            "es": "Subfusiles",
-            "fr": "Mitraillettes",
-            "it": "Mitra"
-        },
         "image_set_id": "14238",
         "image_id": "79661",
         "image_path": "/files/ps2/images/static/79661.png"
@@ -86,13 +44,6 @@
     {
         "directive_tree_id": "17",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Seitenwaffen",
-            "en": "Sidearms",
-            "es": "Armas auxiliares",
-            "fr": "Armes de poing",
-            "it": "Armi secondarie"
-        },
         "image_set_id": "14235",
         "image_id": "79658",
         "image_path": "/files/ps2/images/static/79658.png"
@@ -100,13 +51,6 @@
     {
         "directive_tree_id": "21",
         "directive_tree_category_id": "3",
-        "name": {
-            "de": "Sprengstoff",
-            "en": "Explosives",
-            "es": "Explosivos",
-            "fr": "Explosifs",
-            "it": "Esplosivi"
-        },
         "image_set_id": "14170",
         "image_id": "79593",
         "image_path": "/files/ps2/images/static/79593.png"
@@ -114,14 +58,6 @@
     {
         "directive_tree_id": "23",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Liberator",
-            "en": "Liberator",
-            "es": "Liberator",
-            "fr": "Lib\u00e9rateur",
-            "it": "Liberator",
-            "tr": "KURTARICI"
-        },
         "image_set_id": "14184",
         "image_id": "79607",
         "image_path": "/files/ps2/images/static/79607.png"
@@ -129,14 +65,6 @@
     {
         "directive_tree_id": "24",
         "directive_tree_category_id": "3",
-        "name": {
-            "de": "Leichte Angriffseinheit",
-            "en": "Light Assault",
-            "es": "Asalto ligero",
-            "fr": "Assaut l\u00e9ger",
-            "it": "Assalto Leggero",
-            "tr": "Hafif Taarruz"
-        },
         "image_set_id": "13589",
         "image_id": "77993",
         "image_path": "/files/ps2/images/static/77993.png"
@@ -144,14 +72,6 @@
     {
         "directive_tree_id": "25",
         "directive_tree_category_id": "3",
-        "name": {
-            "de": "Spion",
-            "en": "Infiltrator",
-            "es": "Infiltrado",
-            "fr": "Infiltr\u00e9",
-            "it": "Infiltrato",
-            "tr": "Casus"
-        },
         "image_set_id": "13587",
         "image_id": "77991",
         "image_path": "/files/ps2/images/static/77991.png"
@@ -159,14 +79,6 @@
     {
         "directive_tree_id": "26",
         "directive_tree_category_id": "3",
-        "name": {
-            "de": "Ingenieur",
-            "en": "Engineer",
-            "es": "Ingeniero",
-            "fr": "Ing\u00e9nieur",
-            "it": "Geniere",
-            "tr": "M\u00fchendis"
-        },
         "image_set_id": "13585",
         "image_id": "77989",
         "image_path": "/files/ps2/images/static/77989.png"
@@ -174,14 +86,6 @@
     {
         "directive_tree_id": "27",
         "directive_tree_category_id": "3",
-        "name": {
-            "de": "Schwere Angriffseinheit",
-            "en": "Heavy Assault",
-            "es": "Asalto pesado",
-            "fr": "Assaut lourd",
-            "it": "Assalto Pesante",
-            "tr": "A\u011f\u0131r Taarruz"
-        },
         "image_set_id": "13586",
         "image_id": "77990",
         "image_path": "/files/ps2/images/static/77990.png"
@@ -189,14 +93,6 @@
     {
         "directive_tree_id": "28",
         "directive_tree_category_id": "3",
-        "name": {
-            "de": "Sanit\u00e4ter",
-            "en": "Combat Medic",
-            "es": "M\u00e9dico de combate",
-            "fr": "M\u00e9decin de combat",
-            "it": "Medico da campo",
-            "tr": "S\u0131hh\u0131yeci"
-        },
         "image_set_id": "13583",
         "image_id": "77987",
         "image_path": "/files/ps2/images/static/77987.png"
@@ -204,14 +100,6 @@
     {
         "directive_tree_id": "29",
         "directive_tree_category_id": "3",
-        "name": {
-            "de": "MAX-Einheit",
-            "en": "MAX",
-            "es": "MAX",
-            "fr": "XAM",
-            "it": "MAX",
-            "tr": "MAX"
-        },
         "image_set_id": "13590",
         "image_id": "77994",
         "image_path": "/files/ps2/images/static/77994.png"
@@ -219,13 +107,6 @@
     {
         "directive_tree_id": "31",
         "directive_tree_category_id": "3",
-        "name": {
-            "de": "Machtaufkl\u00e4rer",
-            "en": "Force Recon",
-            "es": "Reconocimiento de fuerza",
-            "fr": "Force de Reconnaissance",
-            "it": "Ricognizione della forza"
-        },
         "image_set_id": "13588",
         "image_id": "77992",
         "image_path": "/files/ps2/images/static/77992.png"
@@ -233,20 +114,6 @@
     {
         "directive_tree_id": "33",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Au\u00dfergew\u00f6hnlich",
-            "en": "Exceptional",
-            "es": "Excepcional",
-            "fr": "Exceptionnel",
-            "it": "Eccezionale"
-        },
-        "description": {
-            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
-            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
-            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
-            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
-        },
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
@@ -254,14 +121,6 @@
     {
         "directive_tree_id": "34",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Flash",
-            "en": "Flash",
-            "es": "Flash",
-            "fr": "Flash",
-            "it": "Flash",
-            "tr": "\u015e\u0130M\u015eEK"
-        },
         "image_set_id": "14214",
         "image_id": "79637",
         "image_path": "/files/ps2/images/static/79637.png"
@@ -269,14 +128,6 @@
     {
         "directive_tree_id": "35",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Harasser",
-            "en": "Harasser",
-            "es": "Harasser",
-            "fr": "Offenseur",
-            "it": "Harasser",
-            "tr": "Tacizci"
-        },
         "image_set_id": "14175",
         "image_id": "79598",
         "image_path": "/files/ps2/images/static/79598.png"
@@ -284,14 +135,6 @@
     {
         "directive_tree_id": "36",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Lightning",
-            "en": "Lightning",
-            "es": "Lightning",
-            "fr": "Foudre",
-            "it": "Lightning",
-            "tr": "YILDIRIM"
-        },
         "image_set_id": "14188",
         "image_id": "79611",
         "image_path": "/files/ps2/images/static/79611.png"
@@ -299,14 +142,6 @@
     {
         "directive_tree_id": "37",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Magrider",
-            "en": "Magrider",
-            "es": "Magrider",
-            "fr": "A\u00e9rochar",
-            "it": "Magrider",
-            "tr": "S\u00dcVAR\u0130"
-        },
         "image_set_id": "14195",
         "image_id": "79618",
         "image_path": "/files/ps2/images/static/79618.png"
@@ -314,14 +149,6 @@
     {
         "directive_tree_id": "38",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Vanguard",
-            "en": "Vanguard",
-            "es": "Vanguard",
-            "fr": "\u00c9claireur",
-            "it": "Vanguard",
-            "tr": "\u00d6NC\u00dc"
-        },
         "image_set_id": "14250",
         "image_id": "79673",
         "image_path": "/files/ps2/images/static/79673.png"
@@ -329,14 +156,6 @@
     {
         "directive_tree_id": "39",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Prowler",
-            "en": "Prowler",
-            "es": "Prowler",
-            "fr": "Pr\u00e9dateur",
-            "it": "Prowler",
-            "tr": "S\u0130NS\u0130"
-        },
         "image_set_id": "14210",
         "image_id": "79633",
         "image_path": "/files/ps2/images/static/79633.png"
@@ -344,14 +163,6 @@
     {
         "directive_tree_id": "40",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Scythe",
-            "en": "Scythe",
-            "es": "Scythe",
-            "fr": "Faucheuse",
-            "it": "Scythe",
-            "tr": "TIRPAN"
-        },
         "image_set_id": "14227",
         "image_id": "79650",
         "image_path": "/files/ps2/images/static/79650.png"
@@ -359,14 +170,6 @@
     {
         "directive_tree_id": "41",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Reaver",
-            "en": "Reaver",
-            "es": "Reaver",
-            "fr": "Ravageur",
-            "it": "Reaver",
-            "tr": "YA\u011eMACI"
-        },
         "image_set_id": "14217",
         "image_id": "79640",
         "image_path": "/files/ps2/images/static/79640.png"
@@ -374,14 +177,6 @@
     {
         "directive_tree_id": "42",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Mosquito",
-            "en": "Mosquito",
-            "es": "Mosquito",
-            "fr": "Mosquito",
-            "it": "Mosquito",
-            "tr": "S\u0130VR\u0130S\u0130NEK"
-        },
         "image_set_id": "14202",
         "image_id": "79625",
         "image_path": "/files/ps2/images/static/79625.png"
@@ -389,14 +184,6 @@
     {
         "directive_tree_id": "43",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Sunderer",
-            "en": "Sunderer",
-            "es": "Sunderer",
-            "fr": "Disperseur",
-            "it": "Sunderer",
-            "tr": "YARICI"
-        },
         "image_set_id": "14243",
         "image_id": "79666",
         "image_path": "/files/ps2/images/static/79666.png"
@@ -404,14 +191,6 @@
     {
         "directive_tree_id": "44",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Galaxy",
-            "en": "Galaxy",
-            "es": "Galaxy",
-            "fr": "Galaxie",
-            "it": "Galaxy",
-            "tr": "GALAKS\u0130"
-        },
         "image_set_id": "14172",
         "image_id": "79595",
         "image_path": "/files/ps2/images/static/79595.png"
@@ -419,13 +198,6 @@
     {
         "directive_tree_id": "45",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Scout-Gewehre",
-            "en": "Scout Rifles",
-            "es": "Rifles Scout",
-            "fr": "Fusils d'\u00e9claireur",
-            "it": "Fucili di ricognizione"
-        },
         "image_set_id": "14222",
         "image_id": "79645",
         "image_path": "/files/ps2/images/static/79645.png"
@@ -433,13 +205,6 @@
     {
         "directive_tree_id": "46",
         "directive_tree_category_id": "5",
-        "name": {
-            "de": "Einsatzziele",
-            "en": "Objectives",
-            "es": "Objetivos",
-            "fr": "Objectifs",
-            "it": "Obiettivi"
-        },
         "image_set_id": "14163",
         "image_id": "79586",
         "image_path": "/files/ps2/images/static/79586.png"
@@ -447,13 +212,6 @@
     {
         "directive_tree_id": "47",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Werfer",
-            "en": "Launchers",
-            "es": "Lanzadores",
-            "fr": "Lanceurs",
-            "it": "Lanciarazzi"
-        },
         "image_set_id": "14182",
         "image_id": "79605",
         "image_path": "/files/ps2/images/static/79605.png"
@@ -461,14 +219,6 @@
     {
         "directive_tree_id": "48",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Valkyrie",
-            "en": "Valkyrie",
-            "es": "Valkyrie",
-            "fr": "Valkyrie",
-            "it": "Valkyrie",
-            "tr": "Valkyrie"
-        },
         "image_set_id": "14493",
         "image_id": "80344",
         "image_path": "/files/ps2/images/static/80344.png"
@@ -476,13 +226,6 @@
     {
         "directive_tree_id": "49",
         "directive_tree_category_id": "5",
-        "name": {
-            "de": "F\u00fchrung",
-            "en": "Leadership",
-            "es": "Liderazgo",
-            "fr": "Commandement",
-            "it": "Leadership"
-        },
         "image_set_id": "14492",
         "image_id": "80343",
         "image_path": "/files/ps2/images/static/80343.png"
@@ -490,13 +233,6 @@
     {
         "directive_tree_id": "50",
         "directive_tree_category_id": "8",
-        "name": {
-            "de": "Halloween",
-            "en": "Halloween",
-            "es": "Halloween",
-            "fr": "Halloween",
-            "it": "Halloween"
-        },
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
@@ -504,46 +240,17 @@
     {
         "directive_tree_id": "51",
         "directive_tree_category_id": "9",
-        "name": {
-            "de": "Grundausbildung",
-            "en": "Basic Training",
-            "es": "Entrenamiento b\u00e1sico",
-            "fr": "Entra\u00eenement de base",
-            "it": "Addestramento reclute",
-            "tr": "Basic"
-        },
         "image_set_id": "802639",
         "image_id": "84293",
         "image_path": "/files/ps2/images/static/84293.png"
     },
     {
         "directive_tree_id": "53",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Feiertag",
-            "en": "Holiday",
-            "es": "Festividad",
-            "fr": "F\u00eate",
-            "it": "Feste"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "56",
         "directive_tree_category_id": "9",
-        "name": {
-            "de": "Kontakte",
-            "en": "Social",
-            "es": "Social",
-            "fr": "Social",
-            "it": "Contatti"
-        },
-        "description": {
-            "de": "Interagiere mit anderen, um Belohnungen zu erhalten.",
-            "en": "Interact with others to earn rewards.",
-            "es": "Interact\u00faa con otros jugadores para conseguir recompensas.",
-            "fr": "Interagissez avec d'autres pour gagner des r\u00e9compenses.",
-            "it": "Interagisci con altri per guadagnare premi."
-        },
         "image_set_id": "802640",
         "image_id": "84294",
         "image_path": "/files/ps2/images/static/84294.png"
@@ -551,13 +258,6 @@
     {
         "directive_tree_id": "57",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Kopfgelder",
-            "en": "Bounties",
-            "es": "Recompensas",
-            "fr": "Primes",
-            "it": "Taglie"
-        },
         "image_set_id": "802811",
         "image_id": "84790",
         "image_path": "/files/ps2/images/static/84790.png"
@@ -565,13 +265,6 @@
     {
         "directive_tree_id": "59",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "FNT",
-            "en": "ANT",
-            "es": "ANT",
-            "fr": "TNA",
-            "it": "ANT"
-        },
         "image_set_id": "803460",
         "image_id": "86536",
         "image_path": "/files/ps2/images/static/86536.png"
@@ -579,20 +272,6 @@
     {
         "directive_tree_id": "61",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "NS Export-Serie",
-            "en": "NS Export Series",
-            "es": "Serie de exportaci\u00f3n NS",
-            "fr": "S\u00e9rie \"Exportation\" de NS",
-            "it": "Serie esportazione NS"
-        },
-        "description": {
-            "de": "Waffen aus der Export-Serie von Nanite Systems.",
-            "en": "Weapons from the Nanite Systems Export series.",
-            "es": "Armas de la serie de exportaci\u00f3n de Nanite Systems.",
-            "fr": "Armes de la s\u00e9rie \"Exportation\" de Nanite Systems.",
-            "it": "Armi della serie esportazione Nanite Systems."
-        },
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
@@ -600,20 +279,6 @@
     {
         "directive_tree_id": "62",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Mayhem-Serie",
-            "en": "Mayhem Series",
-            "es": "Serie Caos",
-            "fr": "S\u00e9ries Chaos",
-            "it": "Serie Mayhem"
-        },
-        "description": {
-            "de": "Waffen aus der Mayhem-Serie",
-            "en": "Weapons from the Mayhem series.",
-            "es": "Armas de la serie Caos.",
-            "fr": "Armes de la S\u00e9rie Chaos.",
-            "it": "Armi della serie Mayhem."
-        },
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
@@ -621,13 +286,6 @@
     {
         "directive_tree_id": "64",
         "directive_tree_category_id": "8",
-        "name": {
-            "de": "Halloween II",
-            "en": "Halloween II",
-            "es": "Halloween II ",
-            "fr": "Halloween II",
-            "it": "Halloween II"
-        },
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
@@ -635,96 +293,39 @@
     {
         "directive_tree_id": "65",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Au\u00dfergew\u00f6hnlich II",
-            "en": "Exceptional II",
-            "es": "Excepcional II",
-            "fr": "Exceptionnel II",
-            "it": "Eccezionale II"
-        },
-        "description": {
-            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
-            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
-            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
-            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
-        },
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
     },
     {
         "directive_tree_id": "66",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Feiertag II",
-            "en": "Holiday II",
-            "es": "Festividades II",
-            "fr": "F\u00eates II",
-            "it": "Feste II"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "68",
         "directive_tree_category_id": "5",
-        "name": {
-            "de": "Konstruktion",
-            "en": "Construction",
-            "es": "Construcci\u00f3n",
-            "fr": "Construction",
-            "it": "Costruzione"
-        },
         "image_set_id": "804480",
         "image_id": "89462",
         "image_path": "/files/ps2/images/static/89462.png"
     },
     {
         "directive_tree_id": "69",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Sommerspa\u00df",
-            "en": "Summer Fun",
-            "es": "Diversi\u00f3n veraniega",
-            "fr": "Fun estival",
-            "it": "Tempo d'estate",
-            "tr": "Yaz E\u011flencesi"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "70",
         "directive_tree_category_id": "8",
-        "name": {
-            "de": "Halloween III",
-            "en": "Halloween III",
-            "es": "Halloween III",
-            "fr": "Halloween III",
-            "it": "Halloween III"
-        },
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
     },
     {
         "directive_tree_id": "71",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Auraximas III",
-            "en": "Auraximas III",
-            "es": "Auraxidad III",
-            "fr": "Auraximas III",
-            "it": "Auraximas III"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "72",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Prim\u00e4rwaffe Nahkampf",
-            "en": "CQC Primary",
-            "es": "CQC Principal",
-            "fr": "Armes de combat rapproch\u00e9 principales",
-            "it": "Primaria per combattimento ravvicinato"
-        },
         "image_set_id": "14233",
         "image_id": "79656",
         "image_path": "/files/ps2/images/static/79656.png"
@@ -732,13 +333,6 @@
     {
         "directive_tree_id": "73",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Seitenwaffen",
-            "en": "Sidearms",
-            "es": "Armas auxiliares",
-            "fr": "Armes de poing",
-            "it": "Armi secondarie"
-        },
         "image_set_id": "14235",
         "image_id": "79658",
         "image_path": "/files/ps2/images/static/79658.png"
@@ -746,13 +340,6 @@
     {
         "directive_tree_id": "74",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Lange Gewehre",
-            "en": "Long Rifles",
-            "es": "Rifles largos",
-            "fr": "Fusils longue port\u00e9e",
-            "it": "Fucili lunghi"
-        },
         "image_set_id": "14222",
         "image_id": "79645",
         "image_path": "/files/ps2/images/static/79645.png"
@@ -760,13 +347,6 @@
     {
         "directive_tree_id": "75",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Angriffswaffen",
-            "en": "Assault Weapons",
-            "es": "Armas de asalto",
-            "fr": "Armes d'assaut",
-            "it": "Armi da assalto"
-        },
         "image_set_id": "14160",
         "image_id": "79583",
         "image_path": "/files/ps2/images/static/79583.png"
@@ -774,57 +354,21 @@
     {
         "directive_tree_id": "76",
         "directive_tree_category_id": "7",
-        "name": {
-            "de": "Werfer",
-            "en": "Launchers",
-            "es": "Lanzadores",
-            "fr": "Lanceurs",
-            "it": "Lanciarazzi"
-        },
         "image_set_id": "14182",
         "image_id": "79605",
         "image_path": "/files/ps2/images/static/79605.png"
     },
     {
         "directive_tree_id": "77",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "20. Geburtstag von EverQuest",
-            "en": "EverQuest's 20th Anniversary",
-            "es": "Vig\u00e9simo aniversario de EverQuest",
-            "fr": "20e anniversaire d'EverQuest",
-            "it": "20esimo Anniversario di EverQuest"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "79",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Sommerspa\u00df",
-            "en": "Summer Fun",
-            "es": "Diversi\u00f3n veraniega",
-            "fr": "Fun estival",
-            "it": "Tempo d'estate",
-            "tr": "Yaz E\u011flencesi"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 1. September",
-            "en": "Available until September 1st.",
-            "es": "Disponible hasta el 1 de septiembre.",
-            "fr": "Disponible jusqu'au 1er septembre",
-            "it": "Disponibile fino all'1 settembre"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "81",
         "directive_tree_category_id": "8",
-        "name": {
-            "de": "Halloween 2019",
-            "en": "Halloween 2019",
-            "es": "Halloween 2019",
-            "fr": "Halloween 2019",
-            "it": "Halloween 2019"
-        },
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
@@ -832,13 +376,6 @@
     {
         "directive_tree_id": "82",
         "directive_tree_category_id": "8",
-        "name": {
-            "de": "Halloween 2019",
-            "en": "Halloween 2019",
-            "es": "Halloween 2019",
-            "fr": "Halloween 2019",
-            "it": "Halloween 2019"
-        },
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
@@ -846,101 +383,31 @@
     {
         "directive_tree_id": "83",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Au\u00dfergew\u00f6hnlich III",
-            "en": "Exceptional III",
-            "es": "Excepcional III",
-            "fr": "Exceptionnel III",
-            "it": "Eccezionale III"
-        },
-        "description": {
-            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
-            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
-            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
-            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
-        },
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
     },
     {
         "directive_tree_id": "84",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Auraximas 2019",
-            "en": "Auraximas 2019",
-            "es": "Auraxidad 2019",
-            "fr": "Auraximas 2019",
-            "it": "Auraximas 2019"
-        },
-        "description": {
-            "de": "18. Dezember - 5. Januar",
-            "en": "Dec. 18 - Jan. 5",
-            "es": "Del 18 de diciembre al 5 de enero",
-            "fr": "18 d\u00e9c. - 5 jan.",
-            "it": "18 dic - 5 gen."
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "85",
         "directive_tree_category_id": "9",
-        "name": {
-            "de": "Schutzzone",
-            "en": "Sanctuary",
-            "es": "Santuario",
-            "fr": "Sanctuaire",
-            "it": "Santuario"
-        },
         "image_set_id": "14201",
         "image_id": "79624",
         "image_path": "/files/ps2/images/static/79624.png"
     },
     {
         "directive_tree_id": "88",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Sommerspa\u00df 2020",
-            "en": "Summer Fun 2020",
-            "es": "Diversi\u00f3n de verano 2020",
-            "fr": "Fun estival 2020",
-            "it": "Divertimento estivo 2020"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 16. August",
-            "en": "Available until August 16.",
-            "es": "Disponible hasta el 16 de agosto",
-            "fr": "Disponible jusqu'au 16 ao\u00fbt.",
-            "it": "Disponibile fino al 16 agosto"
-        }
+        "directive_tree_category_id": "8"
     },
     {
-        "directive_tree_id": "89",
-        "name": {
-            "de": "Kampagne 01",
-            "en": "Campaign 01",
-            "es": "Campa\u00f1a 01",
-            "fr": "Campagne 01",
-            "it": "Campagna 01"
-        },
-        "description": {
-            "de": "Kodexeintr\u00e4ge \u00fcber die Kampagne \"Das zertr\u00fcmmerte Warptor\".",
-            "en": "Codex entries related to The Shattered Warpgate campaign.",
-            "es": "Entradas del C\u00f3dice relacionadas con la campa\u00f1a del Warpgate quebrantado.",
-            "fr": "Les entr\u00e9es du codex en lien avec la campagne \"La Warpgate bris\u00e9e\".",
-            "it": "Voci del Manoscritto relativi alla campagna: I warpgate distrutti."
-        }
+        "directive_tree_id": "89"
     },
     {
         "directive_tree_id": "90",
         "directive_tree_category_id": "8",
-        "name": {
-            "de": "Halloween VII",
-            "en": "Halloween VII",
-            "es": "Halloween VII",
-            "fr": "Halloween VII",
-            "it": "Halloween VII"
-        },
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
@@ -948,70 +415,21 @@
     {
         "directive_tree_id": "92",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Au\u00dfergew\u00f6hnlich IV",
-            "en": "Exceptional IV",
-            "es": "Excepcional IV",
-            "fr": "Exceptionnel IV",
-            "it": "Eccezionale IV"
-        },
-        "description": {
-            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
-            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
-            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
-            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
-        },
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
     },
     {
         "directive_tree_id": "93",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Auraximas 2020",
-            "en": "Auraximas 2020",
-            "es": "Auraxidad 2020",
-            "fr": "Auraximas 2020",
-            "it": "Auraximas 2020"
-        },
-        "description": {
-            "de": "16. Dez. - 3. Jan.",
-            "en": "Dec. 16 - Jan. 3",
-            "es": "Del 16 de diciembre al 3 de enero",
-            "fr": "16 d\u00e9c. - 3 jan.",
-            "it": "16 dicembre - 3 gennaio"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "94",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Valentinstag 2021",
-            "en": "Valentine's Day 2021",
-            "es": "San Valent\u00edn 2021",
-            "fr": "Saint-Valentin 2021",
-            "it": "San Valentino 2021"
-        },
-        "description": {
-            "de": "14. Feb. - 28. Feb.",
-            "en": "Feb. 14 - Feb. 28",
-            "es": "14 de feb. - 28 de feb.",
-            "fr": "14 f\u00e9v. - 28 f\u00e9v.",
-            "it": "14-28 febbraio"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "95",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Javelin",
-            "en": "Javelin",
-            "es": "Javelin",
-            "fr": "Javelot",
-            "it": "Javelin"
-        },
         "image_set_id": "806819",
         "image_id": "93911",
         "image_path": "/files/ps2/images/static/93911.png"
@@ -1019,13 +437,6 @@
     {
         "directive_tree_id": "96",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Dervish",
-            "en": "Dervish",
-            "es": "Dervish",
-            "fr": "Derviche",
-            "it": "Derviscio"
-        },
         "image_set_id": "806714",
         "image_id": "93608",
         "image_path": "/files/ps2/images/static/93608.png"
@@ -1033,84 +444,28 @@
     {
         "directive_tree_id": "97",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Chimera",
-            "en": "Chimera",
-            "es": "Chimera",
-            "fr": "Chim\u00e8re",
-            "it": "Chimera"
-        },
         "image_set_id": "806713",
         "image_id": "93609",
         "image_path": "/files/ps2/images/static/93609.png"
     },
     {
         "directive_tree_id": "98",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Sommerspa\u00df 2021",
-            "en": "Summer Fun 2021",
-            "es": "Diversi\u00f3n veraniega 2021",
-            "fr": "Fun estival 2021",
-            "it": "Summer Fun 2021"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 25. August",
-            "en": "Available through August 25",
-            "es": "Disponible hasta el 25 de agosto",
-            "fr": "Disponible jusqu'au 25 ao\u00fbt",
-            "it": "Disponibile fino al 25 agosto"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "100",
         "directive_tree_category_id": "8",
-        "name": {
-            "de": "Halloween VIII",
-            "en": "Halloween VIII",
-            "es": "Halloween VIII",
-            "fr": "Halloween VIII",
-            "it": "Halloween VIII"
-        },
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
     },
     {
         "directive_tree_id": "101",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Auraximas 2021",
-            "en": "Auraximas 2021",
-            "es": "Auraxidad 2021",
-            "fr": "Auraximas 2021",
-            "it": "Auraximas 2021"
-        },
-        "description": {
-            "de": "1. Dez. - 9. Jan.",
-            "en": "Dec. 1 - Jan. 9",
-            "es": "1/12 - 9/1",
-            "fr": "1er d\u00e9c. - 9 jan.",
-            "it": "1 dic - 9 gen."
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "102",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Au\u00dfergew\u00f6hnlich V",
-            "en": "Exceptional V",
-            "es": "V excepcional",
-            "fr": "Exceptionnel V",
-            "it": "Eccezionale V"
-        },
-        "description": {
-            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
-            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
-            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
-            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
-        },
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
@@ -1118,13 +473,6 @@
     {
         "directive_tree_id": "103",
         "directive_tree_category_id": "17",
-        "name": {
-            "de": "Oshur-Hundemarken",
-            "en": "Oshur Dog Tags",
-            "es": "Placas identificativas de Oshur",
-            "fr": "Plaques d'identit\u00e9 d'Oshur",
-            "it": "Piastrine militari di Oshur"
-        },
         "image_set_id": "14448",
         "image_id": "78104",
         "image_path": "/files/ps2/images/static/78104.png"
@@ -1132,45 +480,17 @@
     {
         "directive_tree_id": "104",
         "directive_tree_category_id": "5",
-        "name": {
-            "de": "Eroberung - Oshur",
-            "en": "Conquest - Oshur",
-            "es": "Conquista: Oshur",
-            "fr": "Conqu\u00eate - Oshur",
-            "it": "Conquista - Oshur"
-        },
         "image_set_id": "14163",
         "image_id": "79586",
         "image_path": "/files/ps2/images/static/79586.png"
     },
     {
         "directive_tree_id": "105",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Valentinstag 2022",
-            "en": "Valentine's Day 2022",
-            "es": "San Valent\u00edn 2022",
-            "fr": "Saint-Valentin 2022",
-            "it": "San Valentino 2022"
-        },
-        "description": {
-            "de": "14. Feb. - 28. Feb.",
-            "en": "Feb. 14 - Feb. 28",
-            "es": "14 de feb. - 28 de feb.",
-            "fr": "14 f\u00e9v. - 28 f\u00e9v.",
-            "it": "14-28 febbraio"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "106",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Schwarzmarkt",
-            "en": "Black Market",
-            "es": "Mercado negro",
-            "fr": "March\u00e9 noir",
-            "it": "Mercato nero"
-        },
         "image_set_id": "802639",
         "image_id": "84293",
         "image_path": "/files/ps2/images/static/84293.png"
@@ -1178,12 +498,6 @@
     {
         "directive_tree_id": "107",
         "directive_tree_category_id": "17",
-        "name": {
-            "en": "Gone Fishing"
-        },
-        "description": {
-            "en": "Reel in some big fish from the waters of Auraxis."
-        },
         "image_set_id": "802639",
         "image_id": "84293",
         "image_path": "/files/ps2/images/static/84293.png"
@@ -1191,127 +505,36 @@
     {
         "directive_tree_id": "109",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Au\u00dfergew\u00f6hnlich VI",
-            "en": "Exceptional VI",
-            "es": "VI excepcional",
-            "fr": "Exceptionnel VI",
-            "it": "Eccezionale VI"
-        },
-        "description": {
-            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
-            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
-            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
-            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
-        },
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
     },
     {
         "directive_tree_id": "110",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Sommerspa\u00df 2022 - Br\u00fcckenkopf",
-            "en": "Summer Fun 2022 - Beach Head",
-            "es": "Diversi\u00f3n de verano 2022: Conquista playera",
-            "fr": "Fun estival 2022 - T\u00eate de pont",
-            "it": "Tempo d'estate 2022 - Beach Head"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 29. Juni",
-            "en": "Available through June 29",
-            "es": "Disponible hasta el 29 de junio",
-            "fr": "Disponible jusqu'au 29 juin",
-            "it": "Disponibile fino al 29 giugno"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "111",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Sommerspa\u00df 2022 - Wellenbrecher",
-            "en": "Summer Fun 2022 - Wave Breaker",
-            "es": "Diversi\u00f3n de verano 2022: Rompeolas",
-            "fr": "Fun estival 2022 - Brise-lames",
-            "it": "Tempo d'estate 2022 - Spartiacque"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 27. Juli",
-            "en": "Available through July 27",
-            "es": "Disponible hasta el 27 de julio.",
-            "fr": "Disponible jusqu'au 27 juillet",
-            "it": "Disponibile fino al 27 luglio"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "112",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Sommerspa\u00df 2022 - Trotzige D\u00fcnung",
-            "en": "Summer Fun 2022 - Sullen Swells",
-            "es": "Diversi\u00f3n de verano 2022: Inundaci\u00f3n impresionante",
-            "fr": "Fun estival 2022 - Houle sinistre",
-            "it": "Tempo d'estate 2022 - Sullen Swells"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 17. August",
-            "en": "Available through August 17",
-            "es": "Disponible hasta el 17 de agosto",
-            "fr": "Disponible jusqu'au 17 ao\u00fbt",
-            "it": "Disponibile fino al 17 agosto"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "113",
         "directive_tree_category_id": "4",
-        "name": {
-            "de": "Corsair",
-            "en": "Corsair",
-            "es": "Corsair",
-            "fr": "Corsaire",
-            "it": "Corsair"
-        },
         "image_set_id": "807221",
         "image_id": "95008",
         "image_path": "/files/ps2/images/static/95008.png"
     },
     {
         "directive_tree_id": "114",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "T\u00e4uschung",
-            "en": "Subterfuge",
-            "es": "Subterfugio",
-            "fr": "Subterfuge",
-            "it": "Sotterfugio"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 4. Dezember",
-            "en": "Available through December 4",
-            "es": "Disponible hasta el 4 de diciembre",
-            "fr": "Disponible jusqu'au 4 d\u00e9cembre",
-            "it": "Disponibile fino al 4 dicembre"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "115",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Au\u00dfergew\u00f6hnlich VII",
-            "en": "Exceptional VII",
-            "es": "Excepcional VII",
-            "fr": "Exceptionnel VII",
-            "it": "Eccezionale VII"
-        },
-        "description": {
-            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
-            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
-            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
-            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
-        },
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
@@ -1319,117 +542,33 @@
     {
         "directive_tree_id": "116",
         "directive_tree_category_id": "8",
-        "name": {
-            "de": "Halloween 2022",
-            "en": "Halloween 2022",
-            "es": "Halloween 2022",
-            "fr": "Halloween 2022",
-            "it": "Halloween 2022"
-        },
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
     },
     {
         "directive_tree_id": "117",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Auraximas 2022",
-            "en": "Auraximas 2022",
-            "es": "Auraxidad 2022",
-            "fr": "Auraximas 2022",
-            "it": "Auraximas 2022"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 1. Januar",
-            "en": "Available through January 1",
-            "es": "Disponible hasta el 1 de enero",
-            "fr": "Disponible jusqu'au 1 janvier",
-            "it": "Disponibile fino al 1\u00b0 gennaio"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "118",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Valentinstag 2023",
-            "en": "Valentine's Day 2023",
-            "es": "San Valent\u00edn 2023",
-            "fr": "Saint-Valentin 2023",
-            "it": "San Valentino 2023"
-        },
-        "description": {
-            "de": "14. Feb. - 28. Feb.",
-            "en": "Feb. 14 - Feb. 28",
-            "es": "14 de feb. - 28 de feb.",
-            "fr": "14 f\u00e9v. - 28 f\u00e9v.",
-            "it": "14-28 febbraio"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "119",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Jubil\u00e4um 20 Jahre PlanetSide",
-            "en": "PlanetSide 20-Year Legacy",
-            "es": "Legado de 20 a\u00f1os de PlanetSide",
-            "fr": "20 ans d'H\u00e9ritage de PlanetSide",
-            "it": "Legacy 20 anni PlanetSide"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 4. Juni",
-            "en": "Available through June 4",
-            "es": "Disponible hasta el 4 de junio",
-            "fr": "Disponible jusqu'au 4 juin",
-            "it": "Disponibile fino al 4 giugno"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "122",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Operation Tidebreaker",
-            "en": "Operation Tidebreaker",
-            "es": "Operaci\u00f3n Rompeolas",
-            "fr": "Op\u00e9ration Brise-lames",
-            "it": "Operazione Tidebreaker"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 31. Juli",
-            "en": "Available through July 31",
-            "es": "Disponible hasta el 31 de julio",
-            "fr": "Disponible jusqu'au 31 juillet",
-            "it": "Disponibile fino al 31 luglio"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "123",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Operation Emberfall",
-            "en": "Operation Emberfall",
-            "es": "Operaci\u00f3n Ca\u00edda de ascuas",
-            "fr": "Op\u00e9ration Emberfall",
-            "it": "Operazione Emberfall"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 31. August",
-            "en": "Available through August 31",
-            "es": "Disponible hasta el 31 de agosto",
-            "fr": "Disponible jusqu'au 31 ao\u00fbt",
-            "it": "Disponibile fino al 31 agosto"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "126",
         "directive_tree_category_id": "8",
-        "name": {
-            "de": "Halloween 2023",
-            "en": "Halloween 2023",
-            "es": "Halloween 2023",
-            "fr": "Halloween 2023",
-            "it": "Halloween 2023"
-        },
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
@@ -1437,127 +576,36 @@
     {
         "directive_tree_id": "127",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Au\u00dfergew\u00f6hnlich VIII",
-            "en": "Exceptional VIII",
-            "es": "Excepcional VIII",
-            "fr": "Exceptionnel VIII",
-            "it": "Eccezionale VIII"
-        },
-        "description": {
-            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
-            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
-            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
-            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
-        },
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
     },
     {
         "directive_tree_id": "131",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Auraximas 2023",
-            "en": "Auraximas 2023",
-            "es": "Auraxidad 2023",
-            "fr": "Auraximas 2023",
-            "it": "Auraximas 2023"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 1. Januar",
-            "en": "Available through January 1",
-            "es": "Disponible hasta el 1 de enero",
-            "fr": "Disponible jusqu'au 1 janvier",
-            "it": "Disponibile fino al 1\u00b0 gennaio"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "134",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Valentinstag 2024",
-            "en": "Valentine's Day 2024",
-            "es": "San Valent\u00edn 2024",
-            "fr": "Saint-Valentin 2024",
-            "it": "San Valentino 2024"
-        },
-        "description": {
-            "de": "14. Feb. - 28. Feb.",
-            "en": "Feb. 14 - Feb. 28",
-            "es": "14 de feb. - 28 de feb.",
-            "fr": "14 f\u00e9v. - 28 f\u00e9v.",
-            "it": "14-28 febbraio"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "135",
         "directive_tree_category_id": "17",
-        "name": {
-            "de": "Angeln",
-            "en": "Fishing",
-            "es": "Pesca",
-            "fr": "P\u00eache",
-            "it": "Pesca"
-        },
-        "description": {
-            "de": "Angeln",
-            "en": "Fishing",
-            "es": "Pesca",
-            "fr": "P\u00eache",
-            "it": "Pesca"
-        },
         "image_set_id": "808177",
         "image_id": "97804",
         "image_path": "/files/ps2/images/static/97804.png"
     },
     {
         "directive_tree_id": "136",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Operation: Lichtsucher",
-            "en": "Operation: Lightseeker",
-            "es": "Operaci\u00f3n: Busca luminosa",
-            "fr": "Op\u00e9ration : Lightseeker",
-            "it": "Operazione: Cercatore di luce"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 5. August",
-            "en": "Available through August 5th",
-            "es": "Disponible hasta el 5 de agosto",
-            "fr": "Disponible jusqu'au 5 ao\u00fbt",
-            "it": "Disponibile fino al 5 agosto"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "137",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Operation: Bahnbrecher",
-            "en": "Operation: Groundbreaker",
-            "es": "Operaci\u00f3n: Rompesuelos",
-            "fr": "Op\u00e9ration : Groundbreaker",
-            "it": "Operazione: Spaccaterra"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 12. September",
-            "en": "Available through September 12th",
-            "es": "Disponible hasta el 12 de septiembre",
-            "fr": "Disponible jusqu'au 12 septembre",
-            "it": "Disponibile fino al 12 settembre"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "139",
         "directive_tree_category_id": "5",
-        "name": {
-            "de": "Eroberung - Indar",
-            "en": "Conquest - Indar",
-            "es": "Conquista: Indar",
-            "fr": "Conqu\u00eate - Indar",
-            "it": "Conquista - Indar"
-        },
         "image_set_id": "14163",
         "image_id": "79586",
         "image_path": "/files/ps2/images/static/79586.png"
@@ -1565,13 +613,6 @@
     {
         "directive_tree_id": "140",
         "directive_tree_category_id": "5",
-        "name": {
-            "de": "Eroberung - Hossin",
-            "en": "Conquest - Hossin",
-            "es": "Conquista: Hossin",
-            "fr": "Conqu\u00eate - Hossin",
-            "it": "Conquista - Hossin"
-        },
         "image_set_id": "14163",
         "image_id": "79586",
         "image_path": "/files/ps2/images/static/79586.png"
@@ -1579,13 +620,6 @@
     {
         "directive_tree_id": "141",
         "directive_tree_category_id": "5",
-        "name": {
-            "de": "Eroberung - Amerish",
-            "en": "Conquest - Amerish",
-            "es": "Conquista: Amerish",
-            "fr": "Conqu\u00eate - Amerish",
-            "it": "Conquista - Amerish"
-        },
         "image_set_id": "14163",
         "image_id": "79586",
         "image_path": "/files/ps2/images/static/79586.png"
@@ -1593,13 +627,6 @@
     {
         "directive_tree_id": "142",
         "directive_tree_category_id": "5",
-        "name": {
-            "de": "Eroberung - Esamir",
-            "en": "Conquest - Esamir",
-            "es": "Conquista: Esamir",
-            "fr": "Conqu\u00eate - Esamir",
-            "it": "Conquista - Esamir"
-        },
         "image_set_id": "14163",
         "image_id": "79586",
         "image_path": "/files/ps2/images/static/79586.png"
@@ -1607,13 +634,6 @@
     {
         "directive_tree_id": "143",
         "directive_tree_category_id": "8",
-        "name": {
-            "de": "Naniten der lebenden Toten 2024",
-            "en": "Nanite of the Living Dead 2024",
-            "es": "Nanite de los muertos vivientes 2024",
-            "fr": "Nuit Nanite des Morts-Vivants 2024",
-            "it": "La notte dei naniti viventi 2024"
-        },
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
@@ -1621,13 +641,6 @@
     {
         "directive_tree_id": "144",
         "directive_tree_category_id": "20",
-        "name": {
-            "de": "Angeln",
-            "en": "Fishing",
-            "es": "Pesca",
-            "fr": "P\u00eache",
-            "it": "Pesca"
-        },
         "image_set_id": "808177",
         "image_id": "97804",
         "image_path": "/files/ps2/images/static/97804.png"
@@ -1635,70 +648,21 @@
     {
         "directive_tree_id": "145",
         "directive_tree_category_id": "11",
-        "name": {
-            "de": "Au\u00dfergew\u00f6hnlich IX",
-            "en": "Exceptional IX",
-            "es": "Excepcional IX",
-            "fr": "Exceptionnel IX",
-            "it": "Eccezionale IX"
-        },
-        "description": {
-            "de": "Promo- und Saison-Waffen, welche eventuell nicht f\u00fcr den sofortigen Gebrauch verf\u00fcgbar sind. ",
-            "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
-            "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
-            "fr": "Les offres promotionnelles et saisonni\u00e8res sur les armes peuvent ne pas \u00eatre disponibles pour une acquisition imm\u00e9diate.",
-            "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata."
-        },
         "image_set_id": "14396",
         "image_id": "79737",
         "image_path": "/files/ps2/images/static/79737.png"
     },
     {
         "directive_tree_id": "146",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Auraximas 2024",
-            "en": "Auraximas 2024",
-            "es": "Auraxidad 2024",
-            "fr": "Auraximas 2024",
-            "it": "Auraximas 2024"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 1. Januar",
-            "en": "Available through January 1",
-            "es": "Disponible hasta el 1 de enero",
-            "fr": "Disponible jusqu'au 1 janvier",
-            "it": "Disponibile fino al 1\u00b0 gennaio"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "147",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Valentinstag 2025",
-            "en": "Valentine's Day 2025",
-            "es": "San Valent\u00edn 2025",
-            "fr": "Saint-Valentin 2025",
-            "it": "San Valentino 2025"
-        },
-        "description": {
-            "de": "Valentins-Anweisungspaket-Event! Den ganzen Februar verf\u00fcgbar!",
-            "en": "Valentine's Directive Event!  Available throughout February!",
-            "es": "\u00a1Evento de directivas de San Valent\u00edn! \u00a1Disponible todo febrero!",
-            "fr": "\u00c9v\u00e9nement de directives de la Saint-Valentin ! Effectif tout le mois de f\u00e9vrier !",
-            "it": "Evento direttiva di San Valentino! Disponibile per tutto febbraio!"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "148",
         "directive_tree_category_id": "17",
-        "name": {
-            "de": "Indar-Hundemarken",
-            "en": "Indar Dog Tags",
-            "es": "Placas de identificaci\u00f3n de Indar",
-            "fr": "Plaques d'identit\u00e9 d'Indar",
-            "it": "Piastrine militari di Indar"
-        },
         "image_set_id": "14448",
         "image_id": "78104",
         "image_path": "/files/ps2/images/static/78104.png"
@@ -1706,13 +670,6 @@
     {
         "directive_tree_id": "149",
         "directive_tree_category_id": "17",
-        "name": {
-            "de": "Amerish-Hundemarken",
-            "en": "Amerish Dog Tags",
-            "es": "Placas de identificaci\u00f3n de Amerish",
-            "fr": "Plaques d'identit\u00e9 d'Amerish",
-            "it": "Piastrine militari di Amerish"
-        },
         "image_set_id": "14448",
         "image_id": "78104",
         "image_path": "/files/ps2/images/static/78104.png"
@@ -1720,13 +677,6 @@
     {
         "directive_tree_id": "150",
         "directive_tree_category_id": "17",
-        "name": {
-            "de": "Hossin-Hundemarken",
-            "en": "Hossin Dog Tags",
-            "es": "Placas de identificaci\u00f3n de Hossin",
-            "fr": "Plaques d'identit\u00e9 d'Hossin",
-            "it": "Piastrine militare di Hossin"
-        },
         "image_set_id": "14448",
         "image_id": "78104",
         "image_path": "/files/ps2/images/static/78104.png"
@@ -1734,13 +684,6 @@
     {
         "directive_tree_id": "151",
         "directive_tree_category_id": "17",
-        "name": {
-            "de": "Esamir-Hundemarken",
-            "en": "Esamir Dog Tags",
-            "es": "Placas de identificaci\u00f3n de Indar",
-            "fr": "Plaques d'identit\u00e9 d'Esamir",
-            "it": "Piastrine militari di Esamir"
-        },
         "image_set_id": "14448",
         "image_id": "78104",
         "image_path": "/files/ps2/images/static/78104.png"
@@ -1748,70 +691,21 @@
     {
         "directive_tree_id": "154",
         "directive_tree_category_id": "20",
-        "name": {
-            "de": "Angelmeister",
-            "en": "Fishing Mastery",
-            "es": "Maestr\u00eda de pesca",
-            "fr": "Ma\u00eetrise de la p\u00eache",
-            "it": "Padronanza nella pesca"
-        },
         "image_set_id": "808177",
         "image_id": "97804",
         "image_path": "/files/ps2/images/static/97804.png"
     },
     {
         "directive_tree_id": "155",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Operation: Helios",
-            "en": "Operation: Helios",
-            "es": "Operaci\u00f3n: Helios",
-            "fr": "Op\u00e9ration : H\u00e9lios",
-            "it": "Operazione: Helios"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 5. August",
-            "en": "Available through August 5th",
-            "es": "Disponible hasta el 5 de agosto",
-            "fr": "Disponible jusqu'au 5 ao\u00fbt",
-            "it": "Disponibile fino al 5 agosto"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "156",
-        "directive_tree_category_id": "8",
-        "name": {
-            "de": "Operation: Kaiju",
-            "en": "Operation: Kaiju",
-            "es": "Operaci\u00f3n: Kaiju",
-            "fr": "Op\u00e9ration\u00a0: Kaiju",
-            "it": "Operazione: Kaiju"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 12. September",
-            "en": "Available through September 12th",
-            "es": "Disponible hasta el 12 de septiembre",
-            "fr": "Disponible jusqu'au 12 septembre",
-            "it": "Disponibile fino al 12 settembre"
-        }
+        "directive_tree_category_id": "8"
     },
     {
         "directive_tree_id": "157",
         "directive_tree_category_id": "8",
-        "name": {
-            "de": "Naniten der lebenden Toten 2025",
-            "en": "Nanite of the Living Dead 2025",
-            "es": "Nanite de los muertos vivientes 2025",
-            "fr": "La Nuit Nanite des Morts Vivants 2025",
-            "it": "La notte dei naniti viventi 2025"
-        },
-        "description": {
-            "de": "Verf\u00fcgbar bis 10. November 2025",
-            "en": "Available through November 10th 2025",
-            "es": "Disponible hasta el 10 de noviembre de 2025",
-            "fr": "Disponible jusqu'au 10 novembre 2025",
-            "it": "Disponibile fino al 10 novembre 2025"
-        },
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"

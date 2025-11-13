@@ -1,98 +1,26 @@
 [
     {
         "world_id": "1",
-        "state": "online",
-        "name": {
-            "en": "Osprey",
-            "de": "Osprey",
-            "es": "Osprey",
-            "fr": "Osprey",
-            "it": "Osprey",
-            "tr": "null"
-        },
-        "description": {
-            "en": "Osprey",
-            "de": "Osprey",
-            "es": "Osprey",
-            "fr": "Osprey",
-            "it": "Osprey",
-            "tr": "null"
-        }
+        "state": "online"
     },
     {
         "world_id": "10",
-        "state": "online",
-        "name": {
-            "en": "Wainwright",
-            "de": "Wainwright",
-            "es": "Wainwright",
-            "fr": "Wainwright",
-            "it": "Wainwright",
-            "tr": "null"
-        },
-        "description": {
-            "en": "Wainwright",
-            "de": "Wainwright",
-            "es": "Wainwright",
-            "fr": "Wainwright",
-            "it": "Wainwright",
-            "tr": "null"
-        }
+        "state": "online"
     },
     {
         "world_id": "19",
-        "state": "online",
-        "name": {
-            "en": "Jaeger",
-            "de": "Jaeger",
-            "es": "Jaeger",
-            "fr": "Jaeger",
-            "it": "Jaeger",
-            "tr": "Jaeger"
-        }
+        "state": "online"
     },
     {
         "world_id": "24",
-        "state": "online",
-        "name": {
-            "en": "Apex",
-            "de": "Apex",
-            "es": "Apex",
-            "fr": "Apex",
-            "it": "Apex",
-            "tr": "Apex"
-        }
+        "state": "online"
     },
     {
         "world_id": "25",
-        "state": "online",
-        "name": {
-            "en": "Briggs",
-            "de": "Briggs",
-            "es": "Briggs",
-            "fr": "Briggs",
-            "it": "Briggs",
-            "tr": "Briggs"
-        },
-        "description": {
-            "en": "AUS",
-            "de": "AUS",
-            "es": "AUS",
-            "fr": "AUS",
-            "it": "AUS",
-            "tr": "AUS"
-        }
+        "state": "online"
     },
     {
         "world_id": "40",
-        "state": "online",
-        "name": {
-            "en": "SolTech",
-            "de": "SolTech",
-            "es": "SolTech",
-            "fr": "SolTech",
-            "it": "SolTech",
-            "tr": "SolTech"
-        }
+        "state": "online"
     }
 ]

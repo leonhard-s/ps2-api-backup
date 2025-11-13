@@ -4,22 +4,6 @@
         "profile_type_id": "1",
         "profile_type_description": "Infiltrator",
         "faction_id": "2",
-        "name": {
-            "de": "Spion",
-            "en": "Infiltrator",
-            "es": "Infiltrado",
-            "fr": "Infiltr\u00e9",
-            "it": "Infiltrato",
-            "tr": "Casus"
-        },
-        "description": {
-            "de": "Spion",
-            "en": "Infiltrator",
-            "es": "Infiltrado",
-            "fr": "Infiltr\u00e9",
-            "it": "Infiltrato",
-            "tr": "Casus"
-        },
         "image_set_id": "67",
         "image_id": "204",
         "image_path": "/files/ps2/images/static/204.png",
@@ -33,22 +17,6 @@
         "profile_type_id": "3",
         "profile_type_description": "Light Assault",
         "faction_id": "2",
-        "name": {
-            "de": "Leichte Angriffseinheit",
-            "en": "Light Assault",
-            "es": "Asalto ligero",
-            "fr": "Assaut l\u00e9ger",
-            "it": "Assalto Leggero",
-            "tr": "Hafif Taarruz"
-        },
-        "description": {
-            "de": "Leichte Angriffseinheit",
-            "en": "Light Assault",
-            "es": "Asalto ligero",
-            "fr": "Assaut l\u00e9ger",
-            "it": "Assalto Leggero",
-            "tr": "Hafif Taarruz"
-        },
         "image_set_id": "8",
         "image_id": "62",
         "image_path": "/files/ps2/images/static/62.png",
@@ -62,22 +30,6 @@
         "profile_type_id": "4",
         "profile_type_description": "Combat Medic",
         "faction_id": "2",
-        "name": {
-            "de": "Sanit\u00e4ter",
-            "en": "Combat Medic",
-            "es": "M\u00e9dico de combate",
-            "fr": "M\u00e9decin de combat",
-            "it": "Medico da campo",
-            "tr": "S\u0131hh\u0131yeci"
-        },
-        "description": {
-            "de": "Sanit\u00e4ter",
-            "en": "Combat Medic",
-            "es": "M\u00e9dico de combate",
-            "fr": "M\u00e9decin de combat",
-            "it": "Medico da campo",
-            "tr": "S\u0131hh\u0131yeci"
-        },
         "image_set_id": "9",
         "image_id": "65",
         "image_path": "/files/ps2/images/static/65.png",
@@ -91,22 +43,6 @@
         "profile_type_id": "5",
         "profile_type_description": "Engineer",
         "faction_id": "2",
-        "name": {
-            "de": "Ingenieur",
-            "en": "Engineer",
-            "es": "Ingeniero",
-            "fr": "Ing\u00e9nieur",
-            "it": "Geniere",
-            "tr": "M\u00fchendis"
-        },
-        "description": {
-            "de": "Ingenieur",
-            "en": "Engineer",
-            "es": "Ingeniero",
-            "fr": "Ing\u00e9nieur",
-            "it": "Geniere",
-            "tr": "M\u00fchendis"
-        },
         "image_set_id": "66",
         "image_id": "201",
         "image_path": "/files/ps2/images/static/201.png",
@@ -120,22 +56,6 @@
         "profile_type_id": "6",
         "profile_type_description": "Heavy Assault",
         "faction_id": "2",
-        "name": {
-            "de": "Schwere Angriffseinheit",
-            "en": "Heavy Assault",
-            "es": "Asalto pesado",
-            "fr": "Assaut lourd",
-            "it": "Assalto Pesante",
-            "tr": "A\u011f\u0131r Taarruz"
-        },
-        "description": {
-            "de": "Schwere Angriffseinheit",
-            "en": "Heavy Assault",
-            "es": "Asalto pesado",
-            "fr": "Assaut lourd",
-            "it": "Assalto Pesante",
-            "tr": "A\u011f\u0131r Taarruz"
-        },
         "image_set_id": "7",
         "image_id": "59",
         "image_path": "/files/ps2/images/static/59.png",
@@ -149,22 +69,6 @@
         "profile_type_id": "7",
         "profile_type_description": "MAX",
         "faction_id": "2",
-        "name": {
-            "de": "MAX-Einheit",
-            "en": "MAX",
-            "es": "MAX",
-            "fr": "XAM",
-            "it": "MAX",
-            "tr": "MAX"
-        },
-        "description": {
-            "de": "MAX-Einheit",
-            "en": "MAX",
-            "es": "MAX",
-            "fr": "XAM",
-            "it": "MAX",
-            "tr": "MAX"
-        },
         "image_set_id": "68",
         "image_id": "207",
         "image_path": "/files/ps2/images/static/207.png",
@@ -178,22 +82,6 @@
         "profile_type_id": "1",
         "profile_type_description": "Infiltrator",
         "faction_id": "3",
-        "name": {
-            "de": "Spion",
-            "en": "Infiltrator",
-            "es": "Infiltrado",
-            "fr": "Infiltr\u00e9",
-            "it": "Infiltrato",
-            "tr": "Casus"
-        },
-        "description": {
-            "de": "Spion",
-            "en": "Infiltrator",
-            "es": "Infiltrado",
-            "fr": "Infiltr\u00e9",
-            "it": "Infiltrato",
-            "tr": "Casus"
-        },
         "image_set_id": "67",
         "image_id": "204",
         "image_path": "/files/ps2/images/static/204.png",
@@ -207,22 +95,6 @@
         "profile_type_id": "3",
         "profile_type_description": "Light Assault",
         "faction_id": "3",
-        "name": {
-            "de": "Leichte Angriffseinheit",
-            "en": "Light Assault",
-            "es": "Asalto ligero",
-            "fr": "Assaut l\u00e9ger",
-            "it": "Assalto Leggero",
-            "tr": "Hafif Taarruz"
-        },
-        "description": {
-            "de": "Leichte Angriffseinheit",
-            "en": "Light Assault",
-            "es": "Asalto ligero",
-            "fr": "Assaut l\u00e9ger",
-            "it": "Assalto Leggero",
-            "tr": "Hafif Taarruz"
-        },
         "image_set_id": "8",
         "image_id": "62",
         "image_path": "/files/ps2/images/static/62.png",
@@ -236,22 +108,6 @@
         "profile_type_id": "4",
         "profile_type_description": "Combat Medic",
         "faction_id": "3",
-        "name": {
-            "de": "Sanit\u00e4ter",
-            "en": "Combat Medic",
-            "es": "M\u00e9dico de combate",
-            "fr": "M\u00e9decin de combat",
-            "it": "Medico da campo",
-            "tr": "S\u0131hh\u0131yeci"
-        },
-        "description": {
-            "de": "Sanit\u00e4ter",
-            "en": "Combat Medic",
-            "es": "M\u00e9dico de combate",
-            "fr": "M\u00e9decin de combat",
-            "it": "Medico da campo",
-            "tr": "S\u0131hh\u0131yeci"
-        },
         "image_set_id": "9",
         "image_id": "65",
         "image_path": "/files/ps2/images/static/65.png",
@@ -265,22 +121,6 @@
         "profile_type_id": "5",
         "profile_type_description": "Engineer",
         "faction_id": "3",
-        "name": {
-            "de": "Ingenieur",
-            "en": "Engineer",
-            "es": "Ingeniero",
-            "fr": "Ing\u00e9nieur",
-            "it": "Geniere",
-            "tr": "M\u00fchendis"
-        },
-        "description": {
-            "de": "Ingenieur",
-            "en": "Engineer",
-            "es": "Ingeniero",
-            "fr": "Ing\u00e9nieur",
-            "it": "Geniere",
-            "tr": "M\u00fchendis"
-        },
         "image_set_id": "66",
         "image_id": "201",
         "image_path": "/files/ps2/images/static/201.png",
@@ -294,22 +134,6 @@
         "profile_type_id": "6",
         "profile_type_description": "Heavy Assault",
         "faction_id": "3",
-        "name": {
-            "de": "Schwere Angriffseinheit",
-            "en": "Heavy Assault",
-            "es": "Asalto pesado",
-            "fr": "Assaut lourd",
-            "it": "Assalto Pesante",
-            "tr": "A\u011f\u0131r Taarruz"
-        },
-        "description": {
-            "de": "Schwere Angriffseinheit",
-            "en": "Heavy Assault",
-            "es": "Asalto pesado",
-            "fr": "Assaut lourd",
-            "it": "Assalto Pesante",
-            "tr": "A\u011f\u0131r Taarruz"
-        },
         "image_set_id": "7",
         "image_id": "59",
         "image_path": "/files/ps2/images/static/59.png",
@@ -323,22 +147,6 @@
         "profile_type_id": "7",
         "profile_type_description": "MAX",
         "faction_id": "3",
-        "name": {
-            "de": "MAX-Einheit",
-            "en": "MAX",
-            "es": "MAX",
-            "fr": "XAM",
-            "it": "MAX",
-            "tr": "MAX"
-        },
-        "description": {
-            "de": "MAX-Einheit",
-            "en": "MAX",
-            "es": "MAX",
-            "fr": "XAM",
-            "it": "MAX",
-            "tr": "MAX"
-        },
         "image_set_id": "68",
         "image_id": "207",
         "image_path": "/files/ps2/images/static/207.png",
@@ -352,22 +160,6 @@
         "profile_type_id": "1",
         "profile_type_description": "Infiltrator",
         "faction_id": "1",
-        "name": {
-            "de": "Spion",
-            "en": "Infiltrator",
-            "es": "Infiltrado",
-            "fr": "Infiltr\u00e9",
-            "it": "Infiltrato",
-            "tr": "Casus"
-        },
-        "description": {
-            "de": "Spion",
-            "en": "Infiltrator",
-            "es": "Infiltrado",
-            "fr": "Infiltr\u00e9",
-            "it": "Infiltrato",
-            "tr": "Casus"
-        },
         "image_set_id": "67",
         "image_id": "204",
         "image_path": "/files/ps2/images/static/204.png",
@@ -381,22 +173,6 @@
         "profile_type_id": "3",
         "profile_type_description": "Light Assault",
         "faction_id": "1",
-        "name": {
-            "de": "Leichte Angriffseinheit",
-            "en": "Light Assault",
-            "es": "Asalto ligero",
-            "fr": "Assaut l\u00e9ger",
-            "it": "Assalto Leggero",
-            "tr": "Hafif Taarruz"
-        },
-        "description": {
-            "de": "Leichte Angriffseinheit",
-            "en": "Light Assault",
-            "es": "Asalto ligero",
-            "fr": "Assaut l\u00e9ger",
-            "it": "Assalto Leggero",
-            "tr": "Hafif Taarruz"
-        },
         "image_set_id": "8",
         "image_id": "62",
         "image_path": "/files/ps2/images/static/62.png",
@@ -410,22 +186,6 @@
         "profile_type_id": "4",
         "profile_type_description": "Combat Medic",
         "faction_id": "1",
-        "name": {
-            "de": "Sanit\u00e4ter",
-            "en": "Combat Medic",
-            "es": "M\u00e9dico de combate",
-            "fr": "M\u00e9decin de combat",
-            "it": "Medico da campo",
-            "tr": "S\u0131hh\u0131yeci"
-        },
-        "description": {
-            "de": "Sanit\u00e4ter",
-            "en": "Combat Medic",
-            "es": "M\u00e9dico de combate",
-            "fr": "M\u00e9decin de combat",
-            "it": "Medico da campo",
-            "tr": "S\u0131hh\u0131yeci"
-        },
         "image_set_id": "9",
         "image_id": "65",
         "image_path": "/files/ps2/images/static/65.png",
@@ -439,22 +199,6 @@
         "profile_type_id": "5",
         "profile_type_description": "Engineer",
         "faction_id": "1",
-        "name": {
-            "de": "Ingenieur",
-            "en": "Engineer",
-            "es": "Ingeniero",
-            "fr": "Ing\u00e9nieur",
-            "it": "Geniere",
-            "tr": "M\u00fchendis"
-        },
-        "description": {
-            "de": "Ingenieur",
-            "en": "Engineer",
-            "es": "Ingeniero",
-            "fr": "Ing\u00e9nieur",
-            "it": "Geniere",
-            "tr": "M\u00fchendis"
-        },
         "image_set_id": "66",
         "image_id": "201",
         "image_path": "/files/ps2/images/static/201.png",
@@ -468,22 +212,6 @@
         "profile_type_id": "6",
         "profile_type_description": "Heavy Assault",
         "faction_id": "1",
-        "name": {
-            "de": "Schwere Angriffseinheit",
-            "en": "Heavy Assault",
-            "es": "Asalto pesado",
-            "fr": "Assaut lourd",
-            "it": "Assalto Pesante",
-            "tr": "A\u011f\u0131r Taarruz"
-        },
-        "description": {
-            "de": "Schwere Angriffseinheit",
-            "en": "Heavy Assault",
-            "es": "Asalto pesado",
-            "fr": "Assaut lourd",
-            "it": "Assalto Pesante",
-            "tr": "A\u011f\u0131r Taarruz"
-        },
         "image_set_id": "7",
         "image_id": "59",
         "image_path": "/files/ps2/images/static/59.png",
@@ -497,22 +225,6 @@
         "profile_type_id": "7",
         "profile_type_description": "MAX",
         "faction_id": "1",
-        "name": {
-            "de": "MAX-Einheit",
-            "en": "MAX",
-            "es": "MAX",
-            "fr": "XAM",
-            "it": "MAX",
-            "tr": "MAX"
-        },
-        "description": {
-            "de": "MAX-Einheit",
-            "en": "MAX",
-            "es": "MAX",
-            "fr": "XAM",
-            "it": "MAX",
-            "tr": "MAX"
-        },
         "image_set_id": "68",
         "image_id": "207",
         "image_path": "/files/ps2/images/static/207.png",
@@ -526,22 +238,6 @@
         "profile_type_id": "1",
         "profile_type_description": "Infiltrator",
         "faction_id": "4",
-        "name": {
-            "de": "Spion",
-            "en": "Infiltrator",
-            "es": "Infiltrado",
-            "fr": "Infiltr\u00e9",
-            "it": "Infiltrato",
-            "tr": "Casus"
-        },
-        "description": {
-            "de": "Spion",
-            "en": "Infiltrator",
-            "es": "Infiltrado",
-            "fr": "Infiltr\u00e9",
-            "it": "Infiltrato",
-            "tr": "Casus"
-        },
         "image_set_id": "67",
         "image_id": "204",
         "image_path": "/files/ps2/images/static/204.png",
@@ -555,22 +251,6 @@
         "profile_type_id": "3",
         "profile_type_description": "Light Assault",
         "faction_id": "4",
-        "name": {
-            "de": "Leichte Angriffseinheit",
-            "en": "Light Assault",
-            "es": "Asalto ligero",
-            "fr": "Assaut l\u00e9ger",
-            "it": "Assalto Leggero",
-            "tr": "Hafif Taarruz"
-        },
-        "description": {
-            "de": "Leichte Angriffseinheit",
-            "en": "Light Assault",
-            "es": "Asalto ligero",
-            "fr": "Assaut l\u00e9ger",
-            "it": "Assalto Leggero",
-            "tr": "Hafif Taarruz"
-        },
         "image_set_id": "8",
         "image_id": "62",
         "image_path": "/files/ps2/images/static/62.png",
@@ -584,22 +264,6 @@
         "profile_type_id": "4",
         "profile_type_description": "Combat Medic",
         "faction_id": "4",
-        "name": {
-            "de": "Sanit\u00e4ter",
-            "en": "Combat Medic",
-            "es": "M\u00e9dico de combate",
-            "fr": "M\u00e9decin de combat",
-            "it": "Medico da campo",
-            "tr": "S\u0131hh\u0131yeci"
-        },
-        "description": {
-            "de": "Sanit\u00e4ter",
-            "en": "Combat Medic",
-            "es": "M\u00e9dico de combate",
-            "fr": "M\u00e9decin de combat",
-            "it": "Medico da campo",
-            "tr": "S\u0131hh\u0131yeci"
-        },
         "image_set_id": "9",
         "image_id": "65",
         "image_path": "/files/ps2/images/static/65.png",
@@ -613,22 +277,6 @@
         "profile_type_id": "5",
         "profile_type_description": "Engineer",
         "faction_id": "4",
-        "name": {
-            "de": "Ingenieur",
-            "en": "Engineer",
-            "es": "Ingeniero",
-            "fr": "Ing\u00e9nieur",
-            "it": "Geniere",
-            "tr": "M\u00fchendis"
-        },
-        "description": {
-            "de": "Ingenieur",
-            "en": "Engineer",
-            "es": "Ingeniero",
-            "fr": "Ing\u00e9nieur",
-            "it": "Geniere",
-            "tr": "M\u00fchendis"
-        },
         "image_set_id": "66",
         "image_id": "201",
         "image_path": "/files/ps2/images/static/201.png",
@@ -642,22 +290,6 @@
         "profile_type_id": "6",
         "profile_type_description": "Heavy Assault",
         "faction_id": "4",
-        "name": {
-            "de": "Schwere Angriffseinheit",
-            "en": "Heavy Assault",
-            "es": "Asalto pesado",
-            "fr": "Assaut lourd",
-            "it": "Assalto Pesante",
-            "tr": "A\u011f\u0131r Taarruz"
-        },
-        "description": {
-            "de": "Schwere Angriffseinheit",
-            "en": "Heavy Assault",
-            "es": "Asalto pesado",
-            "fr": "Assaut lourd",
-            "it": "Assalto Pesante",
-            "tr": "A\u011f\u0131r Taarruz"
-        },
         "image_set_id": "7",
         "image_id": "59",
         "image_path": "/files/ps2/images/static/59.png",
@@ -671,20 +303,6 @@
         "profile_type_id": "7",
         "profile_type_description": "MAX",
         "faction_id": "4",
-        "name": {
-            "de": "Defector",
-            "en": "Defector",
-            "es": "Desertor",
-            "fr": "Transfuge",
-            "it": "Traditore"
-        },
-        "description": {
-            "de": "Defector",
-            "en": "Defector",
-            "es": "Desertor",
-            "fr": "Transfuge",
-            "it": "Traditore"
-        },
         "image_set_id": "68",
         "image_id": "207",
         "image_path": "/files/ps2/images/static/207.png",
