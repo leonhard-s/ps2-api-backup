@@ -1,6 +1,13 @@
 [
     {
         "fish_id": "1",
+        "name": {
+            "de": "Weichkopfmummel",
+            "en": "Softheaded Mumbler",
+            "es": "Mascullador de cabeza blanda",
+            "fr": "Marmouille \u00e0 t\u00eate molle",
+            "it": "Mormorante testamolle"
+        },
         "rarity": "1",
         "size": "1",
         "average_size": "30",
@@ -12,6 +19,13 @@
     },
     {
         "fish_id": "2",
+        "name": {
+            "de": "Gew\u00f6hnlicher Nassgreifer",
+            "en": "Regular Wetgripper",
+            "es": "Garrah\u00fameda com\u00fan",
+            "fr": "Aquapinceur ordinaire",
+            "it": "Fiutatore normale"
+        },
         "rarity": "1",
         "size": "1",
         "average_size": "30",
@@ -23,6 +37,13 @@
     },
     {
         "fish_id": "3",
+        "name": {
+            "de": "Retikulakopf-Anther",
+            "en": "Reticulaheaded Anther",
+            "es": "Antera reticulada",
+            "fr": "Anth\u00e8re \u00e0 r\u00e9ticule",
+            "it": "Anteride reticolato"
+        },
         "rarity": "1",
         "size": "3",
         "average_size": "40",
@@ -34,6 +55,13 @@
     },
     {
         "fish_id": "4",
+        "name": {
+            "de": "Gefl\u00fcgelter Pseudoschweber",
+            "en": "Winged Pseudofloater",
+            "es": "Seudoflotador alado",
+            "fr": "Pseudoflotteur ail\u00e9",
+            "it": "Fluttuante alato"
+        },
         "rarity": "2",
         "size": "2",
         "average_size": "40",
@@ -45,6 +73,13 @@
     },
     {
         "fish_id": "5",
+        "name": {
+            "de": "Gepanzerter Riffbrecher",
+            "en": "Shelled Reefcrusher",
+            "es": "Machacarrecifes de concha",
+            "fr": "Concasseur \u00e0 coquille",
+            "it": "Frantumacoralli corazzato"
+        },
         "rarity": "3",
         "size": "4",
         "average_size": "40",
@@ -56,6 +91,13 @@
     },
     {
         "fish_id": "6",
+        "name": {
+            "de": "Schlammkriecher",
+            "en": "Mudcreeper",
+            "es": "Reptalodos",
+            "fr": "Rampe-vase",
+            "it": "Fanguario"
+        },
         "rarity": "1",
         "size": "1",
         "average_size": "40",
@@ -67,6 +109,13 @@
     },
     {
         "fish_id": "7",
+        "name": {
+            "de": "Kluftbrecher-Anoa",
+            "en": "Voidswifter Anoa",
+            "es": "Anoa voraz",
+            "fr": "Anoa vide-vif",
+            "it": "Anoa afferratore"
+        },
         "rarity": "1",
         "size": "3",
         "average_size": "40",
@@ -78,6 +127,13 @@
     },
     {
         "fish_id": "8",
+        "name": {
+            "de": "Stachelschwanz-Schlickgr\u00e4ber",
+            "en": "Spiked Siltdigger",
+            "es": "Hurgalodo con p\u00faas",
+            "fr": "Fouille-limon \u00e0 pointes",
+            "it": "Cercalimo puntato"
+        },
         "rarity": "1",
         "size": "1",
         "average_size": "40",
@@ -89,6 +145,13 @@
     },
     {
         "fish_id": "9",
+        "name": {
+            "de": "K\u00fcstendornschnabel",
+            "en": "Coastal Thornbill",
+            "es": "Espinoso de las orillas",
+            "fr": "M\u00e9rion c\u00f4tier",
+            "it": "Beccospino costiero"
+        },
         "rarity": "2",
         "size": "2",
         "average_size": "40",
@@ -100,6 +163,13 @@
     },
     {
         "fish_id": "10",
+        "name": {
+            "de": "Astraxianischer Wurmech",
+            "en": "Astraxian Wormech",
+            "es": "Tecgusano astraxiano",
+            "fr": "Verphage astraxien",
+            "it": "Wormech astraxiano"
+        },
         "rarity": "3",
         "size": "3",
         "average_size": "40",
@@ -111,6 +181,13 @@
     },
     {
         "fish_id": "11",
+        "name": {
+            "de": "Warzentriton",
+            "en": "Warthog Triton",
+            "es": "Trit\u00f3n jabal\u00ed",
+            "fr": "Triton phacoch\u00e8re",
+            "it": "Tritone facocero"
+        },
         "rarity": "1",
         "size": "1",
         "average_size": "40",
@@ -122,6 +199,13 @@
     },
     {
         "fish_id": "12",
+        "name": {
+            "de": "Violetter Blasenweber",
+            "en": "Purple Bubblereaver",
+            "es": "Saqueaburbujas morado",
+            "fr": "Pillebulle pourpre",
+            "it": "Mietitore viola"
+        },
         "rarity": "1",
         "size": "2",
         "average_size": "40",
@@ -133,6 +217,13 @@
     },
     {
         "fish_id": "13",
+        "name": {
+            "de": "Oshur-Hackkiefer",
+            "en": "Oshur Cleaverjaw",
+            "es": "Mand\u00edbula punzante de Oshur",
+            "fr": "M\u00e2chedur d'Oshur",
+            "it": "Mascellide di Oshur"
+        },
         "rarity": "1",
         "size": "2",
         "average_size": "40",
@@ -144,6 +235,13 @@
     },
     {
         "fish_id": "14",
+        "name": {
+            "de": "Geister-Phlegmata",
+            "en": "Ghosted Phlegmata",
+            "es": "Viscoso fantasmal",
+            "fr": "Phlegmate fantomatique",
+            "it": "Flemmatico fantasma"
+        },
         "rarity": "2",
         "size": "1",
         "average_size": "40",
@@ -155,6 +253,13 @@
     },
     {
         "fish_id": "15",
+        "name": {
+            "de": "Schimmernder Abyssal-Gargantua",
+            "en": "Shimmering Abyssal Gargantua",
+            "es": "Gargant\u00faa brillante abisal",
+            "fr": "Gargantua brillant des abysses",
+            "it": "Gargantua abissale luminescente"
+        },
         "rarity": "3",
         "size": "4",
         "average_size": "40",
@@ -166,6 +271,13 @@
     },
     {
         "fish_id": "16",
+        "name": {
+            "de": "Pickelschreier",
+            "en": "Pimplespin Screamer",
+            "es": "Chill\u00f3n ampollado",
+            "fr": "Hurleur \u00e0 pustules",
+            "it": "Urlatore vescicoso"
+        },
         "rarity": "1",
         "size": "2",
         "average_size": "40",
@@ -177,6 +289,13 @@
     },
     {
         "fish_id": "17",
+        "name": {
+            "de": "Lavra Medullaria",
+            "en": "Lavra Medullaria",
+            "es": "Medullaria gregaria",
+            "fr": "Lavra Medullaria",
+            "it": "Medullaria lavra"
+        },
         "rarity": "1",
         "size": "2",
         "average_size": "40",
@@ -188,6 +307,13 @@
     },
     {
         "fish_id": "18",
+        "name": {
+            "de": "Unghotianischer Plasmabrecher",
+            "en": "Unghotian Plasmabreaker\t",
+            "es": "Quebrantaplasma unghotiano",
+            "fr": "Briseplasma unghotien ",
+            "it": "Rompiplasma ungotiano"
+        },
         "rarity": "1",
         "size": "3",
         "average_size": "40",
@@ -199,6 +325,13 @@
     },
     {
         "fish_id": "19",
+        "name": {
+            "de": "Augumentatroxis",
+            "en": "Augumentatroxis",
+            "es": "Augumentatroxis",
+            "fr": "Augumentatroxis",
+            "it": "Augumentatroxis"
+        },
         "rarity": "2",
         "size": "3",
         "average_size": "40",
@@ -210,6 +343,13 @@
     },
     {
         "fish_id": "20",
+        "name": {
+            "de": "Metallischer Ausbrecher",
+            "en": "Fullmetal Erupter",
+            "es": "Invasor met\u00e1lico",
+            "fr": "\u00c9rupteur m\u00e9tatotalis",
+            "it": "Eruttante metallico"
+        },
         "rarity": "3",
         "size": "4",
         "average_size": "40",
