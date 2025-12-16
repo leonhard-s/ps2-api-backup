@@ -6284,5 +6284,86 @@
         "param1": "6016239",
         "param2": "0",
         "param3": "0"
+    },
+    {
+        "reward_id": "10813",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6016343",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10814",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6016344",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10815",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6016321",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10816",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6016345",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10817",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6016346",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10818",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6016322",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10819",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6016323",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10820",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6016335",
+        "param2": "0",
+        "param3": "0"
+    },
+    {
+        "reward_id": "10821",
+        "reward_type_id": "1",
+        "count_min": "1",
+        "count_max": "1",
+        "param1": "6016324",
+        "param2": "0",
+        "param3": "0"
     }
 ]

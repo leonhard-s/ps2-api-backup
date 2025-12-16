@@ -3832,5 +3832,15 @@
             "fr": "Ossuariste",
             "it": "Ossuarista"
         }
+    },
+    {
+        "title_id": "502",
+        "name": {
+            "de": "Winteragent",
+            "en": "Winter Operative",
+            "es": "Agente invernal",
+            "fr": "Agent hivernal",
+            "it": "Agente invernale"
+        }
     }
 ]

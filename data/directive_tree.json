@@ -1815,5 +1815,23 @@
         "image_set_id": "82818",
         "image_id": "80676",
         "image_path": "/files/ps2/images/static/80676.png"
+    },
+    {
+        "directive_tree_id": "158",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Auraximas 2025",
+            "en": "Auraximas 2025",
+            "es": "Auraxidad 2025",
+            "fr": "Auraximas 2025",
+            "it": "Auraximas 2025"
+        },
+        "description": {
+            "de": "Verf\u00fcgbar bis 1. Januar",
+            "en": "Available through January 1",
+            "es": "Disponible hasta el 1 de enero",
+            "fr": "Disponible jusqu'au 1 janvier",
+            "it": "Disponibile fino al 1\u00b0 gennaio"
+        }
     }
 ]

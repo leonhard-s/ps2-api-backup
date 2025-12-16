@@ -2738,5 +2738,41 @@
     {
         "reward_group_id": "102140",
         "reward_id": "10799"
+    },
+    {
+        "reward_group_id": "102143",
+        "reward_id": "10813"
+    },
+    {
+        "reward_group_id": "102143",
+        "reward_id": "10814"
+    },
+    {
+        "reward_group_id": "102143",
+        "reward_id": "10815"
+    },
+    {
+        "reward_group_id": "102143",
+        "reward_id": "10816"
+    },
+    {
+        "reward_group_id": "102143",
+        "reward_id": "10817"
+    },
+    {
+        "reward_group_id": "102144",
+        "reward_id": "10818"
+    },
+    {
+        "reward_group_id": "102144",
+        "reward_id": "10819"
+    },
+    {
+        "reward_group_id": "102145",
+        "reward_id": "10820"
+    },
+    {
+        "reward_group_id": "102146",
+        "reward_id": "10821"
     }
 ]
