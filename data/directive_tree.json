@@ -1833,5 +1833,23 @@
             "fr": "Disponible jusqu'au 1 janvier",
             "it": "Disponibile fino al 1\u00b0 gennaio"
         }
+    },
+    {
+        "directive_tree_id": "159",
+        "directive_tree_category_id": "8",
+        "name": {
+            "de": "Valentinstag 2026",
+            "en": "Valentine's Day 2026",
+            "es": "San Valent\u00edn 2026",
+            "fr": "Saint-Valentin 2026",
+            "it": "San Valentino 2026"
+        },
+        "description": {
+            "de": "Valentins-Anweisungspaket-Event! Den ganzen Februar verf\u00fcgbar!",
+            "en": "Valentine's Directive Event!  Available throughout February!",
+            "es": "\u00a1Evento de directivas de San Valent\u00edn! \u00a1Disponible todo febrero!",
+            "fr": "\u00c9v\u00e9nement de directives de la Saint-Valentin ! Effectif tout le mois de f\u00e9vrier !",
+            "it": "Evento direttiva di San Valentino! Disponibile per tutto febbraio!"
+        }
     }
 ]

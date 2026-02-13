@@ -3842,5 +3842,15 @@
             "fr": "Agent hivernal",
             "it": "Agente invernale"
         }
+    },
+    {
+        "title_id": "503",
+        "name": {
+            "de": "Herztreffer",
+            "en": "Heartstriker",
+            "es": "Rompecorazones",
+            "fr": "Frappe au coeur",
+            "it": "Spezzacuori"
+        }
     }
 ]

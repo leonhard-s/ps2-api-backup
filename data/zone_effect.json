@@ -145255,5 +145255,10 @@
         "param13": "0",
         "param14": "0",
         "string1": "VehicleInfo.ContrailEffect"
+    },
+    {
+        "zone_effect_id": "770332",
+        "zone_effect_type_id": "37",
+        "ability_id": "1118076"
     }
 ]
