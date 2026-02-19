@@ -4154,8 +4154,7 @@
         "ability_type_id": "6",
         "next_use_delay_msec": "500",
         "resource_type_id": "35",
-        "resource_first_cost": "0.01",
-        "resource_cost_per_msec": "0.01",
+        "resource_cost_per_msec": "0.000010",
         "flag_toggle": "1"
     },
     {
@@ -4163,8 +4162,7 @@
         "ability_type_id": "6",
         "next_use_delay_msec": "500",
         "resource_type_id": "35",
-        "resource_first_cost": "0.01",
-        "resource_cost_per_msec": "0.01",
+        "resource_cost_per_msec": "0.000010",
         "flag_toggle": "1"
     },
     {
@@ -4172,8 +4170,7 @@
         "ability_type_id": "6",
         "next_use_delay_msec": "500",
         "resource_type_id": "35",
-        "resource_first_cost": "0.01",
-        "resource_cost_per_msec": "0.01",
+        "resource_cost_per_msec": "0.000010",
         "flag_toggle": "1"
     },
     {
@@ -4181,8 +4178,7 @@
         "ability_type_id": "6",
         "next_use_delay_msec": "500",
         "resource_type_id": "35",
-        "resource_first_cost": "0.01",
-        "resource_cost_per_msec": "0.01",
+        "resource_cost_per_msec": "0.000010",
         "flag_toggle": "1"
     },
     {
